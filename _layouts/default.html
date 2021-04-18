@@ -13,43 +13,42 @@ layout: compress
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     {% endif %}
-    {% if site.age-gate == true %}
-    {% include age-gate.html %}
-    {% endif %}
+    <!-- Nav -->
+    {% include nav.html %}
     {% if layout.content-id %}
     {% assign page-id = page.content-id %}
     {% endif %}
     {% if page.content-id %}
     {% assign page-id = page.content-id %}
     {% endif %}
+    <!-- Page Content -->
     <main id="{{ content-id }}">
     {{ content }}
     </main>
+    <!-- Footer -->
+    {% include footer.html %}
     <!-- Scripts -->
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    {% if site.age-gate == true %}
-    <!-- age gate scripts -->
-    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
-    <script src="{{ '/js/min/age-gate.min.js' | relative_url }}"></script>
-    {% endif %}
     <!-- Sitewide scripts  -->
-	<script src="{{ '/js/min/site_functions.min.js' | relative_url }}"></script>
+    {%- capture sitewide-js -%}
+        /js/min/site_functions.min.js?{{site.time | date: '%s'}}
+    {%- endcapture -%}
+	<script src="{{ sitewide-js | relative_url }}"></script>
     <!-- Layout -->
     {% if layout.scripts %}
     {% for script in layout.scripts %}
-    {% capture script-path %}/js/min/{{ script }}.min.js{% endcapture %}
+    {% capture script-path %}/js/min/{{ script }}.min.js?{{site.time | date: '%s'}}{% endcapture %}
     <script src="{{ script-path | relative_url }}"></script>
     {% endfor %}
     {% endif %}
     <!-- Page -->
     {% if page.scripts %}
     {% for script in page.scripts %}
-    {% capture script-path %}/js/min/{{ script }}.min.js{% endcapture %}
+    {% capture script-path %}/js/min/{{ script }}.min.js?{{site.time | date: '%s'}}{% endcapture %}
     <script src="{{ script-path | relative_url }}"></script>
     {% endfor %}
     {% endif %}
     <!-- End Scripts -->
-
 </body>
 </html>

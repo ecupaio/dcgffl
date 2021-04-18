@@ -1,0 +1,40 @@
+nav:
+- title: Home
+  link: "/"
+- title: Play
+  link: "/play/"
+- title: Travel Program
+  link: /travel-program/        
+- title: Scores & Schedule  
+  link: /scores-schedules/  
+- title: Teams
+  link: "/teams/"  
+- title: Sponsor
+  link: /sponsors/
+- title: Donate
+  link: /donate/
+logo: /img/dcgffl-logo.png
+social: 
+- title: Facebook 
+  link: https://www.facebook.com/dcgayflagfootball
+  icon: <i class="fab fa-facebook"></i>  
+- title: Twitter
+  link: https://twitter.com/DCGFFL
+  icon: <i class="fab fa-twitter"></i>
+- title: YouTube
+  link: https://www.youtube.com/channel/UCyM-7PnEmHUm3kLRTB5cUHw
+  icon: <i class="fab fa-youtube"></i>
+- title: Instagram
+  link: https://www.instagram.com/dcgffl/
+  icon: <i class="fab fa-instagram"></i>
+- title: Flickr
+  link: https://www.flickr.com/photos/55392288@N03/sets/
+  icon: <i class="fab fa-flickr"></i>
+- title: Email
+  link: mailto:dcgayflagfootball@gmail.com
+  icon: <i class="fa fa-envelope"></i>
+footer:
+- title: About
+  link: /about/
+- title: Leadership
+  link: /leadership/    

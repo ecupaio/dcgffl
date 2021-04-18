@@ -1,0 +1,107 @@
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 1rem 2rem;
+  @include box-shadow;
+  
+  background-color: $white;
+  &.active {
+    .nav-body {
+      .nav-col {
+        &.right {
+          overflow: visible;
+          .nav-toggle {
+            position: relative;
+            z-index: 10;
+            .toggle-line {
+              background-color: $white;
+              &.top {
+                transform: translateY(11px) rotate(135deg) ;
+              }
+              &.bottom {
+                transform: translateY(-11px) rotate(-135deg) ;
+              }
+              &.middle {
+                transform: scaleX(0);
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    .nav-menu {
+      transform: translateX(0);
+      z-index: 5;
+      opacity: 1;
+    }  
+  }
+  .nav-body {
+    max-width: $max-width;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    .nav-col {
+      &.left {
+        .logo {
+          height: 80px;
+        }
+      }
+      &.right {
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+        position: relative;
+        .nav-toggle {
+          margin-left: 3rem;
+          .toggle-line {
+            height: 3px; 
+            background-color: $red;
+            width: 30px;
+            @include transition(transform);
+            transform-origin: center;
+            &.middle {
+              margin: 8px 0;
+            }
+          }
+        }
+      }
+    }
+  }
+  .nav-menu {
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    transform: translateX(100%);
+    padding: 2rem 2rem;
+    background-color: $red;
+    opacity: 0;
+    @include transition(transform,opacity);
+    .menu-body {
+      max-width: $max-width;
+      margin: auto;
+      padding-right: 30px;
+    }
+    a {
+      color: $white;
+    }
+    @include bp-small {
+      width: 100%;
+    }
+    .social-links {
+      .social-link {
+        font-size: 30px;
+        &:not(:last-child) {
+          margin-right: 1rem;
+        }
+        
+      }
+    }
+  }
+}

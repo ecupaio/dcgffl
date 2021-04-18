@@ -1,0 +1,37 @@
+{% assign menu = site.data.menu %}
+<nav>
+  <div class="nav-body">
+    <div class="nav-col left">
+      <a href="/">
+        <img class="logo" src="{{ menu.logo }}"> 
+      </a>
+    </div>
+    <div class="nav-col right">
+      <a class="btn" href="/donate/">Donate</a>
+      <div class="nav-toggle">
+        <div class="toggle-line top"></div>
+        <div class="toggle-line middle"></div>
+        <div class="toggle-line bottom"></div>
+      </div>
+      
+    </div>
+    
+  </div>
+  <div class="nav-menu">
+    <div class="menu-body">
+      <div class="menu-links">
+        {% for item in menu.nav %}
+        <h4 class="link-block">
+          <a href="{{item.link}}">{{ item.title }}</a>
+        </h4>
+        {% endfor %}
+      </div>
+      <div class="social-links">
+        {% for item in menu.social %}
+        <a href="{{ item.link }}" title="{{ item.title }}" class="social-link">{{ item.icon }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    
+  </div>
+</nav>

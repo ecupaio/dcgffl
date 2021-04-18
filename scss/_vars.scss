@@ -1,18 +1,19 @@
 //Color Variables
 $black: #000;
 $white: #fff;
-$blue: #3e73cb;
+$red: #AE0D29;
 //Theme colors
 $text_color: $black;
-$primary_color: $blue;
+$primary_color: $red;
 $secondary_color: $white;
 //Mobile Breakpoints
 $size-x-large: 1280px;
 $size-large: 1024px;
 $size-medium: 768px;
 $size-small: 568px;
+$max-width: $size-x-large;
 //Transition
 $transition_duration: .5s;
 //Fonts
-$header-font: 'Helvetica', sans-serif;
-$body-font: 'Helvetica', sans-serif;
+$header-font: 'Oswald', sans-serif;
+$body-font: 'Droid Sans', sans-serif;
