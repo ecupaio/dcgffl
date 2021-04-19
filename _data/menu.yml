@@ -3,8 +3,6 @@ nav:
   link: "/"
 - title: Play
   link: "/play/"
-- title: Travel Program
-  link: /travel-program/        
 - title: Scores & Schedule  
   link: /scores-schedules/  
 - title: Teams
@@ -38,3 +36,7 @@ footer:
   link: /about/
 - title: Leadership
   link: /leadership/    
+- title: Travel Program
+  link: /travel-program/  
+- title: Rules & Policies
+  link: /rules-policies/  

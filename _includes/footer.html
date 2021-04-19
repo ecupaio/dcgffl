@@ -1,0 +1,51 @@
+{% assign menu = site.data.menu %}
+<footer>
+  <div class="footer-body">
+    <div class="links-row">
+      <div class="footer-col left">
+        <div class="footer-links">
+          <a  class="logo-link" href="/">
+            <img src="{{ menu.logo }}" class="logo">
+          </a>
+          {% for item in menu.footer %}
+          <a class="footer-link" href="{{ item.link }}">{{ item.title }}</a>
+          {% endfor %}
+        </div>
+        
+      </div>
+      <div class="footer-col right">
+        <div class="social-links">
+          {% for item in menu.social %}
+          <a class="social-link" href="{{ item.link }}" title="{{ item.title }}">{{ item.icon }}</a>
+          {% endfor %}
+        </div>
+        
+      </div>
+    </div>
+    <div class="info-row">
+      <div class="info">
+        <span class="copyright">&copy;{{ site.time | date: '%Y'}} DCGFFL</span>
+        <a href="https://edcupaioli.com">Made by Ed Cupaioli</a>
+      </div>
+      <div class="email-signup">
+        <form class="signup-form">
+          <div class="form-body">
+            <h5 class="form-title">Sign up for our email list</h5>
+            <div class="form-field">
+              <input type="email" name="EMAIL" placeholder="youremail@email.com" />
+            </div>
+            <div class="form-submit">
+              <button type="submit" ><i class="fa fa-paper-plane"></i></button>
+            </div>
+          </div>
+          <div class="form-error">
+
+          </div>
+          <div class="form-success">
+            Thanks for signing up!
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</footer>

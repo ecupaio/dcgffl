@@ -1,0 +1,122 @@
+footer {
+  background-color: $red;
+  color: $white;
+  padding: 2rem;
+  .footer-body {
+    max-width: $max-width;
+    margin: auto;
+    
+    .links-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      @include bp-medium {
+        display: block;
+      }
+      .footer-col {
+        &.left {
+          .footer-links {
+            display: flex;
+            align-items: center;
+            @include bp-medium {
+              flex-flow: column;
+            }  
+            .logo-link {
+              margin-right: 2rem;
+              @include bp-medium {
+                margin-right: 0;
+                margin-bottom: 1rem;
+              }  
+              .logo {
+                height: 100px;
+              }
+            }
+            .footer-link {
+              &:not(:last-child) {
+                margin-right: 1rem;
+                @include bp-medium {
+                  margin-right: 0;
+                  margin-bottom: 1rem;
+                }  
+              }
+            }
+  
+          }
+          
+        }
+        &.right {
+          
+          .social-links {
+            margin-bottom: 1rem;
+            @include bp-medium {
+              margin-top: 1rem;
+              text-align: center;
+            }
+            .social-link {
+              font-size: 30px;
+              &:not(:last-child) {
+                margin-right: 1rem;
+              }
+            }
+            
+          }
+          
+        }
+      } 
+    }
+    .info-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      @include bp-medium {
+        flex-direction: column-reverse;
+      }
+      .info {
+        @include bp-medium {
+          margin-top: 1rem;
+        }  
+        .copyright {
+          font-weight: bold;
+          margin-right: 1rem;
+        }
+      }
+      .email-signup {
+        
+        .signup-form {
+          
+          .form-error,.form-success {
+            display: none;
+          }
+          .form-body {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: flex-end;
+            @include bp-medium {
+              justify-content:center ;
+            }  
+            .form-title {
+              width: 100%;
+              margin-bottom: 0.5rem;
+              text-align: right;
+              @include bp-medium {
+                text-align: center;
+              }
+            }
+            .form-field {
+              input {
+                padding: 0.5rem;
+                height: 36px;
+              }
+            }
+            .form-submit {
+              button {
+                border-color: $white;
+              }
+            }
+          }
+        }
+      }
+    }
+    
+  }
+}
