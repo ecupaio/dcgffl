@@ -2,9 +2,40 @@
 title: Home Page
 layout: default
 permalink: /
+slick: true
 css: home
 content-id: home
+scripts: 
+- home
+hero: 
+  title: Get Off The Bench and Get In The Game!
+  text: |-
+    Welcome to the website for the DC Gay Flag Football League (DCGFFL), DC’s premier gay flag football league. The DCGFFL started informally in 1994 and became an official league in 2010. Since its early beginnings, the league has grown to over 200 players and has fielded as many as 20 teams in a season!  We’re a fun community of athletes, family, and friends, and we hope you’ll join and get to know us!
+  button: 
+    text: Play
+    link: /play/
 ---
 <section id="hero">
-  <div class="inner-section"></div>
+ <div class="hero-grid">
+   <div class="hero-col image-col">
+    <div id="photo-slider"></div> 
+   </div>
+   <div class="hero-col text-col">
+     <div class="hero-content">
+      <h1 class="hero-title">{{ page.hero.title }}</h1>
+      <div class="hero-text">
+        {{ page.hero.text | markdownify }}
+      </div>
+      <a class="btn" href="{{ page.hero.button.link }}">{{ page.hero.button.text }}</a>
+     </div>
+   </div>
+ </div>
+    
+    
+      
+    
+    
+  
+  
+  
 </section>
