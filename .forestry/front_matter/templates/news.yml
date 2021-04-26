@@ -21,3 +21,5 @@ fields:
   type: image_gallery
   config: {}
   label: Attachments
+pages:
+- _posts/spring-fling-tournament-frequently-asked-questions.md
