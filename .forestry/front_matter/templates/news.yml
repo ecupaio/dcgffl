@@ -1,4 +1,23 @@
 ---
 label: News
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: attachments
+  type: image_gallery
+  config: {}
+  label: Attachments
