@@ -44,9 +44,7 @@ hero:
         </div>
         <div class="scores-col">
           {% assign topscore = game.teams-score | sort: 'score' | reverse | first %}
-          
           {% for item in game.teams-score %}
-
           <div class="team-row {% if item.score == topscore.score %}winner{% endif %}">
             <div class="team">
               {% for team in site.teams %}

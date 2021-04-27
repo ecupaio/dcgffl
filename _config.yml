@@ -39,8 +39,6 @@ sass:
 plugins:
   - jekyll-sitemap
 collections:
-  terms:
-    output: true
   pages: 
     output: true
   events: 
