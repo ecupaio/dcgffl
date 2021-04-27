@@ -44,7 +44,10 @@ collections:
   pages: 
     output: true
   events: 
-    output: true    
+    output: true
+  games: 
+    output: true
+    permalink: /games/:title/       
 defaults:
 - scope:
     type: 'pages'

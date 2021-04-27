@@ -33,5 +33,9 @@ $(function() {
   $('.news-feed').slick({
     slidesToShow: 3,
     dots: true
-  });
+  }); 
+  $('.events-feed').slick({
+    slidesToShow: 3,
+    dots: true
+  }); 
 });

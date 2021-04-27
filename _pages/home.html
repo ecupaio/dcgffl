@@ -31,6 +31,20 @@ hero:
    </div>
  </div> 
 </section>
+<section id="scoreboard-section">
+  <div class="scoreboard-feed">
+    {% for game in site.games limit: 20 %}
+    <div class="game-slide">
+      <div class="game">
+        <div class="week-col">
+          {{ game.week }}
+        </div>
+        <div class="scores-col"></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
 <section id="news-events-section">
   <div class="inner-section">
     <h2>News & Events</h2>
@@ -60,9 +74,26 @@ hero:
         <div>There are no upcoming events. Please </div>
         {% else %}
         {% for event in events %}
-        {{ event.title }}
+        <div class="event-slide">
+          <div class="event">
+            <div class="date-col">
+              <h4 class="event-date">
+                <span class="date-month">{{ event.date | date: "%b" }}</span><br>
+                <span class="date-day">{{ event.date | date: "%e" }}</span>
+              </h4>
+            </div>
+            <div class="info-col">
+              <h4 class="event-title">{{ event.title }}</h4>
+              <h5 class="event-time">{{ event.time }}</h5>
+              <div class="event-desc">{{ event.content | strip_html | truncate: 95, '...' }}</div>
+            </div>
+          </div>
+        </div>
         {% endfor %}
         {% endif %}
+      </div>
+      <div class="btn-row">
+        <a href="/events/" class="btn">View Events</a>
       </div>
     </div>
   </div>

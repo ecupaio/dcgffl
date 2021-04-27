@@ -109,5 +109,46 @@
         margin-top: 1rem;
       }
     }
+    .event-block {
+      .events-feed {
+        .event-slide {
+          padding: 1rem;
+          .event {
+            border-radius: 4px;
+            background-color: $white;
+            @include box-shadow;
+            display: table;
+            
+            overflow: hidden;
+            .date-col {
+
+              height: 100%;
+              text-align: center;
+              padding: 1rem;
+              background-color: $red;
+              display: table-cell;
+              vertical-align: middle;
+              .event-date {
+                color: $white;
+                margin: 0;
+                
+              }
+            }
+            .info-col {
+              padding: 1rem;
+              height: 100%;
+              display: table-cell;
+              .event-title,.event-time {
+                margin: 0;
+              }
+            }
+          }
+        }
+      }
+      .btn-row {
+        text-align: center;
+        margin-top: 1rem;
+      }
+    }
   }
 }
