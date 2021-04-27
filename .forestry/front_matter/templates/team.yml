@@ -44,5 +44,15 @@ fields:
 - type: list
   name: members
   label: members
+- name: captain
+  type: text
+  config:
+    required: false
+  label: captain
+- name: quarterback
+  type: text
+  config:
+    required: false
+  label: quarterback
 pages:
 - _teams/s20-tropic.md
