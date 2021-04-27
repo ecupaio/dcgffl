@@ -9,16 +9,14 @@ fields:
   name: week
   label: week
 - name: teams
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
+    use_select: true
+    min: 2
+    max: 2
     source:
       type: pages
       section: teams
-      file: 
-      path: 
   label: teams
 - type: number
   name: season
