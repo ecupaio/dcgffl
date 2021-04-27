@@ -5,22 +5,40 @@ fields:
 - type: text
   name: title
   label: title
-- name: teams
-  type: list
+- name: teams-score
+  type: field_group_list
+  fields:
+  - name: team
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: teams
+    label: team
+  - name: score
+    type: number
+    label: score
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
   config:
-    use_select: true
-    min: 2
-    max: 2
-    source:
-      type: pages
-      section: teams
+    min: 
+    max: 
+    labelField: 
   label: teams
-- type: number
-  name: week
-  label: week
 - type: number
   name: season
   label: season
+- type: number
+  name: week
+  label: week
 - type: datetime
   name: date
   label: date
