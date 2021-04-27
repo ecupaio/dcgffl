@@ -33,3 +33,5 @@ fields:
 - type: text
   name: sportsperson
   label: sportsperson
+pages:
+- _games/s20-gold-vs-kelly.md
