@@ -8,15 +8,24 @@ fields:
 - type: number
   name: week
   label: week
+- name: teams
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: teams
+      file: 
+      path: 
+  label: teams
 - type: number
   name: season
   label: season
 - type: datetime
   name: date
   label: date
-- type: text
-  name: teams
-  label: teams
 - type: text
   name: mvp
   label: mvp
