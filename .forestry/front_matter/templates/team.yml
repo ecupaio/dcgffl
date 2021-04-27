@@ -1,0 +1,19 @@
+---
+label: Team
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: color
+  label: color
+- type: number
+  name: season
+  label: season
+- type: text
+  name: photo
+  label: photo
+- type: list
+  name: members
+  label: members
