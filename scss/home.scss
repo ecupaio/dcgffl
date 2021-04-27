@@ -7,6 +7,7 @@
       display: flex;
       position: relative;
       flex-flow: row wrap;
+      max-height: 100vh;
       @include bp-large {
         display: block;
         padding: 2rem 1rem;
@@ -61,7 +62,7 @@
       } 
       .text-col {
         width: 33.3333%;
-        background-color: $grey2;
+        background-color: $grey3;
         padding: 2rem;
         color: $white;
         display: flex;
@@ -72,12 +73,42 @@
         @include bp-large {
           width: 100%;
           text-align: center;
-          background-color: rgba($grey2,0.8);
+          background-color: rgba($grey3,0.8);
           padding: 1rem;
-          .hero-title {
-            //display: none;
+        }
+      }
+    }
+  }
+  #news-events-section {
+    
+    .inner-section {
+      
+    }
+    .news-block {
+      
+      .news-feed {
+        .slick-track{
+          display: flex !important;
+        }
+        .slick-slide {
+          height: inherit !important;
+        }
+        .news-block {
+          padding: 1rem;
+           
+          .post {
+            padding: 1rem;
+            background-color: $white;
+            border-radius: 4px;
+            @include box-shadow;
+            height: 100%;
+            
           }
         }
+      }
+      .btn-row {
+        text-align: center;
+        margin-top: 1rem;
       }
     }
   }

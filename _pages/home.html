@@ -18,9 +18,7 @@ hero:
 <section id="hero">
  <div class="hero-grid">
    <div class="hero-col image-col">
-    <!-- <h1 class="mobile-hero-title">{{ page.hero.title }}</h1> -->
     <div id="photo-slider"></div> 
-    
    </div>
    <div class="hero-col text-col">
      <div class="hero-content">
@@ -31,13 +29,31 @@ hero:
       <a class="btn" href="{{ page.hero.button.link }}">{{ page.hero.button.text }}</a>
      </div>
    </div>
- </div>
-    
-    
-      
-    
-    
-  
-  
-  
+ </div> 
+</section>
+<section id="news-events-section">
+  <div class="inner-section">
+    <h2>News & Events</h2>
+    <div class="news-block">
+      <h3>News</h3>
+      <div class="news-feed">
+        {% for post in site.posts limit: 10 %}
+        <div class="news-block">
+          <div class="post">
+            <h4 class="post-title">{{ post.title }}</h4>
+            <h5 class="post-date">{{ post.date | date: '%B %e, %Y' }} </h5>
+            <div class="post-snippet">{{ post.content | truncate: 200, '...' }}</div>
+            <a class="post-link" href="{{ post.url }}">Read more</a>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="btn-row">
+        <a href="/news/" class="btn">View News</a>
+      </div>
+    </div>
+    <div class="event-block">
+      <h3>Events</h3>
+    </div>
+  </div>
 </section>
