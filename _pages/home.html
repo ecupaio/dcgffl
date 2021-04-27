@@ -42,7 +42,7 @@ hero:
           <div class="post">
             <h4 class="post-title">{{ post.title }}</h4>
             <h5 class="post-date">{{ post.date | date: '%B %e, %Y' }} </h5>
-            <div class="post-snippet">{{ post.content | truncate: 200, '...' }}</div>
+            <div class="post-snippet">{{ post.content | strip_html | truncate: 200, '...' }}</div>
             <a class="post-link" href="{{ post.url }}">Read more</a>
           </div>
         </div>
