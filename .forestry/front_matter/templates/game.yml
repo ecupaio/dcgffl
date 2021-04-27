@@ -1,0 +1,28 @@
+---
+label: Game
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: week
+  label: week
+- type: number
+  name: season
+  label: season
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: teams
+  label: teams
+- type: text
+  name: mvp
+  label: mvp
+- type: text
+  name: game-ball
+  label: game-ball
+- type: text
+  name: sportsperson
+  label: sportsperson
