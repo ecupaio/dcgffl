@@ -33,7 +33,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: team
   label: teams
 - type: number
   name: season
