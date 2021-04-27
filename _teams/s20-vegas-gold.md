@@ -3,9 +3,9 @@ title: S20 - Vegas Gold
 color: Vegas Gold
 season: 20
 photo: 
+captain: Ken Green
+quarterback: Ben Hunt
 members: 
-- Ken Green (Captain)
-- Ben Hunt (QB)
 - Logan Dawson
 - Kevin Hamilton
 - Justin Mezetin

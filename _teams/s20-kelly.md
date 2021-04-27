@@ -3,9 +3,9 @@ title: S20 - Kelly
 color: Kelly
 season: 20
 photo: 
+captain: Danny Hughes
+quarterback: Jim Connolly
 members: 
-- Danny Hughes (Captain)
-- Jim Connolly (QB)
 - Tony Britford
 - Cameron Burrell
 - Paul Guequierre

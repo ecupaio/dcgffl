@@ -3,9 +3,9 @@ color: Tropic
 title: 'S20 - Tropic '
 season: 20
 photo: ''
+captain: Jim Roll
+quarterback: Marvin Washington
 members:
-- Jim Roll (Captain)
-- Marvin Washington (QB)
 - Ryan Stoffers
 - Stu Shaginaw
 - Mecha Santos
