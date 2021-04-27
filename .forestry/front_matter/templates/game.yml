@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: number
-  name: week
-  label: week
 - name: teams
   type: list
   config:
@@ -18,6 +15,9 @@ fields:
       type: pages
       section: teams
   label: teams
+- type: number
+  name: week
+  label: week
 - type: number
   name: season
   label: season
