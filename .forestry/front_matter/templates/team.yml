@@ -55,4 +55,5 @@ fields:
   name: members
   label: members
 pages:
+- _teams/s20-navy.md
 - _teams/s20-tropic.md
