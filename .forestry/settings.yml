@@ -9,11 +9,15 @@ sections:
   label: Teams
   create: documents
   match: "**/*"
+  templates:
+  - team
 - type: directory
   path: _games
   label: Games
   create: documents
   match: "**/*"
+  templates:
+  - game
 - type: directory
   path: _terms
   label: Terms
