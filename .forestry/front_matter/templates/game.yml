@@ -21,15 +21,10 @@ fields:
         path: 
     label: team
   - name: score
-    type: number
-    label: score
-    description: ''
-    default: 0
-    required: true
+    type: text
     config:
-      min: 
-      max: 
-      step: 
+      required: false
+    label: score
   config:
     min: 2
     max: 2
