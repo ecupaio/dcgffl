@@ -151,4 +151,63 @@
       }
     }
   }
+  #scoreboard-section {
+    background-color: $lt-grey;
+    padding: 0;
+    .scoreboard-feed {
+      .game-slide {
+        padding: 1rem;
+        .game {
+          display: table;
+          border-radius: $border-radius;
+          overflow: hidden;
+          @include box-shadow;
+          .date-col,.scores-col {
+            display: table-cell;
+            vertical-align: middle;
+          }
+          .date-col {
+            background-color: $red;
+            color: $white;
+            
+            a {
+              color: $white;
+              padding: 1rem;
+            }
+            h6 {
+              margin: 0;
+              text-align: center;
+            }
+          }
+          .scores-col {
+            background-color: $white;
+            .team-row {
+              display: flex;
+              justify-content: space-between;
+              padding: 0 1rem;
+              a {
+                font-weight: normal;
+                color: $black;
+              }
+              &.winner {
+                font-weight: bold;
+                a {
+                  font-weight: bold;
+                }
+              }
+              &:first-child {
+                .team {
+                  margin-bottom: 1rem;
+                }
+              }
+              .team {
+                padding-right: 1rem;
+                
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

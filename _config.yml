@@ -47,7 +47,10 @@ collections:
     output: true
   games: 
     output: true
-    permalink: /games/:title/       
+    permalink: /games/:title/
+  teams: 
+    output: true
+    permalink: /teams/:title/         
 defaults:
 - scope:
     type: 'pages'

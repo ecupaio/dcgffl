@@ -38,4 +38,7 @@ $(function() {
     slidesToShow: 3,
     dots: true
   }); 
+  $('.scoreboard-feed').slick({
+    slidesToShow: 5,
+  }); 
 });

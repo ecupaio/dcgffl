@@ -1,5 +1,6 @@
 ---
 title: S20 - Vegas Gold
+color: Vegas Gold
 season: 20
 photo: 
 members: 

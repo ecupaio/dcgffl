@@ -36,10 +36,35 @@ hero:
     {% for game in site.games limit: 20 %}
     <div class="game-slide">
       <div class="game">
-        <div class="week-col">
-          {{ game.week }}
+        <div class="date-col">
+          <a href="{{ game.url }}">
+          <h6 class="game-date">{{ game.date | date: '%-m/%-e'}}</h6>
+          <h6 class="game-time">{{ game.date | date: '%l:%M%P' }}</h6>
+          </a>
         </div>
-        <div class="scores-col"></div>
+        <div class="scores-col">
+          {% assign topscore = game.teams-score | sort: 'score' | reverse | first %}
+          
+          {% for item in game.teams-score %}
+
+          <div class="team-row {% if item.score == topscore.score %}winner{% endif %}">
+            <div class="team">
+              {% for team in site.teams %}
+              {% if team.path == item.team %}
+              <a href="{{ team.url }}">{{ team.title }}</a>
+              {% endif %}
+              {% endfor %} 
+            </div>
+            <div class="score">
+              {% if item.score.size > 0 %}
+              {{ item.score }}
+              {% else %}
+              --
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
     {% endfor %}

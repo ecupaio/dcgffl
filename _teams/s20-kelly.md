@@ -1,5 +1,6 @@
 ---
 title: S20 - Kelly
+color: Kelly
 season: 20
 photo: 
 members: 
