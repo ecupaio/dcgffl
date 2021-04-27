@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _teams
+  label: Teams
+  create: all
+  match: "**/*"
+- type: directory
+  path: _games
+  label: Games
+  create: documents
+  match: "**/*"
+- type: directory
   path: _terms
   label: Terms
   create: all
