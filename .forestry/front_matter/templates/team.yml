@@ -44,3 +44,5 @@ fields:
 - type: list
   name: members
   label: members
+pages:
+- _teams/s20-tropic.md
