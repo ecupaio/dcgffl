@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: _teams
   label: Teams
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: _games
@@ -26,7 +26,7 @@ sections:
   match: "**/*"
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
