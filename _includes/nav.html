@@ -1,5 +1,14 @@
 {% assign menu = site.data.menu %}
+
 <nav>
+  {% if menu.announcement.show == true %}
+  <div class="announcement-topbar">
+    <div class="announcement-content">
+      {{ menu.announcement.text | markdownify }}
+    </div>
+    <div class="close-announcement">&times;</div>
+  </div>
+  {% endif %}
   <div class="nav-body">
     <div class="nav-col left">
       <a href="/">

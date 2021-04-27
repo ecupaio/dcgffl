@@ -95,14 +95,12 @@
         }
         .news-block {
           padding: 1rem;
-           
           .post {
             padding: 1rem;
             background-color: $white;
             border-radius: 4px;
             @include box-shadow;
             height: 100%;
-            
           }
         }
       }

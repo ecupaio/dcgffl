@@ -54,6 +54,16 @@ hero:
     </div>
     <div class="event-block">
       <h3>Events</h3>
+      <div class="events-feed">
+        {% assign events = site.events | where_exp: "item", "item.date > site.time"  %}
+        {% if events.size < 1 %}
+        <div>There are no upcoming events. Please </div>
+        {% else %}
+        {% for event in events %}
+        {{ event.title }}
+        {% endfor %}
+        {% endif %}
+      </div>
     </div>
   </div>
 </section>

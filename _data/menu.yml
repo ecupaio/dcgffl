@@ -39,4 +39,8 @@ footer:
 - title: Travel Program
   link: /travel-program/  
 - title: Rules & Policies
-  link: /rules-policies/  
+  link: /rules-policies/ 
+announcement: 
+  text: |-
+    Here's some text for an announcement. You can add a [link](/).
+  show: true
