@@ -2,7 +2,7 @@
 
 <nav>
   {% if menu.announcement.show == true %}
-  <div class="announcement-topbar">
+  <div class="announcement-topbar hidden">
     <div class="announcement-content">
       {{ menu.announcement.text | markdownify }}
     </div>
