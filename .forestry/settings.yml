@@ -9,6 +9,8 @@ sections:
   label: Sponsors
   create: documents
   match: "**/*"
+  templates:
+  - sponsor
 - type: directory
   path: _teams
   label: Teams
