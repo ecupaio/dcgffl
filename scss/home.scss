@@ -89,6 +89,8 @@
     .news-block {
       
       .news-feed {
+        background-color: $lt-grey;
+        padding: 1rem;
         .slick-track{
           display: flex !important;
         }
@@ -113,6 +115,8 @@
     }
     .event-block {
       .events-feed {
+        background-color: $lt-grey;
+        padding: 1rem;
         .event-slide {
           padding: 1rem;
           .event {
@@ -226,7 +230,7 @@
     }
   }
   #supporters-section {
-    background-color: $lt-grey;
+    
     .supporter-heading {
       text-align: center;
     }
@@ -238,6 +242,8 @@
     .featured-supporters {
       max-width: $size-medium;
       margin: 0 auto 1rem;
+      background-color: $lt-grey;
+      padding: 1rem;
       .slick-track{
         display: flex !important;
       }
@@ -285,6 +291,8 @@
       justify-content: center;
       max-width: $size-large;
       margin: auto;
+      background-color: $lt-grey;
+      padding: 1rem;
       .supporter-col {
         width: 33.3333%;
         @include bp-large {
