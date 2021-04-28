@@ -12,7 +12,6 @@ $(function() {
       'nojsoncallback': 1
     },
     success: function(data) {
-      
       var photos = data.photos.photo;
       $(photos).each(function(i,photo) {
         console.log(photo);
@@ -89,4 +88,8 @@ $(function() {
       }
     ]  
   }); 
+  $('.featured-supporters').slick({
+    slidesToShow: 1,
+    autoplay: true
+  })
 });

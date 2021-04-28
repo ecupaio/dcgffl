@@ -74,6 +74,9 @@ sponsors:
     </div>
     {% endfor %}
   </div>
+  <div class="btn-row">
+    <a class="btn" href="/score-board/">See all</a>
+  </div>
 </section>
 <section id="news-events-section">
   <div class="inner-section">
@@ -128,42 +131,50 @@ sponsors:
     </div>
   </div>
 </section>
-<section id="sponsor-section">
-  <h2>{{ page.sponsors.title }}</h2>
-  {{ page.sponsors.text | markdownify }}
-  <a href="{{ page.sponsors.button.link }}">{{ page.sponsors.button.text }}</a>
+<section id="supporters-section">
   <div class="inner-section">
-    <div class="featured-sponsors">
-    {% assign featured-sponsors = site.sponsors | where: 'featured', true %}
-    {% for sponsor in featured-sponsors %}
-    <div class="sponsor-slide">
-      <div class="slide-content">
-        <div class="image-col">
-          <a href="{{ sponsor.link }}">
-            <img class="sponsor-logo" src="{{ sponsor.image }}"/>
+    <div class="title-block">
+      <h2>{{ page.sponsors.title }}</h2>
+    {{ page.sponsors.text | markdownify }}
+    <a href="{{ page.sponsors.button.link }}" class="btn">{{ page.sponsors.button.title }}</a>
+    </div>
+    
+    <div class="inner-section">
+      <h3 class="supporter-heading">Featured Sponsors</h3>
+      <div class="featured-supporters">
+        {% assign featured-sponsors = site.sponsors | where: 'featured', true %}
+        {% for sponsor in featured-sponsors %}
+        <div class="supporters-slide">
+          <div class="slide-content">
+            <div class="image-col">
+              <a href="{{ sponsor.link }}">
+                <img class="supporter-logo" src="{{ sponsor.image }}"/>
+              </a>
+            </div>
+            <div class="content-col">
+              <h4 class="supporter-name">{{ sponsor.title }}</h4>
+              <div class="supporter-text">{{ sponsor.description }}</div>
+              <a href="{{ sponsor.website }}" class="supporter-link btn">Visit Site</a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {%- assign other-sponsors = site.sponsors | where: 'featured', false -%}
+      <h3 class="supporter-heading">Valued Sponsors</h3>
+      <div class="supporters-grid">
+      {%- for sponsor in other-sponsors -%}
+        <div class="supporter-col">
+          <a class="supporter-link" href="{{ sponsor.website }}">
+            <img class="supporter-logo"  src="{{ sponsor.image }}"/>
+            <div class="link-overlay">
+              <h4 class="supporter-name">{{ sponsor.title }}</h4>
+            </div>
           </a>
         </div>
-        <div class="content-col">
-          <h4 class="sponsor-name">{{ sponsor.title }}</h4>
-          <div class="sponsor-text">{{ sponsor.description }}</div>
-          <a href="{{ sponsor.website }}" class="sponsor-link">Visit Site</a>
-        </div>
+      {%- endfor -%}
       </div>
-    </div>
-    {% endfor %}
-    {%- assign other-sponsors = site.sponsors | where: 'featured', false -%}
-    
-    <div class="sponsor-grid"></div>
-    {%- for sponsor in other-sponsors -%}
-      <div class="sponsor-col">
-        <a class="sponsor-link">
-          <img class="sponsor-logo" href="{{ sponsor.website }}" />
-          <div class="link-overlay">
-            <h5 class="sponsor-name">{{ sponsor.title }}</h5>
-          </div>
-        </a>
       </div>
-    {%- endfor -%}
     </div>
   </div>
 </section>
