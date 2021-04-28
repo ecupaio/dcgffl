@@ -1,0 +1,37 @@
+---
+title: Scores & Schedule
+permalink: /score-board/
+week: 1
+season: 20
+---
+<section id="scores-section">
+  <div class="inner-section">
+    <div class="upcoming-games">
+      <h2>This Week's Games</h2>
+      <div class="games-list">
+        {% assign recent-games = site.games | sort: date | where_exp: "item", "item.week == page.week" | where_exp: "item", "item.season == page.season" %}
+        {% for game in recent-games %}
+        <div>
+          {{ game.title }}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="games-archive">
+      <div class="archive-list">
+        {% assign past-games-arr = "" | split: '' %}
+        {% assign games-sorted = site.games | sort: date | reverse %}
+        {% for game in games-sorted %}
+          {% capture season-week %}
+          Season {{ game.season }} Week {{ game.week }}
+          {% endcapture %}
+          {% assign past-games-arr = past-games-arr | push: season-week   %}
+        {% endfor %}
+        {% assign past-games = past-games-arr | uniq %}
+        {% for game in past-games %}
+        <div class="game">{{ game }}</div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
