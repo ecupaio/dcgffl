@@ -18,6 +18,7 @@ fields:
   name: featured
   label: featured
 pages:
+- _sponsors/league-of-her-own.md
 - _sponsors/pitchers-sports-bar.md
 - _sponsors/price-medical.md
 - _sponsors/the-dirty-goose.md
