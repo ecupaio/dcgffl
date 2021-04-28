@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: featured
   label: featured
+pages:
+- _sponsors/pitchers-sports-bar.md
