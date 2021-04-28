@@ -32,13 +32,61 @@ $(function() {
   });
   $('.news-feed').slick({
     slidesToShow: 3,
-    dots: true
+    dots: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]  
   }); 
   $('.events-feed').slick({
     slidesToShow: 3,
-    dots: true
+    dots: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ] 
   }); 
   $('.scoreboard-feed').slick({
     slidesToShow: 5,
+    responsive: [
+      {
+        breakpoint: 1280,
+        settings: {
+          slidesToShow: 3
+        }
+      },
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 568,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]  
   }); 
 });

@@ -2,6 +2,25 @@ $(function(){
   $('.nav-toggle').click(function() {
     $('nav,html').toggleClass('active');
   });
+  $(window).on('scroll load resize',function() {
+    console.log(inView('nav'));
+    var scrollTop;
+    if (inView('nav') == false) {
+      $('nav').addClass('sticky');
+      scrollTop = $(window).scrollTop();
+    }
+    if ($(window).scrollTop() == 0) {
+      $('nav').removeClass('sticky');
+    } 
+  });
+  function inView(element) {
+    var elementTop = $(element).offset().top;
+    var elementBottom = elementTop + $(element).outerHeight();
+    var viewportTop = $(window).scrollTop();
+    var viewportBottom = viewportTop + $(window).height();
+    return elementBottom > viewportTop && elementTop < viewportBottom;
+  };
+    
   $('.close-announcement').click(function() {
     $('.announcement-topbar').slideUp();
     var d = new Date();

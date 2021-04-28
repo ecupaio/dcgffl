@@ -154,7 +154,26 @@
   #scoreboard-section {
     background-color: $lt-grey;
     padding: 0;
+    @include bp-medium {
+      padding: 0 2rem;
+    }
     .scoreboard-feed {
+      
+      .slick-arrow {
+        
+        
+        
+        &.slick-next {
+          @include bp-medium {
+            
+          }
+        }
+        &.slick-prev {
+          @include bp-medium {
+            
+          }
+        }
+      }
       .game-slide {
         padding: 1rem;
         .game {
@@ -170,7 +189,6 @@
           .date-col {
             background-color: $red;
             color: $white;
-            
             a {
               color: $white;
               padding: 1rem;
@@ -183,7 +201,6 @@
           .scores-col {
             background-color: $white;
             width: 100%;
-            // flex: 1;
             height: 100%;
             box-sizing: border-box;
             .team-row {

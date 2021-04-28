@@ -108,12 +108,13 @@ footer {
             .form-field {
               input {
                 padding: 0.5rem;
-                height: 36px;
+                height: 39px;
               }
             }
             .form-submit {
               button {
                 border-color: $white;
+                font-size: 16px;
               }
             }
           }

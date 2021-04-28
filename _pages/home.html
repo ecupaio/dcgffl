@@ -49,7 +49,7 @@ hero:
             <div class="team">
               {% for team in site.teams %}
               {% if team.path == item.team %}
-              <a href="{{ team.url }}">{{ team.title }}</a>
+              <a href="{{ team.url }}">{{ team.color }}</a>
               {% endif %}
               {% endfor %} 
             </div>
@@ -100,10 +100,10 @@ hero:
         <div class="event-slide">
           <div class="event">
             <div class="date-col">
-              <h4 class="event-date">
+              <h5 class="event-date">
                 <span class="date-month">{{ event.date | date: "%b" }}</span><br>
                 <span class="date-day">{{ event.date | date: "%e" }}</span>
-              </h4>
+              </h5>
             </div>
             <div class="info-col">
               <h4 class="event-title">{{ event.title }}</h4>
