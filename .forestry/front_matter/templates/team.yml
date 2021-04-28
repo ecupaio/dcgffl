@@ -55,6 +55,7 @@ fields:
   name: members
   label: members
 pages:
+- _teams/s19-fancy-gay-pirates.md
 - _teams/s19-tropic-like-it-s-hot.md
 - _teams/s20-lime.md
 - _teams/s20-navy.md
