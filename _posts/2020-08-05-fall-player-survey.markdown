@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2020-08-05 14:08:39+00:00
 layout: post
-link: http://dcgffl.org/fall-player-survey/
+link: /fall-player-survey/
 slug: fall-player-survey
 title: Fall Player Survey
 wordpress_id: 7187

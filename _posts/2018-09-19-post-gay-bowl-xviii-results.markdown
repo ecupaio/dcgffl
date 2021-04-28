@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2018-09-19 15:16:35+00:00
 layout: post
-link: http://dcgffl.org/post-gay-bowl-xviii-results/
+link: /post-gay-bowl-xviii-results/
 slug: post-gay-bowl-xviii-results
 title: Gay Bowl XVIII Results
 wordpress_id: 6727

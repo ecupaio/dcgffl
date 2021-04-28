@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2019-02-27 00:54:34+00:00
 layout: post
-link: http://dcgffl.org/womens-happy-hour/
+link: /womens-happy-hour/
 slug: womens-happy-hour
 title: Womens Happy Hour
 wordpress_id: 6861

@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2016-11-23 15:59:06+00:00
 layout: post
-link: http://dcgffl.org/dcgffl-season-13-super-bowl-champions/
+link: /dcgffl-season-13-super-bowl-champions/
 slug: dcgffl-season-13-super-bowl-champions
 title: DCGFFL Season 13 Super Bowl Champions!
 wordpress_id: 5043

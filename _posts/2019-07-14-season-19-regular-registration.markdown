@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2019-07-14 21:49:11+00:00
 layout: post
-link: http://dcgffl.org/season-19-regular-registration/
+link: /season-19-regular-registration/
 slug: season-19-regular-registration
 title: Season 19 Regular Registration
 wordpress_id: 7013

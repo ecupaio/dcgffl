@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2018-08-20 13:38:26+00:00
 layout: post
-link: http://dcgffl.org/season-xvii-master-schedule/
+link: /season-xvii-master-schedule/
 slug: season-xvii-master-schedule
 title: Season XVII - Master Schedule
 wordpress_id: 6684

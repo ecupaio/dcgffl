@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2019-07-07 21:02:12+00:00
 layout: post
-link: http://dcgffl.org/season-19-early-registration/
+link: /season-19-early-registration/
 slug: season-19-early-registration
 title: Season 19 Early Registration
 wordpress_id: 7004

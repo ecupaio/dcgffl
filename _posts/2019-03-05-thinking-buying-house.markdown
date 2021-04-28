@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2019-03-05 00:11:16+00:00
 layout: post
-link: http://dcgffl.org/thinking-buying-house/
+link: /thinking-buying-house/
 slug: thinking-buying-house
 title: Thinking About Buying A House?
 wordpress_id: 6880

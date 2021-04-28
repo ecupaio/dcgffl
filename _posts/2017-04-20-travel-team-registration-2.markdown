@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2017-04-20 16:14:14+00:00
 layout: post
-link: http://dcgffl.org/travel-team-registration-2/
+link: /travel-team-registration-2/
 slug: travel-team-registration-2
 title: Travel Team Registration
 wordpress_id: 5387

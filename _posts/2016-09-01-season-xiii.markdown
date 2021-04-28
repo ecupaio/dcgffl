@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2016-09-01 04:30:34+00:00
 layout: post
-link: http://dcgffl.org/season-xiii/
+link: /season-xiii/
 slug: season-xiii
 title: 'Season XIII #SeasonOfFun'
 wordpress_id: 4745

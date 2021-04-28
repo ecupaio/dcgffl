@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2020-06-25 01:50:38+00:00
 layout: post
-link: http://dcgffl.org/see-you-when-we-see-you/
+link: /see-you-when-we-see-you/
 slug: see-you-when-we-see-you
 title: Stay Safe and Tune In Later!
 wordpress_id: 7172

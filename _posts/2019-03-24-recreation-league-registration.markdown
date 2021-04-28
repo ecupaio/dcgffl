@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2019-03-24 00:05:00+00:00
 layout: post
-link: http://dcgffl.org/recreation-league-registration/
+link: /recreation-league-registration/
 slug: recreation-league-registration
 title: Recreation League Registration
 wordpress_id: 6957

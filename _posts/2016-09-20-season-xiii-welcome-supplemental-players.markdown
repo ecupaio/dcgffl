@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2016-09-20 21:25:43+00:00
 layout: post
-link: http://dcgffl.org/season-xiii-welcome-supplemental-players/
+link: /season-xiii-welcome-supplemental-players/
 slug: season-xiii-welcome-supplemental-players
 title: Season XIII -- Welcome Supplemental Players!
 wordpress_id: 4908

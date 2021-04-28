@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2020-06-26 01:51:25+00:00
 layout: post
-link: http://dcgffl.org/member-recognition/
+link: /member-recognition/
 slug: member-recognition
 title: Member Recognition
 wordpress_id: 7179

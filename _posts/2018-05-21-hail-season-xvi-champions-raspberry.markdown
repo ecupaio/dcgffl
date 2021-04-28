@@ -3,13 +3,13 @@ author: pbjmarketing
 comments: false
 date: 2018-05-21 15:05:39+00:00
 layout: post
-link: http://dcgffl.org/hail-season-xvi-champions-raspberry/
+link: /hail-season-xvi-champions-raspberry/
 slug: hail-season-xvi-champions-raspberry
 title: 'All Hail Season XVI Champions: Raspberry!'
 wordpress_id: 6612
 ---
 
-On May 20, [Raspberry](http://dcgffl.org/teams/s16-raspberry/), won the Season XVI Championship, first fending off [Call Me Navy](http://dcgffl.org/teams/s16-navy/) (27-20) and then squeaking past [The Rosebuds](http://dcgffl.org/teams/s16-red/) (33-32). Congratulations to Captain Alonzo Mable and Quarterback Bryan Sanders for leading their team to victory, and special shout out to the Alonzo's mother, Naomi Mable, who was this season's Best Fan!
+On May 20, [Raspberry](/teams/s16-raspberry/), won the Season XVI Championship, first fending off [Call Me Navy](/teams/s16-navy/) (27-20) and then squeaking past [The Rosebuds](/teams/s16-red/) (33-32). Congratulations to Captain Alonzo Mable and Quarterback Bryan Sanders for leading their team to victory, and special shout out to the Alonzo's mother, Naomi Mable, who was this season's Best Fan!
 
 **Other winners of Season XVI:**
 

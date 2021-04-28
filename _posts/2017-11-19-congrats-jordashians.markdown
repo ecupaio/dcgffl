@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2017-11-19 23:30:15+00:00
 layout: post
-link: http://dcgffl.org/congrats-jordashians/
+link: /congrats-jordashians/
 slug: congrats-jordashians
 title: Congrats Jordashians!
 wordpress_id: 6327
@@ -11,7 +11,7 @@ wordpress_id: 6327
 
 After facing off with the Sandjobs in the Semifinals, the Jordashians fought off the AC Slaters to become the Champions of Season XV!
 
-[![](http://dcgffl.org/wp-content/uploads/2017/11/23621729_1580904281964669_283859405514597366_n.jpg)](http://dcgffl.org/wp-content/uploads/2017/11/23621729_1580904281964669_283859405514597366_n.jpg)
+[![](/wp-content/uploads/2017/11/23621729_1580904281964669_283859405514597366_n.jpg)](/wp-content/uploads/2017/11/23621729_1580904281964669_283859405514597366_n.jpg)
 
 **Other winners of Season XV:**
 

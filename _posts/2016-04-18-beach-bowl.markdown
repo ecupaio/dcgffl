@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2016-04-18 15:42:25+00:00
 layout: post
-link: http://dcgffl.org/beach-bowl/
+link: /beach-bowl/
 slug: beach-bowl
 title: Save the Date for Beach Bowl!
 wordpress_id: 4530

@@ -3,7 +3,7 @@ author: pbjmarketing
 comments: false
 date: 2017-07-18 13:39:12+00:00
 layout: post
-link: http://dcgffl.org/season-15-schedule/
+link: /season-15-schedule/
 slug: season-15-schedule
 title: Season XV Schedule
 wordpress_id: 5642
