@@ -164,22 +164,6 @@
       text-align: center;
     }
     .scoreboard-feed {
-      
-      .slick-arrow {
-        
-        
-        
-        &.slick-next {
-          @include bp-medium {
-            
-          }
-        }
-        &.slick-prev {
-          @include bp-medium {
-            
-          }
-        }
-      }
       .game-slide {
         padding: 1rem;
         .game {
@@ -216,6 +200,9 @@
               a {
                 font-weight: normal;
                 color: $black;
+                &:hover {
+                  color: $red;
+                }
               }
               &.winner {
                 font-weight: bold;
@@ -250,15 +237,24 @@
     }
     .featured-supporters {
       max-width: $size-medium;
-      margin: auto;
+      margin: 0 auto 1rem;
+      .slick-track{
+        display: flex !important;
+      }
+      .slick-slide {
+        height: inherit !important;
+      }
       .supporters-slide {
         padding: 1rem;
+        height: 100%;
         .slide-content {
           background-color: $white;
           border-radius: $border-radius;
           @include box-shadow;
           overflow: hidden;
           display: flex;
+          height: 100%;
+          
           .image-col {
             width: 40%;
             display: flex;
@@ -270,7 +266,12 @@
             width: 60%;
             background-color: $grey3;
             color: $white;
-            padding: 1rem;
+            padding: 1rem 2rem;
+            display: flex;
+            align-items: center;
+            .supporter-content {
+
+            }
             .supporter-link {
               margin-top: 1rem;
             }

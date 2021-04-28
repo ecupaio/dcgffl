@@ -90,6 +90,7 @@ $(function() {
   }); 
   $('.featured-supporters').slick({
     slidesToShow: 1,
-    autoplay: true
+    autoplay: true,
+    dots: true
   })
 });
