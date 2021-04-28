@@ -49,6 +49,9 @@ collections:
   teams: 
     output: true
     permalink: /teams/:title/         
+  sponsors: 
+    output: true
+    sitemap: hidden  
 defaults:
 - scope:
     type: 'pages'
