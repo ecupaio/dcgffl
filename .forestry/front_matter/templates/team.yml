@@ -36,12 +36,6 @@ fields:
 - type: list
   name: members
   label: members
-- name: color-picker
-  type: color
-  label: color-picker
-  config:
-    required: false
-    color_format: Hex
 pages:
 - _teams/s19-fancy-gay-pirates.md
 - _teams/s19-slab-on-my-knab-concrete-grey.md
