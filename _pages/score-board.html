@@ -57,19 +57,16 @@ scripts:
     <div class="games-archive">
       {% assign seasons = site.games | group_by: "season" %}
       <div class="seasons">
-        
         {% for season in seasons %}
         <div class="season">
-          <a href="#" class="season-title">Season {{ season.name }}</a>
+          <h4 href="#" class="season-title">Season {{ season.name }}</h4>
           <div class="season-weeks">
             {% assign weeks = season.items | group_by: week | uniq %}
             {% for week in weeks %}
             <a href="#" class="week-link" data-week="Season {{ season.name }} Week {{ week.items[0].week }}">Week {{ week.items[0].week }}</a>
             {% endfor %}
-            
           </div>
         </div>
-        
         {% endfor %}
       </div>
     </div>
