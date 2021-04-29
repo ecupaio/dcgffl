@@ -1,6 +1,7 @@
 ---
 color: Tropic
 title: S19 - Tropic Like It's Hot
+name: Tropic Like It's Hot
 season: 19
 photo: ''
 captain: 'Sean Karson '

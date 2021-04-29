@@ -3,6 +3,8 @@ title: Scores & Schedule
 permalink: /score-board/
 week: 1
 season: 20
+scripts: 
+- scoreboard
 ---
 <section id="scores-section">
   <div class="inner-section">
@@ -10,26 +12,64 @@ season: 20
       <h2>This Week's Games</h2>
       <div class="games-list">
         {% assign recent-games = site.games | sort: date | where_exp: "item", "item.week == page.week" | where_exp: "item", "item.season == page.season" %}
-        {% for game in recent-games %}
-        <div>
-          {{ game.title }}
+        {% assign all-games = site.games | sort: date | reverse %}
+        {% for game in all-games %}
+        <div class="game {% if page.week != game.week and page.season != week.season %}hidden{% endif %}" data-week="Season {{ game.season}} Week {{ game.week}}" >
+          <div class="teams">
+            <div class="matchup">
+              <div class="team-score">
+                {% assign team1 = site.teams | where: "path", game.teams-score[0].team | first %}
+                <h4 class="team">  
+                  {% if team1.name and team1.name != '' %}
+                    {{ team1.name }}
+                  {% else %}
+                    {{ team1.color }}
+                  {% endif %}
+                </h4>
+                {% if game.teams-score[0].score and game.teams-score[0].score != '' %}
+                <h3 class="score">
+                  {{ game.teams-score[0].score }}
+                </h3>
+                {% endif %}
+              </div>
+              <div class="versus">vs</div>
+              <div class="team-score">
+                {% assign team2 = site.teams | where: "path", game.teams-score[1].team | first %}
+                <h4 class="team">  
+                  {% if team2.name and team2.name != '' %}
+                    {{ team2.name }}
+                  {% else %}
+                    {{ team2.color }}
+                  {% endif %}
+                </h4>
+                {% if game.teams-score[1].score and game.teams-score[1].score != '' %}
+                <h3 class="score">
+                  {{ game.teams-score[1].score }}
+                </h3>
+                {% endif %}
+              </div>
+            </div>
+          </div>
         </div>
         {% endfor %}
       </div>
     </div>
     <div class="games-archive">
-      <div class="archive-list">
-        {% assign past-games-arr = "" | split: '' %}
-        {% assign games-sorted = site.games | sort: date | reverse %}
-        {% for game in games-sorted %}
-          {% capture season-week %}
-          Season {{ game.season }} Week {{ game.week }}
-          {% endcapture %}
-          {% assign past-games-arr = past-games-arr | push: season-week   %}
-        {% endfor %}
-        {% assign past-games = past-games-arr | uniq %}
-        {% for game in past-games %}
-        <div class="game">{{ game }}</div>
+      {% assign seasons = site.games | group_by: "season" %}
+      <div class="seasons">
+        
+        {% for season in seasons %}
+        <div class="season">
+          <a href="#" class="season-title">Season {{ season.name }}</a>
+          <div class="season-weeks">
+            {% assign weeks = season.items | group_by: week | uniq %}
+            {% for week in weeks %}
+            <a href="#" class="week-link" data-week="Season {{ season.name }} Week {{ week.items[0].week }}">Week {{ week.items[0].week }}</a>
+            {% endfor %}
+            
+          </div>
+        </div>
+        
         {% endfor %}
       </div>
     </div>

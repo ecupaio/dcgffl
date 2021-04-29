@@ -1,6 +1,7 @@
 ---
 color: Carolina
 title: S19 - Fancy Gay Pirates
+name: Fancy Gay Pirates
 season: 19
 photo: ''
 captain: Sean Holihan
