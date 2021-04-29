@@ -11,32 +11,9 @@ fields:
     required: false
   label: name
 - name: color
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options:
-    - Vegas Gold
-    - Kelly
-    - Tropic
-    - Navy
-    - Red
-    - Lime
-    - Neon Yellow
-    - Royal
-    - Neon Orange
-    - Purple
-    - Carolina
-    - White
-    - Black
-    - Forrest
-    - Atomic
-    - Concrete
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
   label: color
 - type: number
   name: season
