@@ -49,6 +49,7 @@ fields:
   name: sportsperson
   label: sportsperson
 pages:
+- _games/s19-slab-on-my-knab-concrete-grey-vs-sour-pass-kids-lime.md
 - _games/s19-tropic-like-it-s-hot-tropic-blue-vs-s19-fancy-gay-pirates-carolina-blue.md
 - _games/s20-gold-vs-kelly.md
 - _games/s20-red-vs-lime.md
