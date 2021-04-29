@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 - name: color
   type: select
   default: []
