@@ -30,15 +30,35 @@ fields:
     max: 2
     labelField: team
   label: teams
+- name: field
+  type: text
+  config:
+    required: false
+  label: field
+- name: location
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: link
+    type: text
+    config:
+      required: false
+    label: link
+  label: location
+- type: datetime
+  name: date
+  label: date
 - type: number
   name: season
   label: season
 - type: number
   name: week
   label: week
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: mvp
   label: mvp
