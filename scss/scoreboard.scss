@@ -1,0 +1,81 @@
+@import "vars.scss";
+@import "mixins.scss";
+#scoreboard {
+  #scores-section {
+    .inner-section {
+      display: flex;
+      @include bp-medium {
+        display: block;
+      }
+      h2 {
+        margin-bottom: 0;
+      }
+    }
+    .upcoming-games {
+      flex: 1 0 75%;
+
+      .games-list {
+        .game {
+          text-align: center;
+          padding: 2rem;
+          
+          border-bottom: 2px solid $lt-grey;
+          
+          .teams {
+            .matchup {
+              text-align: center;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin-bottom: 1rem;
+              .team-score {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex: 1 0 40%;
+                .team {
+                  margin: 0;
+                  padding-right: 0.5rem;
+                }
+                .score {
+                  margin: 0;
+                  line-height: 1;
+                  padding: 5px;
+                  &.winner {
+                    background-color: $red;
+                    color: $white;
+                    
+                    
+                  }
+                }
+              }
+              .versus {
+                padding: 0 1rem;
+                flex: 1 0 20%;
+              }
+            }
+          }
+          .highlights {
+            h5 {
+              margin-bottom: 0.5rem;
+            }
+          }
+        }
+      }
+    }
+    .games-archive {
+      padding: 1rem 1rem 1rem 2rem;
+      .seasons {
+        .season {
+          &:not(:last-child) {
+            margin-bottom: 1rem;
+          }
+          
+          .season-title {
+            margin: 0;
+          }
+        }
+      }
+    }
+  }
+}
