@@ -1,0 +1,26 @@
+@import "vars.scss";
+@import "mixins.scss";
+#team {
+  #team-hero {
+    .team-photo-name {
+      max-width: 800px;
+      margin: auto;
+      .team-photo {
+
+      }
+      .team-name-color {
+        background-color: $red;
+        padding: 0.5rem 2rem 1rem;
+        .team-name {
+          color: $white;
+          margin: 0;
+        }
+        .team-color {
+          color: $white;
+          margin: 0;
+        }
+      }
+    }
+  }
+  #team-info {}
+}
