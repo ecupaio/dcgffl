@@ -48,7 +48,7 @@ collections:
     permalink: /games/:title/
   teams: 
     output: true
-    permalink: /teams/:title/         
+    permalink: /teams/:title/    
   sponsors: 
     output: true
     sitemap: hidden  
@@ -57,3 +57,7 @@ defaults:
     type: 'pages'
   values:
     layout: default
+- scope: 
+    type: 'teams'
+  values: 
+    layout: team     

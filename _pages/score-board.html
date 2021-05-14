@@ -23,12 +23,14 @@ season: 20
             <div class="matchup">
               <div class="team-score">
                 {% assign team1 = site.teams | where: "path", game.teams-score[0].team | first %}
-                <h3 class="team">  
+                <h3 class="team">
+                  <a href="{{ team1.url }}">
                   {% if team1.name and team1.name != '' %}
                     {{ team1.name }}
                   {% else %}
                     {{ team1.color }}
                   {% endif %}
+                  </a>  
                 </h3>
                 {% if game.teams-score[0].score and game.teams-score[0].score != '' %}
                 <h4 class="score {% if game.teams-score[0].score > game.teams-score[1].score%}winner{% endif %}">
@@ -43,19 +45,21 @@ season: 20
                 </div>
                 <div class="field-info">
                   <a href="{{ game.location.link }}">{{ game.location.title }} <i class="fa fa-map-marker-alt"></i></a>
-                  {% if game.field and game.field != '' %}
-                  <div class="field">Field {{ game.field }}</div>
+                  {% if game.location.field and game.location.field != '' %}
+                  <div class="field">Field {{ game.location.field }}</div>
                   {% endif %}
                 </div>
               </div>
               <div class="team-score">
                 {% assign team2 = site.teams | where: "path", game.teams-score[1].team | first %}
-                <h3 class="team">  
+                <h3 class="team">
+                  <a href="{{ team2.url }}">
                   {% if team2.name and team2.name != '' %}
                     {{ team2.name }}
                   {% else %}
                     {{ team2.color }}
                   {% endif %}
+                  </a>  
                 </h3>
                 {% if game.teams-score[1].score and game.teams-score[1].score != '' %}
                 <h4 class="score {% if game.teams-score[1].score > game.teams-score[0].score%}winner{% endif %}">

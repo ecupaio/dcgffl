@@ -11,8 +11,9 @@ date: 2020-03-08 16:00:00 -0400
 mvp: Mecha, OJ
 game-ball: Sarah, Ed
 sportsperson: Daniel, Mark
-field: 1 
+
 location:
   title: Carter Baron Fields
+  field: 1 
   link: https://www.google.com/maps/place/Carter+Barron+Soccer+Fields/@38.955237,-77.037849,15z/data=!4m2!3m1!1s0x0:0xf34be6c5da82afa6?sa=X&ved=2ahUKEwjs7bHXjcXwAhXloFsKHcPGC_0Q_BIwE3oECD0QBQ
 ---

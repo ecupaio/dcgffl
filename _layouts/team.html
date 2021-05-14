@@ -1,0 +1,85 @@
+---
+layout: default
+css: team
+content-id: team
+---
+<section id="team-hero">
+  <div class="inner-section">
+    <div class="team-photo-name">
+      <div class="team-photo">
+      {% if page.photo and page.photo != '' %}
+      <img src="{{ page.photo }}" alt="{{ page.color }} team photo" />
+      {% else %}
+      <img src="{{ site.data.menu.logo }}" alt="DCGFFL Logo" />
+      <br>
+      {% endif %}
+      </div>
+      <div class="team-name-color">
+        <h2 class="team-name">{{ page.name }}</h2>
+        <h4 class="team-color">Season {{ page.season }} - {{ page.color }}</h4>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="team-info">
+  <div class="inner-section">
+    <div class="roster">
+      <h3>Roster</h3>
+      <div class="roster-section">
+        <h4>Quarterback</h4>
+        {{ page.quarterback }}
+      </div>
+      <div class="roster-section">
+        <h4>Captain</h4>
+        {{ page.captain }}
+      </div>
+      
+      <div class="roster-section">
+        <h4>Team Members</h4>
+        {% for member in page.members %}
+        <div>{{ member }}</div>
+        {% endfor %}
+      </div>
+      
+    </div>
+    <div class="schedule">
+      <h3>Schedule</h3>
+      {% for game in site.games %}
+      <div class="game">
+        {% for score in game.teams-score %}
+          {% if score.team contains page.path %}
+            <div class="game-location">
+              <a class="location-link" href="{{ game.location.link }}">{{ game.location.title }} <i class="fa fa-map-marker-alt"></i></a>
+              <div class="field">Field: {{ game.location.field }}</div>
+            </div>
+            <div class="game-date">{{ game.date | date: "%-m/%-e %l:%M%p "  }}</div>
+            {% assign opponent = game.teams-score | where_exp: "item", "item.team != page.path"  %}
+            {% assign opponent-name = site.teams | where: "path", opponent[0].team %}
+            <a class="game-opp" href="{{ opponent-name[0].url }}">
+            {% if opponent-name[0].name and opponent-name[0].name != '' %}
+            vs {{ opponent-name[0].name }}
+            {% else %}
+            vs {{ opponent-name[0].color }}
+            {% endif %}
+            </a>
+            <div class="game-result">
+              <div class="win-loss">
+                {% if score.score > opponent[0].score %}
+                <span class="win">W</span>
+                {% elsif score.score < opponent[0].score %}
+                <span class="win">L</span>
+                {% elsif score.score == opponent[0].score %}
+                <span class="tie">T</span>
+                {% endif %}
+              </div>
+              <div class="score">
+                {{ score.score }} - {{ opponent[0].score }}
+              </div>
+            </div>
+          {% endif %}    
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -3,7 +3,7 @@ color: Tropic
 title: S19 - Tropic Like It's Hot
 name: Tropic Like It's Hot
 season: 19
-photo: ''
+photo: '/img/pink-s19.jpg'
 captain: 'Sean Karson '
 quarterback: Donald Mitchell
 members:
