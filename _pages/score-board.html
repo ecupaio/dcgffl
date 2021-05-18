@@ -71,8 +71,6 @@ season: 20
               <div class="highlight"><b>MVP:</b> {{ game.mvp}}</div>
               <div class="highlight"><b>Gameball:</b> {{ game.game-ball }}</div>
               <div class="highlight"><b>Sportsperson:</b> {{ game.sportsperson }}</div>
-                
-                
             </div>
           </div>
         </div>
@@ -83,12 +81,43 @@ season: 20
       <div class="rankings">
         <h3>Rankings</h3>
         {% assign conferences = site.teams | where: "season", page.season | group_by: 'conference' %}
-        
+        {% assign games = site.games | where: "season", page.season %}
         {% for conference in conferences %}
         <div class="conference">
           <h4>{{ conference.name }}</h4>
           <div class="conf-teams">
             {% for team in conference.items %}
+            <div class="team">
+              <div class="team-name">
+              {% if team.name and team.name != "" %}
+              {{ team.name }}
+              {% else %}
+              {{ team.color }}
+              {% endif %}
+              </div>
+              <div class="team-record">
+                {% assign wins = 0 %}
+                {% assign losses = 0 %}
+                {% for game in games %}
+                    {% if game.teams-score[0].score > game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+                    {% assign wins = wins | plus: 1 %}
+                    {% endif %}
+
+                    {% if game.teams-score[0].score < game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+                    {% assign losses = losses | plus: 1 %}
+                    {% endif %}
+
+                    {% if game.teams-score[1].score > game.teams-score[0].score and game.teams-score[1].team == team.path  %}
+                    {% assign wins = wins | plus: 1 %}
+                    {% endif %}
+
+                    {% if game.teams-score[1].score < game.teams-score[0].score and game.teams-score[1].team == team.path  %}
+                    {% assign losses = losses | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+                <span class="wins">{{ wins }}</span> - <span class="losses">{{ losses }}</span>
+              </div>
+            </div>
             {% endfor %}
           </div>
         </div>
