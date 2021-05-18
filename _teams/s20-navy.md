@@ -6,6 +6,7 @@ name: ''
 photo: ''
 captain: OJ
 quarterback: Mark Hofberg
+conference: "Pitchers"
 members:
 - Sasha Buchert
 - " Zachary Gianelle"

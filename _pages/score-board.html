@@ -7,8 +7,6 @@ scripts:
 - scoreboard
 week: 1
 season: 20
-
-
 ---
 <section id="scores-section">
   <div class="inner-section">
@@ -82,6 +80,21 @@ season: 20
       </div>
     </div>
     <div class="games-archive">
+      <div class="rankings">
+        <h3>Rankings</h3>
+        {% assign conferences = site.teams | where: "season", page.season | group_by: 'conference' %}
+        
+        {% for conference in conferences %}
+        <div class="conference">
+          <h4>{{ conference.name }}</h4>
+          <div class="conf-teams">
+            {% for team in conference.items %}
+            {% endfor %}
+          </div>
+        </div>
+          
+        {% endfor %}
+      </div>
       {% assign seasons = site.games | group_by: "season" | reverse %}
       <div class="seasons">
         {% for season in seasons %}
