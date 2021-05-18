@@ -70,6 +70,24 @@
     }
     .games-archive {
       padding: 1rem 1rem 1rem 2rem;
+      .rankings {
+
+        h3,h4 {
+          margin-bottom: 0;
+        }
+        .conference {
+          margin-bottom: 1rem;
+        }
+        .team {
+          display: flex;
+          justify-content: space-between;
+          padding: 1rem 0;
+          border-bottom: 2px solid $lt-grey;
+          .team-name {
+            padding-right: 1rem;
+          }
+        }
+      }
       .seasons {
         .season {
           &:not(:last-child) {

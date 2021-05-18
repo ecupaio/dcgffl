@@ -6,6 +6,7 @@ name: ''
 photo: ''
 captain: Jim Roll
 quarterback: Marvin Washington
+conference: 'Pitchers'
 members:
 - Ryan Stoffers
 - Stu Shaginaw
@@ -18,5 +19,4 @@ members:
 - Antwon Chavis
 - Daniel Bertram
 - Sarah Bernstein
-
 ---
