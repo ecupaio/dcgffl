@@ -85,10 +85,14 @@
           border-bottom: 2px solid $lt-grey;
           .team-name {
             padding-right: 1rem;
+            font-weight: 700;
           }
         }
       }
       .seasons {
+        h3 {
+          margin-bottom: 0;
+        }
         .season {
           &:not(:last-child) {
             margin-bottom: 1rem;

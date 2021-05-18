@@ -126,6 +126,7 @@ season: 20
       </div>
       {% assign seasons = site.games | group_by: "season" | reverse %}
       <div class="seasons">
+        <h3>Past Seasons</h3>
         {% for season in seasons %}
         <div class="season">
           <h4 href="#" class="season-title">Season {{ season.name }}</h4>
