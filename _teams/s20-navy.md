@@ -2,6 +2,7 @@
 color: Navy
 title: S20 - Navy
 season: 20
+name: ''
 photo: ''
 captain: OJ
 quarterback: Mark Hofberg

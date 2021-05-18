@@ -87,13 +87,19 @@ content-id: team
       <h3>{{ page.conference }} Conference</h3>
       {% for team in site.teams %}
       {% if page.conference == team.conference and page.season == team.season %}
-      <div class="team {% if page.name == team.name %}active{% endif %}">
-        <div class="team-name ">
-          {% if team.name and team.name != ''%}
-          {{ team.name }}
-          {% else %}
-          {{ team.color }}
-          {% endif %}
+      {% if team.name and team.name != ''%}
+        {% assign team-name = team.name %}
+      {% else %}
+        {% assign team-name = team.color %}
+      {% endif %}
+      {% if page.name and page.name != '' %}
+        {% assign page-name = page.name %}
+      {% else %}
+        {% assign page-name = page.color %}
+      {% endif %}
+      <div class="team {% if team-name == page-name %}active{% endif %}">
+        <div class="team-name">
+          {{ team-name }} 
         </div>
         <div class="team-record">
           {{ wins }} - {{ losses }}

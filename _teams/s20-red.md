@@ -2,6 +2,7 @@
 color: Red
 title: S20 - Red
 season: 20
+name: ''
 photo: ''
 captain: Adam Strasberg
 quarterback: Brian Hotchkiss

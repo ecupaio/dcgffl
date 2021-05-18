@@ -1,6 +1,7 @@
 ---
 title: S20 - Kelly
 color: Kelly
+name: ''
 season: 20
 photo: 
 captain: Danny Hughes

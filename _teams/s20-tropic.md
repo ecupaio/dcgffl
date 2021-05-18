@@ -1,7 +1,8 @@
 ---
 color: Tropic
-title: 'S20 - Tropic '
+title: 'S20 - Tropic'
 season: 20
+name: ''
 photo: ''
 captain: Jim Roll
 quarterback: Marvin Washington

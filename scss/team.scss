@@ -2,7 +2,6 @@
 @import "mixins.scss";
 #team {
   #team-hero {
-    
     .team-photo-info {
       display: flex;
       border-radius: $border-radius;
@@ -11,6 +10,7 @@
       .team-photo {
         flex: 0 1 800px;
         position: relative;
+        background-color: $lt-grey;
         .team-photo-img {
           height: 100%;
           width: 100%;
@@ -97,7 +97,9 @@
           border-bottom: 2px solid $lt-grey;
           .team-name {
             padding-right: 0.5rem;
-
+          }
+          .team-record {
+            text-align: right;
           }
           &.active {
             font-weight: 700;
