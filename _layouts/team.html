@@ -5,54 +5,53 @@ content-id: team
 ---
 <section id="team-hero">
   <div class="inner-section">
-    <div class="team-photo-name">
+    <div class="team-photo-info">
+      <div class="team-info">
+        <h2 class="team-name">{{ page.name }}</h2>
+        <h4 class="team-color">Season {{ page.season }} - {{ page.color }}</h4>
+        <div class="team-leader">
+          <h5>Quarterback</h4>
+          {{ page.quarterback }}
+        </div>
+        <div class="team-leader">
+          <h5>Captain</h4>
+          {{ page.captain }}
+        </div>
+        <div class="roster">
+          <h5>Roster</h5>
+          {% for member in page.members %}
+          <div>{{ member }}</div>
+          {% endfor %}
+        </div>
+      </div>
       <div class="team-photo">
       {% if page.photo and page.photo != '' %}
-      <img src="{{ page.photo }}" alt="{{ page.color }} team photo" />
+      <img src="{{ page.photo }}" class="team-photo-img" alt="{{ page.color }} team photo" />
       {% else %}
-      <img src="{{ site.data.menu.logo }}" alt="DCGFFL Logo" />
+      <img src="{{ site.data.menu.logo }}" class="no-team-photo" alt="DCGFFL Logo" />
       <br>
       {% endif %}
       </div>
-      <div class="team-name-color">
-        <h2 class="team-name">{{ page.name }}</h2>
-        <h4 class="team-color">Season {{ page.season }} - {{ page.color }}</h4>
-      </div>
+      
     </div>
   </div>
 </section>
 <section id="team-info">
   <div class="inner-section">
-    <div class="roster">
-      <h3>Roster</h3>
-      <div class="roster-section">
-        <h4>Quarterback</h4>
-        {{ page.quarterback }}
-      </div>
-      <div class="roster-section">
-        <h4>Captain</h4>
-        {{ page.captain }}
-      </div>
-      
-      <div class="roster-section">
-        <h4>Team Members</h4>
-        {% for member in page.members %}
-        <div>{{ member }}</div>
-        {% endfor %}
-      </div>
-      
-    </div>
     <div class="schedule">
       <h3>Schedule</h3>
+      {% assign wins = 0 %}
+      {% assign losses = 0 %}
       {% for game in site.games %}
+      {% if game.teams-score[0].team contains page.path or game.teams-score[1].team contains page.path %}
       <div class="game">
         {% for score in game.teams-score %}
-          {% if score.team contains page.path %}
-            <div class="game-location">
+          {% if score.team == page.path %}
+            <div class="game-info">
+              <div class="game-date">{{ game.date | date: "%-m/%-e %l:%M%p "  }}</div>
               <a class="location-link" href="{{ game.location.link }}">{{ game.location.title }} <i class="fa fa-map-marker-alt"></i></a>
               <div class="field">Field: {{ game.location.field }}</div>
             </div>
-            <div class="game-date">{{ game.date | date: "%-m/%-e %l:%M%p "  }}</div>
             {% assign opponent = game.teams-score | where_exp: "item", "item.team != page.path"  %}
             {% assign opponent-name = site.teams | where: "path", opponent[0].team %}
             <a class="game-opp" href="{{ opponent-name[0].url }}">
@@ -65,9 +64,11 @@ content-id: team
             <div class="game-result">
               <div class="win-loss">
                 {% if score.score > opponent[0].score %}
+                {% assign wins = wins | plus: 1 %}
                 <span class="win">W</span>
                 {% elsif score.score < opponent[0].score %}
-                <span class="win">L</span>
+                {% assign losses = losses | plus: 1 %}
+                <span class="loss">L</span>
                 {% elsif score.score == opponent[0].score %}
                 <span class="tie">T</span>
                 {% endif %}
@@ -76,9 +77,29 @@ content-id: team
                 {{ score.score }} - {{ opponent[0].score }}
               </div>
             </div>
-          {% endif %}    
+          {% endif %} 
         {% endfor %}
       </div>
+      {% endif %}  
+      {% endfor %}
+    </div>
+    <div class="records">
+      <h3>{{ page.conference }} Conference</h3>
+      {% for team in site.teams %}
+      {% if page.conference == team.conference and page.season == team.season %}
+      <div class="team {% if page.name == team.name %}active{% endif %}">
+        <div class="team-name ">
+          {% if team.name and team.name != ''%}
+          {{ team.name }}
+          {% else %}
+          {{ team.color }}
+          {% endif %}
+        </div>
+        <div class="team-record">
+          {{ wins }} - {{ losses }}
+        </div>
+      </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>

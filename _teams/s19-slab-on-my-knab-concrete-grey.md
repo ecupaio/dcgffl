@@ -18,5 +18,4 @@ members:
 - Alexander Schaps
 - Daniel Vladimer
 - Antonio Hardy
-
 ---

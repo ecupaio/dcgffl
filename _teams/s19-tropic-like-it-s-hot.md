@@ -18,5 +18,5 @@ members:
 - Stephen Tackney
 - Kevin Zajac
 - Daniel ErkenBrack
-
+conference: Nellies
 ---

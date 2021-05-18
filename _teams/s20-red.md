@@ -17,5 +17,5 @@ members:
 - Jeremy Steslicki
 - Stacey Tiamfook
 - Scott Williams
-
+conference: Nellies 
 ---
