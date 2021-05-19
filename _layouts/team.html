@@ -99,9 +99,9 @@ content-id: team
         {% assign page-name = page.color %}
       {% endif %}
       <div class="team {% if team-name == page-name %}active{% endif %}">
-        <div class="team-name">
+        <a class="team-name" href="{{team.url}}">
           {{ team-name }} 
-        </div>
+        </a>
         <div class="team-record">
           {{ wins }} - {{ losses }}
         </div>

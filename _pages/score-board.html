@@ -88,13 +88,13 @@ season: 20
           <div class="conf-teams">
             {% for team in conference.items %}
             <div class="team">
-              <div class="team-name">
+              <a class="team-name" href="{{ team.url }}">
               {% if team.name and team.name != "" %}
               {{ team.name }}
               {% else %}
               {{ team.color }}
               {% endif %}
-              </div>
+              </a>
               <div class="team-record">
                 {% assign wins = 0 %}
                 {% assign losses = 0 %}
