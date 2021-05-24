@@ -1,6 +1,5 @@
 ---
 title: Season 19 Playoffs
-permalink: "/playof"
 season: 19
 rounds:
 - title: Final Round
@@ -16,5 +15,6 @@ rounds:
       score: ''
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
       score: ''
+    title: ''
 
 ---
