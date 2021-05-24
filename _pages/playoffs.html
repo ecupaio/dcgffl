@@ -1,0 +1,38 @@
+---
+title: Playoffs
+permalink: /playoffs/
+rounds:
+- title: Play in
+  games: 
+  - division: Nellies 
+    date: 
+    location:
+      title: 
+      link: 
+      field:  
+    teams-score:
+    - team: Kelly 
+      score: 8
+    - team: White
+      score: 9
+- title: First Round      
+---
+<section>
+  <div class="inner-section">
+    <div class="rounds-list">
+      {% for round in page.rounds %}
+      <div class="round">
+        <h2 class="round-title">{{ round.title }}</h2>
+        {% for game in round.games %}
+        <h3 class="division-title">{{ game.division }}</h3>
+        <div class="game">
+          {% for item in teams-score %}
+          
+          {% endfor %}
+        </div>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

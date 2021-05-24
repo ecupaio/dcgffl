@@ -1,0 +1,45 @@
+.game {
+  text-align: center;
+  padding: 2rem;
+  border-bottom: 2px solid $lt-grey;
+  .teams {
+    .matchup {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 1rem;
+      .team-score {
+        flex: 1 0 40%;
+        .team {
+          margin: 0;
+          padding-right: 0.5rem;
+          a {
+            color: $black;
+            font-weight: 400;
+          }
+        }
+        .score {
+          margin: 0;
+          line-height: 1;
+          padding: 5px;
+          display: inline-block;
+          &.winner {
+            background-color: $red;
+            color: $white;
+          }
+        }
+      }
+      .versus {
+        padding: 0 1rem;
+        flex: 1 0 20%;
+        font-weight: bold;
+      }
+    }
+  }
+  .highlights {
+    h5 {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
