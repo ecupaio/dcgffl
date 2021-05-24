@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _playoffs
+  label: Playoffs
+  create: documents
+  match: "**/*"
+- type: directory
   path: _sponsors
   label: Sponsors
   create: documents
