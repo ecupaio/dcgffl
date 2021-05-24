@@ -67,5 +67,7 @@ fields:
       - type: text
         name: field
         label: field
+  config:
+    labelField: title
 pages:
 - _playoffs/season-19.md
