@@ -5,15 +5,16 @@ season: 19
 rounds:
 - title: Final Round
   games: 
-  - division: Nellies 
+  - teams-score:
+    - team: 
+      score: 
+    - team: 
+      score: 
+    division: Nellies 
     date: 
     location:
       title: 
       link: 
       field:  
-    teams-score:
-    - team: 
-      score: 
-    - team: 
-      score: 
+    
 ---
