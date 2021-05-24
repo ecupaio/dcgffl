@@ -15,6 +15,6 @@ rounds:
       score: ''
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
       score: ''
-    title: ''
+    title: Gray vs Carolina
 
 ---
