@@ -7,13 +7,14 @@ layout: default
       {% for round in page.rounds %}
       <div class="round">
         <h2 class="round-title">{{ round.title }}</h2>
-        {% for division in round.division %}
-        <h3 class="division-title">{{ division.division }}</h3>
-        <div class="game">
-          {% for item in teams-score %}
-          
+        {% assign divisions = round.games | group_by: 'division' %}
+        {% for division in divisions %}
+        <h3 class="division-title">{{ division.name }}</h3>
+          {% for game in division.items %}
+          <div class="game">
+            
+          </div>
           {% endfor %}
-        </div>
         {% endfor %}
       </div>
       {% endfor %}
