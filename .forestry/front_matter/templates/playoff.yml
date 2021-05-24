@@ -60,3 +60,5 @@ fields:
       - type: text
         name: field
         label: field
+pages:
+- _playoffs/season-19.md

@@ -1,20 +1,20 @@
 ---
 title: Season 19 Playoffs
-permalink: /playof
+permalink: "/playof"
 season: 19
 rounds:
 - title: Final Round
-  games: 
-  - teams-score:
-    - team: 
-      score: 
-    - team: 
-      score: 
-    division: Nellies 
-    date: 
+  games:
+  - division: Nellies
+    date: ''
     location:
-      title: 
-      link: 
-      field:  
-    
+      title: ''
+      link: ''
+      field: ''
+    teams-score:
+    - team: _teams/s19-fancy-gay-pirates.md
+      score: ''
+    - team: _teams/s19-slab-on-my-knab-concrete-grey.md
+      score: ''
+
 ---
