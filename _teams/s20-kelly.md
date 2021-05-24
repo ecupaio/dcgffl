@@ -18,7 +18,7 @@ members:
 - Patrick Sheeran
 - Matt Thorpe
 - Joe Walker
-conference: Pitchers
+division: Pitchers
 record: 
   wins: 0
   losses: 1

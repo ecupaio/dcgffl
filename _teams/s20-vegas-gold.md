@@ -3,7 +3,7 @@ title: S20 - Vegas Gold
 color: Vegas Gold
 name: ''
 season: 20
-conference: Pitchers
+division: Pitchers
 photo: 
 captain: Ken Green
 quarterback: Ben Hunt

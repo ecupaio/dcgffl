@@ -18,5 +18,4 @@ members:
 - Grant Rosensteel
 - Edward Smith
 - Trey Phillips
-
 ---

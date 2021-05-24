@@ -3,7 +3,7 @@ nav:
   link: "/"
 - title: Play
   link: "/play/"
-- title: Scores & Schedule  
+- title: Scoreboard  
   link: /score-board/  
 - title: Teams
   link: "/teams/"  

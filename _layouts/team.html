@@ -29,7 +29,7 @@ content-id: team
       <img src="{{ page.photo }}" class="team-photo-img" alt="{{ page.color }} team photo" />
       {% else %}
       <img src="{{ site.data.menu.logo }}" class="no-team-photo" alt="DCGFFL Logo" />
-      <br>
+      
       {% endif %}
       </div>
       
@@ -40,15 +40,16 @@ content-id: team
   <div class="inner-section">
     <div class="schedule">
       <h3>Schedule</h3>
-      {% assign wins = 0 %}
+      <div class="games-list">
+        {% assign wins = 0 %}
       {% assign losses = 0 %}
       {% for game in site.games %}
       {% if game.teams-score[0].team contains page.path or game.teams-score[1].team contains page.path %}
       <div class="game">
         {% for score in game.teams-score %}
           {% if score.team == page.path %}
-            <div class="game-info">
-              <div class="game-date">{{ game.date | date: "%-m/%-e %l:%M%p "  }}</div>
+            <div class="game-date">{{ game.date | date: "%-m/%-e %l:%M%p "  }}</div>
+            <div class="game-location">
               <a class="location-link" href="{{ game.location.link }}">{{ game.location.title }} <i class="fa fa-map-marker-alt"></i></a>
               <div class="field">Field: {{ game.location.field }}</div>
             </div>
@@ -82,12 +83,14 @@ content-id: team
       </div>
       {% endif %}  
       {% endfor %}
+      </div>
+      
     </div>
     <div class="records">
-      <h3>{{ page.conference }} Conference</h3>
+      <h3>{{ page.division }} Division</h3>
       
       {% for team in site.teams %}
-      {% if page.conference == team.conference and page.season == team.season %}
+      {% if page.division == team.division and page.season == team.season %}
       {% if team.name and team.name != ''%}
         {% assign team-name = team.name %}
       {% else %}

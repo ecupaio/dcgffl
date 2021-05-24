@@ -80,13 +80,13 @@ season: 20
     <div class="games-archive">
       <div class="rankings">
         <h3>Rankings</h3>
-        {% assign conferences = site.teams | where: "season", page.season | group_by: 'conference' %}
+        {% assign divisions = site.teams | where: "season", page.season | group_by: 'division' %}
         {% assign games = site.games | where: "season", page.season %}
-        {% for conference in conferences %}
-        <div class="conference">
-          <h4>{{ conference.name }}</h4>
+        {% for division in divisions %}
+        <div class="division">
+          <h4>{{ division.name }}</h4>
           <div class="conf-teams">
-            {% for team in conference.items %}
+            {% for team in division.items %}
             <div class="team">
               <a class="team-name" href="{{ team.url }}">
               {% if team.name and team.name != "" %}
