@@ -14,6 +14,7 @@ hero:
   button: 
     text: Play
     link: /play/
+  placeholder: /img/home-hero-placeholder.jpg  
 sponsors:
   title: Sponsors
   text: Some copy about becoming a sponsor
@@ -25,7 +26,9 @@ sponsors:
 <section id="hero">
  <div class="hero-grid">
    <div class="hero-col image-col">
-    <div id="photo-slider"></div> 
+    <div id="photo-slider">
+      <img class="hero-placeholder" src="{{ page.hero.placeholder }}">  
+    </div> 
    </div>
    <div class="hero-col text-col">
      <div class="hero-content">
@@ -40,11 +43,12 @@ sponsors:
 </section>
 <section id="scoreboard-section">
   <div class="scoreboard-feed">
-    {% for game in site.games limit: 20 %}
+    {% assign recent-games = site.games | reverse %}
+    {% for game in recent-games limit: 20 %}
     <div class="game-slide">
       <div class="game">
         <div class="date-col">
-          <a href="{{ game.url }}">
+          <a href="/score-board/?season={{ game.season }}&week={{game.week}}">
           <h6 class="game-date">{{ game.date | date: '%-m/%-e'}}</h6>
           <h6 class="game-time">{{ game.date | date: '%l:%M%P' }}</h6>
           </a>

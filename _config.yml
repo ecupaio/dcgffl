@@ -45,7 +45,7 @@ collections:
     output: true
   games: 
     output: true
-    permalink: /games/:title/
+    sitemap: hidden
   teams: 
     output: true
     permalink: /teams/:title/    
@@ -60,4 +60,4 @@ defaults:
 - scope: 
     type: 'teams'
   values: 
-    layout: team     
+    layout: team

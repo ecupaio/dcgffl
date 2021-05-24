@@ -5,16 +5,21 @@ content-id: team
 ---
 <section id="team-hero">
   <div class="inner-section">
+    {% if page.name and page.name !='' %}
+        {% assign team-name = page.name %}
+        {% else %}
+        {% assign team-name = page.color %}
+        {% endif %}
+    <h1 class="team-name">{{ team-name }}</h1>
     <div class="team-photo-info">
       <div class="team-info">
-        <h2 class="team-name">{{ page.name }}</h2>
         <h4 class="team-color">Season {{ page.season }} - {{ page.color }}</h4>
         <div class="team-leader">
-          <h5>Quarterback</h4>
+          <h5>Quarterback</h5>
           {{ page.quarterback }}
         </div>
         <div class="team-leader">
-          <h5>Captain</h4>
+          <h5>Captain</h5>
           {{ page.captain }}
         </div>
         <div class="roster">

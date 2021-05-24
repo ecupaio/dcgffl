@@ -12,6 +12,7 @@ $(function() {
       'nojsoncallback': 1
     },
     success: function(data) {
+
       var photos = data.photos.photo;
       $(photos).each(function(i,photo) {
         console.log(photo);
@@ -24,6 +25,7 @@ $(function() {
         slidesToShow: 1,
         autoplay: true
       });
+      $('.hero-placeholder').addClass('hidden')
     },
     error: function(data) {
       console.log(data);

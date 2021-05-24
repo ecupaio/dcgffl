@@ -1,0 +1,44 @@
+---
+title: Teams
+permalink: /teams/
+css: teams-page
+content-id: teams-page
+season: 20
+---
+<section id="teams">
+  <div class="inner-section">
+    <h1>Teams</h1>
+    <div class="divisions-list">
+    {% assign divisions = site.teams | where: "season", page.season | group_by: 'division'  %}
+    {% for division in divisions %}
+    
+    <div class="division">
+      <h3 class="division-title">{{ division.name }} Division</h3>
+      <div class="teams-list">
+        {% for team in division.items %}
+        {% if team.name and team.name !='' %}
+        {% assign team-name = team.name %}
+        {% else %}
+        {% assign team-name = team.color %}
+        {% endif %}
+        <div class="team-col">
+          <a class="team-link" href="{{ team.url }}">
+            <div class="team-image">
+              {% if team.photo and team.photo !='' %}
+              <img src="{{ team.photo }}" class="team-image-src" alt="photo of {{ team-name }}"/> 
+              {% else %}
+              <img src="{{ site.data.menu.logo }}" class="no-photo" alt="DCGFFL Logo" /> 
+              {% endif %}
+            </div>
+            <div class="team-name">
+              <h4>{{ team-name }}</h4>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+    </div>
+  </div>
+</section>

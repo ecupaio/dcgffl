@@ -2,6 +2,9 @@
 @import "mixins.scss";
 #team {
   #team-hero {
+    .team-name {
+      text-align: center;
+    }
     .team-photo-info {
       display: flex;
       border-radius: $border-radius;

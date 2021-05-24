@@ -40,6 +40,14 @@
         @include bp-large {
           width: 100%;
         }
+        .hero-placeholder {
+          object-fit: cover;
+          height: 100%;
+          width: 100%;
+          //position: absolute;
+          top: 0;
+          left: 0;
+        }
         #photo-slider {
           
           height: 100%;

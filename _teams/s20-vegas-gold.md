@@ -4,7 +4,6 @@ color: Vegas Gold
 name: ''
 season: 20
 division: Pitchers
-photo: 
 captain: Ken Green
 quarterback: Ben Hunt
 members: 

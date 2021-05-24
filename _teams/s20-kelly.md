@@ -3,7 +3,7 @@ title: S20 - Kelly
 color: Kelly
 name: ''
 season: 20
-photo: 
+photo: '/img/pink-s19.jpg'
 captain: Danny Hughes
 quarterback: Jim Connolly
 members: 
