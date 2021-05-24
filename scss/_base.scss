@@ -94,6 +94,7 @@ button {
 	@include transition(background-color,color);
 	line-height: 1;
 	font-size: 18px;
+	
 	&:hover {
 		color: $red;
 		background-color: $white;

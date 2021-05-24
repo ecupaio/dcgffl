@@ -11,7 +11,7 @@ season: 20
 <section id="scores-section">
   <div class="inner-section">
     <div class="upcoming-games">
-      <h2>This Week's Games</h2>
+      <h2 class="week-title">Season {{ page.season}} Week {{page.week}}</h2>
       <div class="games-list">
         {% assign recent-games = site.games | sort: date | where_exp: "item", "item.week == page.week" | where_exp: "item", "item.season == page.season" %}
         {% assign all-games = site.games | sort: date | reverse %}
@@ -79,7 +79,7 @@ season: 20
     </div>
     <div class="games-archive">
       <div class="rankings">
-        <h3>Rankings</h3>
+        <h3>Season {{ page.season }} Records</h3>
         {% assign divisions = site.teams | where: "season", page.season | group_by: 'division' %}
         {% assign games = site.games | where: "season", page.season %}
         {% for division in divisions %}

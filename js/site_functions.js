@@ -3,11 +3,11 @@ $(function(){
     $('nav,html').toggleClass('active');
   });
   $(window).on('scroll load resize',function() {
-    console.log(inView('nav'));
     var scrollTop;
     if (inView('nav') == false) {
       $('nav').addClass('sticky');
       scrollTop = $(window).scrollTop();
+      $('main').addClass('stick-nav');
     }
     if ($(window).scrollTop() == 0) {
       $('nav').removeClass('sticky');
