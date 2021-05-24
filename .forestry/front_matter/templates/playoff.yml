@@ -22,6 +22,25 @@ fields:
     name: games
     label: games
     fields:
+    - type: field_group_list
+      name: teams-score
+      label: teams-score
+      fields:
+      - name: team
+        type: select
+        default: []
+        config:
+          required: false
+          options: []
+          source:
+            type: pages
+            section: teams
+            file: 
+            path: 
+        label: team
+      - type: text
+        name: score
+        label: score
     - type: text
       name: division
       label: division
@@ -41,13 +60,3 @@ fields:
       - type: text
         name: field
         label: field
-    - type: field_group_list
-      name: teams-score
-      label: teams-score
-      fields:
-      - type: text
-        name: team
-        label: team
-      - type: text
-        name: score
-        label: score
