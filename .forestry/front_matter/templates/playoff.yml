@@ -41,6 +41,8 @@ fields:
       - type: text
         name: score
         label: score
+      config:
+        labelField: team
     - type: text
       name: division
       label: division
