@@ -1,0 +1,53 @@
+---
+label: Playoff
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: number
+  name: season
+  label: season
+- type: field_group_list
+  name: rounds
+  label: rounds
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: games
+    label: games
+    fields:
+    - type: text
+      name: division
+      label: division
+    - type: text
+      name: date
+      label: date
+    - type: field_group
+      name: location
+      label: location
+      fields:
+      - type: text
+        name: title
+        label: title
+      - type: text
+        name: link
+        label: link
+      - type: text
+        name: field
+        label: field
+    - type: field_group_list
+      name: teams-score
+      label: teams-score
+      fields:
+      - type: text
+        name: team
+        label: team
+      - type: text
+        name: score
+        label: score
