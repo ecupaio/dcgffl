@@ -19,5 +19,6 @@ members:
 - Jens Piferoen
 - Alex Schaps
 rec-league: false
+division: Pitchers
 
 ---
