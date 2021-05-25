@@ -18,5 +18,6 @@ members:
 - Andy Pratt
 - Larry Womack
 rec-league: false
+division: Nellies
 
 ---
