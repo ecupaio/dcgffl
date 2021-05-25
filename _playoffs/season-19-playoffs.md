@@ -6,6 +6,8 @@ rounds:
   games:
   - title: Navy vs Purple
     teams-score:
+    - team: _teams/s20-purple.md
+      score: 16
     - team: _teams/s20-navy.md
       score: 13
     division: Pitchers
