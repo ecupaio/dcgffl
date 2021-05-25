@@ -1,0 +1,66 @@
+@import "vars.scss";
+@import "mixins.scss";
+#playoff-page {
+  .rounds-list {
+    .round {
+      .divisions-grid {
+        display: flex;
+        .division {
+          flex: 1 0 50%;
+          .games-list {
+            background-color: $lt-grey;
+            .game {
+              display: flex;
+              align-items: center;
+              background-color: $white;
+              overflow: hidden;
+              border-radius: $border-radius;
+              @include box-shadow;
+              .info-col {
+                background-color: $red;
+                color: $white;
+                padding: 0.5rem 1rem;
+                text-align: center;
+                a {
+                  color: $white;
+                  font-weight: 400;
+                }
+                .game-date,.game-time,.game-location {
+                  margin: 0;
+                }
+              }
+              .scores-col {
+                padding: 0 0.5rem;
+                flex: 1 0 auto;
+                .team-score {
+                  display: flex;
+                  justify-content: space-between;
+                  &:first-child {
+                    margin-bottom: 1rem;
+                  }
+                  &.winner {
+                    .team, .score  {
+                      font-weight: 700;
+                      a {
+                        font-weight: 700; 
+                      }
+                    }
+                  }
+                  .team {
+                    a {
+                      font-weight: 400;
+                      color: $black;
+                    }
+                  }
+                  .score {
+                    padding-left: 1rem;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

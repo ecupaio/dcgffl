@@ -18,9 +18,7 @@
         .game {
           text-align: center;
           padding: 2rem;
-          
           border-bottom: 2px solid $lt-grey;
-          
           .teams {
             .matchup {
               text-align: center;
@@ -29,8 +27,6 @@
               align-items: center;
               margin-bottom: 1rem;
               .team-score {
-                
-                
                 flex: 1 0 40%;
                 .team {
                   margin: 0;
@@ -48,8 +44,6 @@
                   &.winner {
                     background-color: $red;
                     color: $white;
-                    
-                    
                   }
                 }
               }
@@ -67,6 +61,7 @@
           }
         }
       }
+      
     }
     .games-archive {
       padding: 1rem 1rem 1rem 2rem;

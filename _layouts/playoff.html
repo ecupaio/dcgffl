@@ -1,21 +1,76 @@
 ---
 layout: default   
+css: playoffs
+content-id: playoff-page
 ---
-<section>
+<section id="playoff-rounds">
   <div class="inner-section">
     <div class="rounds-list">
       {% for round in page.rounds %}
       <div class="round">
         <h2 class="round-title">{{ round.title }}</h2>
         {% assign divisions = round.games | group_by: 'division' %}
-        {% for division in divisions %}
+        <div class="divisions-grid">
+          {% for division in divisions %}
+        <div class="division">
         <h3 class="division-title">{{ division.name }}</h3>
+        <div class="games-list">
           {% for game in division.items %}
           <div class="game">
-            
+            <div class="info-col">
+              <div class="game-info">
+                <div class="game-date-time">
+                  <h6 class="game-date">{{ game.date | date: "%-m/%-e" }}</h6>
+                  <h6 class="game-time">{{ game.date | date: "%l:%M%P" }}</h6>
+                </div>
+                <h6 class="game-location">
+                  <a href="{{ game.location.link }}">Field {{ game.location.field }} <i class="fa fa-map-marker-alt"></i></a>
+                </h6>
+              </div>
+            </div>
+            <div class="scores-col">
+              {% for item in game.teams-score %}
+              {% if item.team == game.teams-score[0].team %}
+                {% assign team1-score = item.score | plus: 0 %}
+                {% assign team2-score = game.teams-score[1].score | plus: 0 %}
+                {% if team1-score > team2-score %}
+                {% assign winner = 'winner' %}
+                {% else %}
+                {% assign winner = '' %}
+                {% endif %}
+              {% endif %}
+              {% if item.team == game.teams-score[1].team %}
+                {% assign team1-score = item.score | plus: 0 %}
+                {% assign team2-score = game.teams-score[0].score | plus: 0 %}
+                {% if team1-score > team2-score %}
+                {% assign winner = 'winner' %}
+                {% else %}
+                {% assign winner = '' %}
+                {% endif %}
+              {% endif %}
+              <div class="team-score {{ winner }}">
+                <div class="team">
+                {% assign team = site.teams | where: "path", item.team | first %}
+                {% if team.name and team.name != '' %}
+                {% assign team-name = team.name %}
+                {% else %}
+                {% assign team-name = team.color %}
+                {% endif %}
+                <a href="{{ team.url }}">{{ team-name }}</a>
+                </div>
+                <div class="score">
+                  {{ item.score }}
+                </div>
+              </div>
+              {% endfor %}
+            </div>
           </div>
           {% endfor %}
+        </div>
+          
+        </div>
         {% endfor %}
+        </div>
       </div>
       {% endfor %}
     </div>

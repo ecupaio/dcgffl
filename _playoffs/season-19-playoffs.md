@@ -4,7 +4,8 @@ season: 19
 rounds:
 - title: Final Round
   games:
-  - division: Nellies
+  - title: Gray vs Carolina
+    division: Nellies
     date: 2019-09-01 13:00:00 -0400
     location:
       title: 'Carter Baron Fields '
@@ -12,9 +13,7 @@ rounds:
       field: "4"
     teams-score:
     - team: _teams/s19-fancy-gay-pirates.md
-      score: ''
+      score: 21
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
-      score: ''
-    title: Gray vs Carolina
-
+      score: 10
 ---
