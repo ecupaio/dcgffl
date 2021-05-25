@@ -72,3 +72,5 @@ fields:
         label: field
   config:
     labelField: title
+pages:
+- _playoffs/season-19-playoffs.md
