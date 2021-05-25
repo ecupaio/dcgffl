@@ -19,5 +19,6 @@ members:
 - Nicholas Vucovich
 - Craig Woodside
 rec-league: false
+division: Nellies
 
 ---
