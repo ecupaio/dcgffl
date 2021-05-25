@@ -11,9 +11,7 @@ rounds:
       title: Carter Baron Fields
       link: https://goo.gl/maps/tTS2CzR8QZNWib838
       field: "1"
-    teams-score:
-    - team: ''
-      score: ''
+    teams-score: []
 - title: Final Round
   games:
   - title: Gray vs Carolina
