@@ -5,7 +5,9 @@ rounds:
 - title: First Round
   games:
   - title: Navy vs Purple
-    teams-score: []
+    teams-score:
+    - team: _teams/s20-navy.md
+      score: 13
     division: Pitchers
     date: 2021-05-25 03:00:00 -0400
     location:
