@@ -19,5 +19,6 @@ members:
 - Jarrod Salvestrini
 - Aaron Sayama
 rec-league: false
+division: Nellies
 
 ---

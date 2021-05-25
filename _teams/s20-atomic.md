@@ -19,5 +19,6 @@ members:
 - Kat Rosenthal
 - Ivan Torres
 rec-league: false
+division: Nellies
 
 ---
