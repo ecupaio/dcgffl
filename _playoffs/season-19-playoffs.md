@@ -1,6 +1,6 @@
 ---
-title: Season 19 Playoffs
-season: 19
+title: Season 20 Playoffs
+season: 20
 rounds:
 - title: First Round
   games:
