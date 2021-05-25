@@ -19,5 +19,6 @@ members:
 - Reggie Stewart
 - Dan Vladimir
 rec-league: false
+division: Pitchers
 
 ---
