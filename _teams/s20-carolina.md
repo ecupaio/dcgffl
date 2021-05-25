@@ -19,5 +19,6 @@ members:
 - Del'vaunte Scott
 - Sean Wilkerson
 rec-league: false
+division: Pitchers
 
 ---
