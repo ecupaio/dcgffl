@@ -31,7 +31,7 @@ rounds:
 - title: Final Round
   games:
   - title: Gray vs Carolina
-    division: Nellies
+    division: ''
     date: 2019-09-01T13:00:00.000-04:00
     location:
       title: 'Carter Baron Fields '
