@@ -3,18 +3,28 @@
 #playoff-page {
   .rounds-list {
     .round {
+      margin-bottom: 1rem;
+      .round-title {
+        margin-bottom: 0;
+      }
       .divisions-grid {
         display: flex;
+        max-width: $size-large;
         .division {
           flex: 1 0 50%;
+          padding: 0.5rem 1rem;
+          
           .games-list {
-            background-color: $lt-grey;
+            
+            
+            
             .game {
               display: flex;
               align-items: center;
               background-color: $white;
               overflow: hidden;
               border-radius: $border-radius;
+              max-width: 350px;
               @include box-shadow;
               .info-col {
                 background-color: $red;
