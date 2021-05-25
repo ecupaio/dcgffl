@@ -40,9 +40,16 @@ fields:
             file: 
             path: 
         label: team
-      - type: text
-        name: score
+      - name: score
+        type: number
         label: score
+        description: ''
+        default: 
+        required: true
+        config:
+          min: 
+          max: 
+          step: 
       config:
         labelField: team
     - type: text
