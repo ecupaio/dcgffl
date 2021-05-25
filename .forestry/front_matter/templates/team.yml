@@ -36,9 +36,6 @@ fields:
 - type: list
   name: members
   label: members
-- name: rec-league
-  type: boolean
-  label: rec league
 - name: division
   type: select
   default: []
