@@ -19,5 +19,6 @@ members:
 - Kori Saunders
 - Mark Summerside
 rec-league: false
+division: Nellies
 
 ---
