@@ -13,7 +13,7 @@ rounds:
       field: "1"
     teams-score:
     - team: _teams/s20-black.md
-      score: ''
+      score: 21
 - title: Final Round
   games:
   - title: Gray vs Carolina
@@ -25,9 +25,8 @@ rounds:
       field: "4"
     teams-score:
     - team: _teams/s19-fancy-gay-pirates.md
-      score: "21"
+      score: 21
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
-      score: "10"
-published: false
+      score: 10
 
 ---
