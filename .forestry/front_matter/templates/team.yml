@@ -39,6 +39,20 @@ fields:
 - name: rec-league
   type: boolean
   label: rec league
+- name: division
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Nellies
+    - Pitchers
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: division
 pages:
 - _teams/s19-fancy-gay-pirates.md
 - _teams/s19-slab-on-my-knab-concrete-grey.md
