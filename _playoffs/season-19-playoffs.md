@@ -29,6 +29,6 @@ rounds:
     - team: _teams/s20-kelly.md
       score: 21
     - team: _teams/s20-red.md
-      score: 10
+      score: 23
 
 ---
