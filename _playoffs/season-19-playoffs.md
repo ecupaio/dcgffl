@@ -28,7 +28,7 @@ rounds:
     teams-score:
     - team: _teams/s20-kelly.md
       score: 21
-    - team: _teams/s19-slab-on-my-knab-concrete-grey.md
+    - team: _teams/s20-red.md
       score: 10
 
 ---
