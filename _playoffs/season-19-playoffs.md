@@ -12,6 +12,8 @@ rounds:
       link: https://goo.gl/maps/tTS2CzR8QZNWib838
       field: "1"
     teams-score:
+    - team: _teams/s20-concrete.md
+      score: 10
     - team: _teams/s20-black.md
       score: 21
 - title: Final Round
