@@ -26,7 +26,7 @@ rounds:
       link: https://www.google.com/maps/search/?api=1&query=Carter%20Barron%20Soccer%20Fields%2C%201698%20Kennedy%20St%20NW%2C%20Washington%2C%20DC&query_place_id=ChIJcfbbn0PIt4kRpq-C2sXmS_M
       field: "4"
     teams-score:
-    - team: _teams/s19-fancy-gay-pirates.md
+    - team: _teams/s20-kelly.md
       score: 21
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
       score: 10
