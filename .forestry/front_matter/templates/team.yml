@@ -36,6 +36,9 @@ fields:
 - type: list
   name: members
   label: members
+- name: rec-league
+  type: boolean
+  label: rec league
 pages:
 - _teams/s19-fancy-gay-pirates.md
 - _teams/s19-slab-on-my-knab-concrete-grey.md
