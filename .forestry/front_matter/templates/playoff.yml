@@ -52,8 +52,19 @@ fields:
           step: 
       config:
         labelField: team
-    - type: text
-      name: division
+    - name: division
+      type: select
+      default: []
+      config:
+        required: false
+        options:
+        - Nellies
+        - Pitchers
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
       label: division
     - name: date
       type: datetime
