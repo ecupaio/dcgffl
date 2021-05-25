@@ -26,6 +26,9 @@
               border-radius: $border-radius;
               max-width: 350px;
               @include box-shadow;
+              &:not(:last-child) {
+                margin-bottom: 1rem;
+              }
               .info-col {
                 background-color: $red;
                 color: $white;

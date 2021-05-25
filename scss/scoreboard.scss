@@ -7,30 +7,58 @@
       @include bp-medium {
         display: block;
       }
-      h2 {
+      .week-title {
         margin-bottom: 0;
+        .title-break {
+          display: none;
+          @include bp-small {
+            display: block;
+          } 
+        }
       }
     }
     .upcoming-games {
       flex: 1 0 75%;
-
+      padding-right: 1rem;
+      @include bp-medium {
+        padding-right: 0;
+      }
       .games-list {
         .game {
           text-align: center;
-          padding: 2rem;
+          padding: 2rem 0;
           border-bottom: 2px solid $lt-grey;
+          
           .teams {
             .matchup {
               text-align: center;
               display: flex;
+              
               justify-content: center;
               align-items: center;
               margin-bottom: 1rem;
+              @include bp-medium {
+                flex-flow: row wrap;
+              }
               .team-score {
                 flex: 1 0 40%;
+                @include bp-medium {
+                  position: relative;
+                  flex: 1 0 50%;
+                  &:first-child{
+                    border-right: 2px solid $lt-grey;
+                    padding-right: 0.5rem;
+                  }
+                  &:last-child {
+                    padding-left: 0.5rem;
+                  }
+                }
                 .team {
                   margin: 0;
                   padding-right: 0.5rem;
+                  @include bp-medium {
+                    padding-right: 0;
+                  }
                   a {
                     color: $black;
                     font-weight: 400;
@@ -51,6 +79,11 @@
                 padding: 0 1rem;
                 flex: 1 0 20%;
                 font-weight: bold;
+                @include bp-medium {
+                  order: 3;
+                  padding: 1rem 0 0;
+                  flex: 1 0 100%;
+                }
               }
             }
           }
@@ -64,20 +97,27 @@
       
     }
     .games-archive {
-      padding: 1rem 1rem 1rem 2rem;
+      padding: 1rem;
+      background-color: $lt-grey;
       .rankings {
 
         h3,h4 {
           margin-bottom: 0;
         }
-        .conference {
-          margin-bottom: 1rem;
+        .division {
+          margin: 1rem 0;
+          background-color: $white;
+          padding: 0.5rem 1rem;
+          border-radius: $border-radius;
+          @include box-shadow;
         }
         .team {
           display: flex;
           justify-content: space-between;
           padding: 1rem 0;
-          border-bottom: 2px solid $lt-grey;
+          &:not(:last-child) {
+            border-bottom: 2px solid $lt-grey;
+          }
           .team-name {
             padding-right: 1rem;
             font-weight: 700;
@@ -89,9 +129,13 @@
           margin-bottom: 0;
         }
         .season {
-          &:not(:last-child) {
-            margin-bottom: 1rem;
-          }
+          background-color: $white;
+          border-radius: $border-radius;
+          @include box-shadow;
+          padding: 0.5rem 1rem;
+          
+            margin: 1rem 0;
+          
           
           .season-title {
             margin: 0;

@@ -29,9 +29,15 @@ h1 {
 }
 h2 {
 	font-size: 48px;
+	@include bp-medium {
+		font-size: 40px;
+	}
 }
 h3 {
 	font-size: 36px;
+	@include bp-medium {
+		font-size: 32px;
+	}
 }
 h4 {
 	font-size: 24px;
