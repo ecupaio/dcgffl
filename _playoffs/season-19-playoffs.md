@@ -11,7 +11,9 @@ rounds:
       title: Carter Baron Fields
       link: https://goo.gl/maps/tTS2CzR8QZNWib838
       field: "1"
-    teams-score: ''
+    teams-score:
+    - team: ''
+      score: ''
 - title: Final Round
   games:
   - title: Gray vs Carolina
@@ -26,5 +28,6 @@ rounds:
       score: "21"
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
       score: "10"
+published: false
 
 ---
