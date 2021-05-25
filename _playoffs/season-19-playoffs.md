@@ -24,12 +24,12 @@ rounds:
       score: 13
     - team: _teams/s20-lime.md
       score: 10
-    division: ''
-    date: 
+    division: Nellies
+    date: 2021-05-25 03:00:00 -0400
     location:
-      title: ''
-      link: ''
-      field: ''
+      title: Carter Baron Fields
+      link: https://www.google.com/maps/place/Carter+Barron+Soccer+Fields/@38.955237,-77.0400377,17z/data=!4m5!3m4!1s0x89b7c8439fdbf671:0xf34be6c5da82afa6!8m2!3d38.955237!4d-77.037849
+      field: "2"
   - title: Navy vs Purple
     teams-score:
     - team: _teams/s20-purple.md
