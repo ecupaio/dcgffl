@@ -19,5 +19,6 @@ members:
 - Darien Smith
 - Lindsey Walton
 rec-league: false
+division: Nellies
 
 ---
