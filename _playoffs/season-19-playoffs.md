@@ -18,6 +18,18 @@ rounds:
       score: 23
 - title: First Round
   games:
+  - title: Royal vs Atomic
+    teams-score:
+    - team: _teams/s20-royal.md
+      score: 13
+    - team: _teams/s20-lime.md
+      score: 10
+    division: ''
+    date: 
+    location:
+      title: ''
+      link: ''
+      field: ''
   - title: Navy vs Purple
     teams-score:
     - team: _teams/s20-purple.md
