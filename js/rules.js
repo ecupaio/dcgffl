@@ -1,0 +1,6 @@
+$(function() {
+  $('.rule-title').click(function() {
+    $(this).parents('.rule').find('.rule-text').slideToggle();
+    $(this).toggleClass('active');
+  });
+});

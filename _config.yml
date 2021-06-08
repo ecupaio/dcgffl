@@ -45,17 +45,27 @@ collections:
     output: true
   games: 
     output: true
-    sitemap: hidden
+    sitemap: false
   teams: 
     output: true
     permalink: /teams/:title/    
   sponsors: 
     output: true
-    sitemap: hidden  
+    sitemap: false  
   playoffs:
     output: true
-    sitemap: hidden 
+    sitemap: false
     permalink: /playoffs/:title/ 
+  rec-games: 
+    output: true
+    sitemap: false
+  rec-teams: 
+    output: true
+    sitemap: false    
+  rec-playoffs:
+    output: true
+    sitemap: false
+    permalink: /recreation-league/playoffs/:title/   
 defaults:
 - scope:
     type: 'pages'
@@ -68,4 +78,8 @@ defaults:
 - scope: 
     type: 'playoffs'
   values:
-    layout: playoff      
+    layout: playoff
+- scope: 
+    type: 'rec-playoffs'
+  values:
+    layout: playoff          

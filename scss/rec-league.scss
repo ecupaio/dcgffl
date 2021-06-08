@@ -1,0 +1,90 @@
+@import "vars.scss";
+@import "mixins.scss";
+#rec-league-home {
+  #hero {
+    padding: 0;
+    .inner-section {
+      max-width: none;
+    }
+    .hero-grid {
+      display: flex;
+      position: relative;
+      @include bp-large {
+        display: block;
+        padding: 2rem;
+      }
+      .hero-col {
+        &.image-col {
+          flex: 1 0 60%;
+          @include bp-large {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+          }  
+          img {
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+          }
+        }
+        &.text-col {
+          flex: 1 0 40%;
+          background-color: $grey3;
+          color: $white;
+          padding: 2rem;
+          display: flex;
+          align-items: center;
+          p a {
+            color: $white;
+            text-decoration: underline;
+          }
+          @include bp-large {
+            background-color: rgba($grey3,0.8);
+            padding: 1rem;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+  #rules-section {
+    .rules-list {
+      max-width: $size-large;
+      .rule {
+        
+        .rule-title {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          padding: 1rem 0;
+          border-bottom: 2px solid $lt-grey;
+          .title-text {
+            margin-bottom: 0;
+          }
+          &:hover {
+            cursor: pointer;
+          }
+          .rule-toggle {
+            @include transition(transform);
+          }  
+          &.active {
+            .rule-toggle {
+              transform: rotate(180deg); 
+            }  
+          }
+        }
+        .rule-text {
+          display: none;
+          background-color: $lt-grey;
+          padding: 0.5rem 1rem;
+          p {
+            
+          }
+        }
+      }
+    }
+  }
+}
