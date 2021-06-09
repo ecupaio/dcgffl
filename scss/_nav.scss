@@ -2,11 +2,12 @@ nav {
   top: 0;
   width: 100%;
   position: relative;
+  position: fixed;
   @include box-shadow;
   z-index: 10;
   background-color: $white;
   &.sticky {
-    position: fixed;
+    
   }
   .announcement-topbar {
     background-color: $red;
