@@ -13,11 +13,38 @@ hero:
     Welcome to the website for the DC Gay Flag Football League (DCGFFL), DC’s premier gay flag football league. The DCGFFL started informally in 1994 and became an official league in 2010. Since its early beginnings, the league has grown to over 200 players and has fielded as many as 20 teams in a season!  We’re a fun community of athletes, family, and friends, and we hope you’ll join and get to know us!
   button: 
     text: Play
-    link: /play/
+    link: '#play-options'
   placeholder: /img/home-hero-placeholder.jpg  
+play-options: 
+- title: Regular League
+  text: |-
+    The league is open to all skill levels, from those who have played for years to those who have never been on a football field. Additionally, is it a fellowship for both LGBTQ+ individuals and straight allies. Come check out our games, meet some amazing people, and consider joining us as a player!
+  image: /img/league-option.jpg
+  button: 
+    text: Learn more
+    link: 
+- title: Recreation League
+  text: |-
+    The Recreation League is a supplemental league that runs in tandem to the regular league and is primarily for those who want to develop their skills, try new positions, or try out the DCGFFL for the first time.  The Recreation League is open to everyone, even those not playing in the regular season.
+  image: /img/rec-option.jpg
+  button: 
+    text: Learn more
+    link: /recreation-league/
+- title: Travel Program
+  text: The DCGFFL’s wealth of talent comes together annually to represent DC at two national tournaments — Pride Bowl (Chicago, early June) and Gay Bowl (annually rotating city, early fall). 2019 was a phenomenal year for the DCGFFL Travel Program, every single DC team made the semifinals at Gay Bowl and for the second year in a row, the Generals took home the championship! We are incredibly proud of all our players!
+  image: /img/travel-program-option.jpg
+  button: 
+    text: Learn more
+    link: /travel-program/
+- title: Rules & Policies 
+  text: The DC Gay Flag Football League follows the most recently adopted Gay Bowl rules, as written by the National Gay Flag Football League.
+  image: /img/rules-option.jpg
+  button: 
+    text: Learn more
+    link: /rules/    
 sponsors:
   title: Sponsors
-  text: Some copy about becoming a sponsor
+  text: Sponsorships are tax deductible and bring showcase your business to a local, diverse audience.
   button: 
     title: Become a Sponsor
     link: /sponsors/
@@ -82,6 +109,33 @@ sponsors:
     <a class="btn" href="/score-board/">Scoreboard</a>
   </div>
 </section>
+<section id="play-options">
+  <h2 class="section-title">Play</h2>
+  <div class="inner-section">
+    <div class="options-list">
+      {% for option in page.play-options %}
+      <div class="option">
+        <div class="option-grid {% cycle 'odd','even' %}">
+          <div class="option-col image-col">
+            <img src="{{ option.image }}"/>
+          </div>
+          <div class="option-col text-col">
+            <div class="option-content">
+              <h3 class="option-title">{{ option.title }}</h3>
+              <div class="option-text">
+                {{ option.text | markdownify }}
+              </div>
+              <div class="option-button">
+                <a class="btn" href="{{option.button.link }}">{{ option.button.text }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
 <section id="news-events-section">
   <div class="inner-section">
     <h2>News & Events</h2>
@@ -135,6 +189,7 @@ sponsors:
     </div>
   </div>
 </section>
+
 <section id="supporters-section">
   <div class="inner-section">
     <div class="title-block">
