@@ -7,9 +7,9 @@ mvp: Nick, Cam
 game-ball: Sam, Patty
 sportsperson: Ben, Patrick
 teams-score:
-- team: _teams/s20-kelly.md
+- team: _rec-teams/s20-kelly.md
   score: 21
-- team: _teams/s20-vegas-gold.md
+- team: _rec-teams/s20-vegas-gold.md
   score: 22
 
 location:

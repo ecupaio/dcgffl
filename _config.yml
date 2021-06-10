@@ -41,6 +41,8 @@ plugins:
 collections:
   pages: 
     output: true
+  redirects: 
+    output: true  
   events: 
     output: true
   games: 

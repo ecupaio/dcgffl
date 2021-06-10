@@ -45,45 +45,8 @@ rules:
       The mission is to make the Recreation League a place where everyone has the chance to participate on both offense and defense.    
 ---
 {% include hero.html %}
-{% include scoreboard-feed.html %}
-<section id="teams">
-  <div class="inner-section">
-    <h1>Teams</h1>
-    <div class="divisions-list">
-    {% assign divisions = site.rec-teams | where: "season", page.season | group_by: 'division'  %}
-    {% for division in divisions %}
-    
-    <div class="division">
-      <h3 class="division-title">{{ division.name }} Division</h3>
-      <div class="teams-list">
-        {% for team in division.items %}
-        {% if team.name and team.name !='' %}
-        {% assign team-name = team.name %}
-        {% else %}
-        {% assign team-name = team.color %}
-        {% endif %}
-        <div class="team-col">
-          <a class="team-link" href="{{ team.url }}">
-            <div class="team-image">
-              {% if team.photo and team.photo !='' %}
-              <img src="{{ team.photo }}" class="team-image-src" alt="photo of {{ team-name }}"/> 
-              {% else %}
-              <img src="{{ site.data.menu.logo }}" class="no-photo" alt="DCGFFL Logo" /> 
-              {% endif %}
-            </div>
-            <div class="team-name">
-              <h4>{{ team-name }}</h4>
-            </div>
-          </a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endfor %}
-    </div>
-  </div>
-</section>
-
+{% include scoreboard-feed.html games=site.rec-games teams=site.rec-teams %}
+{% include teams.html teams=site.rec-teams %}
 <section id="rules-section">
   <div class="inner-section">
     <h2>{{ page.rules.title }}</h2>

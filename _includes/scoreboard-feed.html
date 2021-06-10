@@ -4,9 +4,9 @@
   
   {% assign teamsArr = include.teams %}
   {% assign games = gamesArr | reverse | group_by: 'season' | first %}
-  {% assign recent-games = games.items %}
+  {% assign recent-games = games.items | where_exp: "item","item.teams-score[0].score.size > 0" %}
   <div class="scoreboard-feed">
-    {% for game in recent-games | where_exp: "item","item.teams-score[0].score !='' " %}
+    {% for game in recent-games %}
     <div class="game-slide">
       <div class="game">
         <div class="date-col">

@@ -19,7 +19,4 @@ members:
 - Matt Thorpe
 - Joe Walker
 division: Pitchers
-record: 
-  wins: 0
-  losses: 1
 ---

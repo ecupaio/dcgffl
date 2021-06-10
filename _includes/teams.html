@@ -1,15 +1,10 @@
----
-title: Teams
-permalink: /teams/
-css: teams-page
-content-id: teams-page
-season: 20
----
-<section id="teams">
+<section id="teams-section">
   <div class="inner-section">
-    <h1>Teams</h1>
+    <h2 class="section-title">Teams</h2>
     <div class="divisions-list">
-    {% assign divisions = site.teams | where: "season", page.season | group_by: 'division'  %}
+    
+    {% assign divisions = include.teams | where: "season", page.season | group_by: 'division'  %}
+    
     {% for division in divisions %}
     <div class="division">
       <h3 class="division-title">{{ division.name }} Division</h3>
