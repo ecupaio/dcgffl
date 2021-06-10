@@ -2,7 +2,7 @@
 title: S20 Vegas Gold vs Kelly
 week: 1
 season: 20
-date: 2020-03-08T19:00:00.000+00:00
+date: 2020-03-15 15:00:00 -0400
 mvp: Nick, Cam
 game-ball: Sam, Patty
 sportsperson: Ben, Patrick
