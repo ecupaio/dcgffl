@@ -10,7 +10,7 @@ teams-score:
 - team: _teams/s20-kelly.md
   score: 
 - team: _teams/s20-vegas-gold.md
-  score: 22
+  score: 
 location:
   title: Carter Baron Fields
   field: 2
