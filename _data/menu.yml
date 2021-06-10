@@ -1,8 +1,12 @@
 nav:
 - title: Home
   link: "/"
-- title: Play
-  link: "/play/"
+- title: League
+  link: /league/
+- title: Recreation League
+  link: /recreation-league/
+- title: Travel Program
+  link: /travel-program/    
 - title: Scoreboard  
   link: /score-board/  
 - title: Teams
@@ -35,9 +39,7 @@ footer:
 - title: About
   link: /about/
 - title: Leadership
-  link: /leadership/    
-- title: Travel Program
-  link: /travel-program/  
+  link: /leadership/      
 - title: Rules & Policies
   link: /rules-policies/  
 announcement: 

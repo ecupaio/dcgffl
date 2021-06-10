@@ -67,29 +67,7 @@ $(function() {
       }
     ] 
   }); 
-  $('.scoreboard-feed').slick({
-    slidesToShow: 5,
-    responsive: [
-      {
-        breakpoint: 1280,
-        settings: {
-          slidesToShow: 3
-        }
-      },
-      {
-        breakpoint: 768,
-        settings: {
-          slidesToShow: 2
-        }
-      },
-      {
-        breakpoint: 568,
-        settings: {
-          slidesToShow: 1
-        }
-      }
-    ]  
-  }); 
+  
   $('.featured-supporters').slick({
     slidesToShow: 1,
     autoplay: true,

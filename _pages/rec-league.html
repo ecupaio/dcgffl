@@ -3,6 +3,7 @@ title: Recreation League
 permalink: /recreation-league/
 css: rec-league
 content-id: rec-league-home
+season: 20
 scripts: 
 - rules
 hero: 
@@ -14,10 +15,18 @@ hero:
   image: /img/rec-league-hero.jpg  
   button: 
     text: Register 
-    link: 
+    link: #register-section
     visible: true
+register: 
+  title: Register 
+  text: |-
+    Registration is currently closed. Signup for our mailing list and follow us on Facebook and Twitter for updates on when the next season becomes available. 
+  button: 
+    text: Register
+    link: #
+    visible: false
 rules: 
-  title: Rules
+  title: Rules & Policies
   items:
   - title: Captains and QBs
     text: |-
@@ -35,67 +44,46 @@ rules:
       
       The mission is to make the Recreation League a place where everyone has the chance to participate on both offense and defense.    
 ---
-<section id="hero">
+{% include hero.html %}
+{% include scoreboard-feed.html %}
+<section id="teams">
   <div class="inner-section">
-    <div class="hero-grid">
-      <div class="hero-col image-col">
-        <img src="{{ page.hero.image }}" />
-      </div>
-      <div class="hero-col text-col">
-        <div class="hero-content">
-          <h1 class="hero-title">{{ page.hero.title }}</h1>
-          <div class="hero-text">
-            {{ page.hero.text | markdownify }}
-          </div>
-          <div class="hero-button {%if page.hero.button.visibile == false %}hidden{% endif %}">
-            <a class="btn" href="{{ page.hero.button.link }}">{{ page.hero.button.text }}</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section id="scoreboard-section">
-  <div class="scoreboard-feed">
-    {% assign recent-games = site.rec-games %}
-    {% for game in recent-games limit: 20 %}
-    <div class="game-slide">
-      <div class="game">
-        <div class="date-col">
-          <a href="/score-board/?week=Season%20{{ game.season }}%20Week%20{{game.week}}">
-          <h6 class="game-date">{{ game.date | date: '%-m/%-e'}}</h6>
-          <h6 class="game-time">{{ game.date | date: '%l:%M%P' }}</h6>
+    <h1>Teams</h1>
+    <div class="divisions-list">
+    {% assign divisions = site.rec-teams | where: "season", page.season | group_by: 'division'  %}
+    {% for division in divisions %}
+    
+    <div class="division">
+      <h3 class="division-title">{{ division.name }} Division</h3>
+      <div class="teams-list">
+        {% for team in division.items %}
+        {% if team.name and team.name !='' %}
+        {% assign team-name = team.name %}
+        {% else %}
+        {% assign team-name = team.color %}
+        {% endif %}
+        <div class="team-col">
+          <a class="team-link" href="{{ team.url }}">
+            <div class="team-image">
+              {% if team.photo and team.photo !='' %}
+              <img src="{{ team.photo }}" class="team-image-src" alt="photo of {{ team-name }}"/> 
+              {% else %}
+              <img src="{{ site.data.menu.logo }}" class="no-photo" alt="DCGFFL Logo" /> 
+              {% endif %}
+            </div>
+            <div class="team-name">
+              <h4>{{ team-name }}</h4>
+            </div>
           </a>
         </div>
-        <div class="scores-col">
-          {% assign topscore = game.teams-score | sort: 'score' | reverse | first %}
-          {% for item in game.teams-score %}
-          <div class="team-row {% if item.score == topscore.score %}winner{% endif %}">
-            <div class="team">
-              {% for team in site.teams %}
-              {% if team.path == item.team %}
-              <a href="{{ team.url }}">{{ team.color }}</a>
-              {% endif %}
-              {% endfor %} 
-            </div>
-            <div class="score">
-              {% if item.score.size > 0 %}
-              {{ item.score }}
-              {% else %}
-              --
-              {% endif %}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
+        {% endfor %}
       </div>
     </div>
     {% endfor %}
-  </div>
-  <div class="btn-row">
-    <a class="btn" href="/score-board/">Scoreboard</a>
+    </div>
   </div>
 </section>
+
 <section id="rules-section">
   <div class="inner-section">
     <h2>{{ page.rules.title }}</h2>
@@ -114,6 +102,5 @@ rules:
       </div>
       {% endfor %}
     </div>
-    
   </div>
 </section>

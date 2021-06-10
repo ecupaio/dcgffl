@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
+title: DC Gay Flag Football League
+description: Founded in 1994, DC Gay Flag Football League (DCGFFL) is DC's only gay flag football league with 20 teams and over 270 players.
 meta_img:
 twitter:
 favicon:
@@ -62,6 +62,7 @@ collections:
   rec-teams: 
     output: true
     sitemap: false    
+    permalink: /recreation-league/teams/:title/
   rec-playoffs:
     output: true
     sitemap: false
@@ -83,3 +84,7 @@ defaults:
     type: 'rec-playoffs'
   values:
     layout: playoff          
+- scope: 
+    type: 'rec-teams'
+  values: 
+    layout: team

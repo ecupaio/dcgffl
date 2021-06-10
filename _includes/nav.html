@@ -1,14 +1,5 @@
 {% assign menu = site.data.menu %}
-
 <nav>
-  {% if menu.announcement.show == true %}
-  <div class="announcement-topbar hidden">
-    <div class="announcement-content">
-      {{ menu.announcement.text | markdownify }}
-    </div>
-    <div class="close-announcement">&times;</div>
-  </div>
-  {% endif %}
   <div class="nav-body">
     <div class="nav-col left">
       <a href="/">
@@ -22,9 +13,7 @@
         <div class="toggle-line middle"></div>
         <div class="toggle-line bottom"></div>
       </div>
-      
     </div>
-    
   </div>
   <div class="nav-menu">
     <div class="menu-body">
@@ -41,6 +30,13 @@
         {% endfor %}
       </div>
     </div>
-    
   </div>
+  {% if menu.announcement.show == true %}
+  <div class="announcement-topbar hidden">
+    <div class="announcement-content">
+      {{ menu.announcement.text | markdownify }}
+    </div>
+    <div class="close-announcement">&times;</div>
+  </div>
+  {% endif %}
 </nav>

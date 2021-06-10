@@ -1,7 +1,7 @@
 @import "vars.scss";
 @import "mixins.scss";
 #home {
-  #hero {
+  #home-hero {
     padding: 0;
     .hero-grid {
       display: flex;
@@ -13,7 +13,7 @@
         padding: 2rem 1rem;
       }
       .image-col {
-        width: 66.6667%;
+        width: 60%;
         position: relative;
         @include bp-large {
           width: 100%;
@@ -34,9 +34,7 @@
             padding: 2rem;
           }  
         }
-        @include bp-x-large {
-          width: 60%;
-        }
+        
         @include bp-large {
           width: 100%;
         }
@@ -69,8 +67,8 @@
         }
       } 
       .text-col {
-        width: 33.3333%;
-        background-color: $grey3;
+        width: 40%;
+        background-color: $black;
         padding: 2rem;
         color: $white;
         display: flex;
@@ -81,8 +79,13 @@
         @include bp-large {
           width: 100%;
           text-align: center;
-          background-color: rgba($grey3,0.8);
+          background-color: rgba($black,0.95);
           padding: 1rem;
+        }
+        .hero-title {
+          @include bp-small {
+            white-space: nowrap;
+          }
         }
       }
     }

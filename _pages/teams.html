@@ -11,7 +11,6 @@ season: 20
     <div class="divisions-list">
     {% assign divisions = site.teams | where: "season", page.season | group_by: 'division'  %}
     {% for division in divisions %}
-    
     <div class="division">
       <h3 class="division-title">{{ division.name }} Division</h3>
       <div class="teams-list">

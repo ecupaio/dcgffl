@@ -1,0 +1,11 @@
+<section id="playoffs-section">
+  <div class="inner-section">
+    <h2 class="section-title">{{ page.playoffs.title }}</h2>
+    <div class="section-text">
+      {{ page.playoffs.text | markdownify }}
+    </div>
+    <div class="section-button {% if page.playoffs.button.visible == false %}hidden{% endif %}">
+      <a href="{{ page.playoffs.button.link }}" class="btn">{{ page.playoffs.button.text }}</a>
+    </div>
+  </div>
+</section>

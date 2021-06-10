@@ -1,0 +1,9 @@
+<section id="register-section">
+  <div class="inner-section">
+    <h2 class="section-title">{{ page.register.title }}</h2>
+    {{ page.register.text | markdownify }}
+    <div class="btn-row">
+      <a class="btn {% if page.register.button.visible == false %}hidden{% endif %}" href="{{ page.register.button.link }}">{{ page.register.button.text }}</a>
+    </div>
+  </div>
+</section>

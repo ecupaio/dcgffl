@@ -21,8 +21,17 @@ layout: compress
     {% if page.content-id %}
     {% assign content-id = page.content-id %}
     {% endif %}
+    
     <!-- Page Content -->
     <main id="{{ content-id }}">
+    {% if menu.announcement.show == true %}
+    <div class="announcement-topbar hidden">
+        <div class="announcement-content">
+        {{ menu.announcement.text | markdownify }}
+        </div>
+        <div class="close-announcement">&times;</div>
+    </div>
+    {% endif %}    
     {{ content }}
     </main>
     <!-- Footer -->
@@ -30,7 +39,7 @@ layout: compress
     <!-- Scripts -->
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    {% if page.slick == true or layout.slick == true %}
+    {% if page.slick == true or layout.slick == true or page.content contains 'id="scoreboard-section"' %}
     <!-- Slick -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
     {% endif %}
