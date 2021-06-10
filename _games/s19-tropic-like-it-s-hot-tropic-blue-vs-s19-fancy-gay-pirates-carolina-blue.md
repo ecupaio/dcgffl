@@ -6,7 +6,7 @@ teams-score:
   score: "20"
 - team: _teams/s19-fancy-gay-pirates.md
   score: "0"
-season: 19
+season: 20
 week: 9
 date: 2019-11-10 15:00:00 -0500
 mvp: Haley, Andy

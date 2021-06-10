@@ -1,0 +1,61 @@
+@import "vars.scss";
+@import "mixins.scss";
+#schedule {
+  #games-section {
+    h1 {
+      text-align: center;
+    }
+    .schedule-grid {
+      display: flex;
+      .games-col {
+        flex: 1 0 75%;
+        padding-right: 1rem;
+        .weeks-list {
+          .week-title {
+            margin-bottom: 0;
+          }
+        }
+        .games-list {
+          .game {
+            padding: 2rem 0;
+            border-bottom: 2px solid $lt-grey;
+            .game-content {
+              display: flex;
+              text-align: center;
+              align-items: center;
+              justify-content: space-between;
+              .team {
+                flex: 1 0 40%;
+                a {
+                  font-weight: normal;
+                }
+                
+              }
+              .date-location {
+                flex: 1 0 20%;
+                padding: 0 1rem;
+                font-weight: 700;
+              }
+            }
+          }
+        }
+      }
+      .menu-col {
+        background-color: $lt-grey;
+        padding: 1rem;
+        .menu-content {
+          background-color: $white;
+          padding: 1rem;
+          @include box-shadow;
+          border-radius: $border-radius;
+          .weeks-list {
+            .week {
+              margin-bottom: 0.5rem;
+            }
+          }
+        }
+      }
+    }
+    
+  }
+}

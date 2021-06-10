@@ -48,12 +48,20 @@ content-id: team
       <div class="games-list">
         {% assign wins = 0 %}
       {% assign losses = 0 %}
+      {% if page.collection == "teams" %}
+      {% assign games = site.games %}
+      {% elsif page.collection == "rec-teams" %}
+      {% assign games = site.rec-games %}
+      {% endif %}
       {% for game in site.games %}
       {% if game.teams-score[0].team contains page.path or game.teams-score[1].team contains page.path %}
       <div class="game">
         {% for score in game.teams-score %}
           {% if score.team == page.path %}
-            <div class="game-date">{{ game.date | date: "%-m/%-e %l:%M%p "  }}</div>
+            <div class="game-date">
+              <div class="date-day">{{ game.date | date: "%-m/%-e"  }}</div>
+              <div class="date-time">{{ game.date | date: "%l:%M%p" }}</div>
+            </div>
             <div class="game-location">
               <a class="location-link" href="{{ game.location.link }}">{{ game.location.title }} <i class="fa fa-map-marker-alt"></i></a>
               <div class="field">Field: {{ game.location.field }}</div>
@@ -69,18 +77,22 @@ content-id: team
             </a>
             <div class="game-result">
               <div class="win-loss">
-                {% if score.score > opponent[0].score %}
-                {% assign wins = wins | plus: 1 %}
-                <span class="win">W</span>
-                {% elsif score.score < opponent[0].score %}
-                {% assign losses = losses | plus: 1 %}
-                <span class="loss">L</span>
-                {% elsif score.score == opponent[0].score %}
-                <span class="tie">T</span>
+                {% if score.score.size > 0 %}
+                  {% if score.score > opponent[0].score %}
+                  {% assign wins = wins | plus: 1 %}
+                  <span class="win">W</span>
+                  {% elsif score.score < opponent[0].score %}
+                  {% assign losses = losses | plus: 1 %}
+                  <span class="loss">L</span>
+                  {% elsif score.score == opponent[0].score %}
+                  <span class="tie">T</span>
+                  {% endif %}
                 {% endif %}
               </div>
               <div class="score">
+                {% if score.score.size > 0 %}
                 {{ score.score }} - {{ opponent[0].score }}
+                {% endif %}
               </div>
             </div>
           {% endif %} 

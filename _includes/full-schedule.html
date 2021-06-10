@@ -1,0 +1,75 @@
+<section id="games-section">
+  <div class="inner-section">
+    <h1 class="section-title">{{ page.title }}</h1>
+    <div class="schedule-grid">
+      <div class="games-col">
+        <div class="weeks-list">
+          {% assign current = site.pages | where: "path", include.path | first %}
+          
+          {% assign week-games = include.games | where: "season", current.season | group_by: "week" %}
+          
+          {% for week in week-games %}
+          <div class="week {% if current.week != week.items[0].week %}hidden{% endif %}" data-week="{{week.name}}">
+            <h3 class="week-title">Week {{ week.name }}</h3>
+            <div class="games-list">
+            {% for game in week.items %}
+            <div class="game">
+              <div class="game-content">
+                {% assign team1 = include.teams | where: "path", game.teams-score[0].team | first %}
+                {% assign team2 = include.teams | where: "path", game.teams-score[1].team | first %}
+                <div class="team">
+                  <h3 class="team-name">
+                    <a href="{{ team1.url }}">
+                    {% if team1.name != '' %}
+                    {{ team1.name }}
+                    {% else %}
+                    {{ team1.color }}
+                    {% endif %}
+                    </a>
+                  </h3>
+                </div>
+                  <div class="date-location">
+                    <div class="date">
+                      <div class="day">{{ game.date | date: "%-m/%-e"  }}</div>
+                      <div class="time">{{ game.date | date: "%l:%M%p" }}</div>
+                    </div>
+                    <div class="location">
+                      <a href="{{ game.location.link }}" class="location-name">{{ game.location.title }}</a>
+                      <div class="location-field">Field: {{ game.location.field }}</div>
+                    </div>
+                  </div>
+                  <div class="team">
+                    <h3 class="team-name">
+                      <a href="{{ team2.url }}">
+                        {% if team2.name != '' %}
+                        {{ team2.name }}
+                        {% else %}
+                        {{ team2.color }}
+                        {% endif %}
+                      </a>
+                    </h3>
+                  </div>
+              </div>
+            </div>
+            {% endfor %}  
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="menu-col">
+        <div class="menu-content">
+          <h3>All Games</h3>
+          <div class="weeks-list">
+            {% for week in week-games %}
+              <div class="week">
+                <a href="#" data-week="{{week.name}}">Week {{ week.name }}</a>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,54 @@
+<section id="schedule-section">
+  <div class="inner-section">
+    <h2 class="section-title">This week's games</h2>
+    {% assign upcoming-games = include.games | where: "season", page.season | where: "week", page.week  %}
+    <!-- | where_exp: "item", "item.teams-score[0].score.size == 0" -->
+    {% if upcoming-games.size > 0 %}
+    <div class="games-list">
+      {% for game in upcoming-games %}
+      <div class="game">
+        <div class="game-content">
+          {% assign team1 = include.teams | where: "path", game.teams-score[0].team | first %}
+          {% assign team2 = include.teams | where: "path", game.teams-score[1].team | first %}
+          <div class="teams">
+            <h5 class="team">
+              <a href="{{ team1.url }}">
+              {% if team1.name != '' %}
+              {{ team1.name }}
+              {% else %}
+              {{ team1.color }}
+              {% endif %}
+              </a>
+            </h5>
+            <div class="versus">vs</div>
+            <h5 class="team">
+              <a href="{{ team2.url }}">
+                {% if team2.name != '' %}
+                {{ team2.name }}
+                {% else %}
+                {{ team2.color }}
+                {% endif %}
+              </a>
+            </h5>
+          </div>
+          <div class="date">
+            <div class="day">{{ game.date | date: "%-m/%-e"  }}</div>
+            <div class="time">{{ game.date | date: "%l:%M%p" }}</div>
+          </div>
+          <div class="location">
+            <a href="{{ game.location.link }}" class="location-name">{{ game.location.title }}</a>
+            <div class="location-field">Field: {{ game.location.field }}</div>
+          </div>
+        </div>
+        
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    There are no games this week. 
+    {% endif %}
+    <div class="section-button">
+      <a href="{{ include.schedule-link }}" class="btn">Full schedule</a>
+    </div>
+  </div>
+</section>

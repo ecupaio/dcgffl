@@ -68,47 +68,7 @@ sponsors:
    </div>
  </div> 
 </section>
-<section id="scoreboard-section">
-  <div class="scoreboard-feed">
-    {% assign recent-games = site.games | reverse %}
-    {% for game in recent-games limit: 20 %}
-    <div class="game-slide">
-      <div class="game">
-        <div class="date-col">
-          <a href="/score-board/?week=Season%20{{ game.season }}%20Week%20{{game.week}}">
-          <h6 class="game-date">{{ game.date | date: '%-m/%-e'}}</h6>
-          <h6 class="game-time">{{ game.date | date: '%l:%M%P' }}</h6>
-          </a>
-        </div>
-        <div class="scores-col">
-          {% assign topscore = game.teams-score | sort: 'score' | reverse | first %}
-          {% for item in game.teams-score %}
-          <div class="team-row {% if item.score == topscore.score %}winner{% endif %}">
-            <div class="team">
-              {% for team in site.teams %}
-              {% if team.path == item.team %}
-              <a href="{{ team.url }}">{{ team.color }}</a>
-              {% endif %}
-              {% endfor %} 
-            </div>
-            <div class="score">
-              {% if item.score.size > 0 %}
-              {{ item.score }}
-              {% else %}
-              --
-              {% endif %}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-  <div class="btn-row">
-    <a class="btn" href="/score-board/">Scoreboard</a>
-  </div>
-</section>
+{% include scoreboard-feed.html games=site.games teams=site.teams %}
 <section id="play-options">
   <h2 class="section-title">Play</h2>
   <div class="inner-section">
@@ -197,7 +157,6 @@ sponsors:
     {{ page.sponsors.text | markdownify }}
     <a href="{{ page.sponsors.button.link }}" class="btn">{{ page.sponsors.button.title }}</a>
     </div>
-    
     <div class="inner-section">
       <h3 class="supporter-heading">Featured Sponsors</h3>
       <div class="featured-supporters">

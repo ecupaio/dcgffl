@@ -13,8 +13,7 @@ season: 20
     <div class="upcoming-games">
       <h2 class="week-title">Season {{ page.season}} Week {{page.week}}</h2>
       <div class="games-list">
-        {% assign recent-games = site.games | sort: date | where_exp: "item", "item.week == page.week" | where_exp: "item", "item.season == page.season" %}
-        {% assign all-games = site.games | sort: date | reverse %}
+        {% assign all-games = site.games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" %}
         {% for game in all-games %}
         <div class="game {% if page.week != game.week and page.season != week.season %}hidden{% endif %} " data-week="Season {{ game.season}} Week {{ game.week}}" >
           <div class="teams">
@@ -126,7 +125,7 @@ season: 20
       </div>
       {% assign seasons = site.games | group_by: "season" | reverse %}
       <div class="seasons">
-        <h3>Past Seasons</h3>
+        <h3>All Scores</h3>
         {% for season in seasons %}
         <div class="season">
           <h4 href="#" class="season-title">Season {{ season.name }}</h4>
