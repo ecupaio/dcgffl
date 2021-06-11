@@ -5,9 +5,7 @@
       <div class="games-col">
         <div class="weeks-list">
           {% assign current = site.pages | where: "path", include.path | first %}
-          
           {% assign week-games = include.games | where: "season", current.season | group_by: "week" %}
-          
           {% for week in week-games %}
           <div class="week {% if current.week != week.items[0].week %}hidden{% endif %}" data-week="{{week.name}}">
             <h3 class="week-title">Week {{ week.name }}</h3>
