@@ -3,6 +3,10 @@ nav:
   link: "/"
 - title: League
   link: /league/
+- title: Scoreboard
+  link: /score-board/
+- title: Schedule
+  link: /schedule/  
 - title: Recreation League
   link: /recreation-league/
 - title: Travel Program

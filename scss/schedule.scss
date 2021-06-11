@@ -7,6 +7,9 @@
     }
     .schedule-grid {
       display: flex;
+      @include bp-medium {
+        display: block;
+      }
       .games-col {
         flex: 1 0 75%;
         padding-right: 1rem;
@@ -24,8 +27,17 @@
               text-align: center;
               align-items: center;
               justify-content: space-between;
+              @include bp-small {
+                flex-flow: row wrap;
+              }
               .team {
                 flex: 1 0 40%;
+                @include bp-small {
+                  flex: 1 0 50%;
+                  &:first-child {
+                    border-right: 2px solid $lt-grey;
+                  }
+                }
                 a {
                   font-weight: normal;
                 }
@@ -35,6 +47,11 @@
                 flex: 1 0 20%;
                 padding: 0 1rem;
                 font-weight: 700;
+                @include bp-small {
+                  order: 3;
+                  flex: 1 0 auto;
+                  padding-top: 1rem;
+                } 
               }
             }
           }
