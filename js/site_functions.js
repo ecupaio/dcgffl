@@ -59,4 +59,10 @@ $(function(){
       ]  
     }); 
   }
+  if (window.location.pathname !== "/" ) {
+    $('#photo-slider').slick({
+      slidesToShow: 1,
+      autoplay: true
+    });
+  }
 });

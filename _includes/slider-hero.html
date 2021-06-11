@@ -1,0 +1,26 @@
+<section id="slider-hero">
+  <div class="hero-grid">
+    <div class="hero-col image-col">
+      <div id="photo-slider">
+        {% if page.hero.placeholder %}
+        <img class="hero-placeholder" src="{{ page.hero.placeholder }}" />  
+        {% else %}
+        {% for image in page.hero.images %}
+        <div class="photo-slide">
+          <img src="{{ image }}" />
+        </div>
+        {% endfor %}
+        {% endif %}
+      </div> 
+    </div>
+    <div class="hero-col text-col">
+      <div class="hero-content">
+       <h1 class="hero-title">{{ page.hero.title }}</h1>
+       <div class="hero-text">
+         {{ page.hero.text | markdownify }}
+       </div>
+       <a class="btn {% if page.hero.button.visible == false %}hidden{% endif %}" href="{{ page.hero.button.link }}">{{ page.hero.button.text }}</a>
+      </div>
+    </div>
+  </div> 
+ </section>

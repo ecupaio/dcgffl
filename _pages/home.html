@@ -50,24 +50,7 @@ sponsors:
     link: /sponsors/
   
 ---
-<section id="home-hero">
- <div class="hero-grid">
-   <div class="hero-col image-col">
-    <div id="photo-slider">
-      <img class="hero-placeholder" src="{{ page.hero.placeholder }}">  
-    </div> 
-   </div>
-   <div class="hero-col text-col">
-     <div class="hero-content">
-      <h1 class="hero-title">{{ page.hero.title }}</h1>
-      <div class="hero-text">
-        {{ page.hero.text | markdownify }}
-      </div>
-      <a class="btn" href="{{ page.hero.button.link }}">{{ page.hero.button.text }}</a>
-     </div>
-   </div>
- </div> 
-</section>
+{% include slider-hero.html %}
 {% include scoreboard-feed.html games=site.games teams=site.teams %}
 <section id="play-options">
   <h2 class="section-title">Play</h2>

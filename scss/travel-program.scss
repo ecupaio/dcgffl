@@ -1,0 +1,17 @@
+@import "vars.scss";
+@import "mixins.scss";
+#travel-program-page {
+  #slider-hero {
+    .photo-slide {
+      max-height: 500px;
+    }
+  }
+  #content-section {
+    .inner-section {
+      display: flex;
+      @include bp-large {
+        display: block;
+      }
+    } 
+  }
+}

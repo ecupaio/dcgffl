@@ -1,0 +1,19 @@
+<div class="resource-col">
+  <div class="resource-content">
+    <h4 class="resources-title">{{ page.resources.title }}</h4>
+    <div class="resource-list">
+      {% for resource in page.resources.items %}
+      <div class="resource">
+        <div class="resource-text">{{ resource.text }}</div>
+        {% if resource.link != '' %}
+        {% assign resource-item = resource.button.link %}
+        {% endif %}
+        {% if resource.attachment != '' %}
+        {% assign resource-item = resource.button.attachment %}
+        {% endif %}
+        <a href="{{ resource-item }}" class="btn" target="_blank">{{ resource.button.text }}</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>  
