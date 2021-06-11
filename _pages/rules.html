@@ -187,18 +187,23 @@ resources:
   - text: DC Gay Flag Football Rules are mostly the same as the NGFFL Gay Bowl Rules as revised by the NGFFL Board on 8/1/2017.
     button: 
       text: Download
-      attachment: /img/NGFFL-Rulebook-4-7.pdf      
+      attachment: /img/NGFFL-Rulebook-4-7.pdf
+      link: ''
   - text: Sample Playoffs Bracket
     button: 
       text: Download
       attachment: /img/Playoffs-Example-1.pdf
+      link: ''
 ---
 <section id="rules-section">
   <div class="inner-section">
-    <h1 class="intro-title">{{ page.intro.title }}</h1>
-    <div class="intro-text">
-      {{ page.intro.text | markdownify }}
-    </div>
+    <div class="rule-col">
+      <div class="intro">
+        <h1 class="intro-title">{{ page.intro.title }}</h1>
+        <div class="intro-text">
+          {{ page.intro.text | markdownify }}
+        </div>
+      </div>
     <div class="rules-list">
       {% for rule in page.rules %}
       <div class="rule">
@@ -211,13 +216,31 @@ resources:
       </div>
       {% endfor %}
     </div>
-  </div>
-</section>
-<section class="resources-section">
-  <div class="inner-section">
-    <h2 class="section-title">{{ page.resources.title }}</h2>
-    <div class="resources">
-
     </div>
+    <div class="resource-col">
+      <div class="resource-content">
+        <h4 class="resources-title">{{ page.resources.title }}</h4>
+        <div class="resource-list">
+          {% for resource in page.resources.items %}
+          <div class="resource">
+            <div class="resource-text">{{ resource.text }}</div>
+            {% if resource.link != '' %}
+            {% assign resource-item = resource.button.link %}
+            {% endif %}
+            {% if resource.attachment != '' %}
+            {% assign resource-item = resource.button.attachment %}
+            {% endif %}
+            <a href="{{ resource-item }}" class="btn" target="_blank">{{ resource.button.text }}</a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>  
+  </div>
+  
+</section>
+<section id="resources-section">
+  <div class="inner-section">
+    
   </div>
 </section>

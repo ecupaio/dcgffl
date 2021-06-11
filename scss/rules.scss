@@ -2,6 +2,15 @@
 @import "mixins.scss";
 #rules-page {
   #rules-section {
+    .inner-section {
+      display: flex;
+      @include bp-large{
+        display: block;
+      }
+    }
+    .intro-text {
+      max-width: $size-large;
+    }
     .rules-list {
       
       max-width: $size-large;
@@ -33,6 +42,32 @@
         }
         .rule-text {
           display: none;
+        }
+      }
+    }
+  }
+  .resource-col {
+    
+    padding-left: 2rem;
+    @include bp-large {
+      padding-left: 0;
+      padding-top: 2rem;
+      max-width: $size-small;
+    }
+    .resource-content {
+      background-color: $lt-grey;
+      padding: 1rem;
+    }
+    .resource-list {
+      max-width: $size-small;
+      .resource {
+        margin-bottom: 2rem;
+        background-color: $white;
+        border-radius: $border-radius;
+        padding: 1rem;
+        @include box-shadow;
+        .btn {
+          margin-top: 0.5rem;
         }
       }
     }
