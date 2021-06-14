@@ -1,0 +1,39 @@
+---
+title: Sponsors
+permalink: /sponsors/
+content-id: sponsors-page
+css: sponsors
+slick: true
+sponsors: 
+  success: Thanks for your interest in sponsoring the DCGFFL. Someone from the league will be in contact with you soon.
+reasons: 
+  title: Why Sponsor The League?
+  items: 
+  - Sponsorship will help get your business in the eyes of a very loyal group of people.
+  - The league creates a sense of community for the players. Networking and socializing off the field is a core part of why many players joined the league, which means we are always looking for reasons and places to get together.
+  - This is where you come in. Whether it’s having a team dinner or watching our favorite sports, we’re loyal to our sponsors and eager to show our appreciation for the businesses that support us.
+  - In addition, we attract a fairly robust set of spectators and friends who will not only see your logo throughout the season, but also join us for post-game celebrations.
+  - All sponsorships are tax deductible. We are a registered 501(c)(3).
+  - Finally, many players comment on how the league enriches their lives and creates a desired sense of community. By sponsoring the league, you help make people happier. And that’s some good karma any day!
+  button: 
+    text: Become a sponsor
+    link: '#sponsor-form'
+---
+<section id="reasons-section">
+  <div class="inner-section">
+    <h2 class="reasons-title">{{ page.reasons.title }}</h2>
+    <div class="reasons-list">
+      {% for reason in page.reasons.items %}
+      <div class="reason-col">
+        <div class="reason">
+          {{ reason }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="cta">
+      <a href="{{ page.reasons.button.link }}" class="btn">{{ page.reasons.button.text }}</a>
+    </div>
+  </div>
+</section>
+{% include sponsors-section.html %}

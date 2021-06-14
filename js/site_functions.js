@@ -59,10 +59,38 @@ $(function(){
       ]  
     }); 
   }
-  if (window.location.pathname !== "/" ) {
+  if (window.location.pathname !== "/" && $('#photo-slider').length > 0) {
     $('#photo-slider').slick({
       slidesToShow: 1,
       autoplay: true
     });
   }
+  if ($('.featured-supporters').length > 0) {
+    $('.featured-supporters').slick({
+      slidesToShow: 1,
+      autoplay: true,
+      dots: true
+    });
+  }
+  //sponsor form
+  $('a[href="#sponsor-form"]').click(function(e) {
+    e.preventDefault();
+    $('.sponsor-form-overlay').addClass('active');
+
+  });
+  $('.close-sponsor-overlay').click(function() {
+    $('.sponsor-form-overlay').removeClass('active');
+  });
+  $('#sponsor-form').submit(function(e) {
+    e.preventDefault();
+    $.ajax({
+      url: 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSfKAfXRdx-cf-Wawz-Uk3OysAeY3j2jllCTuB85uZSaSSNDmg/formResponse',
+      data: $(this).serialize(),
+      method: "POST",
+      crossDomain: true
+    }).always(function() {
+      $('#sponsor-form .form-body').slideUp();
+      $('#sponsor-form .form-success').slideDown();
+    });
+  })
 });

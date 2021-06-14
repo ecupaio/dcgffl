@@ -46,7 +46,7 @@ sponsors:
   title: Sponsors
   text: Sponsorships are tax deductible and bring showcase your business to a local, diverse audience.
   button: 
-    title: Become a Sponsor
+    text: Learn more
     link: /sponsors/
   
 ---
@@ -132,53 +132,4 @@ sponsors:
     </div>
   </div>
 </section>
-
-<section id="supporters-section">
-  <div class="inner-section">
-    <div class="title-block">
-      <h2>{{ page.sponsors.title }}</h2>
-    {{ page.sponsors.text | markdownify }}
-    <a href="{{ page.sponsors.button.link }}" class="btn">{{ page.sponsors.button.title }}</a>
-    </div>
-    <div class="inner-section">
-      <h3 class="supporter-heading">Featured Sponsors</h3>
-      <div class="featured-supporters">
-        {% assign featured-sponsors = site.sponsors | where: 'featured', true %}
-        {% for sponsor in featured-sponsors %}
-        <div class="supporters-slide">
-          <div class="slide-content">
-            <div class="image-col">
-              <a href="{{ sponsor.link }}">
-                <img class="supporter-logo" src="{{ sponsor.image }}"/>
-              </a>
-            </div>
-            <div class="content-col">
-              <div class="supporter-content">
-                <h4 class="supporter-name">{{ sponsor.title }}</h4>
-              <div class="supporter-text">{{ sponsor.description }}</div>
-              <a href="{{ sponsor.website }}" class="supporter-link btn">Visit Site</a>
-              </div>
-              
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-      {%- assign other-sponsors = site.sponsors | where: 'featured', false -%}
-      <h3 class="supporter-heading">Valued Sponsors</h3>
-      <div class="supporters-grid">
-      {%- for sponsor in other-sponsors -%}
-        <div class="supporter-col">
-          <a class="supporter-link" href="{{ sponsor.website }}">
-            <img class="supporter-logo"  src="{{ sponsor.image }}"/>
-            <div class="link-overlay">
-              <h4 class="supporter-name">{{ sponsor.title }}</h4>
-            </div>
-          </a>
-        </div>
-      {%- endfor -%}
-      </div>
-      </div>
-    </div>
-  </div>
-</section>
+{% include sponsors-section.html %}

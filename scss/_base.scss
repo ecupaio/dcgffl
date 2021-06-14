@@ -77,6 +77,7 @@ input:not([type="checkbox"]),input:not([type="radio"]),textarea {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	border: 0;
+	font-family: $body-font;
 	&:active, &:focus {
 		outline: 0;
 	}

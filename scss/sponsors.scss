@@ -1,0 +1,30 @@
+@import "vars.scss";
+@import "mixins.scss";
+#sponsors-page {
+  #reasons-section {
+    text-align: center;
+    padding-bottom: 0;
+    .inner-section {
+      max-width: $size-medium;
+    }
+    .reasons-list {
+      text-align: left;
+      .reason {
+        padding-left: 1.5rem;
+        position: relative;
+        margin-bottom: 1rem;
+        &:before {
+          position: absolute;
+          left: 0;
+          top: 0.25rem;
+          content: '\f067';
+          font-family: 'Font Awesome 5 Free';
+          font-weight: 700;
+        }
+      }
+    }
+    .cta {
+     margin-top: 1rem;   
+    }
+  }
+}

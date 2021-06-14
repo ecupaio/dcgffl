@@ -1,0 +1,89 @@
+<section id="supporters-section">
+  <div class="inner-section">
+    <div class="title-block">
+      {% if page.sponsors.title %}
+      <h2>{{ page.sponsors.title }}</h2>
+      {{ page.sponsors.text | markdownify }}
+      <a href="{{ page.sponsors.button.link }}" class="btn">{{ page.sponsors.button.text }}</a>
+      {% endif %}
+      <div class="sponsor-form-overlay">
+        <form id="sponsor-form">
+          <div class="close-sponsor-overlay">&times</div>
+          <div class="form-body">
+            <h4 class="form-title">Become a sponsor</h4>
+            <div class="form-field">
+              <label class="input-label">Your Name*</label>
+              <input class="form-input" placeholder="Jane Doe" name="entry.88522738" required/>
+            </div>
+            <div class="form-field">
+              <label class="input-label">Your Email*</label>
+              <input class="form-input" placeholder="janedoe@gmail.com" name="entry.1394618128" required/>
+            </div>
+            <div class="form-field">
+              <label class="input-label">Your Phone Number*</label>
+              <input class="form-input" placeholder="555-555-5555" name="entry.1355338438" required/>
+            </div>
+            <div class="form-field">
+              <label class="input-label">Business Name*</label>
+              <input class="form-input" placeholder="Jane's Place" name="entry.1738014184" required/>
+            </div>
+            <div class="form-field">
+              <label class="input-label">Business Website</label>
+              <input class="form-input" placeholder="www.janesplace.com" name="entry.1484902974" />
+            </div>
+            <div class="form-field">
+              <label class="input-label">Business Info</label>
+              <textarea class="form-input textarea" placeholder="A brief description of your business" name="entry.1793332209"></textarea>
+            </div>
+            <div class="submit-field">
+              <button type="submit" class="btn white">Contact us</button>
+            </div>
+          </div>
+          <div class="form-success">
+            {{ page.sponsors.success }}
+          </div>
+        </form>
+      </div>
+    </div>
+    <div class="supporter-block">
+      <h3 class="supporter-heading">Featured Sponsors</h3>
+      <div class="featured-supporters">
+        {% assign featured-sponsors = site.sponsors | where: 'featured', true %}
+        {% for sponsor in featured-sponsors %}
+        <div class="supporters-slide">
+          <div class="slide-content">
+            <div class="image-col">
+              <a href="{{ sponsor.link }}">
+                <img class="supporter-logo" src="{{ sponsor.image }}"/>
+              </a>
+            </div>
+            <div class="content-col">
+              <div class="supporter-content">
+                <h4 class="supporter-name">{{ sponsor.title }}</h4>
+              <div class="supporter-text">{{ sponsor.description }}</div>
+              <a href="{{ sponsor.website }}" class="supporter-link btn">Visit Site</a>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {%- assign other-sponsors = site.sponsors | where: 'featured', false -%}
+      <h3 class="supporter-heading">Valued Sponsors</h3>
+      <div class="supporters-grid">
+      {%- for sponsor in other-sponsors -%}
+        <div class="supporter-col">
+          <a class="supporter-link" href="{{ sponsor.website }}">
+            <img class="supporter-logo"  src="{{ sponsor.image }}"/>
+            <div class="link-overlay">
+              <h4 class="supporter-name">{{ sponsor.title }}</h4>
+            </div>
+          </a>
+        </div>
+      {%- endfor -%}
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
