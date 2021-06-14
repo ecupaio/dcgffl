@@ -1,0 +1,73 @@
+---
+layout: default
+---
+<section id="about-section">
+  <div class="inner-section">
+    <h1 class="section-title">{{ page.title }}</h1>
+    {{ content }}
+  </div>
+</section>
+<section id="locations-section">
+  <div class="inner-section">
+    <h2 class="section-title">{{ page.locations.title }}</h2>
+    <div class="locations-list">
+      {% for location in page.locations.list %}
+      <div class="location-col">
+        <div class="location">
+          <h4 class="location-title">{{ location.title }}</h4>
+          <div class="location-image">
+            <a href="{{ location.map-link }}"><img src="{{ location.image }}"/></a>
+          </div>
+          <div class="location-info">
+            {{ location.info | markdownify }}
+          </div>
+
+          <div class="location-addr">
+            <div class="addr-line1">
+              {{ location.address }}
+            </div>
+            <div class="addr-line2">
+              {{ location.city }}, {{ location.state }} {{ location.zip }}
+            </div>
+          </div>
+          <div class="location-link">
+            <a href="{{ location.map-link }}">Get Directions <i class="fa fa-map-marker-alt"></i></a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section id="board-section">
+  <div class="inner-section">
+    <h2>{{ page.board.title }}</h2>
+    {{ page.board.text | markdownify }}
+    <a class="btn {% if page.board.button.visible == false %}hidden{% endif %}" href="{{ page.board.button.link }}">{{ page.board.button.text }}</a>
+    <div class="board-info">
+      <h3>{{ page.board.info.title }}</h3>
+      {{ page.board.info.text | markdownify }}
+    </div>
+    <div class="board-members">
+      <h3>{{ page.board.members.title }}</h3>
+      <div class="members-list">
+        {% for member in page.board.members.list %}
+        <div class="member-col">
+          <div class="member">
+            <div class="member-image">
+              <img src="{{ member.image }}"/>
+            </div>
+            <h4 class="member-name">
+              {{ member.name }}
+            </h4>
+            <div class="member-title">
+              {{ member.title }}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</section>

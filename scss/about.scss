@@ -1,0 +1,42 @@
+@import "mixins.scss";
+@import "vars.scss";
+#about-page {
+  .section-title {
+    text-align: center;
+  }
+  #about-section {
+    .inner-section {
+      max-width: $size-large;
+    }
+  }
+  #locations-section {
+    .locations-list {
+      display: flex;
+      background-color: $lt-grey;
+      
+      @include bp-medium {
+        display: block;
+      }
+      .location-col {
+        padding: 1rem;
+        height: 100%;
+        
+      }
+      .location {
+        padding: 1rem;
+        background-color: $white;
+        border-radius: $border-radius;
+        height: 100%;
+
+        @include box-shadow;
+        .location-title {
+          text-align: center;
+        }
+        .location-image {
+          
+          overflow: hidden;
+        }
+      }
+    }
+  }
+}
