@@ -1,0 +1,53 @@
+@import 'mixins.scss';
+@import 'vars.scss';
+#elections-awards-page {
+  #elections-section {
+    .inner-section {
+      max-width: $size-large;
+    }
+    .page-title {
+      text-align: center; 
+    }
+    .elections-intro {
+      text-align: center;
+      
+      margin: 0 auto 1rem;
+    }
+    .positions-list {
+      
+    }
+  }
+}
+#awards-section {
+  .inner-section {
+    max-width: $size-large;
+  }
+  .awards-intro {
+    text-align: center;
+    margin: 0 auto 1rem;
+  }
+  .awards-list {
+    .award {
+      .award-winners {
+        .winners-title {
+          i {
+            @include transition(transform);
+          }
+          &.active {
+            i {
+              transform: rotate(180deg);
+            }
+          }
+        }
+        .winners-list {
+          display: none;
+          .winner {
+            .winner-year {
+              font-weight: 700;
+            }
+          }
+        }
+      }
+    }
+  }
+}
