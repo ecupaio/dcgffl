@@ -68,7 +68,12 @@ collections:
   rec-playoffs:
     output: true
     sitemap: false
-    permalink: /recreation-league/playoffs/:title/   
+    permalink: /recreation-league/playoffs/:title/
+  posts: 
+    output: true
+    sitemap: true
+    
+    permalink: /:title/
 defaults:
 - scope:
     type: 'pages'
@@ -86,3 +91,7 @@ defaults:
     type: 'rec-teams'
   values: 
     layout: team  
+- scope: 
+    type: 'posts'
+  values:
+    layout: post

@@ -2,7 +2,8 @@
 date: 2021-04-19 19:34:10 +0000
 title: 'Spring 2021 Player Survey Results '
 attachments:
-- "/img/dcgffl-spring-2021-player-survey-results-v01.pdf"
+- title: DCGFFL Spring 2021 Player Survey Results
+  file: "/img/dcgffl-spring-2021-player-survey-results-v01.pdf"
 
 ---
 Thanks to everyone who completed the survey! Key takeaways:

@@ -1,0 +1,104 @@
+@import "vars.scss";
+@import "mixins.scss";
+#post {
+  #post-hero {
+    background-color: $red;
+    color: $white;
+    text-align: center;
+    .inner-section {
+      padding-bottom: 1rem;
+    }
+  }
+  #content-section {
+    padding: 0;
+    @include bp-medium {
+      padding: 0 2rem;   
+    }
+    .inner-section {
+      max-width: $size-medium;
+      margin-top: -2rem;
+      padding: 1rem 2rem;
+      @include box-shadow;
+      border-radius: $border-radius;
+      background-color: $white;
+      @include bp-medium {
+
+      }
+      .post-content {
+        border-bottom: 2px solid $lt-grey;
+        .attachments {
+          .attachment {
+            margin-bottom: 1rem;
+          }
+        }
+      }
+      .post-share {
+        display: flex;
+        padding-top: 1rem;
+        .share-col {
+          padding-right: 1rem;
+          .share-link {
+            background-color: $red;
+            color: $white;
+            height: 30px;
+            width: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            border: 1px solid $red;
+            @include transition(background-color,color);
+            &:hover {
+              background-color: $white;
+              color: $red;
+            }
+          }
+        }
+      }
+    }
+    
+  }
+  #recent-posts {
+    .inner-section {
+      .section-title {
+        text-align: center;
+        
+      }
+      .posts-grid {
+        background-color: $lt-grey;
+        display: flex;
+        @include bp-medium {
+          display: block;
+        }  
+        .post-col {
+          padding: 1rem;
+          flex:1 0 33.3333%;
+          
+          .post {
+            background-color: $white;
+            padding: 1rem;
+            @include box-shadow;
+            border-radius: $border-radius;
+            height: 100%;
+            .post-title {
+              margin-bottom: 0;
+            }
+            .post-date {
+              color: $grey2;
+              font-size: 16px;
+              margin-bottom: 0.5rem;
+            }
+            .post-exerpt {
+              margin-bottom: 0.5rem;
+            }
+
+          }
+        } 
+      }
+      .btn-row {
+        text-align: center;
+        margin-top: 1rem;
+      }
+    }
+  }
+}

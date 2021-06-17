@@ -1,8 +1,6 @@
 nav:
 - title: Home
-  link: "/"
-- title: About 
-  link: /about/  
+  link: "/"  
 - title: League
   link: /league/
 - title: Scoreboard
@@ -41,6 +39,10 @@ social:
 footer:
 - title: About
   link: /about/
+- title: News
+  link: /news/
+- title: Events
+  link: /events/    
 - title: Elections & Awards
   link: /elections/      
 - title: Rules & Policies

@@ -1,0 +1,31 @@
+@import "vars.scss";
+@import "mixins.scss";
+#news-page {
+  .inner-section {
+    max-width: $size-medium;
+  }
+  .page-title {
+    text-align: center;
+  }
+  .posts-list {
+    
+    .post {
+      padding: 0.5rem 0;
+      border-bottom: 2px solid $lt-grey;
+      .post-title {
+        margin-bottom: 0.5rem;
+      }
+      .post-preview {
+        margin-bottom: 0.5rem;
+      }
+    }
+
+  }
+  .btn-row {
+    margin-top: 2rem;
+    text-align: center;
+  }
+}
+#news-post {
+
+}
