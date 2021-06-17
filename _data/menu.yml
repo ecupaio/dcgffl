@@ -1,6 +1,8 @@
 nav:
 - title: Home
   link: "/"
+- title: About 
+  link: /about/  
 - title: League
   link: /league/
 - title: Scoreboard
@@ -15,6 +17,7 @@ nav:
   link: /sponsors/
 - title: Donate
   link: /donate/
+  
 logo: /img/dcgffl-logo.png
 social: 
 - title: Facebook 

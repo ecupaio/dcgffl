@@ -11,11 +11,12 @@
         border-bottom: 2px solid $lt-grey;
         padding: 0.5rem 0; 
         .season-title {
-          
+          color: $black;
           h4 {
             margin-bottom: 0;
           }
           i {
+            color: $red;
             @include transition(transform);
           }
           &.active {
