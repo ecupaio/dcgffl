@@ -45,6 +45,7 @@ collections:
     output: true  
   events: 
     output: true
+    permalink: /events/:title/
   games: 
     output: true
     sitemap: false
@@ -72,7 +73,6 @@ collections:
   posts: 
     output: true
     sitemap: true
-    
     permalink: /:title/
 defaults:
 - scope:
@@ -95,3 +95,7 @@ defaults:
     type: 'posts'
   values:
     layout: post
+- scope: 
+    type: 'events'
+  values: 
+    layout: event        

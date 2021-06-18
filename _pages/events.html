@@ -1,0 +1,59 @@
+---
+title: Events
+permalink: events
+css: events
+content-id: events-page
+scripts: 
+- events
+---
+<section id="events-section">
+  <div class="inner-section">
+    <h1 class="page-title">{{ page.title }}</h1>
+    <div class="events-grid">
+      <div class="months-list">
+        {% assign month-events = site.events | where_exp: 'event', 'event.date > site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" | reverse %}
+        {% for month in month-events %}
+        <div class="event-month" data-month="{{ month.name }}">
+          <h3 class="month-title">{{ month.name }}</h3>
+          <div class="events-list">
+            {% for event in month.items %}
+            <div class="event">
+              <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
+              {% if event.date and event.date != '' %}
+              <div class="event-date-time">
+                <div class="event-date">{{ event.date | date: '%B %e'}} | </div>
+                <div class="event-time">{{ event.time }}</div>
+              </div>
+              {% endif %}
+              <div class="event-location">
+                <a href="https://www.google.com/maps?q={{ event.location.address | url_encode }}+{{event.location.city | url_encode }}+{{ event.location.state | url_encode }}+{{ event.location.zip | url_encode }}"><i class="fa fa-map-marker-alt"></i> {{ event.location.name }}</a>
+              </div>
+              <div class="event-desc">
+                {{ event.content | truncate: 100, '...' }}
+              </div>
+              <div class="event-link">
+                <a href="{{ event.url }}">View Event</a>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="menu-col">
+        <div class="months-menu">
+          <h3 class="month-title">Months</h3>
+          <div class="menu-items">
+            {% for month in month-events %}
+            <div class="menu-link">
+              <a href="#" class="month-anchor">{{ month.name }}</a>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        
+      </div>
+    </div>
+    
+  </div>
+</section>

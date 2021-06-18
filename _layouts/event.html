@@ -1,0 +1,36 @@
+---
+layout: default
+content-id: event
+css: events
+---
+<section id="event-content">
+  <div class="inner-section">
+    <h1 class="event-title">{{ page.title }}</h1>
+    <div class="content-grid">
+      <div class="content-col details-col">
+        {{ content }}
+      </div>
+      <div class="content-col info-col">
+        <div class="event-info">
+          <div class="info-block date">
+            <i class="fa fa-calendar-alt"></i> <span class="info">{{ page.date | date: "%B %e, %Y"  }}</span>
+          </div>
+          <div class="info-block time">
+            <i class="fa fa-clock"></i> <span class="info">{{ page.time }}</span>
+          </div>
+          <div class="info-block location">
+            <a href="https://www.google.com/maps?q={{ page.location.address | url_encode }}+{{page.location.city | url_encode }}+{{ page.location.state | url_encode }}+{{ page.location.zip | url_encode }}" class="location-link"><i class="fa fa-map-marker-alt"></i> <span class="info">{{ page.location.name }}</span></a>
+          </div>
+          <div class="info-block map">
+            <iframe src="https://maps.google.com/maps?q={{ page.location.address | url_encode }}+{{page.location.city | url_encode }}+{{ page.location.state | url_encode }}+{{ page.location.zip | url_encode }}&output=embed" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+          
+          <div class="info-block button">
+            <a class="btn" href="{{ page.button.link }}">{{ page.button.text }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</section>

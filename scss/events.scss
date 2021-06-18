@@ -1,0 +1,108 @@
+@import "vars.scss";
+@import "mixins.scss";
+#events-page {
+  .page-title {
+    text-align: center;
+  }
+  .inner-section {
+    max-width: $size-large;
+  }
+  .events-grid {
+    display: flex;
+    @include bp-medium {
+      flex-flow: column-reverse wrap;
+    }
+  }
+  .months-list {
+    flex: 1 0 75%;
+    padding-right: 2rem;
+    @include bp-medium {
+      padding-right: 0;
+      padding-top: 1rem;
+    }
+    .event-month {
+      margin-bottom: 1rem;
+      .events-list {
+        .event {
+          padding: 1rem 0;
+          border-bottom: 2px solid $lt-grey;
+          .event-title {
+            a {
+              font-weight: 400;
+            }
+            margin-bottom: 0;
+          }
+          .event-date-time {
+            
+              & > div {
+                display: inline-block;
+                font-weight: 700;
+              }
+          }
+          .event-desc {
+            margin: 0.5rem 0;
+          }
+          
+        }
+      }
+    }
+  }
+  .menu-col {
+    flex: 1 0 25%;
+    background-color: $lt-grey;
+    padding: 0.5rem 1rem;
+    @include bp-medium {
+      padding-bottom: 1rem;
+    }
+    .months-menu {
+      
+      
+    }
+    .menu-items {
+      background-color: $white;
+      padding: 1rem;
+      border-radius: $border-radius;
+      @include box-shadow;
+      .menu-link {
+        &:not(:last-child) {
+          margin-bottom: 0.5rem;
+        }
+        
+      }
+    }
+  }
+}
+#event {
+  .inner-section {
+    max-width: $size-large;
+
+  }
+  .content-grid {
+    display: flex;
+    @include bp-medium {
+      flex-flow: column-reverse wrap;
+    }
+    .details-col {
+      padding-right: 2rem;
+      flex: 1 0 70%;
+      @include bp-medium {
+        padding-right: 0;
+        padding-top: 1rem;
+      }  
+    }
+    .info-col {
+      flex: 1 0 30%;
+      background-color: $lt-grey;
+      padding: 1rem;
+      .event-info {
+        background-color: $white;
+        padding: 1rem;
+        border-radius: $border-radius;
+        @include box-shadow;
+        .info-block {
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+  }
+}
