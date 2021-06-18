@@ -18,35 +18,35 @@ content-id: post
       <div class="content">
         {{ content }}
       </div>
+      {% if page.attachments and page.attachments.size > 0 %}
       <div class="attachments">
         {% for attachment in page.attachments %}
         <div class="attachment">
-          <a href="{{ attachment.link }}">{{ attachment.title }}</a>
+          <a href="{{ attachment.file }}" target="_blank">{{ attachment.title }}</a>
         </div>
         {% endfor %}
       </div>
+      {% endif %}
     </div>
-    {% if page.attachments.size > 0 %}
-    
-    {% endif %}
     <div class="post-share">
       <div class="share-col">
-        <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&body={{ page.url | url_encode }}" class="share-link">
+        <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url | url_encode }}" class="share-link">
           <i class="fab fa-twitter"></i>
         </a>
       </div>
       <div class="share-col">
-        <a href="{{ page.url }}" class="share-link fbook">
+        <a href="{{ site.url }}{{ page.url }}" class="share-link fbook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </div>
       <div class="share-col">
-        <a href="{{ page.url }}" class="share-link copy">
+        <a href="{{ site.url }}{{ page.url }}" class="share-link copy">
           <i class="fa fa-link"></i>
+          <input class="copy-text" value="{{ site.url }}{{ page.url }}" />
         </a>
       </div>
       <div class="share-col">
-        <a href="mailto:?subject{{ page.title | url_encode }}=&body={{ page.url | url_encode }}" class="share-link">
+        <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url | url_encode }}" class="share-link">
           <i class="fa fa-envelope"></i>
         </a>
       </div>

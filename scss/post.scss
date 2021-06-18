@@ -52,6 +52,52 @@
               background-color: $white;
               color: $red;
             }
+            &.copy {
+              position: relative;
+              .copy-text {
+                opacity: 0;
+                border: none;
+                z-index: -1;
+                width: 100%;
+                overflow: hidden;
+                position: absolute;
+              }
+              i {
+                position: relative;
+                &:before {
+                  backface-visibility: hidden;
+                  @include transition(transform);
+                  display: block;
+                  
+                }
+                &:after {
+                  content: '\f00c';
+                  font-family: "Font Awesome 5 Free"; 
+                  font-weight: 900;
+                  display: block;
+                  position: absolute;
+                  top: 50%;
+                  left: 50%;
+                  transform: translate(-50%,-50%) rotateY(180deg);
+                  transform-origin: center;
+                  backface-visibility: hidden;
+                  @include transition(transform);
+                }
+
+              }
+              &.active {
+                i {
+                  &:before {
+                    transform: rotateY(180deg);
+                  }
+                  &:after {
+                    transform: translate(-50%,-50%) rotateY(0deg);
+                  }
+                  
+
+                }
+              }
+            }
           }
         }
       }

@@ -43,8 +43,20 @@ layout: compress
     <!-- Slick -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
     {% endif %}
-    {% if page.share == true or page.layout == true %}
+    {% if page.share == true or layout.share == true %}
+    <!-- Twitter Web Intent  -->
+    <script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
     <!-- Facebook UI -->
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId            : '227787841708160',
+                autoLogAppEvents : true,
+                xfbml            : true,
+                version          : 'v11.0'
+            });
+        };
+    </script>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
     {% endif %}
     <!-- Sitewide scripts  -->
