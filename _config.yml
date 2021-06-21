@@ -74,6 +74,9 @@ collections:
     output: true
     sitemap: true
     permalink: /:title/
+  past-seasons: 
+    output: true
+    permalink: /past-seasons/:title/  
 defaults:
 - scope:
     type: 'pages'
