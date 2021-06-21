@@ -109,7 +109,7 @@ Another milestone for DC Gay Flag Football came in 2009, when the individuals in
 
 After years of informally gathering to play flag football, the DCGFFL launches its inaugural season in the Fall of 2010 as an official league.  Seven teams were created with 102 players, ending with the Orange Crush defeating Gang Green for the first league title. This championship game represented the culmination of years of hard work to bring a quality gay flag football league to Washington.
 
-Currently, the league fields 20 teams with approximately 270 players for a Fall and Spring season, hosts a summer tournament each year in Rehoboth Beach, Delaware and supports up to 5 [travel teams](http://dcgffl.org/travel-program/) that participate in annual tournaments at other cities across the country.
+Currently, the league fields 20 teams with approximately 270 players for a Fall and Spring season, hosts a summer tournament each year in Rehoboth Beach, Delaware and supports up to 5 [travel teams](/travel-program/) that participate in annual tournaments at other cities across the country.
 
 It is only through the hard work and dedication of many men and women, both straight and gay, from the DC community, that this amazing league has become what it is today.   It is in this spirit that the DCGFFL is excited to see what the next 20 years brings for flag football in DC.
 

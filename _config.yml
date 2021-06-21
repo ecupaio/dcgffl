@@ -102,3 +102,7 @@ defaults:
     type: 'events'
   values: 
     layout: event        
+- scope: 
+    type: 'past-seasons'
+  values: 
+    layout: past-seasons    

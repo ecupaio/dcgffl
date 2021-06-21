@@ -1,5 +1,39 @@
 @import "vars.scss";
 @import "mixins.scss";
-#past-seasons-page {
-  
+#past-season-page {
+  .past-season-grid {
+    display: flex;
+    @include bp-large {
+      display: block;
+    }
+    .season-col {
+      flex: 1 0 80%;
+      padding-right: 2rem;
+      @include bp-large {
+        padding-right: 0;
+        padding-bottom: 2rem;
+        
+      }  
+    }
+    .menu-col {
+      flex: 1 0 20%;
+      background-color: $lt-grey;
+      padding: 1rem;
+      
+      .seasons-menu {
+        background-color: $white;
+        padding: 1rem;
+        border-radius: $border-radius;
+        @include box-shadow;
+        .season {
+          margin-bottom: 0.5rem;
+          .season-link {
+            &.active {
+              color: $black;
+            }
+          }
+        }
+      }
+    }
+  }
 }

@@ -1,0 +1,43 @@
+---
+layout: default
+css: past-seasons
+content-id: past-season-page
+scripts:
+- past-seasons
+---
+<section id="content-section">
+  <div class="inner-section">
+    <div class="past-season-grid">
+      <div class="grid-col season-col">
+        <div class="col-content">
+          {% if page.url == '/past-seasons' %}
+          {% assign season = site.past-seasons | sort: 'date' | reverse | first %}
+          {% else %}
+          {% assign season = page %}
+          {% endif %}
+          <div class="title-block">
+            <h3 class="season">{{ season.title }}</h3>
+          </div>
+          <div class="content-block">
+            {{ season.content }}
+          </div>
+        </div>
+      </div>
+      <div class="grid-col menu-col">
+        <div class="col-content">
+          <h4 class="menu-title">Past Seasons</h4>
+          <div class="seasons-menu">
+            <div class="seasons-list">
+              {% assign past-seasons = site.past-seasons | sort: 'date' | reverse %}
+              {% for season in past-seasons %}
+              <div class="season">
+                <a class="season-link" href="{{ season.url }}">{{ season.title }}</a>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
