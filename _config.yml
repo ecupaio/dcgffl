@@ -77,6 +77,8 @@ collections:
   past-seasons: 
     output: true
     permalink: /past-seasons/:title/  
+  power-rankings: 
+    output: true  
 defaults:
 - scope:
     type: 'pages'
@@ -106,3 +108,7 @@ defaults:
     type: 'past-seasons'
   values: 
     layout: past-seasons    
+- scope: 
+    type: 'power-rankings'
+  values: 
+    layout: power-rankings    

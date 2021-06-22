@@ -1,0 +1,55 @@
+---
+content-id: power-rankings
+css: power-rankings
+layout: default
+---
+<section class="post-section">
+  <div class="inner-section">
+    <div class="post-content">
+      {{ page.id }}
+      {% if page.id == '/power-rankings' %}
+      {% assign power-ranking = site.power-rankings | sort: 'date' | reverse | first %}
+      {% else %}
+      {% assign power-ranking = page %}
+      {% endif %}
+      <h1 class="page-title">Power Rankings</h1>
+      <h3 class="post-title">{{ power-ranking.title }}</h3>
+      <div class="ranking-list">
+        {% for ranking in power-ranking.rankings %}
+        {% assign team = site.teams | where: "path", ranking.team | first %}
+        {% if team.name != '' %}
+        {% assign team-name = team.name %}
+        {% else %}
+        {% assign team-name = team.color %}
+        {% endif %}
+        <div class="ranking">
+          <div class="team-rank-record">
+            <span class="rank">{{ forloop.index }}.</span> <span class="team">{{ team-name }}</span> {% if team.name !=''%}<span class="team-color">({{ team.color }})</span>{% endif %} <span class="record">{{ ranking.record }}</span>
+          </div>
+          <div class="text">
+            {{ ranking.text | markdownify }}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="posts-nav">
+      {% if page.id == '/power-rankings' %}
+        {% assign rankings = site.power-rankings | sort: 'date' | reverse  %}
+        {% assign prev = rankings[1] %}
+      {% else %}
+        {% assign next = page.next %}
+        {% assign prev = page.previous %}
+      {% endif %}
+      {% if page.id != '/power-rankings' %}
+      <div class="nav-item">
+        
+       <a href="{{ next.url }}">Next Week</a>
+      </div>
+      {% endif %}
+      <div class="nav-item">
+        <a href="{{ prev.url }}">Previous Week</a>
+       </div>
+    </div>
+  </div>
+</section>
