@@ -3,10 +3,11 @@
   <div class="footer-body">
     <div class="links-row">
       <div class="footer-col left">
+        <a class="logo-link" href="/">
+          <img src="{{ menu.logo }}" class="logo">
+        </a>
         <div class="footer-links">
-          <a  class="logo-link" href="/">
-            <img src="{{ menu.logo }}" class="logo">
-          </a>
+          
           {% for item in menu.footer %}
           <a class="footer-link" href="{{ item.link }}">{{ item.title }}</a>
           {% endfor %}

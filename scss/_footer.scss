@@ -12,32 +12,40 @@ footer {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      @include bp-medium {
+      @include bp-large {
         display: block;
       }
       .footer-col {
         &.left {
+          display: flex;
+          align-items: center;
+          padding-right: 1rem;
+          @include bp-large {
+            display: block;
+            text-align: center;
+            padding-right: 0;
+          }
+          .logo-link {
+            margin-right: 2rem;
+            @include bp-large {
+              margin-right: 0;
+              margin-bottom: 1rem;
+            }  
+            .logo {
+              max-height: 100px;
+              width: auto;
+            }
+          }
           .footer-links {
             display: flex;
-            align-items: center;
-            
-            @include bp-medium {
-              flex-flow: column;
-            }  
-            .logo-link {
-              margin-right: 2rem;
-              @include bp-medium {
-                margin-right: 0;
-                margin-bottom: 1rem;
-              }  
-              .logo {
-                height: 100px;
-              }
+            flex-flow: row wrap;  
+            @include bp-large {
+              flex-direction: column;
             }
             .footer-link {
               &:not(:last-child) {
                 margin-right: 1rem;
-                @include bp-medium {
+                @include bp-large {
                   margin-right: 0;
                   margin-bottom: 1rem;
                 }  
@@ -51,7 +59,7 @@ footer {
           
           .social-links {
             margin-bottom: 1rem;
-            @include bp-medium {
+            @include bp-large {
               margin-top: 1rem;
               text-align: center;
             }
@@ -71,11 +79,12 @@ footer {
       display: flex;
       justify-content: space-between;
       align-items: flex-end;
-      @include bp-medium {
+      @include bp-large {
         flex-direction: column-reverse;
+        align-items: center;
       }
       .info {
-        @include bp-medium {
+        @include bp-large {
           margin-top: 1rem;
         }  
         .copyright {
@@ -94,14 +103,14 @@ footer {
             display: flex;
             flex-flow: row wrap;
             justify-content: flex-end;
-            @include bp-medium {
+            @include bp-large {
               justify-content:center ;
             }  
             .form-title {
               width: 100%;
               margin-bottom: 0.5rem;
               text-align: right;
-              @include bp-medium {
+              @include bp-large {
                 text-align: center;
               }
             }

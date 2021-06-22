@@ -10,7 +10,7 @@ scripts:
     <div class="past-season-grid">
       <div class="grid-col season-col">
         <div class="col-content">
-          {% if page.url == '/past-seasons' %}
+          {% if page.id == '/past-seasons' %}
           {% assign season = site.past-seasons | sort: 'date' | reverse | first %}
           {% else %}
           {% assign season = page %}

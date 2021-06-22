@@ -6,7 +6,6 @@ layout: default
 <section class="post-section">
   <div class="inner-section">
     <div class="post-content">
-      {{ page.id }}
       {% if page.id == '/power-rankings' %}
       {% assign power-ranking = site.power-rankings | sort: 'date' | reverse | first %}
       {% else %}

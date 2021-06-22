@@ -47,7 +47,9 @@ footer:
 - title: Rules & Policies
   link: /rules/  
 - title: Past Seasons
-  link: /past-seasons/  
+  link: /past-seasons/
+- title: Power Rankings
+  link: /power-rankings/    
 announcement: 
   text: |-
     Here's some text for an announcement. You can add a [link](/).
