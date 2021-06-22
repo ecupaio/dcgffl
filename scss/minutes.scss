@@ -1,37 +1,5 @@
 @import 'mixins.scss';
 @import 'vars.scss';
 #minutes-page {
-  #minutes-section {
-    .page-title {
-      text-align: center;
-    }
-    .seasons-list {
-      max-width: $size-small;
-      .season {
-        border-bottom: 2px solid $lt-grey;
-        padding: 0.5rem 0; 
-        .season-title {
-          color: $black;
-          h4 {
-            margin-bottom: 0;
-          }
-          i {
-            color: $red;
-            @include transition(transform);
-          }
-          &.active {
-            i {
-              transform: rotate(180deg);
-            }
-          }
-        }
-        .minutes-list {
-          display: none;
-          .minute {
-            margin: 1rem 0;
-          }
-        }
-      } 
-    }
-  }
+  
 }
