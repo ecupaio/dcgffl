@@ -111,4 +111,8 @@ defaults:
 - scope: 
     type: 'power-rankings'
   values: 
-    layout: power-rankings    
+    layout: power-rankings
+- scope: 
+    type: 'redirects'
+  values: 
+    layout: redirect          

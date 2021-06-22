@@ -1,22 +1,7 @@
 @import 'mixins.scss';
 @import 'vars.scss';
 #elections-awards-page {
-  #elections-section {
-    .inner-section {
-      max-width: $size-large;
-    }
-    .page-title {
-      text-align: center; 
-    }
-    .elections-intro {
-      text-align: center;
-      
-      margin: 0 auto 1rem;
-    }
-    .positions-list {
-      
-    }
-  }
+  
 }
 #awards-section {
   .inner-section {

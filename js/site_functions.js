@@ -92,5 +92,15 @@ $(function(){
       $('#sponsor-form .form-body').slideUp();
       $('#sponsor-form .form-success').slideDown();
     });
-  })
+  });
+  //anchor link
+  $('a[href^="#"]').click(function(e) {
+    e.preventDefault();
+    var anchor = $(this).attr('href');
+    if (anchor.length > 1) {
+      $('html,body').animate({
+        scrollTop: $(anchor).offset().top - 117
+      });
+    }
+  });
 });

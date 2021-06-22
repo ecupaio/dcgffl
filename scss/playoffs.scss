@@ -77,3 +77,39 @@
     }
   }
 }
+#playoff-lp {
+  #playoff-intro {
+    text-align: center;
+  }
+  #results-section {
+    .playoffs-list {
+      background-color: $lt-grey;
+      padding: 1rem;
+      display: flex;
+      justify-content: center;
+      .playoff-block {
+        padding: 1rem;
+        width: 25%;
+        
+        @include bp-large {
+          width: 33.3333%;
+        }
+        @include bp-medium {
+          width: 50%;
+        }
+        @include bp-small {
+          width: 100%;
+        }
+        .playoff {
+          height: 100%;
+          background-color: $white;
+          text-align: center;
+          padding: 1rem;
+          border-radius: $border-radius;
+          @include box-shadow;
+
+        }
+      }
+    }
+  }
+}

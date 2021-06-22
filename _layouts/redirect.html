@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url={{ page.redirect_url }}">
-    <link rel="canonical" href="{{ page.redirect_url }}" />
+    {% if page.redirect_url and page.redirect_url != '' %}
+    {% assign redirect = page.redirect_url %}
+    {% elsif page.redirect_path and page.redirect_path !='' %}
+    {% capture redirect %}
+    {{ site.url }}{{ page.redirect_path }}
+    {% endcapture %}
+    {% endif %}
+    <meta http-equiv="refresh" content="0; url={{ redirect }}">
+    <link rel="canonical" href="{{ redirect }}" />
   </head>
 </html>

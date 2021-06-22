@@ -39,39 +39,3 @@ layout: default
     </div>
   </div>
 </section>
-<section id="board-section">
-  <div class="inner-section">
-    <div class="board-intro">
-      <h2 class="intro-title">{{ page.board.title }}</h2>
-      <div class="intro-text">
-        {{ page.board.text | markdownify }}
-      </div>
-      <a class="btn {% if page.board.button.visible == false %}hidden{% endif %}" href="{{ page.board.button.link }}">{{ page.board.button.text }}</a>
-    </div>
-    <div class="board-info">
-      <h3>{{ page.board.info.title }}</h3>
-      {{ page.board.info.text | markdownify }}
-    </div>
-    <div class="board-members">
-      <h3 class="members-title">{{ page.board.members.title }}</h3>
-      <div class="members-list">
-        {% for member in page.board.members.list %}
-        <div class="member-col">
-          <div class="member">
-            <div class="member-image">
-              <img src="{{ member.image }}"/>
-            </div>
-            <h4 class="member-name">
-              {{ member.name }}
-            </h4>
-            <div class="member-title">
-              {{ member.title }}
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-
-  </div>
-</section>

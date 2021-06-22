@@ -49,8 +49,8 @@ content-id: playoff-page
                 {% endif %}
               {% endif %}
               <div class="team-score {{ winner }}">
-                <div class="team">
-                {% assign team = site.rec-teams | where: "path", item.team | first %}
+                <div class="team">  
+                {% assign team = site.teams | where: "path", item.team | first %}
                 {% if team.name and team.name != '' %}
                 {% assign team-name = team.name %}
                 {% else %}

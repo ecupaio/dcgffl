@@ -1,4 +1,4 @@
 ---
 permalink: /schedules/
-redirect_url: /score-board/
+redirect_path: /score-board/
 ---

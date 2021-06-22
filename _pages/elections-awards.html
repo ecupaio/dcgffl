@@ -1,18 +1,11 @@
 ---
-title: Elections & Awards
-permalink: /elections/
+title: Awards
+permalink: /awards/
 content-id: elections-awards-page
 scripts: 
 - elections-awards
 css: elections-awards
-elections: 
-  title: Elections
-  text: |-
-    The seven board positions are listed below. Terms are 1 year long, with staggered election cycles between Fall and Spring seasons.  Commissioner, Communications, and At-Large selected in summer; Treasurer, Social, Players, and Operations are selected in winter. 
-  button: 
-    text: Vote now
-    link: '#'
-    visible: true
+
 awards: 
   title: Awards 
   text: Voting for the awards is open. Cast your ballot now!
@@ -55,27 +48,6 @@ awards:
     - name: ''
       year: ''
 ---
-<section id="elections-section">
-  <div class="inner-section">
-    <h1 class="page-title">{{ page.title }}</h1>
-    <div class="elections-intro">
-      <h2 class="intro-title">{{ page.elections.title }}</h2>
-      <div class="intro-text">
-        {{ page.elections.text | markdownify }}
-      </div>
-      <a href="{{ page.elections.button.link}}" class="btn {% if page.elections.button.visible == false %}hidden{% endif %}">{{ page.elections.button.text }}</a>
-    </div>
-    <div class="positions-list">
-      {% assign positions = site.pages | where: "id", "/about" | first %}
-      {% for position in positions.board.members.list %}
-      <div class="position">
-        <h3 class="position-title">{{ position.title }}</h3>
-        <div class="position-description">{{ position.description | markdownify }}</div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
 <section id="awards-section">
   <div class="inner-section">
     <div class="awards-intro">

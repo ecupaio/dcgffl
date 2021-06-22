@@ -1,6 +1,7 @@
 ---
 title: Season 20 Playoffs
 season: 20
+champion: _teams/s20-red.md
 rounds:
 - title: Final Round
   games:

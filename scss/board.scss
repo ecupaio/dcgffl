@@ -1,0 +1,109 @@
+@import "vars.scss";
+@import "mixins.scss";
+#board-section {
+  .board-intro {
+    text-align: center;
+    max-width: $size-large;
+    margin: 0 auto 2rem;
+  }
+  .board-info {
+    margin-bottom: 2rem;
+  }
+  .board-members {
+    .members-title {
+      text-align: center;
+    }
+    .members-list {
+      display: flex;
+      justify-content: center;
+      flex-flow: row wrap;
+      background-color: $lt-grey;
+      .member-col {
+        width: 33.3333%;
+        text-align: center;
+        padding: 1rem;
+        @include bp-large {
+          width: 50%;
+        }
+        @include bp-medium {
+          width: 100%;
+        }
+        .member {
+          background-color: $white;
+          
+          padding: 1rem;
+          border-radius: $border-radius;
+          @include box-shadow;
+          .member-image {
+            height: 175px;
+            width: 175px;
+            overflow: hidden;
+            border-radius: 50%;
+            margin: auto;
+            img {
+              height: 100%;
+              width: 100%;
+              object-fit: cover;
+              object-position: center;
+            }
+          }
+          .member-name {
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+}
+#minutes-section {
+  .inner-section {
+    max-width: $size-large;
+  }
+  .section-title {
+    text-align: center;
+  }
+  .seasons-list {
+    max-width: $size-small;
+    .season {
+      border-bottom: 2px solid $lt-grey;
+      padding: 0.5rem 0; 
+      .season-title {
+        color: $black;
+        h4 {
+          margin-bottom: 0;
+        }
+        i {
+          color: $red;
+          @include transition(transform);
+        }
+        &.active {
+          i {
+            transform: rotate(180deg);
+          }
+        }
+      }
+      .minutes-list {
+        display: none;
+        .minute {
+          margin: 1rem 0;
+        }
+      }
+    } 
+  }
+}
+#elections-section {
+  .inner-section {
+    max-width: $size-large;
+  }
+  .section-title {
+    text-align: center; 
+  }
+  .elections-intro {
+    text-align: center;
+    
+    margin: 0 auto 1rem;
+  }
+  .positions-list {
+    
+  }
+}
