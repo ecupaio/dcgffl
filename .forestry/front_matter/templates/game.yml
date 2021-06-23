@@ -48,8 +48,8 @@ fields:
     options: []
     source:
       type: documents
-      section: pages
-      file: _pages/about.md
+      section: locations
+      file: _data/locations.yml
       path: ''
   label: location
 - type: datetime
