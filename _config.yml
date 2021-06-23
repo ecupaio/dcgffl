@@ -95,7 +95,11 @@ defaults:
 - scope: 
     type: 'rec-teams'
   values: 
-    layout: team  
+    layout: team
+- scope: 
+    type: 'rec-playoffs'
+  values: 
+    layout: playoff       
 - scope: 
     type: 'posts'
   values:
