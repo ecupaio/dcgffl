@@ -41,19 +41,16 @@ fields:
     required: false
   label: field
 - name: location
-  type: field_group
-  config: {}
-  fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: title
-  - name: link
-    type: text
-    config:
-      required: false
-    label: link
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: pages
+      file: _pages/about.md
+      path: locations
   label: location
 - type: datetime
   name: date
