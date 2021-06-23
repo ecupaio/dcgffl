@@ -7,13 +7,11 @@ teams-score:
   score: 27
 season: 20
 week: 1
-date: 2020-03-08 16:00:00 -0400
+date: 2020-03-08T16:00:00.000-04:00
 mvp: Mecha, OJ
 game-ball: Sarah, Ed
 sportsperson: Daniel, Mark
+location: _locations/carter-baron.md
+field: "2"
 
-location:
-  title: Carter Baron Fields
-  field: 1 
-  link: https://www.google.com/maps/place/Carter+Barron+Soccer+Fields/@38.955237,-77.037849,15z/data=!4m2!3m1!1s0x0:0xf34be6c5da82afa6?sa=X&ved=2ahUKEwjs7bHXjcXwAhXloFsKHcPGC_0Q_BIwE3oECD0QBQ
 ---
