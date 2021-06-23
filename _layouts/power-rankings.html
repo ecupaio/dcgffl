@@ -3,16 +3,20 @@ content-id: power-rankings
 css: power-rankings
 layout: default
 ---
-<section class="post-section">
+<section id="post-section">
   <div class="inner-section">
+    <h1 class="page-title">Power Rankings</h1>
     <div class="post-content">
       {% if page.id == '/power-rankings' %}
       {% assign power-ranking = site.power-rankings | sort: 'date' | reverse | first %}
       {% else %}
       {% assign power-ranking = page %}
       {% endif %}
-      <h1 class="page-title">Power Rankings</h1>
+      
       <h3 class="post-title">{{ power-ranking.title }}</h3>
+      {% if power-ranking.author and power-ranking.author !='' %}
+      <div class="post-author">By {{ power-ranking.author }}</div>
+      {% endif %}
       <div class="ranking-list">
         {% for ranking in power-ranking.rankings %}
         {% assign team = site.teams | where: "path", ranking.team | first %}
@@ -22,9 +26,16 @@ layout: default
         {% assign team-name = team.color %}
         {% endif %}
         <div class="ranking">
-          <div class="team-rank-record">
-            <span class="rank">{{ forloop.index }}.</span> <span class="team">{{ team-name }}</span> {% if team.name !=''%}<span class="team-color">({{ team.color }})</span>{% endif %} <span class="record">{{ ranking.record }}</span>
-          </div>
+          <h4 class="team-rank-record">
+            <span class="rank">{{ forloop.index }}</span>
+            <a class="team" href="{{ team.url }}">
+              <span class="team-name">{{ team-name }}</span>
+              {% if team.name !=''%}
+              <span class="team-color">({{ team.color }})</span>
+              {% endif %}
+            </a>
+            <span class="record">{{ ranking.record }}</span>
+          </h4>
           <div class="text">
             {{ ranking.text | markdownify }}
           </div>
@@ -40,15 +51,18 @@ layout: default
         {% assign next = page.next %}
         {% assign prev = page.previous %}
       {% endif %}
-      {% if page.id != '/power-rankings' %}
-      <div class="nav-item">
-        
-       <a href="{{ next.url }}">Next Week</a>
+      {% if prev.url.size > 0 %}
+      <div class="nav-item prev">
+        <a href="{{ prev.url }}"><i class="fa fa-arrow-left"></i> Previous Week</a>
       </div>
       {% endif %}
-      <div class="nav-item">
-        <a href="{{ prev.url }}">Previous Week</a>
-       </div>
+      {% if next.url.size > 0 %}
+      <div class="nav-item next">
+        
+       <a href="{{ next.url }}">Next Week <i class="fa fa-arrow-right"></i></a>
+      </div>
+      {% endif %}
+      
     </div>
   </div>
 </section>
