@@ -47,11 +47,12 @@ collections:
     output: true
     permalink: /events/:title/
   games: 
-    output: true
     sitemap: false
   teams: 
     output: true
     permalink: /teams/:title/    
+  locations: 
+    sitemap: false
   sponsors: 
     output: true
     sitemap: false  

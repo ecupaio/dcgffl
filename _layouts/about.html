@@ -11,17 +11,16 @@ layout: default
   <div class="inner-section">
     <h2 class="section-title">{{ page.locations.title }}</h2>
     <div class="locations-list">
-      {% for location in page.locations.list %}
+      {% for location in site.locations %}
       <div class="location-col">
         <div class="location">
           <h4 class="location-title">{{ location.title }}</h4>
-          <div class="location-image">
-            <a href="{{ location.map-link }}"><img src="{{ location.image }}"/></a>
+          <div class="location-map">
+            <iframe src="https://maps.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}&output=embed" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
           <div class="location-info">
             {{ location.info | markdownify }}
           </div>
-
           <div class="location-addr">
             <div class="addr-line1">
               {{ location.address }}
