@@ -47,8 +47,8 @@ fields:
     required: false
     options: []
     source:
-      type: documents
-      section: locations
+      type: pages
+      section: locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
       file: _data/locations.yml
       path: ''
   label: location
