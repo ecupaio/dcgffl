@@ -5,8 +5,6 @@ content-id: about-page
 css: about
 layout: about
 locations: 
-  title: Where We Play
-  list: 
   - title: Carter Barron Soccer Fields 
     image: /img/carter-barron-map.jpg
     info: The league plays here on most Sundays.
