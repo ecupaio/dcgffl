@@ -1,0 +1,25 @@
+list:
+- title: Carter Barron Soccer Fields 
+  image: '/img/carter-barron-map.jpg'
+  info: The league plays here on most Sundays.
+  address: 1698 Kennedy St NW
+  city: Washington
+  state: DC
+  zip: 20011
+  map-link: 'https://www.google.com/maps/place/Carter+Barron+Soccer+Fields/@38.955237,-77.0400377,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c8439fdbf671:0xf34be6c5da82afa6!8m2!3d38.955237!4d-77.037849'
+- title: The Fields at RFK Campus
+  image: /img/rfk-fields.jpg
+  info: The league plays here on select Sundays
+  address: 401 Oklahoma Ave NE 
+  city: Washington
+  state: DC
+  zip: 20002
+  map-link: 'https://www.google.com/maps/place/The+Fields+at+RFK+Campus/@38.8929136,-76.9735862,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b9d16223915b:0xff064ea0382228ea!8m2!3d38.8929136!4d-76.9713975'
+- title: Brentwood Hamilton Field
+  image: /img/brentwood-map.jpg
+  info: The rec league plays here on Fridays. Head north along the sidewalk construction to reach the entrance.
+  address: 1300 6th St NE
+  city: Washington
+  state: DC
+  zip: 20002
+  map-link: https://www.google.com/maps/place/Brentwood+Hamilton+Park/@38.9086518,-76.9979959,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8111dbabfe5:0xff56d0cac082a794!8m2!3d38.9086476!4d-76.9958072 
