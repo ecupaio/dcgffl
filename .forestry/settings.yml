@@ -5,6 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _data/locations.yml
+  label: Locations
+- type: document
   path: _data/menu.yml
   label: Menu
 - type: directory
