@@ -37,13 +37,11 @@ social:
   icon: <i class="fa fa-envelope"></i>
 footer:
 - title: About
-  link: /about/
-- title: News
-  link: /news/
-- title: Events
-  link: /events/    
-- title: Elections & Awards
-  link: /elections/      
+  link: /about/    
+- title: Board
+  link: /board/  
+- title: Awards
+  link: /awards/      
 - title: Rules & Policies
   link: /rules/  
 - title: Past Seasons
