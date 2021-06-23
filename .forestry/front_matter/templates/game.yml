@@ -35,11 +35,6 @@ fields:
     max: 2
     labelField: team
   label: teams
-- name: field
-  type: text
-  config:
-    required: false
-  label: field
 - name: location
   type: select
   default: []
@@ -52,6 +47,11 @@ fields:
       file: _data/locations.yml
       path: ''
   label: location
+- name: field
+  type: text
+  config:
+    required: false
+  label: field
 - type: datetime
   name: date
   label: date
