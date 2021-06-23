@@ -30,7 +30,7 @@ layout: default
             </div>
           </div>
           <div class="location-link">
-            <a href="{{ location.map-link }}">Get Directions <i class="fa fa-map-marker-alt"></i></a>
+            <a href="https://www.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}">Get Directions <i class="fa fa-map-marker-alt"></i></a>
           </div>
         </div>
       </div>
