@@ -5,6 +5,27 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _rec-playoffs
+  label: Rec Playoffs
+  create: documents
+  match: "**/*"
+  templates:
+  - playoff
+- type: directory
+  path: _rec-games
+  label: Rec Games
+  create: documents
+  match: "**/*"
+  templates:
+  - game
+- type: directory
+  path: _rec-teams
+  label: Rec Teams
+  create: documents
+  match: "**/*"
+  templates:
+  - team
+- type: directory
   path: _playoffs
   label: Playoffs
   create: documents
