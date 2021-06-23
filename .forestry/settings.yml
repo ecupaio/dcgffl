@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/locations.yml
   label: Locations
-  match: "**/*"
 - type: document
   path: _data/menu.yml
   label: Menu
