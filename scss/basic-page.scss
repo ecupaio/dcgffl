@@ -1,0 +1,12 @@
+@import 'mixins.scss';
+@import 'vars.scss';
+#basic-page {
+  #content-section {
+    .inner-section {
+      max-width: $size-large;
+    }
+    .page-title {
+      text-align: center;
+    }
+  }
+}
