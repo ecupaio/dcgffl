@@ -15,7 +15,7 @@ $(function() {
 
       var photos = data.photos.photo;
       $(photos).each(function(i,photo) {
-        console.log(photo);
+        
         var photoSlide = '<div class="photo-slide">'+
                             '<img  src="https://live.staticflickr.com/'+photo.server+'/'+photo.id+'_'+photo.secret+'_b.jpg" alt="DCGFFL game photo" />'+
                           '<div>';  
