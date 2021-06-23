@@ -1,10 +1,10 @@
 <section id="supporters-section">
   <div class="inner-section">
     <div class="title-block">
-      {% if page.sponsors.title %}
-      <h2>{{ page.sponsors.title }}</h2>
-      {{ page.sponsors.text | markdownify }}
-      <a href="{{ page.sponsors.button.link }}" class="btn">{{ page.sponsors.button.text }}</a>
+      {% if page.sponsors-section.title %}
+      <h2>{{ page.sponsors-section.title }}</h2>
+      {{ page.sponsors-section.text | markdownify }}
+      <a href="{{ page.sponsors-section.button.link }}" class="btn">{{ page.sponsors-section.button.text }}</a>
       {% endif %}
       <div class="sponsor-form-overlay">
         <form id="sponsor-form">
@@ -40,7 +40,7 @@
             </div>
           </div>
           <div class="form-success">
-            {{ page.sponsors.success }}
+            {{ page.form-success }}
           </div>
         </form>
       </div>
@@ -48,7 +48,13 @@
     <div class="supporter-block">
       <h3 class="supporter-heading">Featured Sponsors</h3>
       <div class="featured-supporters">
-        {% assign featured-sponsors = site.sponsors | where: 'featured', true %}
+        {% if page.id == '/sponsors' %}
+        {% assign sponsors = page.sponsors %}
+        {% else %}
+        {% assign sponsors-page = site.pages | where: "id", "/sponsors" | first %}
+        {% assign sponsors = sponsors-page.sponsors %}
+        {% endif %}
+        {% assign featured-sponsors = sponsors | where: 'featured', true %}
         {% for sponsor in featured-sponsors %}
         <div class="supporters-slide">
           <div class="slide-content">
@@ -69,7 +75,7 @@
         </div>
         {% endfor %}
       </div>
-      {%- assign other-sponsors = site.sponsors | where: 'featured', false -%}
+      {%- assign other-sponsors = sponsors | where: 'featured', false -%}
       <h3 class="supporter-heading">Valued Sponsors</h3>
       <div class="supporters-grid">
       {%- for sponsor in other-sponsors -%}
