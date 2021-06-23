@@ -32,8 +32,10 @@
                       <div class="time">{{ game.date | date: "%l:%M%p" }}</div>
                     </div>
                     <div class="location">
-                      <a href="{{ game.location.link }}" class="location-name">{{ game.location.title }}</a>
-                      <div class="location-field">Field: {{ game.location.field }}</div>
+                      {% assign location = site.locations | where: "path", game.location | first %}
+
+                      <a href="https://www.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}" class="location-name"><i class="fa fa-map-marker-alt"></i> {{ location.title }}</a>
+                      <div class="location-field">Field: {{ game.field }}</div>
                     </div>
                   </div>
                   <div class="team">
