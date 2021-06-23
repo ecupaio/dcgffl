@@ -4,9 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/locations.yml
+- type: directory
+  path: _locations
   label: Locations
+  create: documents
+  match: "**/*"
 - type: document
   path: _data/menu.yml
   label: Menu
