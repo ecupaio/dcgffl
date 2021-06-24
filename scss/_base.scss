@@ -6,6 +6,7 @@ body {
 	font-family: $body-font;
 	font-size: 16px;
 	color: $text_color;
+	
 	&.active {
 		overflow-y: hidden;
 	}
@@ -131,6 +132,7 @@ button {
 //body content 
 main {
  	padding-top: $nav-height;
+	background-color: $white;
 }
 section {
 	padding: 2rem;

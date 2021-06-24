@@ -104,6 +104,106 @@
     margin: 0 auto 1rem;
   }
   .positions-list {
+    .position {
+      .position-candidates {
+        .candidate-list {
+          display: flex;
+          background-color: $lt-grey;
+          justify-content: center;
+          flex-flow: row wrap;
+          .candidate-col {
+            width: 25%;
+            padding: 1rem;
+            @include bp-medium {
+              width: 50%;
+            }
+            @include bp-small {
+              width: 100%;
+            }
+            .candidate {
+              background-color: $white;
+              padding: 1rem;
+              border-radius: $border-radius;
+              @include box-shadow;
+              text-align: center;
+              .candidate-name {
+                
+              }
+              .candidate-image {
+                background-color: $lt-grey;
+                height: 150px;
+                width: 150px;
+                margin: 0 auto 1rem;
+                border-radius: 50%;
+                overflow: hidden;
+                position: relative;
+                .image {
+                  object-fit: cover;
+                  height: 100%;
+                  width: 100%;
+                  object-position: center;
+                  
+                }
+                .image-placeholder {
+                  position: absolute;
+                  
+                  top: 50%;
+                  left: 50%;
+                  transform: translate(-50%,-50%);
+                  i {
+                    color: $grey1;
+                    font-size: 90px;
+                    line-height: normal;
+                  }
+                }
+              }
+              .statement-overlay {
+                position: fixed;
+                height: 100%;
+                width: 100%;
+                background-color: rgba($black,0.95);
+                top: 0;
+                left: 0;
+                padding: 2rem;
+                @include transition(transform);
+                transform: translateY(-100%);
+                z-index: -1;
+                overflow-y: scroll;
+                //active
+                &.active {
+                  z-index: 10;
+                  transform: translateY(0%);
+                }
+                
+                
+                .candidate-statement {
+                  margin: auto;
+                  max-width: $size-small;
+                  text-align: right;
+                  .close-statement-overlay {
+                    color: $white;
+                    font-size: 2rem;
+                    display: inline-block; 
+                    &:hover {
+                      cursor: pointer;
+                    }
+                  }
+                  .statement-content {
+                    text-align: center;
+                    background-color: $white;
+                    border-radius: $border-radius;
+                    padding: 1rem;
+                    .statement-text {
+                      text-align: left;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
     
   }
 }

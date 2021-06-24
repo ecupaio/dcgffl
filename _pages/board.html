@@ -24,6 +24,15 @@ board:
         They communicate with Board members on their goals, timelines, and budgets, and lead regular Board meetings to ensure the needs of the DCGFFL are consistently addressed.  They communicate with league membership, and provide updates to the Board members on the state of the league.
 
         They organize elections for the Commissioner and Board members.  They work with the Budget and Legal Director to ensure strategic goals are set and budgets are created annually that comport with the goals and missions of the DCGFFL.
+      candidates: 
+      - name: Michael Zgoda
+        image: '/img/michael-zgoda.jpg'
+        statement: |-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      - name: Jim Bob
+        image: ''
+        statement: |-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     - title: Director of Communications
       name: Jim Roll
       image: /img/Jim_Roll.jpg
@@ -202,21 +211,53 @@ bylaws-minutes:
       <div class="position">
         <h3 class="position-title">{{ position.title }}</h3>
         <div class="position-description">{{ position.description | markdownify }}</div>
-        <div class="position-candiates">
-          {% for candidate in position.candidates %}
+        {% if position.candidates.size > 0 %}
+        <div class="position-candidates">
+          <h4 class="candidates-title">Candidates</h4>
+          <div class="candidate-list">
+            {% for candidate in position.candidates %}
           <div class="candidate-col">
             <div class="candidate">
               <div class="candidate-image">
-                <img src="{{ candidate.image }}"/>
+                <div class="image-placeholder">
+                  <i class="fa fa-user"></i>
+                </div>
+                {% if candidate.image != '' %}
+                <img src="{{ candidate.image }}" class="image"/>
+                {% endif %}
+                
               </div>
               <h5 class="candidate-name">{{ candidate.name }}</h5>
-              <div class="candidate-statement">
-                {{ candidate.statement | markdownify }}
+              <a class="statement-toggle" href="#">Statement</a>
+              <div class="statement-overlay">
+                
+                <div class="candidate-statement">
+                  <div class="close-statement-overlay"><span>&times;</span></div>
+                  <div class="statement-content">
+                    <div class="candidate-image">
+                      <div class="image-placeholder">
+                        <i class="fa fa-user"></i>
+                      </div>
+                      {% if candidate.image != '' %}
+                      <img src="{{ candidate.image }}" class="image"/>
+                      {% endif %}
+                    </div>
+                    <h4 class="statement-name">{{ candidate.name }}</h4>
+                    <div class="statement-position">{{ position.title }}</div>
+                    
+                    <div class="statement-text">
+                      {{ candidate.statement | markdownify }}
+                    </div>
+                  </div>
+                  
+                </div>
               </div>
             </div>
           </div>
           {% endfor %}
+          </div>
         </div>
+        {% endif %}
       </div>
       {% endfor %}
     </div>
