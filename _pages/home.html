@@ -110,6 +110,7 @@ sponsors-section:
         {% for event in events %}
         <div class="event-slide">
           <div class="event">
+            
             <div class="date-col">
               <h5 class="event-date">
                 <span class="date-month">{{ event.date | date: "%b" }}</span><br>
@@ -120,6 +121,7 @@ sponsors-section:
               <h4 class="event-title">{{ event.title }}</h4>
               <h5 class="event-time">{{ event.time }}</h5>
               <div class="event-desc">{{ event.content | strip_html | truncate: 95, '...' }}</div>
+              <a href="{{ event.url }}" class="event-link">View event</a>
             </div>
           </div>
         </div>
