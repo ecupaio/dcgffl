@@ -63,8 +63,9 @@ content-id: team
               <div class="date-time">{{ game.date | date: "%l:%M%p" }}</div>
             </div>
             <div class="game-location">
-              <a class="location-link" href="{{ game.location.link }}">{{ game.location.title }} <i class="fa fa-map-marker-alt"></i></a>
-              <div class="field">Field: {{ game.location.field }}</div>
+              {% assign location = site.locations | where: "path", game.location | first %}
+              <a class="location-link" href="https://www.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}">{{ location.title }} <i class="fa fa-map-marker-alt"></i></a>
+              <div class="field">Field: {{ game.field }}</div>
             </div>
             {% assign opponent = game.teams-score | where_exp: "item", "item.team != page.path"  %}
             {% assign opponent-name = site.teams | where: "path", opponent[0].team %}
