@@ -11,10 +11,12 @@ nav:
   link: /recreation-league/
 - title: Travel Program
   link: /travel-program/  
+- title: News
+  link: /news/
+- title: Events
+  link: /events/  
 - title: Sponsor
   link: /sponsors/
-- title: Donate
-  link: /donate/
 logo: /img/dcgffl-logo.png
 social: 
 - title: Facebook 
