@@ -36,8 +36,9 @@
             <div class="time">{{ game.date | date: "%l:%M%p" }}</div>
           </div>
           <div class="location">
-            <a href="{{ game.location.link }}" class="location-name">{{ game.location.title }}</a>
-            <div class="location-field">Field: {{ game.location.field }}</div>
+            {% assign location = site.locations | where: "path", game.location | first %}
+            <a href="{{ game.location.link }}" class="location-name">{{ location.title }}</a>
+            <div class="location-field">Field: {{ game.field }}</div>
           </div>
         </div>
         
