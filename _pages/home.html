@@ -52,33 +52,6 @@ sponsors-section:
 ---
 {% include slider-hero.html %}
 {% include scoreboard-feed.html games=site.games teams=site.teams %}
-<section id="play-options">
-  <h2 class="section-title">Play</h2>
-  <div class="inner-section">
-    <div class="options-list">
-      {% for option in page.play-options %}
-      <div class="option">
-        <div class="option-grid {% cycle 'odd','even' %}">
-          <div class="option-col image-col">
-            <img src="{{ option.image }}"/>
-          </div>
-          <div class="option-col text-col">
-            <div class="option-content">
-              <h3 class="option-title">{{ option.title }}</h3>
-              <div class="option-text">
-                {{ option.text | markdownify }}
-              </div>
-              <div class="option-button">
-                <a class="btn" href="{{option.button.link }}">{{ option.button.text }}</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
 <section id="news-events-section">
   <div class="inner-section">
     <h2>News & Events</h2>
@@ -134,4 +107,32 @@ sponsors-section:
     </div>
   </div>
 </section>
+<section id="play-options">
+  <h2 class="section-title">Play</h2>
+  <div class="inner-section">
+    <div class="options-list">
+      {% for option in page.play-options %}
+      <div class="option">
+        <div class="option-grid {% cycle 'odd','even' %}">
+          <div class="option-col image-col">
+            <img src="{{ option.image }}"/>
+          </div>
+          <div class="option-col text-col">
+            <div class="option-content">
+              <h3 class="option-title">{{ option.title }}</h3>
+              <div class="option-text">
+                {{ option.text | markdownify }}
+              </div>
+              <div class="option-button">
+                <a class="btn" href="{{option.button.link }}">{{ option.button.text }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 {% include sponsors-section.html %}
