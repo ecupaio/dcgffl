@@ -1,6 +1,20 @@
 @import "vars.scss";
 @import "mixins.scss";
 #playoff-page {
+  #title-section {
+    text-align: center;
+    padding-bottom: 0;
+    .champ-block {
+      margin-top: 2rem;;
+      .champ-icon {
+        font-size: 3rem;
+        
+      }
+      .champ-name {
+        margin-bottom: 0;
+      }
+    }
+  }
   .rounds-list {
     .round {
       margin-bottom: 1rem;
