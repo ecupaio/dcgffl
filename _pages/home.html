@@ -1,54 +1,70 @@
 ---
 title: Home
 layout: default
-permalink: /
+permalink: "/"
 slick: true
 css: home
 content-id: home
-scripts: 
+scripts:
 - home
-hero: 
+hero:
   title: Get off the bench<br>Get in the game!
-  text: |-
-    Welcome to the website for the DC Gay Flag Football League (DCGFFL), DC’s premier gay flag football league. The DCGFFL started informally in 1994 and became an official league in 2010. Since its early beginnings, the league has grown to over 200 players and has fielded as many as 20 teams in a season!  We’re a fun community of athletes, family, and friends, and we hope you’ll join and get to know us!
-  button: 
-    text: Play
-    link: '#play-options'
-  placeholder: /img/home-hero-placeholder.jpg  
-play-options: 
+  text: Welcome to the website for the DC Gay Flag Football League (DCGFFL), DC’s
+    premier gay flag football league. The DCGFFL started informally in 1994 and became
+    an official league in 2010. Since its early beginnings, the league has grown to
+    over 200 players and has fielded as many as 20 teams in a season!  We’re a fun
+    community of athletes, family, and friends, and we hope you’ll join and get to
+    know us!
+  button:
+    text: News & Events
+    link: "#news-events-section"
+    visible: true
+  placeholder: "/img/home-hero-placeholder.jpg"
+play-options:
 - title: The League
-  text: |-
-    The league is open to all skill levels, from those who have played for years to those who have never been on a football field. Additionally, is it a fellowship for both LGBTQ+ individuals and straight allies. Come check out our games, meet some amazing people, and consider joining us as a player!
-  image: /img/league-option.jpg
-  button: 
+  text: The league is open to all skill levels, from those who have played for years
+    to those who have never been on a football field. Additionally, is it a fellowship
+    for both LGBTQ+ individuals and straight allies. Come check out our games, meet
+    some amazing people, and consider joining us as a player!
+  image: "/img/league-option.jpg"
+  button:
     text: Learn more
-    link: /league/
+    link: "/league/"
 - title: Recreation League
-  text: |-
-    The Recreation League is a supplemental league that runs in tandem to the regular league and is primarily for those who want to develop their skills, try new positions, or try out the DCGFFL for the first time.  The Recreation League is open to everyone, even those not playing in the regular season.
-  image: /img/rec-option.jpg
-  button: 
+  text: The Recreation League is a supplemental league that runs in tandem to the
+    regular league and is primarily for those who want to develop their skills, try
+    new positions, or try out the DCGFFL for the first time.  The Recreation League
+    is open to everyone, even those not playing in the regular season.
+  image: "/img/rec-option.jpg"
+  button:
     text: Learn more
-    link: /recreation-league/
+    link: "/recreation-league/"
 - title: Travel Program
-  text: The DCGFFL’s wealth of talent comes together annually to represent DC at two national tournaments — Pride Bowl (Chicago, early June) and Gay Bowl (annually rotating city, early fall). 2019 was a phenomenal year for the DCGFFL Travel Program, every single DC team made the semifinals at Gay Bowl and for the second year in a row, the Generals took home the championship! We are incredibly proud of all our players!
-  image: /img/travel-program-option.jpg
-  button: 
+  text: The DCGFFL’s wealth of talent comes together annually to represent DC at two
+    national tournaments — Pride Bowl (Chicago, early June) and Gay Bowl (annually
+    rotating city, early fall). 2019 was a phenomenal year for the DCGFFL Travel Program,
+    every single DC team made the semifinals at Gay Bowl and for the second year in
+    a row, the Generals took home the championship! We are incredibly proud of all
+    our players!
+  image: "/img/travel-program-option.jpg"
+  button:
     text: Learn more
-    link: /travel-program/
-- title: Rules & Policies 
-  text: The DC Gay Flag Football League follows the most recently adopted Gay Bowl rules, as written by the National Gay Flag Football League.
-  image: /img/rules-option.jpg
-  button: 
+    link: "/travel-program/"
+- title: Rules & Policies
+  text: The DC Gay Flag Football League follows the most recently adopted Gay Bowl
+    rules, as written by the National Gay Flag Football League.
+  image: "/img/rules-option.jpg"
+  button:
     text: Learn more
-    link: /rules/    
+    link: "/rules/"
 sponsors-section:
   title: Sponsors
-  text: Sponsorships are tax deductible and bring showcase your business to a local, diverse audience.
-  button: 
+  text: Sponsorships are tax deductible and bring showcase your business to a local,
+    diverse audience.
+  button:
     text: Learn more
-    link: /sponsors/
-  
+    link: "/sponsors/"
+
 ---
 {% include slider-hero.html %}
 {% include scoreboard-feed.html games=site.games teams=site.teams %}
