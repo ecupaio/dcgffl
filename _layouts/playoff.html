@@ -40,7 +40,8 @@ content-id: playoff-page
                   <h6 class="game-time">{{ game.date | date: "%l:%M%P" }}</h6>
                 </div>
                 <h6 class="game-location">
-                  <a href="{{ game.location.link }}">Field {{ game.location.field }} <i class="fa fa-map-marker-alt"></i></a>
+                  {% assign location = site.locations | where: "path", game.location | first %}
+                  <a href="https://www.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}">Field {{ game.field }} <i class="fa fa-map-marker-alt"></i></a>
                 </h6>
               </div>
             </div>
