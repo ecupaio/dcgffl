@@ -1,0 +1,17 @@
+---
+title: Schedule
+permalink: /recreation-league/schedule/
+content-id: schedule
+css: schedule
+scripts: 
+- schedule
+playoffs: 
+  title: Playoffs
+  text: |-
+    Playoffs are scheduled for next week! Follow the link below for information on games.
+  button: 
+    text: View bracket
+    link: /playoffs/
+  visible: true
+---
+{% include full-schedule.html games=site.rec-games teams=site.rec-teams path="_pages/rec-league.html" %}

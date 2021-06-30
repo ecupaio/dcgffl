@@ -4,6 +4,7 @@ permalink: /recreation-league/
 css: rec-league
 content-id: rec-league-home
 season: 20
+week: 1
 scripts: 
 - rules
 hero: 
@@ -43,10 +44,21 @@ rules:
       Generally, these are players on a travel team or those who consistently obtain MVPs in the regular season.
       
       The mission is to make the Recreation League a place where everyone has the chance to participate on both offense and defense.    
+playoffs: 
+  title: Playoffs
+  text: |-
+    Playoffs are scheduled for next week! Follow the link below for information on games.
+  button: 
+    text: View bracket
+    link: /recreation-league/playoffs/  
+  visible: true          
 ---
 {% include hero.html %}
 {% include scoreboard-feed.html games=site.rec-games teams=site.rec-teams %}
+{% include playoffs.html %}
+{% include schedule-feed.html games=site.rec-games teams=site.rec-teams schedule-link="/recreation-league/schedule/" %}
 {% include teams.html teams=site.rec-teams %}
+{% include registration.html %}
 <section id="rules-section">
   <div class="inner-section">
     <h2>{{ page.rules.title }}</h2>
