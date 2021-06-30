@@ -61,7 +61,7 @@ content-id: team
         {% for score in game.teams-score %}
           {% if score.team == page.path %}
             <div class="game-date">
-              <div class="date-day">{{ game.date | date: "%-m/%-e"  }}</div>
+              <div class="date-day">{{ game.date | date: "%a %-m/%-e"  }}</div>
               <div class="date-time">{{ game.date | date: "%l:%M%p" }}</div>
             </div>
             <div class="game-location">
