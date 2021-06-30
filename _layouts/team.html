@@ -6,10 +6,12 @@ content-id: team
 <section id="team-hero">
   <div class="inner-section">
     {% if page.name and page.name !='' %}
-        {% assign team-name = page.name %}
-        {% else %}
-        {% assign team-name = page.color %}
-        {% endif %}
+    {% capture team-name %}
+    {{ page.name }}
+    {% endcapture %}
+    {% else %}
+    {% assign team-name = page.color %}
+    {% endif %}
     <h1 class="team-name">{{ team-name }}</h1>
     <div class="team-photo-info">
       <div class="team-info">

@@ -10,7 +10,7 @@
           <div class="hero-text">
             {{ page.hero.text | markdownify }}
           </div>
-          <div class="hero-button {%if page.hero.button.visibile == false %}hidden{% endif %}">
+          <div class="hero-button {%if page.hero.button.visible == false %}hidden{% endif %}">
             <a class="btn" href="{{ page.hero.button.link }}">{{ page.hero.button.text }}</a>
           </div>
         </div>
