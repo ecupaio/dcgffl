@@ -11,6 +11,9 @@ $(function() {
       }
     });
     $('.week-title').text(selectedWeek);
+    $('html,body').animate({
+      scrollTop: $('#scoreboard').offset().top
+    });
   });
   function getParameter(paramName) {
     var searchString = window.location.search.substring(1),
