@@ -42,8 +42,8 @@ fields:
   config:
     required: false
     options:
-    - Nellies
-    - Pitchers
+    - Division 1
+    - Division 2
     source:
       type: simple
       section: 
