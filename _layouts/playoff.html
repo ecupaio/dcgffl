@@ -3,8 +3,24 @@ layout: default
 css: playoffs
 content-id: playoff-page
 ---
+<section id="title-section">
+  <div class="inner-section">
+    <div class="title-block">
+      <h1 class="playoff-title">Season {{ page.season }} Playoffs</h1>
+    </div>
+    {% if page.champion != '' %}
+    <div class="champ-block">
+      {% assign champ = site.teams | where: "path", page.champion | first %}
+      <i class="fa fa-trophy champ-icon"></i>
+      <h2 class="champ-name"><a href="{{ champ.url }}">{{ champ.name }} ({{ champ.color }})</a></h2>
+      <h5 class="champ-season">Season {{ page.season }} champions</h5>
+    </div>
+    {% endif %}
+  </div>
+</section>
 <section id="playoff-rounds">
   <div class="inner-section">
+    
     <div class="rounds-list">
       {% for round in page.rounds %}
       <div class="round">
