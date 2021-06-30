@@ -1,6 +1,6 @@
 ---
 division: Division 1
-title: New Team
+title: S21 New Team
 name: ''
 color: Blue
 season: 21
