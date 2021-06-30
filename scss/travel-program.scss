@@ -8,10 +8,8 @@
   }
   #content-section {
     .inner-section {
-      display: flex;
-      @include bp-large {
-        display: block;
-      }
+      
+      max-width: $size-large;
     } 
   }
 }

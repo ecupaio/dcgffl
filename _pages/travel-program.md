@@ -54,3 +54,7 @@ Independent Member and Committee Chair – JC Chiuco
 DCGFFL Liaison – Darryl Pilate
 
 Any questions on the travel program can be directed to the TMB at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
+
+### Resources
+
+[2021 Travel Policies and Procedures](/img/DCGFFL-TMC-Policies-and-Procedures-2021-04-18.pdf)
