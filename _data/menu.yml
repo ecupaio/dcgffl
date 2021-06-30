@@ -1,27 +1,30 @@
+---
 nav:
 - title: Home
-  link: "/"  
+  link: "/"
+- title: About
+  link: "/about/"
 - title: League
-  link: /league/
+  link: "/league/"
 - title: Scoreboard
-  link: /score-board/
+  link: "/score-board/"
 - title: Schedule
-  link: /schedule/  
+  link: "/schedule/"
 - title: Recreation League
-  link: /recreation-league/
+  link: "/recreation-league/"
 - title: Travel Program
-  link: /travel-program/  
+  link: "/travel-program/"
 - title: News
-  link: /news/
+  link: "/news/"
 - title: Events
-  link: /events/  
+  link: "/events/"
 - title: Sponsor
-  link: /sponsors/
-logo: /img/dcgffl-logo.png
-social: 
-- title: Facebook 
+  link: "/sponsors/"
+logo: "/img/dcgffl-logo.png"
+social:
+- title: Facebook
   link: https://www.facebook.com/dcgayflagfootball
-  icon: <i class="fab fa-facebook"></i>  
+  icon: <i class="fab fa-facebook"></i>
 - title: Twitter
   link: https://twitter.com/DCGFFL
   icon: <i class="fab fa-twitter"></i>
@@ -39,18 +42,17 @@ social:
   icon: <i class="fa fa-envelope"></i>
 footer:
 - title: About
-  link: /about/    
+  link: "/about/"
 - title: Board
-  link: /board/  
+  link: "/board/"
 - title: Awards
-  link: /awards/      
+  link: "/awards/"
 - title: Rules & Policies
-  link: /rules/  
+  link: "/rules/"
 - title: Past Seasons
-  link: /past-seasons/
+  link: "/past-seasons/"
 - title: Power Rankings
-  link: /power-rankings/    
-announcement: 
-  text: |-
-    Here's some text for an announcement. You can add a [link](/).
+  link: "/power-rankings/"
+announcement:
+  text: Here's some text for an announcement. You can add a [link](/).
   show: true
