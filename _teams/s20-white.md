@@ -19,6 +19,6 @@ members:
 - Patrick Tobin
 - Larry Womack
 rec-league: false
-division: Pitchers
+division: Division 1
 
 ---
