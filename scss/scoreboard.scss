@@ -111,6 +111,14 @@
           border-radius: $border-radius;
           @include box-shadow;
         }
+        .key {
+          display: flex;
+          justify-content: space-between;
+          font-weight: 700;
+          &.record {
+            text-align: right;
+          }
+        }
         .team {
           display: flex;
           justify-content: space-between;
@@ -121,6 +129,10 @@
           .team-name {
             padding-right: 1rem;
             font-weight: 700;
+          }
+          .team-record {
+            flex: 1 0 auto;
+            text-align: right;
           }
         }
       }
