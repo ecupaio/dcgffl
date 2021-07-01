@@ -129,13 +129,13 @@ sponsors-section:
             
             <div class="date-col">
               <h5 class="event-date">
-                <span class="date-month">{{ event.date | date: "%b" }}</span><br>
-                <span class="date-day">{{ event.date | date: "%e" }}</span>
+                <span class="month">{{ event.date | date: "%b" }}</span><br>
+                <span class="day">{{ event.date | date: "%e" }}</span>
               </h5>
             </div>
             <div class="info-col">
               <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
-              <h5 class="event-time">{{ event.time }}</h5>
+              <h6 class="event-time">{{ event.time }}</h6>
               <div class="event-desc">{{ event.content | strip_html | truncate: 95, '...' }}</div>
               <a href="{{ event.url }}" class="event-link">View event</a>
             </div>
