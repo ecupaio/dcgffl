@@ -20,6 +20,10 @@
       padding-right: 0;
       padding-top: 1rem;
     }
+    .btn-row {
+      margin-top: 2rem;
+      text-align: center;
+    }
     .event-month {
       margin-bottom: 1rem;
       .events-list {
@@ -33,16 +37,14 @@
             margin-bottom: 0;
           }
           .event-date-time {
-            
-              & > div {
-                display: inline-block;
-                font-weight: 700;
-              }
+            & > div {
+              display: inline-block;
+              font-weight: 700;
+            }
           }
           .event-desc {
             margin: 0.5rem 0;
           }
-          
         }
       }
     }
@@ -55,8 +57,7 @@
       padding-bottom: 1rem;
     }
     .months-menu {
-      
-      
+
     }
     .menu-items {
       background-color: $white;
@@ -66,8 +67,7 @@
       .menu-link {
         &:not(:last-child) {
           margin-bottom: 0.5rem;
-        }
-        
+        }  
       }
     }
   }
@@ -75,7 +75,6 @@
 #event {
   .inner-section {
     max-width: $size-large;
-
   }
   .content-grid {
     display: flex;

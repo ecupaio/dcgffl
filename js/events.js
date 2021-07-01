@@ -3,7 +3,18 @@ $(function() {
     e.preventDefault();
     var month = $(this).text();
     $('html,body').animate({
-      scrollTop: $('.event-month[data-month="'+month+'"]').offset().top - 117
+      scrollTop: $('[data-month="'+month+'"]').offset().top - 117
     });
+  });
+  $('.load-events').click(function(e) {
+    e.preventDefault();
+    var firstHidden = $('.event.hidden:first').index();
+      $('.event.hidden').slice(0,9).removeClass('hidden');
+      $('html,body').animate({
+        scrollTop: $('.event:eq('+firstHidden+')').offset().top - 117
+      }, 500); 
+      if ($('.event.hidden').length === 0) {
+        $('.load-events').addClass("hidden");  
+      } 
   });
 });

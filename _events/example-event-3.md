@@ -6,8 +6,8 @@ button:
   text: Register
   link: '#'
 location: 
-  name: "Nellie's Sports Bar"
-  address: 900 U St NW
+  name: "The Dirty Goose"
+  address: 913 U St NW
   city: Washington
   state: DC
   zip: 20001

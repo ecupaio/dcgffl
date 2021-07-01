@@ -11,8 +11,11 @@ scripts:
     <h1 class="page-title">{{ page.title }}</h1>
     <div class="events-grid">
       <div class="months-list">
-        {% assign month-events = site.events | where_exp: 'event', 'event.date > site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" | reverse %}
-        {% for month in month-events %}
+        
+        {% assign upcoming-events = site.events | where_exp: 'event', 'event.date > site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+        {% assign past-events = site.events | where_exp: 'event', 'event.date < site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+        <h2>Upcoming Events</h2>
+        {% for month in upcoming-events %}
         <div class="event-month" data-month="{{ month.name }}">
           <h3 class="month-title">{{ month.name }}</h3>
           <div class="events-list">
@@ -39,16 +42,53 @@ scripts:
           </div>
         </div>
         {% endfor %}
+        <h2 data-month="Past Events">Past Events</h2>
+        {% for month in past-events %}
+        <div class="event-month" data-month="{{ month.name }}">
+          <h3 class="month-title">{{ month.name }}</h3>
+          <div class="events-list">
+            {% for event in month.items %}
+            <div class="event {% if forloop.index > 10 %}hidden{% endif %}">
+              <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
+              {% if event.date and event.date != '' %}
+              <div class="event-date-time">
+                <div class="event-date">{{ event.date | date: '%B %e'}} | </div>
+                <div class="event-time">{{ event.time }}</div>
+              </div>
+              {% endif %}
+              <div class="event-location">
+                <a href="https://www.google.com/maps?q={{ event.location.address | url_encode }}+{{event.location.city | url_encode }}+{{ event.location.state | url_encode }}+{{ event.location.zip | url_encode }}"><i class="fa fa-map-marker-alt"></i> {{ event.location.name }}</a>
+              </div>
+              <div class="event-desc">
+                {{ event.content | truncate: 100, '...' }}
+              </div>
+              <div class="event-link">
+                <a href="{{ event.url }}">View Event</a>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          {% assign past-events-ungrouped = site.events | where_exp: 'event', 'event.date < site.time' %}
+          {% if past-events-ungrouped.size > 10 %}
+          <div class="btn-row">
+            <a href="#" class="btn load-events">Load more</a>
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
       </div>
       <div class="menu-col">
         <div class="months-menu">
           <h3 class="month-title">Months</h3>
           <div class="menu-items">
-            {% for month in month-events %}
+            {% for month in upcoming-events %}
             <div class="menu-link">
               <a href="#" class="month-anchor">{{ month.name }}</a>
             </div>
             {% endfor %}
+            <div class="menu-link">
+              <a href="#" class="month-anchor">Past Events</a>
+            </div>
           </div>
         </div>
         
