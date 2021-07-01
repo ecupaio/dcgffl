@@ -140,6 +140,14 @@
         h3 {
           margin: 0;
         }
+        .key {
+          display: flex;
+          justify-content: space-between;
+          font-weight: 700;
+          &.record {
+            text-align: right;
+          }
+        }
         .team {
           display: flex;
           justify-content: space-between;
@@ -150,7 +158,9 @@
           }
           .team-record {
             text-align: right;
+            flex: 1 0 auto;
           }
+
           &.active {
             font-weight: 700;
             a {

@@ -48,8 +48,9 @@ content-id: team
     <div class="schedule">
       <h3>Schedule</h3>
       <div class="games-list">
-        {% assign wins = 0 %}
+      {% assign wins = 0 %}
       {% assign losses = 0 %}
+      {% assign ties = 0 %}
       {% if page.collection == "teams" %}
       {% assign games = site.games %}
       {% elsif page.collection == "rec-teams" %}
@@ -88,6 +89,7 @@ content-id: team
                   {% assign losses = losses | plus: 1 %}
                   <span class="loss">L</span>
                   {% elsif score.score == opponent[0].score %}
+                  {% assign ties = ties | plus: 1 %}
                   <span class="tie">T</span>
                   {% endif %}
                 {% endif %}
@@ -108,7 +110,10 @@ content-id: team
     </div>
     <div class="records">
       <h3>{{ page.division }} Division</h3>
-      
+      <div class="key">
+        <div class="key-col">Team</div>
+        <div class="key-col record">W - L - T</div>
+      </div>
       {% for team in site.teams %}
       {% if page.division == team.division and page.season == team.season %}
       {% if team.name and team.name != ''%}
@@ -126,7 +131,7 @@ content-id: team
           {{ team-name }} 
         </a>
         <div class="team-record">
-          {{ wins }} - {{ losses }}
+          {{ wins }} - {{ losses }} - {{ ties }}
         </div>
       </div>
       {% endif %}
