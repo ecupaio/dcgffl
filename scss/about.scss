@@ -42,5 +42,44 @@
       }
     }
   }
+  #faq-section {
+    .section-title {
+      text-align: center;
+    }
+    .inner-section {
+      max-width: $size-medium;
+    }
+    .faq-list {
+      .faq-item {
+        padding: 1rem 0;
+        border-bottom: 2px solid $lt-grey;
+        .faq-q {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          @include transition(color);
+          &:hover {
+            color: $red;
+            cursor: pointer;
+          }
+          .q-text {
+            padding-right: 0.5rem;
+          }
+          i {
+            @include transition(transform);
+            
+          }
+          &.active {
+            i {
+              transform: rotate(180deg);
+            }
+          }
+        }
+        .faq-a{
+          display: none;
+        }
+      }
+    }
+  }
   
 }

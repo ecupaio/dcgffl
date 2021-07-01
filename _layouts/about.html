@@ -39,5 +39,19 @@ layout: default
   </div>
 </section>
 <section id="faq-section">
-  <div></div>
+  <div class="inner-section">
+    <h2 class="section-title">{{ page.faq.title }}</h2>
+    <div class="faq-list">
+      {% for item in page.faq.items %}
+      <div class="faq-item">
+        <div class="faq-q">
+          <h4 class="q-text">{{ item.q }}</h4> <i class="fa fa-chevron-down"></i>
+        </div>
+        <div class="faq-a">
+          {{ item.a }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </section>
