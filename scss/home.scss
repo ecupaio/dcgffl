@@ -1,7 +1,6 @@
 @import "vars.scss";
 @import "mixins.scss";
 #home {
-  
   #play-options {
     .section-title {
       text-align: center;
@@ -39,8 +38,6 @@
               flex: 1 0 60%;
               background-color: $lt-grey;
               padding: 2rem;
-              
-              
             }
           }
         }
@@ -48,14 +45,12 @@
     }
   }
   #news-events-section {
-    
     .inner-section {
       h2 {
         text-align: center;
       }
     }
     .news-block {
-      
       .news-feed {
         background-color: $lt-grey;
         padding: 1rem;
@@ -73,6 +68,12 @@
             border-radius: 4px;
             @include box-shadow;
             height: 100%;
+            .post-title {
+              margin-bottom: 0;
+            }
+            .post-date {
+              color: $grey3;
+            }
           }
         }
       }

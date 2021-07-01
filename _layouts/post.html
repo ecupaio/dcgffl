@@ -9,12 +9,12 @@ content-id: post
 <section id="post-hero">
   <div class="inner-section">
     <h1 class="post-title">{{ page.title }}</h1>
-    
   </div>
 </section>
 <section id="content-section">
   <div class="inner-section">
     <div class="post-content">
+      <h6 class="date">{{ page.date | date: '%B %e, %Y'}}</h6>
       <div class="content">
         {{ content }}
       </div>
@@ -62,7 +62,7 @@ content-id: post
       <div class="post-col">
         <div class="post">
           <h5 class="post-title">{{ post.title }}</h5>
-          <div class="post-date">{{ post.date | date: '%B %e, %Y'}}</div>
+          <h6 class="post-date">{{ post.date | date: '%B %e, %Y'}}</h6>
           <div class="post-exerpt">{{ post.content | strip_html | truncate: 100, '...'}} </div>
           <div class="post-link">
             <a href="{{ post.url }}">Read more</a>

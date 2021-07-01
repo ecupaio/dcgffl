@@ -101,11 +101,11 @@ sponsors-section:
     <div class="news-block">
       <h3>News</h3>
       <div class="news-feed">
-        {% for post in site.posts limit: 10 %}
+        {% for post in site.posts limit: 5 %}
         <div class="news-block">
           <div class="post">
-            <h4 class="post-title">{{ post.title }}</h4>
-            <h5 class="post-date">{{ post.date | date: '%B %e, %Y' }} </h5>
+            <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+            <h6 class="post-date">{{ post.date | date: '%B %e, %Y' }} </h6>
             <div class="post-snippet">{{ post.content | strip_html | truncate: 200, '...' }}</div>
             <a class="post-link" href="{{ post.url }}">Read more</a>
           </div>
@@ -134,7 +134,7 @@ sponsors-section:
               </h5>
             </div>
             <div class="info-col">
-              <h4 class="event-title">{{ event.title }}</h4>
+              <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
               <h5 class="event-time">{{ event.time }}</h5>
               <div class="event-desc">{{ event.content | strip_html | truncate: 95, '...' }}</div>
               <a href="{{ event.url }}" class="event-link">View event</a>
