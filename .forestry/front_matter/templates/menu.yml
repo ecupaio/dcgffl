@@ -4,7 +4,6 @@ hide_body: true
 fields:
 - type: field_group_list
   name: nav
-  label: nav
   fields:
   - type: text
     name: title
@@ -12,12 +11,13 @@ fields:
   - type: text
     name: link
     label: link
+  label: Top Nav
 - type: file
   name: logo
-  label: logo
+  label: Logo
 - type: field_group_list
   name: social
-  label: social
+  label: Social
   fields:
   - type: text
     name: title
@@ -30,7 +30,7 @@ fields:
     label: icon
 - type: field_group_list
   name: footer
-  label: footer
+  label: Footer Nav
   fields:
   - type: text
     name: title
@@ -40,7 +40,7 @@ fields:
     label: link
 - type: field_group
   name: announcement
-  label: announcement
+  label: Announcement
   fields:
   - type: text
     name: text
