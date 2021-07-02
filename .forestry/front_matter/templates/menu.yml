@@ -1,0 +1,50 @@
+---
+label: Menu
+hide_body: true
+fields:
+- type: field_group_list
+  name: nav
+  label: nav
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+- type: file
+  name: logo
+  label: logo
+- type: field_group_list
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: icon
+    label: icon
+- type: field_group_list
+  name: footer
+  label: footer
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: announcement
+  label: announcement
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: boolean
+    name: show
+    label: show
