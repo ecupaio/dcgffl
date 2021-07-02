@@ -8,8 +8,10 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: datetime
-  name: time
+- name: time
+  type: text
+  config:
+    required: false
   label: time
 - type: field_group
   name: button
