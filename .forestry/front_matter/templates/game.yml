@@ -54,7 +54,7 @@ fields:
   label: field
 - type: datetime
   name: date
-  label: date
+  label: date/time
 - type: number
   name: season
   label: season
