@@ -46,3 +46,5 @@ fields:
   - type: number
     name: zip
     label: zip
+pages:
+- _events/example-event-3.md
