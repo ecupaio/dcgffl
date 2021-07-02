@@ -7,7 +7,7 @@
       </a>
     </div>
     <div class="nav-col right">
-      <a class="btn" href="/donate/">Donate</a>
+      <a class="btn {% if site.data.menu.nav-button.visible == false %}hidden{% endif %}" href="{{ site.data.menu.nav-button.text }}">{{ site.data.menu.nav-button.text }}</a>
       <div class="nav-toggle">
         <div class="toggle-line top"></div>
         <div class="toggle-line middle"></div>

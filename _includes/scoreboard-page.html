@@ -36,7 +36,7 @@
                 </div>
                 <div class="field-info">
                   {% assign location = site.locations | where: "path", game.location | first %}
-                  <a href="https://www.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}">{{ location.title }} <i class="fa fa-map-marker-alt"></i></a>
+                  <a href="https://www.google.com/maps?q={{ location.address | url_encode }}+{{ location.city | url_encode }}+{{ location.state | url_encode }}+{{ location.zip | url_encode }}"><i class="fa fa-map-marker-alt"></i> {{ location.title }}</a>
                   <div class="field">Field {{ game.field }}</div>
                   
                 </div>

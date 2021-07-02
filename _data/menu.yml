@@ -20,6 +20,10 @@ nav:
   link: "/events/"
 - title: Sponsor
   link: "/sponsors/"
+nav-button: 
+  text: Donate
+  link: /donate/
+  visible: true    
 logo: "/img/dcgffl-logo.png"
 social:
 - title: Facebook
@@ -56,3 +60,4 @@ footer:
 announcement:
   text: Here's some text for an announcement. You can add a [link](/).
   show: true
+
