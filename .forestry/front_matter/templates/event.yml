@@ -23,6 +23,10 @@ fields:
   - type: text
     name: link
     label: link
+  - name: visible
+    type: boolean
+    label: visible
+    default: true
 - type: field_group
   name: location
   label: location
