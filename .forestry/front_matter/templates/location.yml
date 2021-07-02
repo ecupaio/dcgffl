@@ -1,0 +1,22 @@
+---
+label: Location
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: info
+  label: info
+- type: text
+  name: address
+  label: address
+- type: text
+  name: city
+  label: city
+- type: text
+  name: state
+  label: state
+- type: number
+  name: zip
+  label: zip
