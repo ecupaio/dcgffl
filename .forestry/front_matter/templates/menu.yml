@@ -60,11 +60,17 @@ fields:
   name: announcement
   label: Announcement
   fields:
-  - type: text
-    name: text
-    label: text
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Text
   - type: boolean
     name: show
-    label: show
+    label: Show
 pages:
 - _data/menu.yml
