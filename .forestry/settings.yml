@@ -45,6 +45,11 @@ sections:
   create: documents
   match: "**/*"
 - type: directory
+  path: _power-rankings
+  label: Power Rankings
+  create: documents
+  match: "**/*"
+- type: directory
   path: _rec-games
   label: Rec Games
   create: documents
