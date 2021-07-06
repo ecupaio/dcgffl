@@ -4,32 +4,33 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: permalink
-  label: permalink
+  label: Date
 - type: text
   name: author
-  label: author
+  label: Author
 - type: number
   name: season
-  label: season
+  label: Season
 - type: number
   name: week
-  label: week
+  label: Week
 - type: field_group_list
   name: rankings
-  label: rankings
+  label: Rankings
   fields:
   - type: text
     name: team
-    label: team
+    label: Team
   - type: text
     name: record
-    label: record
+    label: Record
   - type: textarea
     name: text
-    label: text
+    label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
