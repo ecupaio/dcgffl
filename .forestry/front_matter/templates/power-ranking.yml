@@ -1,0 +1,35 @@
+---
+label: Power Ranking
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: author
+  label: author
+- type: number
+  name: season
+  label: season
+- type: number
+  name: week
+  label: week
+- type: field_group_list
+  name: rankings
+  label: rankings
+  fields:
+  - type: text
+    name: team
+    label: team
+  - type: text
+    name: record
+    label: record
+  - type: textarea
+    name: text
+    label: text
