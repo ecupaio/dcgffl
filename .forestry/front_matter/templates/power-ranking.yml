@@ -22,8 +22,17 @@ fields:
   name: rankings
   label: Rankings
   fields:
-  - type: text
-    name: team
+  - name: team
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: teams
+        file: 
+        path: 
     label: Team
   - type: text
     name: record
@@ -35,3 +44,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+  config:
+    labelField: team
