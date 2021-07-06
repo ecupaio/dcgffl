@@ -21,7 +21,7 @@ fields:
 - name: photo
   type: file
   config:
-    maxSize: 64
+    maxSize: 1
   label: Team Photo
 - name: captain
   type: text
