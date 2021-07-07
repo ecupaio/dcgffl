@@ -1,34 +1,39 @@
 ---
 title: League
-permalink: /league/
+permalink: "/league/"
 season: 20
 week: 1
-schedule: 
+schedule:
   title: This week's games
   no-games: There are no games this week.
-hero: 
+hero:
   title: The League
-  text: The league is open to all skill levels, from those who have played for years to those who have never been on a football field. Additionally, is it a fellowship for both LGBTQ+ individuals and straight allies. Come check out our games, meet some amazing people, and consider joining us as a player!
-  image: /img/league-hero.jpg
-  button: 
+  text: The league is open to all skill levels, from those who have played for years
+    to those who have never been on a football field. Additionally, is it a fellowship
+    for both LGBTQ+ individuals and straight allies. Come check out our games, meet
+    some amazing people, and consider joining us as a player!
+  image: "/img/league-hero.jpg"
+  button:
     text: Register
-    link: '#register-section'
+    link: "#register-section"
     visible: true
-register: 
+register:
   title: Get in the game!
-  text: Registration is currently closed. Sign up for our mailing list and follow us on Twitter and Facebook for news about the next upcoming season.
-  button: 
+  text: Registration is currently closed. Sign up for our mailing list and follow
+    us on Twitter and Facebook for news about the next upcoming season.
+  button:
     text: Register
-    link: #
+    link: ''
     visible: false
-playoffs: 
+playoffs:
   title: Playoffs
-  text: |-
-    Playoffs are scheduled for next week! Follow the link below for information on games.
-  button: 
+  text: Playoffs are scheduled for next week! Follow the link below for information
+    on games.
+  button:
     text: View bracket
-    link: /playoffs/  
-  visible: true    
+    link: "/playoffs/"
+  visible: true
+
 ---
 {% include hero.html %}
 {% include scoreboard-feed.html teams=site.teams games=site.games %}
@@ -36,4 +41,3 @@ playoffs:
 {% include schedule-feed.html games=site.games teams=site.teams schedule-link='/schedule/' %}
 {% include teams.html teams=site.teams %}
 {% include registration.html %}
-
