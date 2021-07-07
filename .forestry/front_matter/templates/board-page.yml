@@ -17,6 +17,10 @@ fields:
   - type: textarea
     name: text
     label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group
     name: button
     label: Button
@@ -39,76 +43,84 @@ fields:
     label: Title
   - type: field_group_list
     name: list
-    label: list
+    label: List
     fields:
     - type: text
       name: title
-      label: title
-    - type: text
-      name: name
-      label: name
-    - type: file
-      name: image
-      label: image
+      label: Position Title
     - type: textarea
       name: description
-      label: description
+      label: Description
+    - type: text
+      name: name
+      label: Name
+    - type: file
+      name: image
+      label: Image
+      config:
+        maxSize: 1
     - type: field_group_list
       name: candidates
-      label: candidates
+      label: Candidates
       fields:
       - type: text
         name: name
-        label: name
+        label: Name
       - type: file
         name: image
-        label: image
+        label: Image
       - type: textarea
         name: statement
-        label: statement
+        label: Position statement
 - type: field_group
   name: elections
-  label: elections
+  label: Elections
   fields:
+  - type: boolean
+    name: open
+    label: Open
+    description: election status toggle. On to display display this section, Off to
+      hide
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
     - type: boolean
       name: visible
-      label: visible
-  - type: boolean
-    name: open
-    label: open
+      label: Visible
 - type: field_group
   name: bylaws-minutes
-  label: bylaws-minutes
+  label: Bylaws and Minutes
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: field_group
     name: bylaws
-    label: bylaws
+    label: Bylaws
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: textarea
       name: text
-      label: text
+      label: Text
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
   - type: field_group
     name: minutes
     label: minutes
