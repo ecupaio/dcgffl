@@ -4,29 +4,20 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
+  label: Title
 - type: number
   name: season
-  label: season
+  label: Season
 - type: number
   name: week
-  label: week
+  label: Week
 - type: field_group
   name: schedule
-  label: schedule
+  label: Schedule
   fields:
   - type: text
     name: title
-    label: title
-  - type: text
-    name: no-games
-    label: no-games
-  - type: boolean
-    name: upcoming
-    label: upcoming
+    label: Title
 - type: field_group
   name: hero
   label: hero
