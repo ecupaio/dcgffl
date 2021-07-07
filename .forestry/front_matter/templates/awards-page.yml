@@ -9,6 +9,11 @@ fields:
   name: hero
   label: Title section
   fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
   - type: text
     name: text
     label: Text
