@@ -11,7 +11,8 @@ layout: default
   <div class="inner-section">
     <h2 class="section-title">{{ page.locations.title }}</h2>
     <div class="locations-list">
-      {% for location in site.locations %}
+      {% for location-path in page.locations.items %}
+      {% assign location = site.locations | where: "path", location-path | first %}
       <div class="location-col">
         <div class="location">
           <h4 class="location-title">{{ location.title }}</h4>

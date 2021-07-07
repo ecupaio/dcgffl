@@ -8,6 +8,10 @@ scripts:
 - about
 locations: 
   title: Where we play
+  items: 
+  - _locations/rfk-fields.md
+  - _locations/carter-baron.md
+  - _locations/brentwood.md
 faq: 
   title: Frequently Asked Questions
   items: 
