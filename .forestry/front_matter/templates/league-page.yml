@@ -47,9 +47,13 @@ fields:
     name: title
     label: Title
   - name: no-games
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: No games text
 - type: field_group
   name: register
