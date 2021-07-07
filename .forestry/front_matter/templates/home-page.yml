@@ -4,51 +4,38 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: permalink
-  label: permalink
-- type: boolean
-  name: slick
-  label: slick
-- type: text
-  name: css
-  label: css
-- type: text
-  name: content-id
-  label: content-id
-- type: list
-  name: scripts
-  label: scripts
+  label: Title
 - type: field_group
   name: hero
-  label: hero
+  label: Hero
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
     - type: boolean
       name: visible
-      label: visible
+      label: Visible
   - type: file
     name: placeholder
-    label: placeholder
+    label: Placeholder
+  - name: album-id
+    type: text
+    config:
+      required: false
+    label: Album ID
 - type: field_group_list
   name: play-options
   label: play-options
