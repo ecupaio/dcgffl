@@ -1,0 +1,101 @@
+---
+label: League Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: number
+  name: season
+  label: season
+- type: number
+  name: week
+  label: week
+- type: field_group
+  name: schedule
+  label: schedule
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: no-games
+    label: no-games
+  - type: boolean
+    name: upcoming
+    label: upcoming
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: file
+    name: image
+    label: image
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+    - type: boolean
+      name: visible
+      label: visible
+- type: field_group
+  name: register
+  label: register
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+    - type: boolean
+      name: visible
+      label: visible
+- type: field_group
+  name: playoffs
+  label: playoffs
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: text
+    label: text
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+  - type: boolean
+    name: visible
+    label: visible
