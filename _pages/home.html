@@ -119,11 +119,11 @@ sponsors-section:
     </div>
     <div class="event-block">
       <h3>Events</h3>
-      <div class="events-feed">
-        {% assign events = site.events | where_exp: "item", "item.date > site.time"  %}
+      {% assign events = site.events | where_exp: "item", "item.date > site.time"  %}
         {% if events.size < 1 %}
-        <div>There are no upcoming events. Please </div>
+        <div class="no-events">There are no upcoming events. Select the View Events button below to view past events.</div>
         {% else %}
+      <div class="events-feed">
         {% for event in events %}
         <div class="event-slide">
           <div class="event">
@@ -143,8 +143,8 @@ sponsors-section:
           </div>
         </div>
         {% endfor %}
-        {% endif %}
       </div>
+      {% endif %}
       <div class="btn-row">
         <a href="/events/" class="btn">View Events</a>
       </div>

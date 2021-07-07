@@ -83,6 +83,11 @@
       }
     }
     .event-block {
+      .no-events {
+        text-align: center;
+        background-color: $lt-grey;
+        padding: 1rem;
+      }
       .events-feed {
         background-color: $lt-grey;
         padding: 1rem;
