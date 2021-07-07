@@ -145,3 +145,5 @@ fields:
         - type: text
           name: link
           label: Link
+pages:
+- _pages/board.html
