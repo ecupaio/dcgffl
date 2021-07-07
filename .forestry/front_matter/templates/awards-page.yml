@@ -1,0 +1,49 @@
+---
+label: Awards Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+- type: field_group
+  name: hero
+  label: Title section
+  fields:
+  - type: text
+    name: text
+    label: Text
+  - type: field_group
+    name: button
+    label: Button
+    fields:
+    - type: text
+      name: text
+      label: Text
+    - type: text
+      name: link
+      label: Link
+    - type: boolean
+      name: visible
+      label: Visible
+- type: field_group_list
+  name: awards
+  label: Awards
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: text
+    label: Text
+  - type: field_group_list
+    name: winners
+    label: Recipients
+    fields:
+    - type: text
+      name: name
+      label: Name
+    - type: text
+      name: year
+      label: Year
+pages:
+- _pages/awards.html
