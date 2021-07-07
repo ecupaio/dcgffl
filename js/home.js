@@ -1,21 +1,20 @@
 $(function() {
+  var albumID = $('#album-id').text();
   $.ajax({
     url: 'https://www.flickr.com/services/rest/',
     type: 'GET',
     data: {
-      'method': 'flickr.people.getPhotos',
+      'method': 'flickr.photosets.getPhotos',
       'api_key': 'b2e7ca6837ac851207f38ec05da28756',
-      'user_id': '55392288@N03',
+      'photoset_id': albumID,
       'format': 'json',
       'per_page': 10,
       'page': 1,
       'nojsoncallback': 1
     },
     success: function(data) {
-
-      var photos = data.photos.photo;
+      var photos = data.photoset.photo;
       $(photos).each(function(i,photo) {
-        
         var photoSlide = '<div class="photo-slide">'+
                             '<img  src="https://live.staticflickr.com/'+photo.server+'/'+photo.id+'_'+photo.secret+'_b.jpg" alt="DCGFFL game photo" />'+
                           '<div>';  
