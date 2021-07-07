@@ -1,22 +1,10 @@
 ---
 label: Board Page
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: css
-  label: css
-- type: text
-  name: content-id
-  label: content-id
-- type: list
-  name: scripts
-  label: scripts
+  label: Title
 - type: field_group
   name: board
   label: board
