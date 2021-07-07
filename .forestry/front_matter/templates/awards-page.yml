@@ -4,56 +4,44 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: content-id
-  label: content-id
-- type: list
-  name: scripts
-  label: scripts
-- type: text
-  name: css
-  label: css
+  label: Title
 - type: field_group
   name: hero
-  label: hero
+  label: Title section
   fields:
   - type: text
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
     - type: boolean
       name: visible
-      label: visible
+      label: Visible
 - type: field_group_list
   name: awards
-  label: awards
+  label: Awards
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: field_group_list
     name: winners
-    label: winners
+    label: Recipients
     fields:
     - type: text
       name: name
-      label: name
+      label: Name
     - type: text
       name: year
-      label: year
+      label: Year
