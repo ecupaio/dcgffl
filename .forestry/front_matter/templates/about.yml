@@ -1,5 +1,5 @@
 ---
-label: about
+label: About Page
 hide_body: false
 fields:
 - type: text
@@ -15,6 +15,11 @@ fields:
   - type: list
     name: items
     label: Locations List
+    config:
+      use_select: true
+      source:
+        type: pages
+        section: locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
 - type: field_group
   name: faq
   label: FAQ
