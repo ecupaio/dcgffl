@@ -6,18 +6,24 @@ fields:
   name: title
   label: Title
 - type: field_group
-  name: board
-  label: board
+  name: hero
+  label: Intro
   fields:
-  - type: text
-    name: title
-    label: title
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
@@ -28,106 +34,116 @@ fields:
     - type: boolean
       name: visible
       label: visible
-  - type: field_group
-    name: members
-    label: members
+- type: field_group
+  name: members
+  label: Members
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: field_group_list
+    name: list
+    label: List
     fields:
     - type: text
       name: title
-      label: title
+      label: Position Title
+    - type: textarea
+      name: description
+      label: Description
+    - type: text
+      name: name
+      label: Name
+    - type: file
+      name: image
+      label: Image
+      config:
+        maxSize: 1
     - type: field_group_list
-      name: list
-      label: list
+      name: candidates
+      label: Candidates
       fields:
-      - type: text
-        name: title
-        label: title
       - type: text
         name: name
-        label: name
+        label: Name
       - type: file
         name: image
-        label: image
+        label: Image
       - type: textarea
-        name: description
-        label: description
-      - type: field_group_list
-        name: candidates
-        label: candidates
-        fields:
-        - type: text
-          name: name
-          label: name
-        - type: file
-          name: image
-          label: image
-        - type: textarea
-          name: statement
-          label: statement
+        name: statement
+        label: Position statement
 - type: field_group
   name: elections
-  label: elections
+  label: Elections
   fields:
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: text
-    label: text
-  - type: field_group
-    name: button
-    label: button
-    fields:
-    - type: text
-      name: text
-      label: text
-    - type: text
-      name: link
-      label: link
-    - type: boolean
-      name: visible
-      label: visible
   - type: boolean
     name: open
-    label: open
+    label: Open
+    description: election status toggle. On to display display this section, Off to
+      hide
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: text
+    label: Text
+  - type: field_group
+    name: button
+    label: Button
+    fields:
+    - type: text
+      name: text
+      label: Text
+    - type: text
+      name: link
+      label: Link
+    - type: boolean
+      name: visible
+      label: Visible
 - type: field_group
   name: bylaws-minutes
-  label: bylaws-minutes
+  label: Bylaws and Minutes
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: field_group
     name: bylaws
-    label: bylaws
+    label: Bylaws
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: textarea
       name: text
-      label: text
+      label: Text
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
   - type: field_group
     name: minutes
-    label: minutes
+    label: Minutes
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: field_group_list
       name: seasons
-      label: seasons
+      label: Seasons
       fields:
       - type: text
         name: title
-        label: title
+        label: Title
       - type: field_group_list
         name: minutes
-        label: minutes
+        label: Minutes
         fields:
         - type: text
           name: title
-          label: title
+          label: Title
         - type: text
           name: link
-          label: link
+          label: Link
+pages:
+- _pages/board.html

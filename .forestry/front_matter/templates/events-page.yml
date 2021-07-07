@@ -1,0 +1,9 @@
+---
+label: Events page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+pages:
+- _pages/events.html
