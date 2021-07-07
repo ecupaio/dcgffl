@@ -171,14 +171,15 @@
       .teams-list {
         display: flex;
         flex-flow: row wrap;
+        justify-content: center;
         .team-col {
-          flex: 1 0 25%;
+          width: 25%;
           padding: 0.5rem;
           @include bp-large {
-            flex: 1 0 50%;
+            width: 50%;
           }
           @include bp-medium {
-            flex: 1 0 100%;
+            width: 100%;
           }
           .team-link {
             color: $white;
@@ -273,6 +274,9 @@
       
       
     }
+  }
+  .no-games {
+    text-align: center;
   }
   .section-button {
     margin-top: 1rem;

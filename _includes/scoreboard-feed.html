@@ -3,8 +3,12 @@
   {% assign gamesArr = include.games %}
   
   {% assign teamsArr = include.teams %}
-  {% assign games = gamesArr | reverse | group_by: 'season' | first %}
-  {% assign recent-games = games.items | where_exp: "item","item.teams-score[0].score.size > 0" %}
+  {% if include.league %}
+  {% assign league = site.pages | where: "path", include.league | first %}
+  {% else %}
+  {% assign league = page %}
+  {% endif %}
+  {% assign recent-games = gamesArr | where: "season", league.season | where: "week", league.week | where_exp: "item", "item.teams-score[0].score.size > 0" %}
   <div class="scoreboard-feed">
     {% for game in recent-games %}
     <div class="game-slide">

@@ -1,8 +1,8 @@
 <section id="schedule-section">
   <div class="inner-section">
     <h2 class="section-title">This week's games</h2>
-    {% assign upcoming-games = include.games | where: "season", page.season | where: "week", page.week  %}
-    <!-- | where_exp: "item", "item.teams-score[0].score.size == 0" -->
+    {% assign schedule-week = page.week | plus: 1 %}
+    {% assign upcoming-games = include.games | where: "season", page.season | where: "week", schedule-week  %}
     {% if upcoming-games.size > 0 %}
     <div class="games-list">
       {% for game in upcoming-games %}
@@ -46,7 +46,9 @@
       {% endfor %}
     </div>
     {% else %}
-    There are no games this week. 
+    <div class="no-games">
+    {{ page.schedule.no-games | markdownify }} 
+    </div>
     {% endif %}
     <div class="section-button">
       <a href="{{ include.schedule-link }}" class="btn">Full schedule</a>
