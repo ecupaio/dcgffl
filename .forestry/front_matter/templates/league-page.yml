@@ -12,61 +12,68 @@ fields:
   name: week
   label: Week
 - type: field_group
+  name: hero
+  label: Hero
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: text
+    label: Text
+  - type: file
+    name: image
+    label: Image
+    config:
+      maxSize: 1
+  - type: field_group
+    name: button
+    label: Button
+    fields:
+    - type: text
+      name: text
+      label: Text
+    - type: text
+      name: link
+      label: Link
+    - type: boolean
+      name: visible
+      label: Visible
+- type: field_group
   name: schedule
   label: Schedule
   fields:
   - type: text
     name: title
     label: Title
-- type: field_group
-  name: hero
-  label: hero
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: textarea
-    name: text
-    label: text
-  - type: file
-    name: image
-    label: image
-  - type: field_group
-    name: button
-    label: button
-    fields:
-    - type: text
-      name: text
-      label: text
-    - type: text
-      name: link
-      label: link
-    - type: boolean
-      name: visible
-      label: visible
+  - name: no-games
+    type: text
+    config:
+      required: false
+    label: No games text
 - type: field_group
   name: register
-  label: register
+  label: Register
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
     - type: boolean
       name: visible
-      label: visible
+      label: Visible
 - type: field_group
   name: playoffs
   label: playoffs
