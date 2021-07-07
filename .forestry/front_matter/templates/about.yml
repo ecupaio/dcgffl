@@ -1,0 +1,49 @@
+---
+label: about
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: content-id
+  label: content-id
+- type: text
+  name: css
+  label: css
+- type: text
+  name: layout
+  label: layout
+- type: list
+  name: scripts
+  label: scripts
+- type: field_group
+  name: locations
+  label: locations
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: items
+    label: items
+- type: field_group
+  name: faq
+  label: faq
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: q
+      label: q
+    - type: textarea
+      name: a
+      label: a
