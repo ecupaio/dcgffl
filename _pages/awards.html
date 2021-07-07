@@ -5,15 +5,13 @@ content-id: awards-page
 scripts: 
 - awards
 css: awards
-
-awards: 
-  title: Awards 
+hero: 
   text: Voting for the awards is open. Cast your ballot now!
   button: 
     text: Vote now
     link: '#'
     visible: true
-  list:
+awards: 
   - title: Charlie Salem Award
     text: Members of the DCGFFL will be asked to vote for the Charlie Salem Award, the League’s highest honor. The Charlie Salem Award is given to the person who has impacted the success and perpetuity of the league, has demonstrated strong commitment to his/her team, and has embodied the attributes of a good sport. This person has also played the game skillfully and is a leader both on and off the field. Nominees will be suggested by the Captains.
     winners:
@@ -51,12 +49,12 @@ awards:
 <section id="awards-section">
   <div class="inner-section">
     <div class="awards-intro">
-      <h2 class="intro-title">{{ page.awards.title }}</h2>
-      <div class="awards-text">{{ page.awards.text | markdownify }}</div>
-      <a href="{{ page.awards.button.link}}" class="btn {% if page.awards.button.visible == false %}hidden{% endif %}">{{ page.awards.button.text }}</a>
+      <h2 class="intro-title">{{ page.title }}</h2>
+      <div class="awards-text">{{ page.hero.text | markdownify }}</div>
+      <a href="{{ page.hero.button.link}}" class="btn {% if page.hero.button.visible == false %}hidden{% endif %}">{{ page.hero.button.text }}</a>
     </div>
     <div class="awards-list">
-      {% for award in page.awards.list %}
+      {% for award in page.awards %}
       <div class="award">
         <h3 class="award-title">{{ award.title }}</h3>
         <div class="award-text">
