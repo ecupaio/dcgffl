@@ -1,0 +1,31 @@
+---
+label: About Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: field_group
+  name: locations
+  label: Locations
+  fields:
+  - type: text
+    name: title
+    label: Title
+- type: field_group
+  name: faq
+  label: FAQ
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: field_group_list
+    name: items
+    label: Questions/Answers
+    fields:
+    - type: text
+      name: q
+      label: Question
+    - type: textarea
+      name: a
+      label: Answer

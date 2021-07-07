@@ -4,52 +4,43 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - name: name
   type: text
   config:
     required: false
-  label: name
+  label: Name
 - name: color
   type: text
   config:
     required: false
-  label: color
+  label: Color
 - type: number
   name: season
-  label: season
+  label: Season
 - name: photo
   type: file
   config:
-    maxSize: 64
-  label: photo
+    maxSize: 1
+  label: Team Photo
 - name: captain
   type: text
   config:
     required: false
-  label: captain
+  label: Captain
 - name: quarterback
   type: text
   config:
     required: false
-  label: quarterback
+  label: Quarterback
 - type: list
   name: members
-  label: members
+  label: Members
 - name: division
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options:
-    - Division 1
-    - Division 2
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: division
+  label: Division
 pages:
 - _teams/new-team.md
 - _teams/s19-fancy-gay-pirates.md
