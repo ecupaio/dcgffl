@@ -38,44 +38,46 @@ fields:
     label: Album ID
 - type: field_group_list
   name: play-options
-  label: play-options
+  label: Play section
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: file
     name: image
-    label: image
+    label: Image
+    config:
+      maxSize: 1
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
 - type: field_group
   name: sponsors-section
-  label: sponsors-section
+  label: Sponsors Section
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: text
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
