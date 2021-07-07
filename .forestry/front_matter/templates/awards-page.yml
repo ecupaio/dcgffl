@@ -45,3 +45,5 @@ fields:
     - type: text
       name: year
       label: Year
+pages:
+- _pages/awards.html
