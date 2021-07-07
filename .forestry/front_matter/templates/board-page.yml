@@ -1,0 +1,142 @@
+---
+label: Board Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: css
+  label: css
+- type: text
+  name: content-id
+  label: content-id
+- type: list
+  name: scripts
+  label: scripts
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+    - type: boolean
+      name: visible
+      label: visible
+- type: field_group
+  name: members
+  label: members
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: list
+    label: list
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: name
+      label: name
+    - type: file
+      name: image
+      label: image
+    - type: textarea
+      name: description
+      label: description
+    - type: field_group_list
+      name: candidates
+      label: candidates
+      fields:
+      - type: text
+        name: name
+        label: name
+      - type: file
+        name: image
+        label: image
+      - type: textarea
+        name: statement
+        label: statement
+- type: field_group
+  name: elections
+  label: elections
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+    - type: boolean
+      name: visible
+      label: visible
+  - type: boolean
+    name: open
+    label: open
+- type: field_group
+  name: bylaws-minutes
+  label: bylaws-minutes
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: bylaws
+    label: bylaws
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: text
+      label: text
+  - type: field_group
+    name: minutes
+    label: minutes
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: field_group_list
+      name: seasons
+      label: seasons
+      fields:
+      - type: text
+        name: title
+        label: title
+      - type: field_group_list
+        name: minutes
+        label: minutes
+        fields:
+        - type: text
+          name: title
+          label: title
+        - type: text
+          name: link
+          label: link
