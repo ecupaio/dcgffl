@@ -97,3 +97,5 @@ fields:
   - type: boolean
     name: visible
     label: Visible
+pages:
+- _pages/league.html
