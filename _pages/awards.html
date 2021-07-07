@@ -6,6 +6,7 @@ scripts:
 - awards
 css: awards
 hero:
+  title: Awards
   text: Voting for the awards is open. Cast your ballot now!
   button:
     text: Vote now
@@ -64,7 +65,7 @@ awards:
 <section id="awards-section">
   <div class="inner-section">
     <div class="awards-intro">
-      <h2 class="intro-title">{{ page.title }}</h2>
+      <h2 class="intro-title">{{ page.hero.title }}</h2>
       <div class="awards-text">{{ page.hero.text | markdownify }}</div>
       <a href="{{ page.hero.button.link}}" class="btn {% if page.hero.button.visible == false %}hidden{% endif %}">{{ page.hero.button.text }}</a>
     </div>
