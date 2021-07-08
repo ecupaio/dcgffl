@@ -4,39 +4,27 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: content-id
-  label: content-id
-- type: text
-  name: css
-  label: css
-- type: list
-  name: scripts
-  label: scripts
+  label: Title
 - type: field_group
   name: playoffs
-  label: playoffs
+  label: Playoffs
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: text
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
   - type: boolean
     name: visible
-    label: visible
+    label: Visible
