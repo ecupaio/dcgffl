@@ -4,63 +4,43 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: content-id
-  label: content-id
-- type: text
-  name: css
-  label: css
-- type: list
-  name: scripts
-  label: scripts
+  label: Title
 - type: field_group
   name: intro
   label: intro
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
 - type: field_group_list
   name: rules
-  label: rules
+  label: Rules
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
 - type: field_group
   name: resources
-  label: resources
+  label: Resources Section
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: field_group_list
     name: items
-    label: items
     fields:
     - type: text
       name: text
       label: text
-    - type: field_group
-      name: button
-      label: button
-      fields:
-      - type: text
-        name: text
-        label: text
-      - type: file
-        name: attachment
-        label: attachment
-      - type: text
-        name: link
-        label: link
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    label: Resources
