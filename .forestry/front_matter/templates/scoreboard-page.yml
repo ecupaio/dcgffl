@@ -1,7 +1,9 @@
 ---
 label: Scoreboard Page
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
   label: Title
+pages:
+- _pages/score-board.html
