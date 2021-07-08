@@ -14,7 +14,7 @@ fields:
   fields:
   - type: text
     name: title
-    label: Title
+    label: Name
   - type: file
     name: image
     label: Logo
