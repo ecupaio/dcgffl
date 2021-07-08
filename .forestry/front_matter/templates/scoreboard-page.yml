@@ -6,4 +6,5 @@ fields:
   name: title
   label: Title
 pages:
+- _pages/rec-scores.html
 - _pages/score-board.html
