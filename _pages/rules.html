@@ -185,19 +185,13 @@ resources:
   title: Additional resources
   items: 
   - text: NGFFL Gay Bowl Rules (8/1/2017)
-    button: 
-      text: Download
-      attachment: /img/NGFFL-Rulebook-4-7.pdf
-      link: ''
+    link: '/img/NGFFL-Rulebook-4-7.pdf'
   - text: Sample Playoffs Bracket
-    button: 
-      text: Download
-      attachment: /img/Playoffs-Example-1.pdf
-      link: ''
+    link: '/img/Playoffs-Example-1.pdf'
 ---
 <section id="rules-section">
   <div class="inner-section">
-    <div class="rule-col">
+    
       <div class="intro">
         <h1 class="intro-title">{{ page.intro.title }}</h1>
         <div class="intro-text">
@@ -215,8 +209,18 @@ resources:
         </div>
       </div>
       {% endfor %}
-    </div>
-    </div>
-    {% include resources-col.html %}  
+    </div> 
   </div>  
+</section>
+<section id="resources-section">
+  <div class="inner-section">
+    <h2 class="section-title">{{ page.resources.title }}</h2>
+    <div class="resources-list">
+      {% for resource in page.resources.items %}
+      <div class="resource">
+        <a href="{{ resource.link }}">{{ resource.text }}</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </section>

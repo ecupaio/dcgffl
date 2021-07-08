@@ -2,18 +2,14 @@
 @import "mixins.scss";
 #rules-page {
   #rules-section {
+    
     .inner-section {
-      display: flex;
-      @include bp-large{
-        display: block;
-      }
-    }
-    .intro-text {
       max-width: $size-large;
+    }
+    .intro {
+      text-align: center;
     }
     .rules-list {
-      
-      max-width: $size-large;
       .rule {
         border-bottom: 2px solid $lt-grey;
         padding: 1rem 0;
@@ -43,6 +39,15 @@
         .rule-text {
           display: none;
         }
+      }
+    }
+  }
+  #resources-section {
+    padding-top: 0;
+    .inner-section {
+      max-width: $size-large;
+      .resource {
+        margin-bottom: 0.5rem;
       }
     }
   }
