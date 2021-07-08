@@ -1,7 +1,15 @@
 @import "vars.scss";
 @import "mixins.scss";
 #scoreboard {
+  #title-section {
+    background-color: $red;
+    color: $white;
+    .page-title {
+      text-align: center;
+    }
+  }
   #scores-section {
+    
     .inner-section {
       display: flex;
       @include bp-medium {
