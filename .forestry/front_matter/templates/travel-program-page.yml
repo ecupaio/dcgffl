@@ -4,63 +4,30 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: permalink
-  label: permalink
+  label: Title
 - type: field_group
   name: hero
-  label: hero
+  label: Hero
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: text
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
     - type: boolean
       name: visible
-      label: visible
+      label: Visible
   - type: image_gallery
     name: images
-    label: images
-- type: field_group
-  name: resources
-  label: resources
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: field_group_list
-    name: items
-    label: items
-    fields:
-    - type: text
-      name: text
-      label: text
-    - type: field_group
-      name: button
-      label: button
-      fields:
-      - type: text
-        name: text
-        label: text
-      - type: file
-        name: attachment
-        label: attachment
-      - type: text
-        name: link
-        label: link
+    label: Images
