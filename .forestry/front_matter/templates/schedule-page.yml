@@ -29,4 +29,5 @@ fields:
       name: link
       label: Link
 pages:
+- _pages/rec-schedule.html
 - _pages/schedule.html
