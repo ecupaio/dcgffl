@@ -5,57 +5,45 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: content-id
-  label: content-id
-- type: text
-  name: css
-  label: css
-- type: boolean
-  name: slick
-  label: slick
 - type: textarea
   name: form-success
-  label: form-success
+  label: Form Success Text
 - type: field_group_list
   name: sponsors
-  label: sponsors
+  label: Sponsors
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: file
     name: image
-    label: image
+    label: Logo
   - type: text
     name: website
-    label: website
+    label: Website
   - type: text
     name: description
-    label: description
+    label: Description
   - type: boolean
     name: featured
-    label: featured
+    label: Featured
 - type: field_group
   name: reasons
-  label: reasons
+  label: Reasons Section
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: list
     name: items
-    label: items
+    label: Reasons
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
