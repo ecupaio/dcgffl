@@ -1,13 +1,10 @@
 ---
 label: Playoffs Page
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
   label: Title
-- type: number
-  name: season
-  label: Season
 - type: field_group
   name: intro
   label: Intro
