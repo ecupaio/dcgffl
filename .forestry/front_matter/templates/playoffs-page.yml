@@ -1,0 +1,49 @@
+---
+label: Playoffs Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: css
+  label: css
+- type: text
+  name: content-id
+  label: content-id
+- type: number
+  name: season
+  label: season
+- type: field_group
+  name: intro
+  label: intro
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: text
+    label: text
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
+    - type: boolean
+      name: visible
+      label: visible
+- type: field_group
+  name: results
+  label: results
+  fields:
+  - type: text
+    name: title
+    label: title
