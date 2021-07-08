@@ -81,13 +81,6 @@ sections:
   templates:
   - team
 - type: directory
-  path: _sponsors
-  label: Sponsors
-  create: documents
-  match: "**/*"
-  templates:
-  - sponsor
-- type: directory
   path: _teams
   label: Teams
   create: documents
