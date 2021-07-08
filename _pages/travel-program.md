@@ -1,28 +1,30 @@
 ---
 title: Travel Program
 layout: travel-program
-permalink: /travel-program/
-hero: 
+permalink: "/travel-program/"
+hero:
   title: Travel Program
-  text: Welcome to the Travel Program information page for the DC Gay Flag Football League (DCGFFL).
-  button: 
+  text: Welcome to the Travel Program information page for the DC Gay Flag Football
+    League (DCGFFL).
+  button:
     text: ''
     link: ''
     visible: false
-  images: 
-  - /img/tp-senators.jpeg
-  - /img/tp-admirals.jpeg
-  - /img/tp-commanders.jpeg
-  - /img/tp-deltaforce.jpeg
-  - /img/tp-generals.jpeg
-resources: 
+  images:
+  - "/img/tp-senators.jpeg"
+  - "/img/tp-admirals.jpeg"
+  - "/img/tp-commanders.jpeg"
+  - "/img/tp-deltaforce.jpeg"
+  - "/img/tp-generals.jpeg"
+resources:
   title: Additional Resources
   items:
   - text: 2021 Travel Policies and Procedures
-    button: 
+    button:
       text: Download
-      attachment: '/img/DCGFFL-TMC-Policies-and-Procedures-2021-04-18.pdf'
-      link: ''  
+      attachment: "/img/DCGFFL-TMC-Policies-and-Procedures-2021-04-18.pdf"
+      link: ''
+
 ---
 ### COVID-19 AND IMPACT TO TRAVEL TOURNAMENTS
 
