@@ -47,3 +47,5 @@ fields:
     - type: text
       name: link
       label: Link
+pages:
+- _pages/sponsors.html
