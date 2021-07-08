@@ -1,0 +1,61 @@
+---
+label: Sponsors Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: content-id
+  label: content-id
+- type: text
+  name: css
+  label: css
+- type: boolean
+  name: slick
+  label: slick
+- type: textarea
+  name: form-success
+  label: form-success
+- type: field_group_list
+  name: sponsors
+  label: sponsors
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: website
+    label: website
+  - type: text
+    name: description
+    label: description
+  - type: boolean
+    name: featured
+    label: featured
+- type: field_group
+  name: reasons
+  label: reasons
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: list
+    name: items
+    label: items
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: link
+      label: link
