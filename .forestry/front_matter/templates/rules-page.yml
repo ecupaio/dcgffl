@@ -7,7 +7,7 @@ fields:
   label: Title
 - type: field_group
   name: intro
-  label: intro
+  label: Intro
   fields:
   - type: text
     name: title
@@ -37,7 +37,7 @@ fields:
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - name: link
       type: text
       config:
