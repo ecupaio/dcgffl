@@ -4,41 +4,31 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
-- type: text
-  name: css
-  label: css
-- type: text
-  name: content-id
-  label: content-id
+  label: Title
 - type: number
   name: season
-  label: season
+  label: Season
 - type: number
   name: week
-  label: week
-- type: list
-  name: scripts
-  label: scripts
+  label: Week
 - type: field_group
   name: hero
-  label: hero
+  label: Hero
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: file
     name: image
-    label: image
+    label: Image
+    config:
+      maxSize: 1
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
@@ -51,64 +41,64 @@ fields:
       label: visible
 - type: field_group
   name: register
-  label: register
+  label: Register
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: textarea
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
     - type: boolean
       name: visible
-      label: visible
+      label: Visible
 - type: field_group
   name: rules
-  label: rules
+  label: Rules
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: field_group_list
     name: items
-    label: items
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: textarea
       name: text
-      label: text
+      label: Text
+    label: Items
 - type: field_group
   name: playoffs
-  label: playoffs
+  label: Playoffs
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: text
     name: text
-    label: text
+    label: Text
   - type: field_group
     name: button
-    label: button
+    label: Button
     fields:
     - type: text
       name: text
-      label: text
+      label: Text
     - type: text
       name: link
-      label: link
+      label: Link
   - type: boolean
     name: visible
-    label: visible
+    label: Visible
