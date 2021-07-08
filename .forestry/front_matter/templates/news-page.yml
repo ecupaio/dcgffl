@@ -1,0 +1,19 @@
+---
+label: News Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: content-id
+  label: content-id
+- type: text
+  name: css
+  label: css
+- type: list
+  name: scripts
+  label: scripts
