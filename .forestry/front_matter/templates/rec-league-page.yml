@@ -63,23 +63,6 @@ fields:
       name: visible
       label: Visible
 - type: field_group
-  name: rules
-  label: Rules
-  fields:
-  - type: text
-    name: title
-    label: Title
-  - type: field_group_list
-    name: items
-    fields:
-    - type: text
-      name: title
-      label: Title
-    - type: textarea
-      name: text
-      label: Text
-    label: Items
-- type: field_group
   name: playoffs
   label: Playoffs
   fields:
@@ -102,3 +85,20 @@ fields:
   - type: boolean
     name: visible
     label: Visible
+- type: field_group
+  name: rules
+  label: Rules
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: field_group_list
+    name: items
+    fields:
+    - type: text
+      name: title
+      label: Title
+    - type: textarea
+      name: text
+      label: Text
+    label: Items
