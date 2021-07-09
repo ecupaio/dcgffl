@@ -41,8 +41,17 @@ fields:
       name: teams-score
       label: teams-score
       fields:
-      - type: text
-        name: team
+      - name: team
+        type: select
+        default: []
+        config:
+          required: false
+          options: []
+          source:
+            type: pages
+            section: rec-teams
+            file: 
+            path: 
         label: team
       - type: number
         name: score
