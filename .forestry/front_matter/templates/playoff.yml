@@ -75,18 +75,17 @@ fields:
         date_format: 
         time_format: 
         display_utc: false
-    - type: field_group
-      name: location
-      label: location
-      fields:
-      - type: text
-        name: title
-        label: title
-      - type: text
-        name: link
-        label: link
-      - type: text
-        name: field
-        label: field
+    - name: location
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+          file: 
+          path: 
+      label: Location
   config:
     labelField: title
