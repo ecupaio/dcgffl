@@ -1,5 +1,5 @@
 ---
-title: Season 20 Playoffs
+title: Season 20 Playoffs Rec
 season: 20
 champion: _teams/s20-red.md
 rounds:
