@@ -4,28 +4,28 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: week
-  label: week
+  label: Week
 - type: number
   name: season
-  label: season
+  label: Season
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: text
   name: mvp
-  label: mvp
+  label: MVP
 - type: text
   name: game-ball
-  label: game-ball
+  label: Gameball
 - type: text
   name: sportsperson
-  label: sportsperson
+  label: Sportsperson
 - type: field_group_list
   name: teams-score
-  label: teams-score
+  label: Teams/Score
   fields:
   - name: team
     type: select
@@ -41,7 +41,7 @@ fields:
     label: Team
   - type: number
     name: score
-    label: score
+    label: Score
 - name: location
   type: select
   default: []
@@ -53,7 +53,7 @@ fields:
       section: locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
       file: 
       path: 
-  label: location
+  label: Location
 - type: number
   name: field
-  label: field
+  label: Field
