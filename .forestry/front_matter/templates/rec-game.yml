@@ -1,0 +1,41 @@
+---
+label: Rec Game
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: week
+  label: week
+- type: number
+  name: season
+  label: season
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: mvp
+  label: mvp
+- type: text
+  name: game-ball
+  label: game-ball
+- type: text
+  name: sportsperson
+  label: sportsperson
+- type: field_group_list
+  name: teams-score
+  label: teams-score
+  fields:
+  - type: text
+    name: team
+    label: team
+  - type: number
+    name: score
+    label: score
+- type: text
+  name: location
+  label: location
+- type: number
+  name: field
+  label: field
