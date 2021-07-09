@@ -27,14 +27,32 @@ fields:
   name: teams-score
   label: teams-score
   fields:
-  - type: text
-    name: team
-    label: team
+  - name: team
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: rec-teams
+        file: 
+        path: 
+    label: Team
   - type: number
     name: score
     label: score
-- type: text
-  name: location
+- name: location
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+      file: 
+      path: 
   label: location
 - type: number
   name: field
