@@ -1,0 +1,49 @@
+---
+label: Rec Playoff
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: season
+  label: season
+- type: text
+  name: champion
+  label: champion
+- type: field_group_list
+  name: rounds
+  label: rounds
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: games
+    label: games
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: division
+      label: division
+    - type: datetime
+      name: date
+      label: date
+    - type: text
+      name: location
+      label: location
+    - type: text
+      name: field
+      label: field
+    - type: field_group_list
+      name: teams-score
+      label: teams-score
+      fields:
+      - type: text
+        name: team
+        label: team
+      - type: number
+        name: score
+        label: score
