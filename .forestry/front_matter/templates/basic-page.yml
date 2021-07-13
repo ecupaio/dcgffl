@@ -21,4 +21,5 @@ fields:
   hidden: true
   default: basic-page
 pages:
+- _pages/something.md
 - _pages/test-page.md
