@@ -4,29 +4,34 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: season
-  label: season
+  label: Season
 - type: field_group_list
   name: rounds
-  label: rounds
+  label: Rounds
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: field_group_list
     name: games
-    label: games
+    label: Games
     fields:
     - name: title
       type: text
       config:
         required: false
-      label: title
+      label: Title
+    - name: division
+      type: text
+      config:
+        required: false
+      label: Division
     - type: field_group_list
       name: teams-score
-      label: teams-score
+      label: Teams/Score
       fields:
       - name: team
         type: select
@@ -39,10 +44,10 @@ fields:
             section: teams
             file: 
             path: 
-        label: team
+        label: Team
       - name: score
         type: number
-        label: score
+        label: Score
         description: ''
         default: 
         required: true
@@ -52,23 +57,9 @@ fields:
           step: 
       config:
         labelField: team
-    - name: division
-      type: select
-      default: []
-      config:
-        required: false
-        options:
-        - Nellies
-        - Pitchers
-        source:
-          type: simple
-          section: 
-          file: 
-          path: 
-      label: division
     - name: date
       type: datetime
-      label: date
+      label: Date
       description: ''
       config:
         required: false
