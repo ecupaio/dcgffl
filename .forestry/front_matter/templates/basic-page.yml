@@ -1,4 +1,22 @@
 ---
 label: Basic Page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+  description: 'Just add the path with slashes at the beginning and end. Ex: /about/'
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: basic-page
