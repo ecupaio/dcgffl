@@ -19,6 +19,6 @@ members:
 - Patrick Tobin
 - Larry Womack
 rec-league: false
-division: Nellie's
+division: Nellies
 
 ---
