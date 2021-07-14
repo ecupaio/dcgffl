@@ -1,4 +1,6 @@
 ---
-permalink: /teams/
-redirect_url: /league/
+permalink: "/teams/"
+redirect_url: "/league/"
+title: Teams
+
 ---
