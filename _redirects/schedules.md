@@ -1,4 +1,4 @@
 ---
 permalink: /schedules/
-redirect_path: /score-board/
+redirect_url: /league/
 ---

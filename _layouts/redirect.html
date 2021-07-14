@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    {% if page.redirect_url and page.redirect_url != '' %}
+    {% if page.redirect_url contains 'http' %}
     {% assign redirect = page.redirect_url %}
-    {% elsif page.redirect_path and page.redirect_path !='' %}
+    {% else %}
     {% capture redirect %}
-    {{ site.url }}{{ page.redirect_path }}
+    {{ site.url }}{{ page.redirect_url }}
     {% endcapture %}
     {% endif %}
     <meta http-equiv="refresh" content="0; url={{ redirect }}">

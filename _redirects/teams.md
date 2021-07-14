@@ -1,4 +1,4 @@
 ---
 permalink: /teams/
-redirect_path: /league/
+redirect_url: /league/
 ---
