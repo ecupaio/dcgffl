@@ -87,6 +87,8 @@ sections:
   label: Redirects
   create: documents
   match: "**/*"
+  templates:
+  - redirect
 - type: directory
   path: _teams
   label: Teams
