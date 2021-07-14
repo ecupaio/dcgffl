@@ -13,3 +13,5 @@ fields:
   label: Redirect URL
   description: Where the redirect should point to. If you want /national-org/ to point
     to https://ngffl.org/, then add <strong>https://ngffl.org/</strong> here.
+pages:
+- _redirects/donate.md
