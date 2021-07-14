@@ -20,5 +20,3 @@ fields:
   label: layout
   hidden: true
   default: basic-page
-pages:
-- _pages/test-page.md
