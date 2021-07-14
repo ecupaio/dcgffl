@@ -83,6 +83,13 @@ sections:
   templates:
   - team
 - type: directory
+  path: _redirects
+  label: Redirects
+  create: documents
+  match: "**/*"
+  templates:
+  - redirect
+- type: directory
   path: _teams
   label: Teams
   create: documents
