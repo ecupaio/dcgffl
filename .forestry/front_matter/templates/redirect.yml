@@ -4,7 +4,12 @@ hide_body: true
 fields:
 - type: text
   name: permalink
-  label: permalink
+  label: Permalink
+  description: The path you want the redirect to live on. For example if you want
+    dcgffl.org/signup to redirect to a google form, add <strong>/signup/</strong>
+    for the permalink.
 - type: text
   name: redirect_url
-  label: redirect_url
+  label: Redirect URL
+  description: Where the redirect should point to. If you want /national-org/ to point
+    to https://ngffl.org/, then add <strong>https://ngffl.org/</strong> here.
