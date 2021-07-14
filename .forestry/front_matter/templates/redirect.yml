@@ -1,0 +1,10 @@
+---
+label: Redirect
+hide_body: true
+fields:
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: redirect_url
+  label: redirect_url
