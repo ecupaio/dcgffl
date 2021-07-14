@@ -4,7 +4,7 @@ date: 2020-09-12 17:24:26 -0400
 time: 6:30PM - 9:30PM
 button:
   text: RSVP
-  link: eventbrite.com
+  link: https://eventbrite.com
   visible: true
 location:
   name: The Dirty Goose
