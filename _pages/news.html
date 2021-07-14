@@ -5,7 +5,6 @@ content-id: news-page
 css: news
 scripts:
 - news
-
 ---
 <section id="posts-section">
   <div class="inner-section">
@@ -13,7 +12,6 @@ scripts:
     <div class="posts-list">
       {% for post in site.posts %}
       <div class="post {% if forloop.index > 10 %}hidden{% endif %}">
-
         <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
         <h6 class="post-date">{{ post.date | date: '%B %e, %Y'}}</h6>
         <div class="post-preview">
