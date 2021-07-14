@@ -2,6 +2,13 @@
 label: Redirect
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: 'Administrative title for the redirect. It won''t have any impact on
+    the link. Just makes it easy for you to find. '
 - type: text
   name: permalink
   label: Permalink
