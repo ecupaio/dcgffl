@@ -1,17 +1,17 @@
 ---
-title: Example Event 3
-date: 2021-10-13T21:24:26.000+00:00
-time: 6:30PM - 9:30PM
+title: New Player Workshop 1
+date: 2021-08-19 18:31:00 -0400
+time: 6:30PM - 7:30PM
 button:
-  text: League
-  link: "#/league/"
-  visible: true
+  text: ''
+  link: ''
+  visible: false
 location:
-  name: The Dirty Goose
-  address: 913 U St NW
+  name: Carter Barron Fields
+  address: Carter Barron Fields
   city: Washington
   state: DC
-  zip: 20001
+  zip: 
 
 ---
 These are the details of your event. You can put whatever you want here.
