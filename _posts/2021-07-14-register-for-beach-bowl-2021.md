@@ -17,11 +17,11 @@ attachments: []
 
 Come to play football, hit the beach, and party with your DCGFFL league mates during what is sure to be the best Beach Bowl weekend yet!
 
-### [**Register as a player for Beach Bowl**](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=9d7d32bf0a&e=c3641de19c)
+#### **Click Here to** [**Register as a player for Beach Bowl**](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=9d7d32bf0a&e=c3641de19c)
 
 Player registration is $40.
 
-### [**Register as a non-player participant**](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=61a0cf8c5e&e=c3641de19c)
+#### **Click Here to** [**Register as a non-player participant**](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=61a0cf8c5e&e=c3641de19c)
 
 If you want to come and party with your league mates but not play football, there's a place for you! Register as a non-player participant for $35.
 
