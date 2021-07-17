@@ -22,7 +22,8 @@ faq:
     a: No!  We welcome all levels, from brand new to veteran footballer.  If you're
       a rookie, your captain and quarterback will work with you to learn the rules
       and develop your skills.  If you're a football all star, you'll find a competitive
-      atmosphere with a lot of other talented players.
+      atmosphere with a lot of other talented players that will challenge you to play
+      your best.
   - q: What equipment do I need to play?
     a: To avoid player injure from hands getting caught on pockets, players are required
       to wear pocketless shorts.  We also strongly recommend cleats (no metal studs)
