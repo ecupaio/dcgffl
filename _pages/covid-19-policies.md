@@ -4,7 +4,7 @@ title: COVID-19 Policies
 permalink: "/covid-19/"
 
 ---
-All participants of the DCGFFL are expected to work together and abide by CDC guidelines to ensure a safe environment for playing flag football.
+All participants of the DCGFFL are expected to work together and abide by CDC guidelines to ensure a safe environment for playing flag football.  On registration, players will be required to sign an agreement and release waiver to comply with these policies at all times during league events.
 
 #### Vaccination
 
