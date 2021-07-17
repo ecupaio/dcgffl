@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2020-08-05 07:00:00 +0000
 title: March On Washington August 28, 2020
 attachments: []
 
