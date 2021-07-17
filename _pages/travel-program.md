@@ -26,15 +26,11 @@ resources:
       link: ''
 
 ---
-### COVID-19 AND IMPACT TO TRAVEL TOURNAMENTS
-
-First and foremost, we hope you and your loved ones are safe and healthy during these uncertain times. For many of us, the DCGFFL community is a family and a way for us to have fun and get a release from the stress of day to day life.  We’re eager to kick the momentum back up for 2021, and pick up right where we left off in 2019. Check back for updates on the status of this year’s tournaments.
-
 ### Save the date for this year’s travel tournaments:
 
 [Pride Bowl XIII](https://www.facebook.com/PrideBowlChicago/) – June 27-28 in CHICAGO
 
-[Gay Bowl XXI](https://youtu.be/l7WuqTrw97c) – October 7-10 (city TBD)
+[Gay Bowl XXI](https://youtu.be/l7WuqTrw97c) – October 7-10 in TEMPE, AZ - [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSfvWKFUThzm0pCT563RM6LtVCYH4JCWcADSFctCBWas4Lhqhg/viewform?usp=sf_link)
 
 ### About the Travel Program
 
@@ -47,13 +43,13 @@ The Travel Program is managed by the Travel Management Committee (TMC) with over
 In the transitional COVID-19 period, the Travel Committee is represented by the captains of the 2019 travel teams:
 
 Senators – Jayme Fuglesten  
-Generals – Marvin Washington    
+Generals – Marvin Washington  
 Admirals – Bryan Sanders  
 Commanders – Clay Arnold  
-Delta Force – Dameron Rendell  
+Delta Force – Dameron Rendell
 
 Independent Member and Committee Chair – JC Chiuco  
-DCGFFL Liaison – Darryl Pilate
+DCGFFL Liaison – Ryan Viessman
 
 Any questions on the travel program can be directed to the TMB at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
 
