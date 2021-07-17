@@ -25,7 +25,7 @@ faq:
       atmosphere with a lot of other talented players that will challenge you to play
       your best.
   - q: What equipment do I need to play?
-    a: To avoid player injure from hands getting caught on pockets, players are required
+    a: To avoid player injury from hands getting caught on pockets, players are required
       to wear pocketless shorts.  We also strongly recommend cleats (no metal studs)
       and football gloves.  Oh, and don't forget sunscreen and water!  The DCGFFL
       will provide you with jerseys and flag belts.  Quarterbacks must supply their
