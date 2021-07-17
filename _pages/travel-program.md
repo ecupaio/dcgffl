@@ -60,3 +60,7 @@ Any questions on the travel program can be directed to the TMB at [DCGFFLTravel@
 ### Resources
 
 [2021 Travel Policies and Procedures](/img/DCGFFL-TMC-Policies-and-Procedures-2021-04-18.pdf)
+
+[NGFFL Rules](https://ngffl.org/rules-of-play)
+
+[Learn More about Gay Bowl](https://ngffl.org/gaybowl)
