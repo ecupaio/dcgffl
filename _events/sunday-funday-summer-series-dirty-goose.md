@@ -8,7 +8,7 @@ date: 2021-07-18 14:00:00 -0400
 time: 2pm-5pm
 location:
   name: The Dirty Goose
-  address: ''
+  address: The Dirty Goose
   city: Washington
   state: DC
   zip: 
