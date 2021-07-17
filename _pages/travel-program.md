@@ -26,6 +26,10 @@ resources:
       link: ''
 
 ---
+### Registration is OPEN for Gay Bowl 2021!
+
+[Learn more and register here]()!
+
 ### Save the date for this year’s travel tournaments:
 
 [Pride Bowl XIII](https://www.facebook.com/PrideBowlChicago/) – June 27-28 in CHICAGO
