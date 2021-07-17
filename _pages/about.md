@@ -29,7 +29,7 @@ faq:
       to wear pocketless shorts.  We also strongly recommend cleats (no metal studs)
       and football gloves.  Oh, and don't forget sunscreen and water!  The DCGFFL
       will provide you with jerseys and flag belts.  Quarterbacks must supply their
-      own balls.
+      own footballs.
   - q: How are teams picked?
     a: In order to ensure equitable teams, players are drafted onto new teams every
       season by the team captain and quarterback.  This means you get to meet and
