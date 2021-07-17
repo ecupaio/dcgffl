@@ -12,6 +12,6 @@ location:
   city: Washington
   state: DC
   zip: 
-published: false
 
 ---
+Stay tuned for team schedules!  Mark your calendars for the first week of Season 1 games.
