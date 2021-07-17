@@ -12,7 +12,6 @@ location:
   city: Washington
   state: DC
   zip: 
-published: false
 
 ---
 The DCGFFL relies on player referees to ensure fair enforcement of the rules. Each season is a learning experience for both veterans and rookies alike, whether through improving [knowledge of the rules](https://ngffl.org/rules-of-play), [practicing good referee mechanics](https://drive.google.com/file/d/0BxQGJKmHS-rPTzRmYW5qbWIxTndhSGJLRWdMbWI4VXI5ZG1J/view?usp=sharing), or simply recognizing what [proper blocking](https://www.youtube.com/watch?v=y0iVwQmWUJs) (h/t Greater Philadelphia Flag Football) or various rules infractions look like in practice, not just in theory.
