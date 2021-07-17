@@ -1,21 +1,17 @@
 ---
-title: Example Event 2
-date: 2020-09-12 17:24:26 -0400
-time: 6:30PM - 9:30PM
+title: Fall 2021 Registration
+date: 2021-07-20 17:24:26 -0400
+time: 7pm
 button:
-  text: RSVP
-  link: https://eventbrite.com
-  visible: true
+  text: ''
+  link: ''
+  visible: false
 location:
-  name: The Dirty Goose
-  address: 913 U St NW
-  city: Washington
+  name: ''
+  address: ''
+  city: Washgington
   state: DC
-  zip: 20001
+  zip: ''
 
 ---
-These are the details of your event. You can put whatever you want here.
-
-$5 per head
-
- 
+Mark your calendars: Early Registration for returning players will open on Tuesday, July 20, at 7pm. Returning players from recent seasons will be emailed with a link to register. _This early registration is limited to 100 players_ - so don't delay, register immediately upon receipt of the email to secure your spot! After the early spots are filled, registration will be made available to all players!
