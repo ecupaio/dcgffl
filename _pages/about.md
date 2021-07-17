@@ -43,11 +43,11 @@ Currently, the league fields 20 teams with approximately 270 players for a Fall 
 
 It is only through the hard work and dedication of many men and women, both straight and gay, from the DC community, that this amazing league has become what it is today.   It is in this spirit that the DCGFFL is excited to see what the next 20 years brings for flag football in DC.
 
-Want more information? [Sign up for our weekly emails!](http://eepurl.com/c9JkQz) 
+Want more information? [Sign up for our weekly emails!](http://eepurl.com/c9JkQz)
 
 ### Financial Information
 
-The DCGFFL is a 501(c)3 Non-Profit organization, please email [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com) to request a copy of IRS form 990 and latest avalable financial statement/annunal report.
+The DCGFFL is a 501(c)3 Non-Profit organization, please email [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com) to request a copy of IRS form 990 and latest available financial statement/annual report.
 
 ### Mission
 
