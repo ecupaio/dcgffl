@@ -47,6 +47,8 @@ social:
   link: mailto:dcgayflagfootball@gmail.com
   icon: <i class="fa fa-envelope"></i>
 footer:
+- title: COVID-19
+  link: "/covid-19/"
 - title: About
   link: "/about/"
 - title: Playoffs
