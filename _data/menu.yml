@@ -1,5 +1,7 @@
 ---
 nav:
+- title: Playoffs
+  link: "/playoffs/"
 - title: Home
   link: "/"
 - title: About
