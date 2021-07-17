@@ -15,13 +15,8 @@ locations:
 faq:
   title: Frequently Asked Questions
   items:
-  - q: Lorem ipsum dolor sit amet?
-    a: Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-      dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-      laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-      in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-      occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-      id est laborum.
+  - q: Do I have to identify as LGBTQ+ to play?
+    a: 'No! We welcome all participants, allies and LBGTQ+ members alike.  '
   - q: Lorem ipsum dolor sit amet?
     a: Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
       dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
