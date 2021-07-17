@@ -11,7 +11,7 @@ rounds:
       score: 
     - team: _teams/tbd.md
       score: 
-    date: 2021-11-14 00:00:00 -0500
+    date: 2021-11-14 12:00:00 -0500
     location: _locations/carter-baron.md
 
 ---
