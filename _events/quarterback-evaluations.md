@@ -12,10 +12,9 @@ location:
   city: Washington
   state: DC
   zip: 
-published: false
 
 ---
-If you are a new player and are interested in being a quarterback, you will need to attend the QB tryout to be eligible for selection as a QB for a regular season.
+If you are a new player and are interested in being a quarterback, you will need to attend the QB evaluation to be eligible for selection as a QB for a regular season.
 
 Quarterbacks, essential to a team's competitive success and positive community, are expected to work closely with captains to fulfill their duties.  This includes making sure that everyone on their team meets the Play Every Player requirement.
 
