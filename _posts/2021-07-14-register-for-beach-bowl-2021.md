@@ -6,10 +6,11 @@ attachments: []
 ---
 The DCGFFL's annual casual summer tournament, Beach Bowl, will be held Saturday, August 7th in Rehoboth Beach, Delaware.  The tournament structure is dependent on the number of teams playing and the number of players who register.  Generally, 2-3 short games are played on a grass field in the morning to afternoon, followed by social events and a night out in Rehoboth!
 
-* Join us on Friday at sponsor bar host venue [the Purple Parrot](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=2e18563c15&e=c3641de19c) from 7:30pm-11pm for some orange crushes!
-* Come play flag football at [Beacon Middle School](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=c2d1bb79ea&e=c3641de19c) - typically 3 short games.
+* Join us on Friday August 6 at sponsor bar host venue [the Purple Parrot](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=2e18563c15&e=c3641de19c) from 7:30pm-11pm for some orange crushes!
+* Come play flag football starting 10am at [Beacon Middle School](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=c2d1bb79ea&e=c3641de19c) - typically 3 short games.
 * Cool off at the pool party! 4:30pm-8:45pm. Food and drink will be provided.
 * Dance at official afterparty and sponsor host venue [Diego's Bar and Night Club](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=1da5024fc4&e=c3641de19c) 9pm-close - admission free for registered guests!
+* Sunday is Beach Day at Poodle Beach starting 11am!
 * If you need help planning accommodation or getting a ride to Rehoboth, Scott at [sgrahamuva@gmail.com](mailto:sgrahamuva@gmail.com?subject=Beach%20Bowl%20Plans&body=Hello%2C%20the%20DCGFFL%20referred%20me%20to%20ask%20if%20you%20could%20connect%20me%20to%20other%20league%20members%20for%20help%20planning%20my%20accommodation%20%2F%20travel%20to%20Rehoboth!%0A%0AMy%20name%3A%20%0A%0ADetails%3A%20) can connect you with other league members.
 * **Player registration for Beach Bowl will close July 20.** **Don't wait - sign up today!** Captains will be named on July 22, 2021.
 
