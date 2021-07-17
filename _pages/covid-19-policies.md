@@ -4,7 +4,7 @@ title: COVID-19 Policies
 permalink: "/covid-19/"
 
 ---
-All participants of the DCGFFL are expected to work together and abide by CDC guidelines to ensure a safe environment for playing flag football.  
+All participants of the DCGFFL are expected to work together and abide by CDC guidelines to ensure a safe environment for playing flag football.
 
 #### Vaccination
 
@@ -12,7 +12,7 @@ Players, Officials, and Spectators are strongly encouraged to get vaccinated aga
 
 Proof of vaccination will not be required for participation in DCGFFL, but getting vaccinated is the best way to make our league as safe as possible. We truly hope everyone who is safely able to get vaccinated chooses to do so.
 
-Those choosing to play this season, must do so with the understanding that there may be unvaccinated participants, and that individuals personally assume any associated risk for the decision to engage in league play.
+Those choosing to play must do so with the understanding that there may be unvaccinated participants, and that individuals personally assume any associated risk for the decision to engage in league play.
 
 #### Face Coverings
 
