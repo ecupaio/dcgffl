@@ -18,6 +18,6 @@ Mark your calendars for the following key Season 21 dates!
 * August 22 - New Player Workshop 2 and Ref Clinic
 * August 26 - Team Announcement Party (TAP)
 * September 12 - First week of games
-* October (Thursday evenings) - Recreation League Games
+* October (Thursday evenings, TBD) - Recreation League Games
 * November 14 - Playoffs
 * November 21 - Championships and End-of-Season Party
