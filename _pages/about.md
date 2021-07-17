@@ -15,6 +15,10 @@ locations:
 faq:
   title: Frequently Asked Questions
   items:
+  - q: Is this more of a social or more of a competitive league?
+    a: We strive to be both!  The experience is what you make of it - our players
+      work hard and play hard.  A wide range of athletic talent is coupled with a
+      wide range of social energy.  Join up and experience it yourself!
   - q: What equipment do I need to play?
     a: To avoid player injure from hands getting caught on pockets, players are required
       to wear pocketless shorts.  We also strongly recommend cleats (no metal studs)
