@@ -20,3 +20,5 @@ fields:
   label: layout
   hidden: true
   default: basic-page
+pages:
+- _pages/covid-19-policies.md
