@@ -1,5 +1,5 @@
 ---
-date: 2020-08-05 19:30:21 +0000
+date: 
 title: March On Washington August 28, 2020
 attachments: []
 
@@ -12,6 +12,6 @@ On August 28, 1963, about a quarter-million people participated in the historic 
 
 #### Black Lives Matter DCGFFL Shirts
 
-As part of our March on Washington participation, we provided limited edition Black Lives Matter T-shirts and Tank Tops. Orders are now closed. Remaining shirts will be distributed at Nellies on Wednesday September 2nd from 6-9pm. If you can’t make this time, email dcgayflagfootball@gmail.com to coordinate pickup.
+As part of our March on Washington participation, we provided limited edition Black Lives Matter T-shirts and Tank Tops. Orders are now closed. Remaining shirts will be sold on a limited basis with proceeds benefitting Empower DC. If interested in a BLM shirt, email dcgayflagfootball@gmail.com.
 
 ![](/img/blm_tshirt.png)
