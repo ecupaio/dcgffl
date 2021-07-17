@@ -15,10 +15,11 @@ locations:
 faq:
   title: Frequently Asked Questions
   items:
-  - q: Is this more of a social or more of a competitive league?
-    a: We strive to be both!  The experience is what you make of it - our players
-      work hard and play hard.  A wide range of athletic talent is coupled with a
-      wide range of social fun.  Join up and experience it yourself!
+  - q: Do I have to identify as LGBTQ+ to play?
+    a: No! We welcome all participants, allies and LBGTQ+ members alike, and we do
+      not ask players to self-identify.
+  - q: Do I need to have flag football experience to play?
+    a: 'No!  We welcome all levels, from brand new to veteran footballer.  '
   - q: What equipment do I need to play?
     a: To avoid player injure from hands getting caught on pockets, players are required
       to wear pocketless shorts.  We also strongly recommend cleats (no metal studs)
@@ -29,11 +30,10 @@ faq:
     a: In order to ensure equitable teams, players are drafted onto new teams every
       season by the team captain and quarterback.  This means you get to meet and
       play with new people every season!
-  - q: Do I have to identify as LGBTQ+ to play?
-    a: No! We welcome all participants, allies and LBGTQ+ members alike, and we do
-      not ask for players to identify their sexual orientation.
-  - q: Do I need to have flag football experience to play?
-    a: 'No!  We welcome all levels, from brand new to veteran footballer.  '
+  - q: Is this more of a social or more of a competitive league?
+    a: We strive to be both!  The experience is what you make of it - our players
+      work hard and play hard.  A wide range of athletic talent is coupled with a
+      wide range of social fun.  Join up and experience it yourself!
 
 ---
 The DC Gay Flag Football League (DCGFFL) started in the mid 90's when two different groups of players began gathering for football.  The first group started playing together in 1994 at Francis Field near Dupont Circle, and the other began playing near the Washington Monument Mall in 1997.  In 1998, the groups came together and the base of DC gay flag football was set.
