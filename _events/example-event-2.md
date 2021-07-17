@@ -9,7 +9,7 @@ button:
 location:
   name: ''
   address: ''
-  city: Washgington
+  city: Washington
   state: DC
   zip: ''
 
