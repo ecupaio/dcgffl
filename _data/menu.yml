@@ -47,10 +47,10 @@ social:
 footer:
 - title: About
   link: "/about/"
-- title: Board
-  link: "/board/"
 - title: Playoffs
   link: "/playoffs/"
+- title: Board
+  link: "/board/"
 - title: Awards
   link: "/awards/"
 - title: Rules & Policies
