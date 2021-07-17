@@ -18,7 +18,7 @@ Those choosing to play must do so with the understanding that there may be unvac
 
 * Vaccinated Participants: Per CDC guidelines, masks will not be required for those vaccinated against COVID-19.
 * Unvaccinated Participants: You are expected to wear a mask during league play and at all other times while at games and league functions, per local guidelines.
-* All vaccinated participants who may choose to still wear masks are welcome to do so. 
+* All vaccinated participants who may choose to still wear masks are welcome to do so, at their option. 
 
 #### Equipment
 
