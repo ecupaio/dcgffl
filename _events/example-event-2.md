@@ -7,7 +7,7 @@ button:
   link: ''
   visible: false
 location:
-  name: Email
+  name: Notification by Email
   address: ''
   city: Washington
   state: DC
