@@ -12,7 +12,6 @@ location:
   city: Washington
   state: DC
   zip: 
-published: false
 
 ---
 ![](https://mcusercontent.com/44f118b44c71d10ae3076bec3/images/fcea7ff8-67c8-ebc6-8b79-66f3de7d6a43.jpg)
