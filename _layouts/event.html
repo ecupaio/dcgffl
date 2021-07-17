@@ -24,8 +24,7 @@ css: events
           <div class="info-block map">
             <iframe src="https://maps.google.com/maps?q={{ page.location.address | url_encode }}+{{page.location.city | url_encode }}+{{ page.location.state | url_encode }}+{{ page.location.zip | url_encode }}&output=embed" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
-          
-          <div class="info-block button">
+          <div class="info-block button {% if page.button.visible == false %}hidden{% endif %}">
             <a class="btn" href="{{ page.button.link }}">{{ page.button.text }}</a>
           </div>
         </div>
