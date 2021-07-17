@@ -7,7 +7,7 @@ button:
   link: ''
   visible: false
 location:
-  name: ''
+  name: Check Email
   address: ''
   city: Washington
   state: DC
