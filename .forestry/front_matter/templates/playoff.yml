@@ -80,3 +80,5 @@ fields:
       label: Location
   config:
     labelField: title
+pages:
+- _playoffs/season-21-playoffs.md
