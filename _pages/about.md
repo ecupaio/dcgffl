@@ -16,8 +16,8 @@ faq:
   title: Frequently Asked Questions
   items:
   - q: Do I have to identify as LGBTQ+ to play?
-    a: No! We welcome all participants, allies and LBGTQ+ members alike, and we do
-      not ask players to self-identify.
+    a: No! We welcome all participants, allies and LBGTQ+ community members alike,
+      and we do not ask players to self-identify.
   - q: Do I need to have flag football experience to play?
     a: 'No!  We welcome all levels, from brand new to veteran footballer.  '
   - q: What equipment do I need to play?
