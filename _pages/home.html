@@ -107,7 +107,7 @@ sponsors-section:
           <div class="post">
             <h4 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h4>
             <h6 class="post-date">{{ post.date | date: '%B %e, %Y' }} </h6>
-            <div class="post-snippet">{{ post.content | strip_html | truncate: 200, '...' }}</div>
+            <div class="post-snippet">{{ post.content | markdownify | strip_html | truncate: 200, '...' }}</div>
             <a class="post-link" href="{{ post.url }}">Read more</a>
           </div>
         </div>
@@ -137,7 +137,7 @@ sponsors-section:
             <div class="info-col">
               <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
               <h6 class="event-time">{{ event.time }}</h6>
-              <div class="event-desc">{{ event.content | strip_html | truncate: 95, '...' }}</div>
+              <div class="event-desc">{{ event.content | markdownify | strip_html | truncate: 95, '...' }}</div>
               <a href="{{ event.url }}" class="event-link">View event</a>
             </div>
           </div>
