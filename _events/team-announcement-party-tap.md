@@ -12,7 +12,6 @@ location:
   city: Washington
   state: DC
   zip: 
-published: false
 
 ---
 Every season, the DCGFFL brings players, family, and fans from all across the area to come together and celebrate the beginning of a new season at the Team Announcement Party.
