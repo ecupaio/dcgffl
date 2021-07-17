@@ -15,8 +15,13 @@ locations:
 faq:
   title: Frequently Asked Questions
   items:
+  - q: How are teams picked?
+    a: In order to ensure equitable teams, players are drafted onto new teams every
+      season by the team captain and quarterback.  This means you get to meet and
+      play with new people every season!
   - q: Do I have to identify as LGBTQ+ to play?
-    a: 'No! We welcome all participants, allies and LBGTQ+ members alike.  '
+    a: No! We welcome all participants, allies and LBGTQ+ members alike, and we do
+      not ask for players to identify their sexual orientation.
   - q: Do I need to have flag football experience to play?
     a: 'No!  We welcome all levels, from brand new to veteran footballer.  '
 
