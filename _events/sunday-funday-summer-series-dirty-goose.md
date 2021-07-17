@@ -1,6 +1,6 @@
 ---
 button:
-  visible: true
+  visible: false
   text: ''
   link: ''
 title: Sunday Funday at Dirty Goose
