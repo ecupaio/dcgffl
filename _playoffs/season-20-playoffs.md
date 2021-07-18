@@ -46,7 +46,7 @@ rounds:
     date: 2019-11-17 12:00:00 -0500
     location: []
   - title: S19 Playoffs 3 Black vs Atomic
-    division: Division 1
+    division: Division 2
     teams-score:
     - team: _teams/atomic.html
       score: 35
