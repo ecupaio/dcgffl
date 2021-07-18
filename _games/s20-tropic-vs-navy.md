@@ -7,7 +7,7 @@ teams-score:
   score: 27
 season: 20
 week: 1
-date: 2020-03-08T16:00:00.000-04:00
+date: 2020-03-08 16:00:00 -0400
 mvp: Mecha, OJ
 game-ball: Sarah, Ed
 sportsperson: Daniel, Mark
