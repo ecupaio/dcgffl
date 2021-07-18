@@ -3,7 +3,7 @@ color: Lime
 title: S20 - Lime
 name: ''
 season: 20
-division: Nellies
+division: Division 1
 photo: ''
 captain: TJ Baggett
 quarterback: Brandon Waggoner
