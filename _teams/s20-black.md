@@ -1,5 +1,5 @@
 ---
-title: S20 – Black
+title: S20 - Black
 name: ''
 color: Black
 season: 20
@@ -19,6 +19,6 @@ members:
 - Jarrod Salvestrini
 - Aaron Sayama
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
