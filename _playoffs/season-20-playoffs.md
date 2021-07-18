@@ -5,6 +5,15 @@ champion: _teams/s20-red.md
 rounds:
 - title: Third Round
   games:
+  - title: S19 Playoffs 3 Deep Orange vs Navy
+    division: Division 2
+    teams-score:
+    - team: _teams/deep-orange.html
+      score: 27
+    - team: _teams/navy-2.html
+      score: 14
+    date: 2019-11-17 12:00:00 -0500
+    location: []
   - title: S19 Playoffs 3 Black vs Atomic
     division: Division 1
     teams-score:
