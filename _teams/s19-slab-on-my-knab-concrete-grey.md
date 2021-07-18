@@ -1,5 +1,5 @@
 ---
-title: S19 - Slab On My Knab (Concrete Grey)
+title: S19 - Concrete Grey (Slab On My Knab)
 name: Slab On My Knab
 color: Concrete Grey
 season: 19
@@ -18,4 +18,6 @@ members:
 - Alexander Schaps
 - Daniel Vladimer
 - Antonio Hardy
+division: ''
+
 ---
