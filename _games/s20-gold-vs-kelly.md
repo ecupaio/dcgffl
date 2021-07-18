@@ -11,7 +11,7 @@ teams-score:
   score: 21
 - team: _teams/s20-vegas-gold.md
   score: 22
-location: _locations/carter-baron.md
+location: _locations/rfk-fields.md
 field: "1"
 
 ---
