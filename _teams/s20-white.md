@@ -19,6 +19,6 @@ members:
 - Patrick Tobin
 - Larry Womack
 rec-league: false
-division: Division 1
+division: Division 2
 
 ---
