@@ -17,7 +17,7 @@ members:
 - Tom Loughran
 - Brendan McFarland
 - Jackie Smith
-- Jamar Walker
+- J. Walker
 - Mike Weir
 
 ---
