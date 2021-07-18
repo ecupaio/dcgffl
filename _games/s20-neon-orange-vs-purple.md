@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S20 Neon Orange vs Purple
+title: S20 Week 1 - Neon Orange vs Purple
 teams-score:
 - team: _teams/s20-purple.md
   score: 25
