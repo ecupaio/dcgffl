@@ -18,6 +18,6 @@ members:
 - Patrick Sheeran
 - Matt Thorpe
 - Joe Walker
-division: Nellies
+division: Division 1
 
 ---
