@@ -25,6 +25,15 @@ rounds:
     date: 2019-11-17 12:00:00 -0500
 - title: Second Round
   games:
+  - title: S19 Playoffs 2 Concrete vs Red
+    division: Division 1
+    teams-score:
+    - team: _teams/red-2.html
+      score: 36
+    - team: _teams/s19-slab-on-my-knab-concrete-grey.md
+      score: 39
+    date: 2019-11-17 10:15:00 -0500
+    location: []
   - title: S19 Playoffs 2 Silver vs Gold
     division: Division 1
     teams-score:
