@@ -3,6 +3,17 @@ title: Season 19 Playoffs
 season: 19
 champion: _teams/s20-red.md
 rounds:
+- title: Championship
+  games:
+  - title: S19 Championship - Atomic Blue vs Neon Pink
+    division: ''
+    teams-score:
+    - team: _teams/atomic.html
+      score: 
+    - team: _teams/neon-pink.html
+      score: 
+    date: 2019-11-24 14:00:00 -0500
+    location: []
 - title: Semifinals
   games:
   - title: S19 Playoffs 4 Neon Pink vs Maroon
