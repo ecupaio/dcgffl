@@ -1,5 +1,5 @@
 ---
-title: S20 – Carolina
+title: S20 - Carolina Blue
 name: ''
 color: Carolina
 season: 20
@@ -19,6 +19,6 @@ members:
 - Del'vaunte Scott
 - Sean Wilkerson
 rec-league: false
-division: Pitchers
+division: Division 2
 
 ---
