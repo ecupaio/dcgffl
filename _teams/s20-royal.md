@@ -1,5 +1,5 @@
 ---
-title: S20 – Royal
+title: S20 - Royal
 name: ''
 color: Royal
 season: 20
@@ -18,6 +18,6 @@ members:
 - Andy Pratt
 - Larry Womack
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
