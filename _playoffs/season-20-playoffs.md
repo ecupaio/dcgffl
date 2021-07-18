@@ -29,9 +29,9 @@ rounds:
     division: Division 2
     teams-score:
     - team: _teams/black-2.html
-      score: 19
+      score: 38
     - team: _teams/white.html
-      score: 24
+      score: 6
     date: 2019-11-17 12:00:00 -0500
     location: []
   - title: S19 Playoffs 2 Concrete vs Red
