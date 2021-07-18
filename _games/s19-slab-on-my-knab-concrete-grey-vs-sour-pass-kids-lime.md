@@ -1,5 +1,5 @@
 ---
-title: S19 - Slab On My Knab (Concrete Grey) vs Sour Pass Kids (Lime)
+title: S19 Week 8 - Concrete Grey vs Lime
 teams-score:
 - team: _teams/s19-slab-on-my-knab-concrete-grey.md
   score: 32
