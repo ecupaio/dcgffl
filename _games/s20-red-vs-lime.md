@@ -1,5 +1,5 @@
 ---
-title: S20 Red vs Lime
+title: S20 Week 1 Red vs Lime
 teams-score:
 - team: _teams/s20-red.md
   score: 20
