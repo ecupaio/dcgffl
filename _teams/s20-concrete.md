@@ -1,5 +1,5 @@
 ---
-title: S20 – Concrete
+title: S20 - Concrete
 name: ''
 color: Concrete
 season: 20
@@ -19,6 +19,6 @@ members:
 - Nicholas Vucovich
 - Craig Woodside
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
