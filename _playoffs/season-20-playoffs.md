@@ -3,15 +3,28 @@ title: Season 19 Playoffs
 season: 19
 champion: _teams/s20-red.md
 rounds:
+- title: Second Round
+  games:
+  - title: S19 Playoffs 2 Maroon vs Yellow
+    division: Division 1
+    teams-score:
+    - team: _teams/neon-yellow.html
+      score: 12
+    - team: _teams/maroon-2.html
+      score: 40
+    date: 2019-11-17 08:30:00 -0500
+    location: []
+  - title: S19 Playoffs 2 Pink vs Lime
+    location: []
 - title: First Round
   games:
   - title: S19 Playoffs 1 Carolina Blue vs Lime
     division: Division 1
     teams-score:
     - team: _teams/s19-sour-pass-kids-lime.md
-      score: ''
+      score: 22
     - team: _teams/s19-fancy-gay-pirates.md
-      score: ''
+      score: 20
     date: 2019-11-17 08:30:00 -0500
     location: []
   - location: []
