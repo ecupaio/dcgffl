@@ -1,5 +1,5 @@
 ---
-title: S20 – White
+title: S20 - White
 name: ''
 color: White
 season: 20
@@ -19,6 +19,6 @@ members:
 - Patrick Tobin
 - Larry Womack
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
