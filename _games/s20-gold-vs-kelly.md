@@ -8,9 +8,9 @@ game-ball: Sam, Patty
 sportsperson: Ben, Patrick
 teams-score:
 - team: _teams/s20-kelly.md
-  score: 
+  score: 22
 - team: _teams/s20-vegas-gold.md
-  score: 
+  score: 21
 location: _locations/carter-baron.md
 field: "1"
 
