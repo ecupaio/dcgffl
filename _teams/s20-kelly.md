@@ -18,6 +18,6 @@ members:
 - Patrick Sheeran
 - Matt Thorpe
 - Joe Walker
-division: Division 1
+division: Division 2
 
 ---
