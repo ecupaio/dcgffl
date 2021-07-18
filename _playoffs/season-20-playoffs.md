@@ -3,8 +3,29 @@ title: Season 19 Playoffs
 season: 19
 champion: _teams/s20-red.md
 rounds:
+- title: Third Round
+  games:
+  - title: S19 Playoffs 3 Pink vs Concrete
+    division: Division 1
+    teams-score:
+    - team: _teams/neon-pink.html
+      score: 39
+    - team: _teams/s19-slab-on-my-knab-concrete-grey.md
+      score: 37
+    date: 2019-11-17 14:00:00 -0500
+    location: []
+  - location: []
 - title: Second Round
   games:
+  - title: S19 Playoffs 2 Silver vs Gold
+    division: Division 1
+    teams-score:
+    - team: _teams/maroon-2.html
+      score: 26
+    - team: _teams/silver.html
+      score: 13
+    date: 2019-11-17 10:15:00 -0500
+    location: []
   - title: S19 Playoffs 2 Texas Orange vs Atomic Blue
     division: Division 1
     teams-score:
