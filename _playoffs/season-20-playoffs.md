@@ -12,7 +12,7 @@ rounds:
       score: ''
     - team: _teams/s19-fancy-gay-pirates.md
       score: ''
-    date: 2019-11-17 12:00:00 -0500
+    date: 2019-11-17 08:30:00 -0500
     location: []
   - location: []
     title: S19 Playoffs 1 Kelly vs White
