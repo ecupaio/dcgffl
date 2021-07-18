@@ -35,7 +35,7 @@ rounds:
     date: 2019-11-17 10:15:00 -0500
     location: []
   - title: S19 Playoffs 2 Texas Orange vs Atomic Blue
-    division: Division 1
+    division: Division 2
     teams-score:
     - team: _teams/texas-orange.html
       score: 13
