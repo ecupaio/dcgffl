@@ -1,5 +1,5 @@
 ---
-title: S19 - Sour Pass Kids (Lime)
+title: S19 - Lime (Sour Pass Kids)
 name: Sour Pass Kids
 color: Lime
 season: 19
@@ -19,5 +19,6 @@ members:
 - Trevor White
 - Bradley Williams
 - John Ceriotti
+division: ''
 
 ---
