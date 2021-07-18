@@ -1,6 +1,6 @@
 ---
 color: Carolina
-title: S19 - Fancy Gay Pirates
+title: S19 - Carolina Blue (Fancy Gay Pirates)
 name: Fancy Gay Pirates
 season: 19
 photo: ''
@@ -18,4 +18,6 @@ members:
 - Grant Rosensteel
 - Edward Smith
 - Trey Phillips
+division: ''
+
 ---
