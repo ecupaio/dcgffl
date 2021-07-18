@@ -13,6 +13,5 @@ week: 1
 mvp: Mecha, OJ
 game-ball: Sarah, Ed
 sportsperson: Daniel, Mark
-published: false
 
 ---
