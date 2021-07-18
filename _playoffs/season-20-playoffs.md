@@ -3,6 +3,17 @@ title: Season 19 Playoffs
 season: 19
 champion: _teams/s20-red.md
 rounds:
+- title: Semifinals
+  games:
+  - title: 'S19 Playoffs 4 '
+    division: Division 1
+    teams-score:
+    - team: _teams/atomic.html
+      score: ''
+    - team: _teams/neon-pink.html
+      score: ''
+    date: 2019-11-24 12:00:00 -0500
+    location: []
 - title: Third Round
   games:
   - title: S19 Playoffs 3 Deep Orange vs Navy
