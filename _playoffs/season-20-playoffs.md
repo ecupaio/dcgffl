@@ -5,6 +5,15 @@ champion: _teams/s20-red.md
 rounds:
 - title: Second Round
   games:
+  - title: S19 Playoffs 2 Orange vs Blue
+    division: Division 1
+    teams-score:
+    - team: _teams/texas-orange.html
+      score: 13
+    - team: _teams/atomic.html
+      score: 33
+    date: 2019-11-17 10:15:00 -0500
+    location: []
   - title: S19 Playoffs 2 Maroon vs Yellow
     division: Division 1
     teams-score:
