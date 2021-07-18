@@ -2,7 +2,7 @@
 color: Red
 title: S20 - Red
 season: 20
-name: 'Big Team Name Example'
+name: Red
 photo: ''
 captain: Adam Strasberg
 quarterback: Brian Hotchkiss
@@ -18,5 +18,6 @@ members:
 - Jeremy Steslicki
 - Stacey Tiamfook
 - Scott Williams
-division: Nellies 
+division: Nellies
+
 ---
