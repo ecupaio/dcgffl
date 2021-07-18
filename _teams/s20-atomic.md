@@ -1,5 +1,5 @@
 ---
-title: S20 – Atomic
+title: S20 - Atomic
 name: ''
 color: Atomic
 season: 20
@@ -19,6 +19,6 @@ members:
 - Kat Rosenthal
 - Ivan Torres
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
