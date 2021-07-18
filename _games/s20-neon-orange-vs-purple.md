@@ -1,5 +1,5 @@
 ---
-location: _locations/carter-baron.md
+location: _locations/rfk-fields.md
 title: S20 Week 1 - Neon Orange vs Purple
 teams-score:
 - team: _teams/s20-purple.md
