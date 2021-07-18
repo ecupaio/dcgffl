@@ -11,7 +11,7 @@ date: 2019-11-10T15:00:00.000-05:00
 mvp: Haley, Andy
 game-ball: Stephen, Trey
 sportsperson: Sean, Andy
-location: _locations/carter-baron.md
+location: _locations/rfk-fields.md
 field: "2"
 
 ---
