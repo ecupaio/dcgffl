@@ -5,6 +5,15 @@ champion: _teams/s20-red.md
 rounds:
 - title: Third Round
   games:
+  - title: S19 Playoffs 3 Black vs Atomic
+    division: Division 1
+    teams-score:
+    - team: _teams/atomic.html
+      score: 35
+    - team: _teams/black-2.html
+      score: 21
+    date: 2019-11-17 14:00:00 -0500
+    location: []
   - title: S19 Playoffs 3 Pink vs Concrete
     division: Division 1
     teams-score:
