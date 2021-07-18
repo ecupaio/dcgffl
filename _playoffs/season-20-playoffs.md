@@ -54,6 +54,13 @@ rounds:
     location: []
   - title: S19 Playoffs 2 Neon Pink vs Lime
     location: []
+    teams-score:
+    - team: _teams/s19-sour-pass-kids-lime.md
+      score: 26
+    - team: _teams/neon-pink.html
+      score: 32
+    date: 2019-11-17 12:00:00 -0500
+    division: Division 1
 - title: First Round
   games:
   - title: S19 Playoffs 1 Carolina Blue vs Lime
