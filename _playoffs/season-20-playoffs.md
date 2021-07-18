@@ -25,14 +25,15 @@ rounds:
     date: 2019-11-17 12:00:00 -0500
 - title: Second Round
   games:
-  - title: S19 Playoffs 2 Kelly Green vs White
+  - location: []
+  - title: S19 Playoffs 2 Black vs White
     division: Division 2
     teams-score:
-    - team: _teams/kelly.html
+    - team: _teams/black-2.html
       score: 19
     - team: _teams/white.html
       score: 24
-    date: 2019-11-17 08:30:00 -0500
+    date: 2019-11-17 12:00:00 -0500
     location: []
   - title: S19 Playoffs 2 Concrete vs Red
     division: Division 1
