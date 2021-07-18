@@ -74,6 +74,15 @@ rounds:
     date: 2019-11-17 12:00:00 -0500
 - title: Second Round
   games:
+  - title: S19 Playoffs 2 - Navy vs Royal Blue
+    division: Division 2
+    teams-score:
+    - team: _teams/s20-navy.md
+      score: ''
+    - team: _teams/royal.html
+      score: ''
+    date: 2019-11-17 10:15:00 -0500
+    location: []
   - title: S19 Playoffs 2 Black vs White
     division: Division 2
     teams-score:
