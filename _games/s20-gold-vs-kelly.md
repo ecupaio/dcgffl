@@ -1,5 +1,5 @@
 ---
-title: S20 Week 1 Vegas Gold vs Kelly
+title: S20 Week 1 - Vegas Gold vs Kelly
 week: 1
 season: 20
 date: 2020-03-15T15:00:00.000-04:00
