@@ -2,7 +2,7 @@
 title: S20 Red vs Lime
 teams-score:
 - team: _teams/s20-red.md
-  score: 26
+  score: 20
 - team: _teams/s20-lime.md
   score: 26
 season: 20
