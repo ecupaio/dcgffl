@@ -1,5 +1,5 @@
 ---
-title: S20 – Purple
+title: S20 - Purple
 name: ''
 color: Purple
 season: 20
@@ -19,6 +19,6 @@ members:
 - Reggie Stewart
 - Dan Vladimir
 rec-league: false
-division: Pitchers
+division: Division 2
 
 ---
