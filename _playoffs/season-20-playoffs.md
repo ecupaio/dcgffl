@@ -5,7 +5,7 @@ champion: _teams/s20-red.md
 rounds:
 - title: Second Round
   games:
-  - title: S19 Playoffs 2 Orange vs Blue
+  - title: S19 Playoffs 2 Texas Orange vs Atomic Blue
     division: Division 1
     teams-score:
     - team: _teams/texas-orange.html
