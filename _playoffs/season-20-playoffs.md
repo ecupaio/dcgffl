@@ -5,8 +5,17 @@ champion: _teams/s20-red.md
 rounds:
 - title: Semifinals
   games:
-  - title: 'S19 Playoffs 4 '
+  - title: S19 Playoffs 4 Neon Pink vs Maroon
     division: Division 1
+    teams-score:
+    - team: _teams/atomic.html
+      score: 
+    - team: _teams/neon-pink.html
+      score: 
+    date: 2019-11-24 12:00:00 -0500
+    location: []
+  - title: S19 Playoffs 4 Atomic vs Deep Orange
+    division: Division 2
     teams-score:
     - team: _teams/atomic.html
       score: ''
