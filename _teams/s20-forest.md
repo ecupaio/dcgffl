@@ -1,5 +1,5 @@
 ---
-title: S20 – Forest
+title: S20 - Forest
 name: ''
 color: Forest
 season: 20
@@ -19,6 +19,6 @@ members:
 - Darien Smith
 - Lindsey Walton
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
