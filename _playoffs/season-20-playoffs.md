@@ -15,15 +15,23 @@ rounds:
     date: 2019-11-17 14:00:00 -0500
     location: []
   - location: []
+    title: S19 Playoffs 3 - Silver vs Maroon
+    division: Division 1
+    teams-score:
+    - team: _teams/silver.html
+      score: 13
+    - team: _teams/maroon-2.html
+      score: 26
+    date: 2019-11-17 12:00:00 -0500
 - title: Second Round
   games:
   - title: S19 Playoffs 2 Silver vs Gold
     division: Division 1
     teams-score:
-    - team: _teams/maroon-2.html
-      score: 26
+    - team: _teams/gold.html
+      score: 27
     - team: _teams/silver.html
-      score: 13
+      score: 28
     date: 2019-11-17 10:15:00 -0500
     location: []
   - title: S19 Playoffs 2 Texas Orange vs Atomic Blue
@@ -44,7 +52,7 @@ rounds:
       score: 40
     date: 2019-11-17 08:30:00 -0500
     location: []
-  - title: S19 Playoffs 2 Pink vs Lime
+  - title: S19 Playoffs 2 Neon Pink vs Lime
     location: []
 - title: First Round
   games:
