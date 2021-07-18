@@ -95,7 +95,9 @@ rounds:
     division: Division 2
     teams-score:
     - team: _teams/kelly.html
+      score: 0
     - team: _teams/white.html
+      score: 21
     date: 2019-11-17 08:30:00 -0500
 
 ---
