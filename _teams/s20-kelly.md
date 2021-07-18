@@ -1,9 +1,9 @@
 ---
 title: S20 - Kelly
 color: Kelly
-name: Kelly Team Name
+name: ''
 season: 20
-photo: "/img/pink-s19.jpg"
+photo: ''
 captain: Danny Hughes
 quarterback: Jim Connolly
 members:
@@ -18,6 +18,6 @@ members:
 - Patrick Sheeran
 - Matt Thorpe
 - Joe Walker
-division: Pitchers
+division: Nellies
 
 ---
