@@ -1,5 +1,5 @@
 ---
-title: S20 – Neon Yellow
+title: S20 - Neon Yellow
 name: ''
 color: Neon Yellow
 season: 20
@@ -19,6 +19,6 @@ members:
 - Kori Saunders
 - Mark Summerside
 rec-league: false
-division: Nellies
+division: Division 1
 
 ---
