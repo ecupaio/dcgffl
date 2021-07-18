@@ -11,7 +11,7 @@ date: 2020-03-08T17:00:00.000-04:00
 mvp: " Jeremy, Brandon"
 game-ball: Brian, Binh
 sportsperson: Jenna, Steph
-location: _locations/carter-baron.md
+location: _locations/rfk-fields.md
 field: "3"
 
 ---

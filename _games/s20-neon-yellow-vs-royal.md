@@ -1,5 +1,5 @@
 ---
-location: _locations/carter-baron.md
+location: _locations/rfk-fields.md
 title: 'S20 Week 1 - Neon Yellow vs Royal '
 teams-score:
 - team: _teams/s20-neon-yellow.md
