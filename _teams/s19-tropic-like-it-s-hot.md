@@ -1,9 +1,9 @@
 ---
 color: Tropic
-title: S19 - Tropic Like It's Hot
+title: S19 - Tropic (Tropic Like It's Hot)
 name: Tropic Like It's Hot
 season: 19
-photo: '/img/pink-s19.jpg'
+photo: ''
 captain: 'Sean Karson '
 quarterback: Donald Mitchell
 members:
@@ -19,4 +19,6 @@ members:
 - Kevin Zajac
 - Daniel ErkenBrack
 conference: Nellies
+division: ''
+
 ---
