@@ -6,7 +6,7 @@ name: ''
 photo: ''
 captain: OJ
 quarterback: Mark Hofberg
-division: "Pitchers"
+division: Division 2
 members:
 - Sasha Buchert
 - " Zachary Gianelle"
