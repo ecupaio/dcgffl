@@ -1,5 +1,5 @@
 ---
-title: S20 – Neon Orange
+title: S20 - Neon Orange
 name: ''
 color: Neon Orange
 season: 20
@@ -19,6 +19,6 @@ members:
 - Jens Piferoen
 - Alex Schaps
 rec-league: false
-division: Pitchers
+division: Division 2
 
 ---
