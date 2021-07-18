@@ -1,12 +1,12 @@
 ---
 color: Tropic
-title: 'S20 - Tropic'
+title: S20 - Tropic
 season: 20
 name: ''
 photo: ''
 captain: Jim Roll
 quarterback: Marvin Washington
-division: 'Pitchers'
+division: Division 2
 members:
 - Ryan Stoffers
 - Stu Shaginaw
@@ -19,4 +19,5 @@ members:
 - Antwon Chavis
 - Daniel Bertram
 - Sarah Bernstein
+
 ---
