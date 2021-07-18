@@ -18,6 +18,6 @@ members:
 - Jeremy Steslicki
 - Stacey Tiamfook
 - Scott Williams
-division: Nellies
+division: Division 1
 
 ---
