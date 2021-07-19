@@ -1,7 +1,7 @@
 ---
 title: Season 19 Playoffs
 season: 19
-champion: _teams/s20-red.md
+champion: _teams/neon-pink.html
 rounds:
 - title: Championship
   games:
