@@ -4,10 +4,10 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: season
-  label: season
+  label: Season
 - name: champion
   type: select
   default: []
@@ -22,33 +22,33 @@ fields:
   label: Champion
 - type: field_group_list
   name: rounds
-  label: rounds
+  label: Rounds
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
   - type: field_group_list
     name: games
-    label: games
+    label: Games
     fields:
     - type: text
       name: title
-      label: title
+      label: Title
     - type: text
       name: division
-      label: division
+      label: Division
     - type: datetime
       name: date
-      label: date
+      label: Date
     - type: text
       name: location
-      label: location
+      label: Location
     - type: text
       name: field
-      label: field
+      label: Field
     - type: field_group_list
       name: teams-score
-      label: teams-score
+      label: Teams/Score
       fields:
       - name: team
         type: select
@@ -61,7 +61,7 @@ fields:
             section: rec-teams
             file: 
             path: 
-        label: team
+        label: Team
       - type: number
         name: score
-        label: score
+        label: Score
