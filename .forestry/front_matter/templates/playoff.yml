@@ -8,6 +8,18 @@ fields:
 - type: number
   name: season
   label: Season
+- name: champion
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: teams
+      file: 
+      path: 
+  label: Champion
 - type: field_group_list
   name: rounds
   label: Rounds
