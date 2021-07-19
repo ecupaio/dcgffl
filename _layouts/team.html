@@ -48,9 +48,6 @@ content-id: team
     <div class="schedule">
       <h3>Schedule</h3>
       <div class="games-list">
-      {% assign wins = 0 %}
-      {% assign losses = 0 %}
-      {% assign ties = 0 %}
       {% if page.collection == "teams" %}
       {% assign games = site.games %}
       {% elsif page.collection == "rec-teams" %}
@@ -81,6 +78,9 @@ content-id: team
             </a>
             <div class="game-result">
               <div class="win-loss">
+                {% assign wins = 0 %}
+                {% assign losses = 0 %}
+                {% assign ties = 0 %}
                 {% if score.score.size > 0 %}
                   {% if score.score > opponent[0].score %}
                   {% assign wins = wins | plus: 1 %}
@@ -126,6 +126,31 @@ content-id: team
       {% else %}
         {% assign page-name = page.color %}
       {% endif %}
+      {% assign wins = 0 %}
+      {% assign losses = 0 %}
+      {% assign ties = 0 %}
+      {% assign season-games = site.games | where: "season", page.season %}
+      {% for game in season-games %}
+        {% if game.teams-score[0].score > game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+        {% assign wins = wins | plus: 1 %}
+        {% endif %}
+
+        {% if game.teams-score[0].score < game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+        {% assign losses = losses | plus: 1 %}
+        {% endif %}
+
+        {% if game.teams-score[1].score > game.teams-score[0].score and game.teams-score[1].team == team.path  %}
+        {% assign wins = wins | plus: 1 %}
+        {% endif %}
+
+        {% if game.teams-score[1].score < game.teams-score[0].score and game.teams-score[1].team == team.path  %}
+        {% assign losses = losses | plus: 1 %}
+        {% endif %}
+
+        {% if game.teams-score[0].score == game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+        {% assign ties = ties | plus: 1 %}
+        {% endif %}
+      {% endfor %}
       <div class="team {% if team-name == page-name %}active{% endif %}">
         <a class="team-name" href="{{team.url}}">
           {{ team-name }} 
