@@ -9,6 +9,6 @@ fields:
   type: text
   config:
     required: false
-  label: Permalink  
+  label: Permalink
 pages:
 - _pages/news.html

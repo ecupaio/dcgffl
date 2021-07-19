@@ -9,7 +9,7 @@ fields:
   type: text
   config:
     required: false
-  label: Permalink  
+  label: Permalink
 pages:
 - _pages/rec-scores.html
 - _pages/score-board.html

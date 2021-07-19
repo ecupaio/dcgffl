@@ -10,7 +10,7 @@ fields:
   type: text
   config:
     required: false
-  label: Permalink  
+  label: Permalink
 - type: datetime
   name: date
   label: Date

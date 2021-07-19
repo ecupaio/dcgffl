@@ -11,7 +11,7 @@ fields:
   type: text
   config:
     required: false
-  label: Permalink  
+  label: Permalink
 - name: date
   type: datetime
   label: Date

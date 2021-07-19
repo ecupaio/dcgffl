@@ -9,7 +9,7 @@ fields:
   type: text
   config:
     required: false
-  label: Permalink  
+  label: Permalink
 - type: textarea
   name: form-success
   label: Form Success Text
