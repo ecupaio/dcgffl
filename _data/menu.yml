@@ -10,8 +10,6 @@ nav:
   link: "/score-board/"
 - title: Schedule
   link: "/schedule/"
-- title: Playoffs
-  link: "/playoffs/"
 - title: Recreation League
   link: "/recreation-league/"
 - title: Travel Program
@@ -49,8 +47,6 @@ social:
 footer:
 - title: About
   link: "/about/"
-- title: Playoffs
-  link: "/playoffs/"
 - title: Board
   link: "/board/"
 - title: Awards
