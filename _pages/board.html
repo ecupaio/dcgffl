@@ -197,9 +197,10 @@ bylaws-minutes:
     </div>
   </div>
 </section>
-{% if page.elections.open == true %}
+
 <section id="elections-section">
   <div class="inner-section">
+    {% if page.elections.open == true %}
     <div class="elections-intro">
       <h2 class="intro-title">{{ page.elections.title }}</h2>
       <div class="intro-text">
@@ -207,12 +208,14 @@ bylaws-minutes:
       </div>
       <a href="{{ page.elections.button.link}}" class="btn {% if page.elections.button.visible == false %}hidden{% endif %}">{{ page.elections.button.text }}</a>
     </div>
+    {% endif %}
     <div class="positions-list">
       {% for position in page.members.list %}
       <div class="position">
         <h3 class="position-title">{{ position.title }}</h3>
         <div class="position-description">{{ position.description | markdownify }}</div>
         {% if position.candidates.size > 0 %}
+        {% if page.elections.open == true %}
         <div class="position-candidates">
           <h4 class="candidates-title">Candidates</h4>
           <div class="candidate-list">
@@ -259,12 +262,13 @@ bylaws-minutes:
           </div>
         </div>
         {% endif %}
+        {% endif %}
       </div>
       {% endfor %}
     </div>
   </div>
 </section>
-{% endif %}
+
 <section id="minutes-section">
   <div class="inner-section">
     <h2 class="section-title">{{ page.bylaws-minutes.title }}</h2>

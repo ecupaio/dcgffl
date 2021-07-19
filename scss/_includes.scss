@@ -497,13 +497,18 @@
         overflow: hidden;
         display: flex;
         height: 100%;
-        
+        @include bp-medium {
+          display: block;
+        }
         .image-col {
           width: 40%;
           display: flex;
           justify-content: center;
           align-items: center;
           padding: 1rem;
+          @include bp-medium {
+            width: 100%;
+          }
         }
         .content-col {
           width: 60%;
@@ -512,6 +517,9 @@
           padding: 1rem 2rem;
           display: flex;
           align-items: center;
+          @include bp-medium {
+            width: 100%;
+          }
           .supporter-content {
 
           }

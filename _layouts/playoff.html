@@ -25,9 +25,9 @@ content-id: playoff-page
       {% for round in page.rounds %}
       <div class="round">
         <h2 class="round-title">{{ round.title }}</h2>
-        {% assign divisions = round.games | group_by: 'division' %}
+        {% assign divisions = round.games | group_by: 'division' | sort: "name" %}
         <div class="divisions-grid">
-          {% for division in divisions %}
+        {% for division in divisions %}
         <div class="division">
         <h3 class="division-title">{{ division.name }}</h3>
         <div class="games-list">
@@ -36,7 +36,7 @@ content-id: playoff-page
             <div class="info-col">
               <div class="game-info">
                 <div class="game-date-time">
-                  <h6 class="game-date">{{ game.date | date: "%-m/%-e" }}</h6>
+                  <h6 class="game-date">{{ game.date | date: "%-m/%-e/%y" }}</h6>
                   <h6 class="game-time">{{ game.date | date: "%l:%M%P" }}</h6>
                 </div>
                 <h6 class="game-location">
