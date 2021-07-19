@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink  
 - name: date
   type: datetime
   label: Date

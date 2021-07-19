@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink  
 - type: field_group
   name: hero
   label: Hero
