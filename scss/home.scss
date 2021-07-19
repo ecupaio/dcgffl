@@ -98,8 +98,10 @@
             background-color: $white;
             @include box-shadow;
             display: table;
-            
             overflow: hidden;
+            @include bp-medium {
+              display: block;
+            }
             .date-col {
 
               height: 100%;
@@ -108,16 +110,26 @@
               background-color: $red;
               display: table-cell;
               vertical-align: middle;
+              @include bp-medium {
+                display: block;
+              }
               .event-date {
                 color: $white;
                 margin: 0;
-                
+                @include bp-medium {
+                  br {
+                    display: none;
+                  }
+                }  
               }
             }
             .info-col {
               padding: 1rem;
               height: 100%;
               display: table-cell;
+              @include bp-medium {
+                display: block;
+              }
               .event-title,.event-time {
                 margin: 0;
               }
