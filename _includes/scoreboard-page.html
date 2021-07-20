@@ -14,7 +14,9 @@
       <div class="games-list">
         {% assign all-games = games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" %}
         {% for game in all-games %}
-        <div class="game {% if league.week != game.week and league.season != week.season %}hidden{% endif %} " data-week="Season {{ game.season}} Week {{ game.week}}" >
+        {% assign current-week = league.season | plus: league.week %}
+        {% assign game-week = game.season | plus: game.week %}
+        <div class="game {% if current-week != game-week %}hidden{% endif %}" data-week="Season {{ game.season}} Week {{ game.week}}" >
           <div class="teams">
             <div class="matchup">
               <div class="team-score">
