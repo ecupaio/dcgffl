@@ -6,13 +6,23 @@
 </section>
 <section id="scores-section">
   <div class="inner-section">
+    {% assign games = include.games %}
+    {% assign teams = include.teams %}
+    {% assign league = site.pages | where: "path", include.league | first %}
+    {% assign all-games = games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" %}
+
+    {% assign current-games = all-games | where: "season", league.season | where: "week", league.week %}
+    
+    
     <div class="upcoming-games">
-      {% assign games = include.games %}
-      {% assign teams = include.teams %}
-      {% assign league = site.pages | where: "path", include.league | first %}
+      
       <h2 class="week-title">Season {{ league.season}} Week {{league.week}}</h2>
       <div class="games-list">
-        {% assign all-games = games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" %}
+        {% if current-games.size == 0 %}
+        <div class="no-scores">
+          {{ league.scoreboard.no-scores }}
+        </div>
+        {% endif %}
         {% for game in all-games %}
         {% assign current-week = league.season | plus: league.week %}
         {% assign game-week = game.season | plus: game.week %}
@@ -78,10 +88,11 @@
       </div>
     </div>
     <div class="games-archive">
-      <div class="rankings">
+      {% assign divisions = site.teams | where: "season", league.season | group_by: 'division' %}
+      {% assign season-games = site.games | where: "season", league.season %}
+      <div class="rankings {% if divisions.size == 0 %}hidden{% endif %}">
         <h3>Season {{ league.season }} Records</h3>
-        {% assign divisions = site.teams | where: "season", league.season | group_by: 'division' %}
-        {% assign season-games = site.games | where: "season", league.season %}
+        
         {% for division in divisions %}
         <div class="division">
           <h4>{{ division.name }}</h4>

@@ -1,11 +1,17 @@
 <section id="games-section">
   <div class="inner-section">
     <h1 class="section-title">{{ page.title }}</h1>
+    {% assign current = site.pages | where: "path", include.path | first %}
+    {% assign week-games = include.games | where: "season", current.season | group_by: "week" %}
+    {% if week-games.size == 0%}
+    <div class="no-games">
+      {{ current.schedule.no-games }}
+    </div>
+    {% endif %}
     <div class="schedule-grid">
       <div class="games-col">
         <div class="weeks-list">
-          {% assign current = site.pages | where: "path", include.path | first %}
-          {% assign week-games = include.games | where: "season", current.season | group_by: "week" %}
+          
           {% for week in week-games %}
           <div class="week {% if current.week != week.items[0].week %}hidden{% endif %}" data-week="{{week.name}}">
             <h3 class="week-title">Week {{ week.name }}</h3>
@@ -56,7 +62,7 @@
           {% endfor %}
         </div>
       </div>
-      <div class="menu-col">
+      <div class="menu-col {% if week-games.size == 0%}hidden{% endif %}">
         <div class="menu-content">
           <h3>All Games</h3>
           <div class="weeks-list">

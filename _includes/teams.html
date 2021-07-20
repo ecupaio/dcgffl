@@ -1,10 +1,8 @@
-<section id="teams-section">
+{% assign divisions = include.teams | where: "season", page.season | group_by: 'division'  %}
+<section id="teams-section" class="{% if divisions.size == 0 %}hidden{% endif %}">
   <div class="inner-section">
     <h2 class="section-title">Teams</h2>
     <div class="divisions-list">
-    
-    {% assign divisions = include.teams | where: "season", page.season | group_by: 'division'  %}
-    
     {% for division in divisions %}
     <div class="division">
       <h3 class="division-title">{{ division.name }} Division</h3>

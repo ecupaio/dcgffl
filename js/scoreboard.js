@@ -2,7 +2,7 @@ $(function() {
   $('.week-link').click(function(e) {
     e.preventDefault();
     var selectedWeek = $(this).data('week');
-    
+    $('.no-scores').addClass('hidden');
     $('.games-list .game').each(function(i,game) {
       if ($(this).data('week') == selectedWeek) {
         $(this).removeClass('hidden');

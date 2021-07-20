@@ -5,6 +5,9 @@
     h1 {
       text-align: center;
     }
+    .no-games {
+      text-align: center;
+    }
     .schedule-grid {
       display: flex;
       @include bp-medium {
