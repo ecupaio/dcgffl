@@ -41,5 +41,5 @@ fields:
     name: title
     label: Title
 pages:
-- _pages/rec-playoffs.html
 - _pages/playoffs.html
+- _pages/rec-playoffs.html
