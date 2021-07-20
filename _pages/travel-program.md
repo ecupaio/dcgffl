@@ -34,7 +34,7 @@ resources:
 
 [Pride Bowl XIII](https://www.facebook.com/PrideBowlChicago/) – June 27-28 in CHICAGO
 
-[Gay Bowl XXI](https://youtu.be/l7WuqTrw97c) – October 7-10 in TEMPE, AZ - [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSfvWKFUThzm0pCT563RM6LtVCYH4JCWcADSFctCBWas4Lhqhg/viewform?usp=sf_link)
+[Gay Bowl XXI](https://youtu.be/l7WuqTrw97c) – Sept 30-Oct 3 in TEMPE, AZ - [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSfvWKFUThzm0pCT563RM6LtVCYH4JCWcADSFctCBWas4Lhqhg/viewform?usp=sf_link)
 
 ### About the Travel Program
 
