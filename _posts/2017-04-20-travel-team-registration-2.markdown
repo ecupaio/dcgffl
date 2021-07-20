@@ -1,14 +1,14 @@
 ---
 author: pbjmarketing
 comments: false
-date: 2017-04-20 16:14:14+00:00
+date: 2017-04-20T16:14:14.000+00:00
 layout: post
-link: /travel-team-registration-2/
+link: "/travel-team-registration-2/"
 slug: travel-team-registration-2
 title: Travel Team Registration
 wordpress_id: 5387
----
 
+---
 The 2017 travel season is here!
 
 Once again, the DCGFFL's wealth of talent will come together to represent Washington at two national tournaments -- Pride Bowl X in Chicago (June 23-24) and Gay Bowl XVII in Boston (October 5-8).
@@ -28,6 +28,5 @@ The captains will host one tryout (not mandatory, but encouraged):
 The Draft will take place the following weekend April 28-30.
 
 If you have questions, please contact the unaffiliated members of the Travel Working Group: Brett Chambers ([footballbrettchambers@gmail.com](mailto:footballbrettchambers@gmail.com)), Bobby Bosfield ([rbosfield@gmail.com](mailto:rbosfield@gmail.com)) and Javi de Diego ([javi.dediego@gmail.com](mailto:javi.dediego@gmail.com)).
-
 
 _NOTE: The Senators will be holding their tryouts and draft in June, because they will not be participating in Pride Bowl._
