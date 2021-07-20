@@ -39,6 +39,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - playoffs-page
   - basic-page
 - type: directory
   path: _past-seasons
