@@ -33,7 +33,7 @@ scripts:
                 <a href="https://www.google.com/maps?q={{ event.location.address | url_encode }}+{{event.location.city | url_encode }}+{{ event.location.state | url_encode }}+{{ event.location.zip | url_encode }}"><i class="fa fa-map-marker-alt"></i> {{ event.location.name }}</a>
               </div>
               <div class="event-desc">
-                {{ event.content | truncate: 100, '...' }}
+                {{ event.content | markdownify | strip_html | truncate: 100, '...' }}
               </div>
               <div class="event-link">
                 <a href="{{ event.url }}">View Event</a>
