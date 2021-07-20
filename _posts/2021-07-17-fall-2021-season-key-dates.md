@@ -1,12 +1,12 @@
 ---
-date: 2021-07-17 14:31:21 -0400
+date: 2021-07-17T14:31:21.000-04:00
 title: Fall 2021 Season Key Dates
 attachments: []
 
 ---
 ### **FOOTBALL IS BACK for Season 21**
 
-###### **Sundays September 12 - November 21**
+##### -- Sundays **September 12 - November 21  --**
 
 Mark your calendars for the following key Season 21 dates!
 
