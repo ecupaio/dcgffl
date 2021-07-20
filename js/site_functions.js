@@ -105,4 +105,32 @@ $(function(){
       });
     }
   });
+  //newsletter signup 
+  $('.signup-form').submit(function(e) {
+    e.preventDefault();
+    var email = $(this).find('.email').val();
+    $.ajax({
+      url: 'https://dcgffl.us16.list-manage.com/subscribe/post-json?u=44f118b44c71d10ae3076bec3&id=110054a516&subscribe=Subscribe&c=?',
+      type: 'GET',
+      data: $(this).serialize(),
+      dataType: 'jsonp',
+      contentType: "application/json; charset=utf-8",
+      success: function(data) {
+        console.log(data);
+        if (data.result === 'error') {
+          $('.form-error').html(data.msg);
+          $('.form-error').slideDown();
+        } else if (data.result === 'success') {
+          console.log('success');
+          $('.form-error').slideUp();
+          $('.form-body').slideUp();
+          $('.form-success').slideDown();
+        }
+      }, 
+      error: function(data) {
+        console.log(data);
+        window.open(mcUrl+'/subscribe/post?u='+mcUserId+'&id='+mcListId+'&subscribe=Subscribe&EMAIL='+email,'_blank');
+      }
+    });
+  });
 });

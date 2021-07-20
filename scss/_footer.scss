@@ -99,6 +99,11 @@ footer {
           .form-error,.form-success {
             display: none;
           }
+          .form-error {
+            max-width: 300px;
+            margin: 0 0 0 auto;
+            text-align: right;
+          }
           .form-body {
             display: flex;
             flex-flow: row wrap;
