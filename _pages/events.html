@@ -25,13 +25,17 @@ scripts:
               <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
               {% if event.date and event.date != '' %}
               <div class="event-date-time">
-                <div class="event-date">{{ event.date | date: '%B %e'}} | </div>
-                <div class="event-time">{{ event.time }}</div>
+                <div class="event-date">{{ event.date | date: '%B %e, %Y'}}</div>
+                {% if event.time.size > 0 %}
+                <div class="event-time"> | {{ event.time }}</div>
+                {% endif %}
               </div>
               {% endif %}
+              {% if event.location.address.size > 0 %}
               <div class="event-location">
                 <a href="https://www.google.com/maps?q={{ event.location.address | url_encode }}+{{event.location.city | url_encode }}+{{ event.location.state | url_encode }}+{{ event.location.zip | url_encode }}"><i class="fa fa-map-marker-alt"></i> {{ event.location.name }}</a>
               </div>
+              {% endif %}
               <div class="event-desc">
                 {{ event.content | markdownify | strip_html | truncate: 100, '...' }}
               </div>
@@ -53,15 +57,19 @@ scripts:
               <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
               {% if event.date and event.date != '' %}
               <div class="event-date-time">
-                <div class="event-date">{{ event.date | date: '%B %e'}} | </div>
+                <div class="event-date">{{ event.date | date: '%B %e %Y'}}</div>
+                {% if event.time.size > 0 %}
                 <div class="event-time">{{ event.time }}</div>
+                {% endif %}
               </div>
               {% endif %}
+              {% if event.location.address.size > 0 %}
               <div class="event-location">
                 <a href="https://www.google.com/maps?q={{ event.location.address | url_encode }}+{{event.location.city | url_encode }}+{{ event.location.state | url_encode }}+{{ event.location.zip | url_encode }}"><i class="fa fa-map-marker-alt"></i> {{ event.location.name }}</a>
               </div>
+              {% endif %}
               <div class="event-desc">
-                {{ event.content | truncate: 100, '...' }}
+                {{ event.content | markdownify | strip_html | truncate: 100, '...' }}
               </div>
               <div class="event-link">
                 <a href="{{ event.url }}">View Event</a>
