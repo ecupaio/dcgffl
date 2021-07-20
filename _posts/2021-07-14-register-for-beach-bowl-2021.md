@@ -1,7 +1,8 @@
 ---
-date: 2021-07-14 13:22:29 -0400
+date: 2021-07-14T13:22:29.000-04:00
 title: Register for Beach Bowl 2021!
 attachments: []
+permalink: 2021-beach-bowl-registration
 
 ---
 The DCGFFL's annual casual summer tournament, Beach Bowl, will be held Saturday, August 7th in Rehoboth Beach, Delaware.  The tournament structure is dependent on the number of teams playing and the number of players who register.  Generally, 2-3 short games are played on a grass field in the morning to afternoon, followed by social events and a night out in Rehoboth!
