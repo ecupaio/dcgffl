@@ -28,7 +28,7 @@ resources:
 ---
 ### Registration is OPEN for Gay Bowl 2021!
 
-##### [**Learn more and register here**]()**!**
+##### [**Learn more and register here**](/gay-bowl-registration-is-open/)**!**
 
 ### Save the date for this year’s travel tournaments:
 
