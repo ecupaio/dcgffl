@@ -40,7 +40,7 @@ faq:
       wide range of social fun.  Join up and experience it yourself!
 
 ---
-##### Contact us at [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com)
+##### Questions? Contact us at [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com)
 
 ### History and Legacy
 
