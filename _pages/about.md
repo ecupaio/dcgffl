@@ -40,6 +40,8 @@ faq:
       wide range of social fun.  Join up and experience it yourself!
 
 ---
+##### Contact us at [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com)
+
 ### History and Legacy
 
 The DC Gay Flag Football League (DCGFFL) started in the mid 90's when two different groups of players began gathering for football.  The first group started playing together in 1994 at Francis Field near Dupont Circle, and the other began playing near the Washington Monument Mall in 1997.  In 1998, the groups came together and the base of DC gay flag football was set.
