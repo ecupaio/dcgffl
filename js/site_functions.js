@@ -34,8 +34,11 @@ $(function(){
     }
   });
   if (document.cookie.indexOf('announcement=hidden') >-1) {
-    $('.announcement-topbar').hide();
+    console.log(document.cookie);
+    console.log('announcement hidden');
   } else {
+    console.log(document.cookie);
+    console.log('announcement show');
     $('.announcement-topbar').slideDown();
   }
   //Scoreboard feed
