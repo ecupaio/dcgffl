@@ -32,11 +32,13 @@
     </div>
   </div>
   {% if menu.announcement.show == true %}
-  <div class="announcement-topbar hidden">
-    <div class="announcement-content">
-      {{ menu.announcement.text | markdownify }}
+  <div class="announcement-topbar">
+    <div class="announcement-body">
+      <div class="announcement-content">
+        {{ menu.announcement.text | markdownify }}
+      </div>
+      <div class="close-announcement">&times;</div>
     </div>
-    <div class="close-announcement">&times;</div>
   </div>
   {% endif %}
 </nav>

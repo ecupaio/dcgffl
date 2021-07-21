@@ -27,13 +27,16 @@ $(function(){
     d.setTime(d.getTime() + (1*24*60*60*1000));
     var expires = "expires="+ d.toUTCString();
     var cookieDomain = window.location.host; 
-    document.cookie = "announcement=hidden; domain="+cookieDomain+"; expires="+expires;
-    console.log("announcement=hidden; domain="+cookieDomain+"; expires="+expires);
+    if (cookieDomain.indexOf('localhost') > -1) {
+      document.cookie = "announcement=hidden;expires="+expires;
+    } else {
+      document.cookie = "announcement=hidden; domain="+cookieDomain+"; expires="+expires;
+    }
   });
   if (document.cookie.indexOf('announcement=hidden') >-1) {
     $('.announcement-topbar').hide();
   } else {
-    $('.announcement-topbar').removeClass('hidden');
+    $('.announcement-topbar').slideDown();
   }
   //Scoreboard feed
   if ($().slick) {

@@ -82,8 +82,10 @@
   background-color: $red;
   color: $white;
   padding: 1rem;
-  
-  display: flex;
+  display: none;
+  .announcement-body {
+    display: flex;
+  }
   .announcement-content {
     max-width: $max-width;
     margin: auto;
