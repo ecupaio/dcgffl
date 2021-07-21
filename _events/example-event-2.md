@@ -1,5 +1,5 @@
 ---
-title: Fall 2021 Registration
+title: Fall 2021 Early Registration
 date: 2021-07-20T17:24:26.000-04:00
 time: 7pm
 button:
