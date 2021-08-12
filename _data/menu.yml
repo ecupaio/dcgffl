@@ -59,4 +59,4 @@ footer:
   link: "/past-seasons/"
 announcement:
   text: Register for Fall 2021 wait list [HERE](https://forms.gle/usTfcymJsRnv31Gu6)!
-  show: true
+  show: false
