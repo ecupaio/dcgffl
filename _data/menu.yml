@@ -58,5 +58,6 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Register for Fall 2021 wait list [HERE](https://forms.gle/usTfcymJsRnv31Gu6)!
-  show: false
+  text: 'This week: New Player Workshops [Thursday](https://dcgffl.org/events/example-event-3/)
+    and [Sunday](https://dcgffl.org/events/new-player-workshop-2/)!'
+  show: true
