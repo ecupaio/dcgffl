@@ -1,7 +1,7 @@
 ---
 title: Quarterback Evaluations
-date: 2021-08-19 18:31:00 -0400
-time: 6:30PM - 7:30PM
+date: 2021-08-15 11:00:00 -0400
+time: 11AM
 button:
   text: ''
   link: ''
