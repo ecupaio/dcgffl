@@ -1,8 +1,8 @@
 ---
 button:
   visible: true
-  text: ''
-  link: ''
+  text: Sign up HERE
+  link: https://www.mindbodyonline.com/explore/locations/sweat-dc
 title: DCGFFL SWEAT & SOCIAL EVENT
 permalink: https://www.mindbodyonline.com/explore/locations/sweat-dc
 date: 2021-09-02 19:30:00 -0400
