@@ -5,7 +5,7 @@ button:
   link: ''
 title: DCGFFL SWEAT & SOCIAL EVENT
 permalink: https://www.mindbodyonline.com/explore/locations/sweat-dc
-date: 2021-09-02 00:00:00 -0400
+date: 2021-09-02 19:30:00 -0400
 time: 7:30 pm
 location:
   name: 'SWEAT DC '
