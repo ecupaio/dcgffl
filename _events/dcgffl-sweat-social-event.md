@@ -13,7 +13,6 @@ location:
   city: Washington
   state: DC
   zip: 20010
-published: false
 
 ---
 ![](/img/dcgffl.png)
