@@ -1,4 +1,6 @@
-# Jekyll Template
+# DCGFFL
+Production: https://dcgffl.org/
+Old Wordpress site: https://dcgffl.wpengine.com/
 
 ## Setup and initial installation
 
