@@ -10,6 +10,5 @@ members:
 - Ashley Hollander
 - Andrew Gordon
 division: TBD
-published: false
 
 ---
