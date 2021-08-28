@@ -59,4 +59,4 @@ footer:
   link: "/past-seasons/"
 announcement:
   text: 'This week: Team Announcement Party at Dirty Goose - Thursday 7pm!'
-  show: true
+  show: false
