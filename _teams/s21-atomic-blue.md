@@ -5,7 +5,7 @@ color: Atomic Blue
 season: 21
 photo: ''
 captain: Tony Smith
-quarterback: Andrew Bladen
+quarterback: Andrew B.
 members:
 - Ashley Hollander
 - Andrew Gordon
