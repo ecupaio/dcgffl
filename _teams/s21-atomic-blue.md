@@ -15,6 +15,7 @@ members:
 - Desmond J.
 - Jack Miles
 - John L.
+- Kirk
 - Taylor Jay Nelson
 division: TBD
 
