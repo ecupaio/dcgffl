@@ -7,8 +7,15 @@ photo: ''
 captain: Tony Smith
 quarterback: Andrew B.
 members:
-- Ashley Hollander
+- Alonzo Mable
 - Andrew Gordon
+- Ashley Hollander
+- Baxter O'Brien
+- Ben Joyce
+- Desmond J.
+- Jack Miles
+- John L.
+- Taylor Jay Nelson
 division: TBD
 
 ---
