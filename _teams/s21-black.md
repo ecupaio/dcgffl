@@ -3,7 +3,7 @@ title: S21 - Black
 name: ''
 color: Black
 season: 21
-photo: ''
+photo: "/img/season-21_black-1.jpg"
 captain: Danny Hughes
 quarterback: Matthew C.
 members:

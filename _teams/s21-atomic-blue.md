@@ -3,7 +3,7 @@ title: S21 - Atomic Blue
 name: ''
 color: Atomic Blue
 season: 21
-photo: ''
+photo: "/img/season-21_atomic-blue-3.jpg"
 captain: Tony Smith
 quarterback: Andrew B.
 members:
