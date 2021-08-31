@@ -3,7 +3,7 @@ title: S21 - White
 name: ''
 color: White
 season: 21
-photo: ''
+photo: "/img/season-21_white-4.jpg"
 captain: Vincent Culliver
 quarterback: Bryan Sanders
 members:
