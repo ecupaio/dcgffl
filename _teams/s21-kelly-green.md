@@ -3,7 +3,7 @@ title: S21 - Kelly Green
 name: ''
 color: Kelly Green
 season: 21
-photo: ''
+photo: "/img/season-21_kelly-green-3.jpg"
 captain: Aaron Sayama
 quarterback: Tony Stewart
 members:

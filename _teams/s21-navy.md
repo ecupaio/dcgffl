@@ -3,7 +3,7 @@ title: S21 - Navy
 name: ''
 color: Navy
 season: 21
-photo: ''
+photo: "/img/season-21_navy-3.jpg"
 captain: Levert James
 quarterback: Keith Holleran
 members:

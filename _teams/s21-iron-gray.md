@@ -3,7 +3,7 @@ title: S21 - Iron Gray
 name: ''
 color: Iron Gray
 season: 21
-photo: ''
+photo: "/img/season-21_iron-gray-3.jpg"
 captain: Joe H.
 quarterback: Andy Pratt
 members:

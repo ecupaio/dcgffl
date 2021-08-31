@@ -3,7 +3,7 @@ title: S21 - Lime Green
 name: ''
 color: Lime Green
 season: 21
-photo: ''
+photo: "/img/season-21_lime-2.jpg"
 captain: Darryl P.
 quarterback: AJ Reust
 members:

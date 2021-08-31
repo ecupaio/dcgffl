@@ -3,7 +3,7 @@ title: S21 - Gold
 name: ''
 color: Gold
 season: 21
-photo: ''
+photo: "/img/season-21_gold-2.jpg"
 captain: Bryan J.
 quarterback: Marvin Washington
 members:
