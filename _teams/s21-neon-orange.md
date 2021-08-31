@@ -3,7 +3,7 @@ title: S21 - Neon Orange
 name: ''
 color: Neon Orange
 season: 21
-photo: ''
+photo: "/img/season-21_neon-orange-2.jpg"
 captain: Derrick Johnson
 quarterback: Patrick Shilo
 members:

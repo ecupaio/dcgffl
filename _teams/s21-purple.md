@@ -3,7 +3,7 @@ title: S21 - Purple
 name: ''
 color: Purple
 season: 21
-photo: ''
+photo: "/img/season-21_purple-1.jpg"
 captain: Scott Graham
 quarterback: Earl Armstrong
 members:
