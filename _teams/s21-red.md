@@ -3,7 +3,7 @@ title: S21 - Red
 name: ''
 color: Red
 season: 21
-photo: ''
+photo: "/img/season-21_red-1.jpg"
 captain: Michael Osorio
 quarterback: Brandon Waggoner
 members:

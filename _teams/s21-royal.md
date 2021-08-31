@@ -3,7 +3,7 @@ title: S21 - Royal
 name: ''
 color: Royal
 season: 21
-photo: ''
+photo: "/img/season-21_royal-blue-3.jpg"
 captain: JC Chiuco
 quarterback: Jim Connolly
 members:
