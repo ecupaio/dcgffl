@@ -3,7 +3,7 @@ title: S21 - Silver
 name: ''
 color: Silver
 season: 21
-photo: ''
+photo: "/img/season-21_silver-2.jpg"
 captain: Jorge Membreño
 quarterback: Benjamin McEvoy
 members:
