@@ -3,7 +3,7 @@ title: S21 - Forest Green
 name: ''
 color: Forest Green
 season: 21
-photo: ''
+photo: "/img/season-21_forest-green-2.jpg"
 captain: Austin Plier
 quarterback: JC Adams
 members:

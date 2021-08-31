@@ -3,7 +3,7 @@ title: S21 - Carolina Blue
 name: ''
 color: Carolina Blue
 season: 21
-photo: ''
+photo: "/img/season-21_columbia-blue-2.jpg"
 captain: Tony Britford II
 quarterback: Ben H.
 members:

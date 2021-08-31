@@ -3,7 +3,7 @@ title: S21 - Cardinal Red
 name: ''
 color: Cardinal Red
 season: 21
-photo: ''
+photo: "/img/season-21_cardinal-red-1.jpg"
 captain: Stephanie McDaniel
 quarterback: Brian Hotchkiss
 members:
