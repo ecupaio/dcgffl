@@ -57,11 +57,11 @@ scripts:
               <h4 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h4>
               {% if event.date and event.date != '' %}
               <div class="event-date-time">
-                <div class="event-date">{{ event.date | date: '%B %e %Y'}}</div>
+                <div class="event-date">{{ event.date | date: '%B %e, %Y'}}</div>
                 {% if event.time.size > 0 %}
                 <div class="event-time">{{ event.time }}</div>
                 {% endif %}
-              </div>
+              </div> 
               {% endif %}
               {% if event.location.address.size > 0 %}
               <div class="event-location">
