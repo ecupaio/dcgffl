@@ -130,9 +130,10 @@
                   {% if game.teams-score[1].score < game.teams-score[0].score and game.teams-score[1].team == team.path  %}
                   {% assign losses = losses | plus: 1 %}
                   {% endif %}
-
-                  {% if game.teams-score[0].score == game.teams-score[1].score and game.teams-score[0].team == team.path  %}
-                  {% assign ties = ties | plus: 1 %}
+                  {% if game.teams-score[0].score.size > 0 %}
+                    {% if game.teams-score[0].score == game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+                    {% assign ties = ties | plus: 1 %}
+                    {% endif %}
                   {% endif %}
                 {% endfor %}
                 <span class="wins">{{ wins }}</span> - <span class="losses">{{ losses }}</span> - <span class="losses">{{ ties }}</span>

@@ -89,7 +89,9 @@ content-id: team
                   {% assign losses = losses | plus: 1 %}
                   <span class="loss">L</span>
                   {% elsif score.score == opponent[0].score %}
+                  
                   {% assign ties = ties | plus: 1 %}
+                  
                   <span class="tie">T</span>
                   {% endif %}
                 {% endif %}
@@ -147,9 +149,12 @@ content-id: team
         {% assign losses = losses | plus: 1 %}
         {% endif %}
 
-        {% if game.teams-score[0].score == game.teams-score[1].score and game.teams-score[0].team == team.path  %}
-        {% assign ties = ties | plus: 1 %}
+        {% if game.teams-score[0].score.size > 0 %}
+          {% if game.teams-score[0].score == game.teams-score[1].score and game.teams-score[0].team == team.path  %}
+          {% assign ties = ties | plus: 1 %}
+          {% endif %}
         {% endif %}
+        
       {% endfor %}
       <div class="team {% if team-name == page-name %}active{% endif %}">
         <a class="team-name" href="{{team.url}}">
