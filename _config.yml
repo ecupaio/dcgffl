@@ -23,7 +23,7 @@ schema:
     days:
     opens:
     closes:  
-timezone: America/New York
+timezone: America/New_York
 future: true
 markdown: kramdown
 kramdown:
