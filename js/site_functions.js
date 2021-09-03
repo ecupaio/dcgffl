@@ -120,13 +120,13 @@ $(function(){
       success: function(data) {
         console.log(data);
         if (data.result === 'error') {
-          $('.form-error').html(data.msg);
-          $('.form-error').slideDown();
+          $('.signup-form .form-error').html(data.msg);
+          $('.signup-form .form-error').slideDown();
         } else if (data.result === 'success') {
           console.log('success');
-          $('.form-error').slideUp();
-          $('.form-body').slideUp();
-          $('.form-success').slideDown();
+          $('.signup-form .form-error').slideUp();
+          $('.signup-form .form-body').slideUp();
+          $('.signup-form .form-success').slideDown();
         }
       }, 
       error: function(data) {
