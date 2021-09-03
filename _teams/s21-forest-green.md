@@ -18,6 +18,6 @@ members:
 - Logan Dawson
 - Mel Malguy
 - Michael Andrews
-division: TBD
+division: B
 
 ---

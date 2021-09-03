@@ -18,6 +18,6 @@ members:
 - Paul Guequierre
 - Peter Pawlowski
 - Tim A.
-division: TBD
+division: A
 
 ---

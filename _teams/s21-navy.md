@@ -18,6 +18,6 @@ members:
 - Scott Cuviello
 - Somboun Phanhpathoum
 - Stephen Hiebing
-division: TBD
+division: A
 
 ---

@@ -17,6 +17,6 @@ members:
 - Sean Bartel
 - William L.
 - Zachary Gianelle
-division: TBD
+division: B
 
 ---

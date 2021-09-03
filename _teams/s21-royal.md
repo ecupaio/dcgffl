@@ -17,6 +17,6 @@ members:
 - Sam Serio
 - Scott Kisha
 - Todd Robosan
-division: TBD
+division: B
 
 ---

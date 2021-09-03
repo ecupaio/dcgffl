@@ -18,6 +18,6 @@ members:
 - Scott Kelly
 - Sean Karson
 - Trey P.
-division: TBD
+division: A
 
 ---

@@ -18,6 +18,6 @@ members:
 - Michael K.
 - Michael Palmer
 - Peter Pham
-division: TBD
+division: A
 
 ---

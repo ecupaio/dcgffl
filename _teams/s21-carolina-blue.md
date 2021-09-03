@@ -18,6 +18,6 @@ members:
 - Matt Pesesky
 - Nolan Lazarus
 - Stephen C.
-division: TBD
+division: B
 
 ---

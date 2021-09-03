@@ -18,6 +18,6 @@ members:
 - Ryan Viessman
 - Steve Pizzo
 - Tyler Lewis
-division: TBD
+division: A
 
 ---

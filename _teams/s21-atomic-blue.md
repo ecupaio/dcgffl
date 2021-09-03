@@ -17,6 +17,6 @@ members:
 - John L.
 - Kirk
 - Taylor Jay Nelson
-division: TBD
+division: A
 
 ---

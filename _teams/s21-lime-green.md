@@ -18,6 +18,6 @@ members:
 - Joseph Denton
 - Larry W.
 - Ryan Stoffers
-division: TBD
+division: A
 
 ---

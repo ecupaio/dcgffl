@@ -18,6 +18,6 @@ members:
 - Pete D.
 - PJ Morgan
 - Tom Hassett
-division: TBD
+division: B
 
 ---

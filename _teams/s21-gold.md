@@ -18,6 +18,6 @@ members:
 - Sean Holihan
 - Tori Tensi
 - Tracy S.
-division: TBD
+division: A
 
 ---

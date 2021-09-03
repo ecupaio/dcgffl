@@ -18,6 +18,6 @@ members:
 - Tony J.
 - Shane Lawson
 - Shaq Brooks
-division: TBD
+division: B
 
 ---

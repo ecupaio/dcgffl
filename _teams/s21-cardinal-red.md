@@ -18,6 +18,6 @@ members:
 - Rajan Kapoor
 - Sasha Buchert
 - Stacey Tiamfook
-division: TBD
+division: B
 
 ---

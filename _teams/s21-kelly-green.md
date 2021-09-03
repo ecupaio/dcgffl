@@ -18,6 +18,6 @@ members:
 - Robert Kirian
 - Shantal W.
 - Yvette G.
-division: TBD
+division: B
 
 ---
