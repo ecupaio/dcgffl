@@ -6,7 +6,7 @@ teams-score:
   score: 
 - team: _teams/s21-cardinal-red.md
   score: 
-field: "3"
+field: "2"
 date: 2021-09-26 12:00:00 -0400
 season: 21
 week: 3
