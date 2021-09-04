@@ -9,7 +9,7 @@ teams-score:
 field: "4"
 date: 2021-09-26 10:00:00 -0400
 season: 21
-week: 4
+week: 3
 mvp: ''
 game-ball: ''
 sportsperson: ''
