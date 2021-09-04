@@ -4,15 +4,15 @@ button:
   text: ''
   link: ''
 title: Night OUT with the Washington Football Team!
-permalink: https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=659a2e059a&e=f4cc08b524
+permalink: WFT-night-out-2021
 date: 2021-09-16 00:00:00 -0400
 time: ''
 location:
-  name: ''
-  address: ''
-  city: ''
-  state: ''
-  zip: 
+  name: FedEx Field
+  address: 1600 FedEx Way
+  city: Greater Landover
+  state: MD
+  zip: 20785
 
 ---
 __Be Part of the first PRIDE Night OUT with the Washington Football Team! The DCGFFL will cover $10 for the first 50 people who sign up for a package deal!*__
