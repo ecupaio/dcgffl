@@ -2,7 +2,7 @@
 location: _locations/carter-baron.md
 title: S21 Week 8 - Black vs TBD
 teams-score:
-- team: []
+- team: _teams/s21-black.md
   score: 
 - team: _teams/tbd.md
   score: 
