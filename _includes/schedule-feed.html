@@ -1,7 +1,7 @@
 <section id="schedule-section">
   <div class="inner-section">
     <h2 class="section-title">{{ page.schedule.title }}</h2>
-    {% assign schedule-week = page.week | plus: 1 %}
+    {% assign schedule-week = page.week %}
     {% assign upcoming-games = include.games | where: "season", page.season | where: "week", schedule-week  %}
     {% if upcoming-games.size > 0 %}
     <div class="games-list">
