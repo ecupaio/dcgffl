@@ -10,8 +10,8 @@ field: "1"
 date: 2021-09-12T10:00:00.000-04:00
 season: 21
 week: 1
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Cameron B., Fernando H.
+game-ball: Drew C., Antwon H.
+sportsperson: Tyler L., Jim R.
 
 ---
