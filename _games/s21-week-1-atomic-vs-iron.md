@@ -10,8 +10,8 @@ field: "1"
 date: 2021-09-12T12:00:00.000-04:00
 season: 21
 week: 1
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Sean K., Desmond J.
+game-ball: Peter S., Baxter O.
+sportsperson: 'Amanda D., Alonzo M. '
 
 ---
