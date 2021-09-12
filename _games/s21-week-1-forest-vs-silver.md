@@ -10,8 +10,8 @@ field: "4"
 date: 2021-09-12T10:00:00.000-04:00
 season: 21
 week: 1
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: 'Bradley W., Mark J. '
+game-ball: 'Chris T., Pete D. '
+sportsperson: 'Austin P., Alexander V. '
 
 ---
