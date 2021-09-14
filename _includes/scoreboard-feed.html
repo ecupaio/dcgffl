@@ -5,7 +5,10 @@
   {% else %}
   {% assign league = page %}
   {% endif %}
-  {% assign recent-games = gamesArr | where: "season", league.season | where: "week", league.week | where_exp: "item", "item.teams-score[0].score.size > 0" %}
+  {% assign last-week = league.week | minus: 1 %}
+
+  {% assign recent-games = gamesArr | where: "season", league.season | where: "week", last-week  | where_exp: "item", "item.teams-score[0].score.size > 0" %}
+  
 <section id="scoreboard-section" class="{%if recent-games.size == 0 %}hidden{% endif %}">
   <div class="scoreboard-feed">
     {% for game in recent-games %}
