@@ -10,13 +10,13 @@
     {% assign teams = include.teams %}
     {% assign league = site.pages | where: "path", include.league | first %}
     {% assign all-games = games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" %}
-
-    {% assign current-games = all-games | where: "season", league.season | where: "week", league.week %}
+    {% assign last-week = league.week | minus: 1 %}
+    {% assign current-games = all-games | where: "season", league.season | where: "week", last-week %}
     
     
     <div class="upcoming-games">
       
-      <h2 class="week-title">Season {{ league.season}} Week {{league.week}}</h2>
+      <h2 class="week-title">Season {{ league.season}} Week {{last-week}}</h2>
       <div class="games-list">
         {% if current-games.size == 0 %}
         <div class="no-scores">
@@ -24,7 +24,7 @@
         </div>
         {% endif %}
         {% for game in all-games %}
-        {% assign current-week = league.season | plus: league.week %}
+        {% assign current-week = league.season | plus: last-week %}
         {% assign game-week = game.season | plus: game.week %}
         <div class="game {% if current-week != game-week %}hidden{% endif %}" data-week="Season {{ game.season}} Week {{ game.week}}" >
           <div class="teams">
@@ -146,17 +146,25 @@
         {% endfor %}
       </div>
       {% assign seasons = site.games | group_by: "season" | reverse %}
+
       <div class="seasons">
         <h3>All Scores</h3>
+        
         {% for season in seasons %}
+        
         <div class="season">
           <h4 href="#" class="season-title">Season {{ season.name }}</h4>
           <div class="season-weeks">
             {% assign weeks = "" | split: "" %}
+            {{ season.items }}
             {% for item in season.items %}
+            {{ item }}
             {% assign weeks = weeks | push: item.week | uniq %}
             {% endfor %}
+            
             {% for week in weeks %}
+            
+            
             <div class="week">
               <a href="#" class="week-link" data-week="Season {{ season.name }} Week {{ week }}">Week {{ week }}</a>
             </div>
