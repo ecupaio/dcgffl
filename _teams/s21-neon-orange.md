@@ -1,6 +1,6 @@
 ---
-title: S21 - Neon Orange
-name: ''
+title: S21 - Neon Orange (Celine Neon)
+name: Celine Neon (Neon Orange)
 color: Neon Orange
 season: 21
 photo: "/img/season-21_neon-orange-2.jpg"
