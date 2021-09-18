@@ -1,6 +1,6 @@
 ---
-title: S21 - Carolina Blue
-name: ''
+title: S21 - Carolina Blue (Blew Ball Busters)
+name: Blew Ball Busters (Carolina Blue)
 color: Carolina Blue
 season: 21
 photo: "/img/season-21_columbia-blue-2.jpg"
