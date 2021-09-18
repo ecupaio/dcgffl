@@ -1,6 +1,6 @@
 ---
-title: S21 - Cardinal Red
-name: ''
+title: S21 - Cardinal Red (Care Bears)
+name: Care Bears (Cardinal Red)
 color: Cardinal Red
 season: 21
 photo: "/img/season-21_cardinal-red-1.jpg"
