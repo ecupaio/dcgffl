@@ -1,6 +1,6 @@
 ---
-title: S21 - Navy
-name: ''
+title: S21 - Navy (Shipfaced)
+name: Shipfaced (Navy)
 color: Navy
 season: 21
 photo: "/img/season-21_navy-3.jpg"
