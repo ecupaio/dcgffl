@@ -1,6 +1,6 @@
 ---
 title: S21 - White
-name: ''
+name: The Cream Team (White)
 color: White
 season: 21
 photo: "/img/season-21_white-4.jpg"
