@@ -1,5 +1,5 @@
 ---
-title: S21 - White
+title: S21 - White (The Cream Team)
 name: The Cream Team (White)
 color: White
 season: 21
