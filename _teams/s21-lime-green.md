@@ -1,6 +1,6 @@
 ---
-title: S21 - Lime Green
-name: ''
+title: S21 - Lime Green (subLIME)
+name: subLIME (Lime Green)
 color: Lime Green
 season: 21
 photo: "/img/season-21_lime-2.jpg"
