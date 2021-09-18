@@ -8,7 +8,7 @@ date: 2021-10-08 00:00:00 -0400
 time: ''
 location:
   name: Trinidad Recreation Center
-  address: ''
+  address: Trinidad Recreation Center
   city: ''
   state: ''
   zip: 
