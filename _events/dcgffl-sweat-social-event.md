@@ -14,4 +14,6 @@ location:
   zip: 20010
 
 ---
+![](/img/2021-09-22-sweat-event.PNG)
+
 Come join your league-mates in a strength training workout led by our very own Coach "G"! Price is $30. Come for the workout; stay to mix, mingle, and have a drink or two!
