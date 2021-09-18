@@ -1,6 +1,6 @@
 ---
-title: S21 - Purple
-name: ''
+title: S21 - Purple (Jam it In)
+name: Jam it In (Purple)
 color: Purple
 season: 21
 photo: "/img/season-21_purple-1.jpg"
