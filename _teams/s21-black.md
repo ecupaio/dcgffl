@@ -1,6 +1,6 @@
 ---
-title: S21 - Black
-name: ''
+title: S21 - Black (Blackbeard and the Booty Pirates)
+name: Blackbeard and the Booty Pirates (Black)
 color: Black
 season: 21
 photo: "/img/season-21_black-1.jpg"
