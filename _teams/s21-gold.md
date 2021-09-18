@@ -1,6 +1,6 @@
 ---
-title: S21 - Gold
-name: ''
+title: S21 - Gold (The Golden Gurls)
+name: The Golden Gurls (Gold)
 color: Gold
 season: 21
 photo: "/img/season-21_gold-2.jpg"
