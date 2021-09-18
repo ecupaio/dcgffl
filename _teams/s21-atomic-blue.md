@@ -1,6 +1,6 @@
 ---
-title: S21 - Atomic Blue
-name: ''
+title: S21 - Atomic Blue (Blue-a Lipa)
+name: Blue-a Lipa (Atomic Blue)
 color: Atomic Blue
 season: 21
 photo: "/img/season-21_atomic-blue-3.jpg"
