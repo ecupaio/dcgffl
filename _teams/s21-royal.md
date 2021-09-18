@@ -1,6 +1,6 @@
 ---
-title: S21 - Royal
-name: ''
+title: S21 - Royal (Blue-m for You)
+name: Blue-m for You (Royal Blue)
 color: Royal
 season: 21
 photo: "/img/season-21_royal-blue-3.jpg"
