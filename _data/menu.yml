@@ -58,5 +58,6 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: 'This week: Team Announcement Party at Dirty Goose - Thursday 7pm!'
-  show: false
+  text: Sign up for [supplemental registration](https://forms.gle/DyYQYNB3kszcd4LR6)
+    for fall!
+  show: true
