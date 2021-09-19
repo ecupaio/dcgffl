@@ -3,15 +3,15 @@ location: _locations/carter-baron.md
 title: S21 Week 2 - Gold vs Atomic
 teams-score:
 - team: _teams/s21-gold.md
-  score: 
+  score: 22
 - team: _teams/s21-atomic-blue.md
-  score: 
+  score: 6
 field: "1"
-date: 2021-09-19 12:00:00 -0400
+date: 2021-09-19T12:00:00.000-04:00
 season: 21
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Jens P., Alonzo M.
+game-ball: Josh E., Kirk Y.
+sportsperson: Chuck R., Ben J.
 
 ---
