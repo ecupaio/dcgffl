@@ -38,9 +38,12 @@ rankings:
     Purple had a tougher week against the formidable Iron Gray team, but cracks are beginning to show. Will the First Lady of the League™, Scott, be able to adjust and keep this winning streak?
 
     ![](https://c.tenor.com/O9qik5nNYgAAAAAM/oh-you-cant-even-go-there-jill-biden.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-iron-gray.md
+  record: 1-1
+  text: |-
+    Iron Gray forced a nail biter this week, but if we look closer, we can just see Sean K carrying the team on his back.
+
+    ![](https://images.metmuseum.org/CRDImages/rl/original/DT3296.jpg)
 - team: []
   record: ''
   text: ''
