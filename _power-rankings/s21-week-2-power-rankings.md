@@ -26,9 +26,12 @@ rankings:
   text: "DCGFFL’s Best Boy, Danny, and quiet, but deadly accurate QB, Matt Cline,
     have led their Black team to 2 victories, but with a recent injury of a star player
     and leader on the field, are we about to see their quick deCLINE?\n\n  \n![](https://media4.giphy.com/media/jX8jTn63SF1f7Cnzcy/giphy.gif)"
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-white.md
+  record: 2-0
+  text: |-
+    This week, white was able to fend off a challenge from the Navy team to a comfortable 32-21 win, but are Vincent’s newly acquired cakes able to keep the competition sated for the rest of the season?
+
+    ![](https://c.tenor.com/Gd9N2oSjtsoAAAAC/nicki-minaj-anaconda.gif)
 - team: []
   record: ''
   text: ''
