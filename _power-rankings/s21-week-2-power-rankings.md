@@ -13,9 +13,14 @@ rankings:
     A lot can happen in this league that shifts dynamics, but the question everyone has after watching them play: are they headed straight for the S21 championship? Who knows, but, in the meantime, they sure are fun to watch!
 
     [giphy.gif?cid=ecf05e479yxwmocg10q0o1li2wsw9drrvjn1xsu8szvotsb8&rid=giphy.gif&ct=g](https://media.giphy.com/media/HloNK1z39EkEQcreIo/giphy.gif?cid=ecf05e479yxwmocg10q0o1li2wsw9drrvjn1xsu8szvotsb8&rid=giphy.gif&ct=g "giphy.gif?cid=ecf05e479yxwmocg10q0o1li2wsw9drrvjn1xsu8szvotsb8&rid=giphy.gif&ct=g")
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-carolina-blue.md
+  record: 2-0
+  text: |-
+    OG DCGFFL’r, Tony Britford, and veteran QB, lovable “Ally of the Year,” and post-Achilles tear Ben Hunt have certainly drafted an intriguing team this season...of mostly straight dads.
+
+    But these last two games haven’t exactly been challenging for them. While we shouldn’t discount the strategic mind of Ben Hunt here, the question remains: what will they do when they’re faced with a more evenly matched team?
+
+    ![](https://media2.giphy.com/media/Maaawg3nDFAS5IvdKE/giphy.gif)
 - team: []
   record: ''
   text: ''
