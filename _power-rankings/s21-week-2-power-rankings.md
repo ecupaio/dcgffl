@@ -86,9 +86,12 @@ rankings:
     Royal Blue just couldn’t handle it this week. Maybe they’ll get the Silky Nutmeg Ganache edit this season? Or, maybe, they’ll just drink a lot and have a lot of fun.
 
     ![](https://media1.giphy.com/media/tmzc0ixdhZX9BmAhgI/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-atomic-blue.md
+  record: 0-2
+  text: |-
+    Atomic Blue is sure feeling the blues. Their newly minted QB isn’t quite jelling on the field. We know Tony is whispering to himself
+
+    ![](https://25.media.tumblr.com/13355c2e08bbfeb941868905044d4205/tumblr_n02ktmgs411qzpo8yo1_500.gif)
 - team: []
   record: ''
   text: ''
