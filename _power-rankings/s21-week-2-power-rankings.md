@@ -32,9 +32,12 @@ rankings:
     This week, white was able to fend off a challenge from the Navy team to a comfortable 32-21 win, but are Vincent’s newly acquired cakes able to keep the competition sated for the rest of the season?
 
     ![](https://c.tenor.com/Gd9N2oSjtsoAAAAC/nicki-minaj-anaconda.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-purple.md
+  record: 2-0
+  text: |-
+    Purple had a tougher week against the formidable Iron Gray team, but cracks are beginning to show. Will the First Lady of the League™, Scott, be able to adjust and keep this winning streak?
+
+    ![](https://c.tenor.com/O9qik5nNYgAAAAAM/oh-you-cant-even-go-there-jill-biden.gif)
 - team: []
   record: ''
   text: ''
