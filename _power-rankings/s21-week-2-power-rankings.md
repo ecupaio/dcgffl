@@ -10,7 +10,7 @@ rankings:
   text: |-
     Steph and Brian are helming the team that’s on everyone’s lips this season: the Cardinal Care Bears. “Team Nice” has some truly star players in Cam, Chico, Kori, Stacey, and Raj, and, more importantly, Brian has got the experience and the tactical mind to know how to use them.
 
-    A lot can happen in this league that shifts dynamics, but the question everyone has after watching them play: are they headed straight for the S21 championship? Who knows, but, in the meantime, they sure are fun to watch!
+    A lot can happen in this league that shifts dynamics, but the question everyone has after watching them play: are they headed straight for the S21 championship? Who knows, but, in the meantime, they sure are interesting to watch.
 
     ![](https://www.mandatory.com/assets/uploads/gallery/white-lotus/book-prop.gif)
 - team: _teams/s21-carolina-blue.md
