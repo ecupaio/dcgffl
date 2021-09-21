@@ -21,9 +21,11 @@ rankings:
     But these last two games haven’t exactly been challenging for them. While we shouldn’t discount the strategic mind of Ben Hunt here, the question remains: what will they do when they’re faced with a more evenly matched team?
 
     ![](https://media2.giphy.com/media/Maaawg3nDFAS5IvdKE/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-black.md
+  record: 2-0
+  text: "DCGFFL’s Best Boy, Danny, and quiet, but deadly accurate QB, Matt Cline,
+    have led their Black team to 2 victories, but with a recent injury of a star player
+    and leader on the field, are we about to see their quick deCLINE?\n\n  \n![](https://media4.giphy.com/media/jX8jTn63SF1f7Cnzcy/giphy.gif)"
 - team: []
   record: ''
   text: ''
