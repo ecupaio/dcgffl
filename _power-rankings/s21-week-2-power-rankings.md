@@ -44,9 +44,12 @@ rankings:
     Iron Gray forced a nail biter this week, but if we look closer, we can just see Sean K carrying the team on his back.
 
     ![](https://images.metmuseum.org/CRDImages/rl/original/DT3296.jpg)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-red.md
+  record: 1-1
+  text: |-
+    No one is thirstier for a championship than Brandon W. He’s our very own Susan Lucci, and we’re excited to watch it (not) happen this year!
+
+    ![](https://64.media.tumblr.com/0f64bbbad9511f2f2d0a97512a243894/a8b752005bccd36f-96/s400x600/b31536ab729cc45bb6ff871c1022dcfbc5c8427a.gif)
 - team: []
   record: ''
   text: ''
