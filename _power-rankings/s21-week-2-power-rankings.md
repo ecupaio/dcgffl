@@ -56,9 +56,12 @@ rankings:
     These sailors were without their Captain and never seemed to really leave port this week. Are they LOST in the sauce until he returns?
 
     ![](https://i.pinimg.com/originals/34/3b/b6/343bb6b83dfdaeafa8c4b5e4d618c425.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-forest-green.md
+  record: 1-1
+  text: |-
+    Team Sean Cody led by Austin and JC haven’t really lit up the field like expected, but there’s still time! See below to understand the tension.
+
+    ![](/img/untitled.png)
 - team: []
   record: ''
   text: ''
