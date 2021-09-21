@@ -6,10 +6,12 @@ nav:
   link: "/about/"
 - title: League
   link: "/league/"
-- title: Scoreboard
-  link: "/score-board/"
 - title: Schedule
   link: "/schedule/"
+- title: Scoreboard
+  link: "/score-board/"
+- title: Power Rankings
+  link: "/power-rankings/"
 - title: Recreation League
   link: "/recreation-league/"
 - title: Travel Program
