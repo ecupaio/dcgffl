@@ -92,9 +92,12 @@ rankings:
     Atomic Blue is sure feeling the blues. Their newly minted QB isn’t quite jelling on the field. We know Tony is whispering to himself
 
     ![](https://25.media.tumblr.com/13355c2e08bbfeb941868905044d4205/tumblr_n02ktmgs411qzpo8yo1_500.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-neon-orange.md
+  record: 0-2
+  text: |-
+    Neon Orange didn’t even have a chance this week playing against Tony and Ben. The whole team is begging for a new day to come:
+
+    ![](https://thumbs.gfycat.com/CarefreeRemarkableErmine-size_restricted.gif)
 - team: []
   record: ''
   text: ''
