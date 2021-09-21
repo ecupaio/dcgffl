@@ -12,7 +12,7 @@ rankings:
 
     A lot can happen in this league that shifts dynamics, but the question everyone has after watching them play: are they headed straight for the S21 championship? Who knows, but, in the meantime, they sure are fun to watch.
 
-    [url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhite-lotus&psig=AOvVaw0_5shx3uECnfiIYhMmKz_d&ust=1632351820904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaxMWWkfMCFQAAAAAdAAAAABAD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhite-lotus&psig=AOvVaw0_5shx3uECnfiIYhMmKz_d&ust=1632351820904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaxMWWkfMCFQAAAAAdAAAAABAD "url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhite-lotus&psig=AOvVaw0_5shx3uECnfiIYhMmKz_d&ust=1632351820904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaxMWWkfMCFQAAAAAdAAAAABAD")
+    [giphy.gif?cid=ecf05e479yxwmocg10q0o1li2wsw9drrvjn1xsu8szvotsb8&rid=giphy.gif&ct=g](https://media.giphy.com/media/HloNK1z39EkEQcreIo/giphy.gif?cid=ecf05e479yxwmocg10q0o1li2wsw9drrvjn1xsu8szvotsb8&rid=giphy.gif&ct=g "giphy.gif?cid=ecf05e479yxwmocg10q0o1li2wsw9drrvjn1xsu8szvotsb8&rid=giphy.gif&ct=g")
 - team: []
   record: ''
   text: ''
