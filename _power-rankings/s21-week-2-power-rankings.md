@@ -27,6 +27,5 @@ rankings:
 - team: []
   record: ''
   text: ''
-published: false
 
 ---
