@@ -74,9 +74,12 @@ rankings:
     Jorge’s pending nuptials clearly have him distracted on and off the field, leaving QB Ben M to fend for himself. But, really, Ben moved away and moved back and only has 1 win to show for it. Maybe the Denver league was actually easier?
 
     ![](https://media4.giphy.com/media/3o7aTBCl5RMCoVtVRu/200.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-lime-green.md
+  record: 0-2
+  text: |-
+    Our subLIME team is certainly feeling acidic after these 2 losses. A near QB meltdown this week had the whole field like:
+
+    ![](https://c.tenor.com/hs0skBPkJoAAAAAC/ru-paul-ru-pauls-drag-race.gif)
 - team: []
   record: ''
   text: ''
