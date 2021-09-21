@@ -12,7 +12,7 @@ rankings:
 
     A lot can happen in this league that shifts dynamics, but the question everyone has after watching them play: are they headed straight for the S21 championship? Who knows, but, in the meantime, they sure are fun to watch.
 
-    ![](https://lh6.googleusercontent.com/N3GBTvrPrP1_0aOUT1yIFf076v2lAn2n-j_nONol1CfKNv_kKjwXcQxN152JhLn0BXQTjO1YlxJiw2qUxYd2pBtOhX8psKNjnixmJa-WD7iKCbVnC2jGylHQppYnKOHKxQ3YhQLW=s0 =228x228)
+    [url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhite-lotus&psig=AOvVaw0_5shx3uECnfiIYhMmKz_d&ust=1632351820904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaxMWWkfMCFQAAAAAdAAAAABAD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhite-lotus&psig=AOvVaw0_5shx3uECnfiIYhMmKz_d&ust=1632351820904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaxMWWkfMCFQAAAAAdAAAAABAD "url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwhite-lotus&psig=AOvVaw0_5shx3uECnfiIYhMmKz_d&ust=1632351820904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjaxMWWkfMCFQAAAAAdAAAAABAD")
 - team: []
   record: ''
   text: ''
