@@ -62,9 +62,12 @@ rankings:
     Team Sean Cody led by Austin and JC haven’t really lit up the field like expected, but there’s still time! See below to understand the tension.
 
     ![](/img/untitled.png)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-gold.md
+  record: 1-1
+  text: |-
+    This team seems to have a lot of players who are MIA. Thanks for being a friend?
+
+    ![](https://c.tenor.com/CaoHHoTwpcMAAAAM/hug-golden-girls.gif)
 - team: []
   record: ''
   text: ''
