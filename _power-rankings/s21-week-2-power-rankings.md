@@ -68,9 +68,12 @@ rankings:
     This team seems to have a lot of players who are MIA. Thanks for being a friend?
 
     ![](https://c.tenor.com/CaoHHoTwpcMAAAAM/hug-golden-girls.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-silver.md
+  record: 1-1
+  text: |-
+    Jorge’s pending nuptials clearly have him distracted on and off the field, leaving QB Ben M to fend for himself. But, really, Ben moved away and moved back and only has 1 win to show for it. Maybe the Denver league was actually easier?
+
+    ![](https://media4.giphy.com/media/3o7aTBCl5RMCoVtVRu/200.gif)
 - team: []
   record: ''
   text: ''
