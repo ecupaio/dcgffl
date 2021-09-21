@@ -16,9 +16,9 @@ rankings:
 - team: _teams/s21-carolina-blue.md
   record: 2-0
   text: |-
-    OG DCGFFL’r, Tony Britford, and veteran QB, lovable “Ally of the Year,” and post-Achilles tear Ben Hunt have certainly drafted an intriguing team this season...of mostly straight dads.
+    OG DCGFFL’r, Tony Britford, and veteran QB, lovable “Ally of the Year,” and post-Achilles tear Ben Hunt have certainly drafted an intriguing team this season...of mostly straight dads. (Challenge: Tony, get Ben to stop saying "sis.")
 
-    But these last two games haven’t exactly been challenging for them. While we shouldn’t discount the strategic mind of Ben Hunt here, the question remains: what will they do when they’re faced with a more evenly matched team?
+    But these last two games haven’t exactly been difficult for them. While we shouldn’t discount the strategic mind of Ben Hunt here, the question remains: what will they do when they’re faced with a more evenly matched team?
 
     ![](https://media2.giphy.com/media/Maaawg3nDFAS5IvdKE/giphy.gif)
 - team: _teams/s21-black.md
