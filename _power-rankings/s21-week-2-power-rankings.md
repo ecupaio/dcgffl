@@ -98,8 +98,11 @@ rankings:
     Neon Orange didn’t even have a chance this week playing against Tony and Ben. The whole team is begging for a new day to come:
 
     ![](https://thumbs.gfycat.com/CarefreeRemarkableErmine-size_restricted.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-kelly-green.md
+  record: 0-2
+  text: |-
+    Kelly Green can’t keep a QB to save their lives, and they are in desperate need of a leader on the field. Team prayer circle, anyone?
+
+    ![](https://media3.giphy.com/media/3ohc0ScpGRF4o5TNFS/200.gif)
 
 ---
