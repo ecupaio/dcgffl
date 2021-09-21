@@ -80,9 +80,12 @@ rankings:
     Our subLIME team is certainly feeling acidic after these 2 losses. A near QB meltdown this week had the whole field like:
 
     ![](https://c.tenor.com/hs0skBPkJoAAAAAC/ru-paul-ru-pauls-drag-race.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-royal.md
+  record: 0-2
+  text: |-
+    Royal Blue just couldn’t handle it this week. Maybe they’ll get the Silky Nutmeg Ganache edit this season? Or, maybe, they’ll just drink a lot and have a lot of fun.
+
+    ![](https://media1.giphy.com/media/tmzc0ixdhZX9BmAhgI/giphy.gif)
 - team: []
   record: ''
   text: ''
