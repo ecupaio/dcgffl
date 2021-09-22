@@ -1,6 +1,6 @@
 ---
 title: S21 - Kelly Green (Cadet Kellys)
-name: Cadet Kellys (Kelly Green)
+name: Cadet Kellys
 color: Kelly Green
 season: 21
 photo: "/img/season-21_kelly-green-3.jpg"

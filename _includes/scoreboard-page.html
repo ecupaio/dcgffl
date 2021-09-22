@@ -31,19 +31,23 @@
             <div class="matchup">
               <div class="team-score">
                 {% assign team1 = site.teams | where: "path", game.teams-score[0].team | first %}
-                <h3 class="team">
+                <div class="team">
                   <a href="{{ team1.url }}">
-                  {% if team1.name and team1.name != '' %}
-                    {{ team1.name }}
-                  {% else %}
-                    {{ team1.color }}
-                  {% endif %}
+                    <h3 class="team-name">
+                    {% if team1.name and team1.name != '' %}
+                      {{ team1.name }}
+                    {% else %}
+                      {{ team1.color }}
+                    {% endif %}
+                    </h3>
+                    {% if team1.name and team1.name != '' %}
+                    <h4 class="team-color">{{ team1.color  }}</h4>
+                    {% endif %}
                   </a>  
-                </h3>
+                </div>
+                
                 {% if game.teams-score[0].score and game.teams-score[0].score != '' %}
-                <h4 class="score {% if game.teams-score[0].score > game.teams-score[1].score%}winner{% endif %}">
-                  {{ game.teams-score[0].score }}
-                </h4>
+                <h4 class="score {% if game.teams-score[0].score > game.teams-score[1].score%}winner{% endif %}">{{ game.teams-score[0].score }}</h4>
                 {% endif %}
               </div>
               <div class="versus">
@@ -60,19 +64,24 @@
               </div>
               <div class="team-score">
                 {% assign team2 = site.teams | where: "path", game.teams-score[1].team | first %}
-                <h3 class="team">
+                <div class="team">
                   <a href="{{ team2.url }}">
-                  {% if team2.name and team2.name != '' %}
-                    {{ team2.name }}
-                  {% else %}
-                    {{ team2.color }}
-                  {% endif %}
+                    <h3 class="team-name">
+                    {% if team2.name and team2.name != '' %}
+                      {{ team2.name }}
+                    {% else %}
+                      {{ team2.color }}
+                    {% endif %}
+                    </h3>
+                    {% if team2.name and team2.name != '' %}
+                    <h4 class="team-color">
+                      {{ team2.color }}
+                    </h4>
+                    {% endif %}
                   </a>  
-                </h3>
+                </div>
                 {% if game.teams-score[1].score and game.teams-score[1].score != '' %}
-                <h4 class="score {% if game.teams-score[1].score > game.teams-score[0].score%}winner{% endif %}">
-                  {{ game.teams-score[1].score }}
-                </h4>
+                <h4 class="score {% if game.teams-score[1].score > game.teams-score[0].score%}winner{% endif %}">{{ game.teams-score[1].score }}</h4>
                 {% endif %}
               </div>
             </div>

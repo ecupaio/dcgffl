@@ -1,6 +1,6 @@
 ---
 title: S21 - Silver (Silversatile)
-name: Silversatile (Silver)
+name: Silversatile
 color: Silver
 season: 21
 photo: "/img/season-21_silver-2.jpg"

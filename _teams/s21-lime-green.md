@@ -1,6 +1,6 @@
 ---
 title: S21 - Lime Green (Toxic sLIME)
-name: Toxic sLIME (Lime Green)
+name: Toxic sLIME
 color: Lime Green
 season: 21
 photo: "/img/season-21_lime-2.jpg"

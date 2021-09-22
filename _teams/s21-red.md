@@ -1,6 +1,6 @@
 ---
 title: S21 - Red (Fire in the Hole)
-name: Fire in the Hole (Red)
+name: Fire in the Hole
 color: Red
 season: 21
 photo: "/img/season-21_red-1.jpg"

@@ -1,6 +1,6 @@
 ---
 title: S21 - Iron Gray (Iron Curtain)
-name: Iron Curtain (Iron Gray)
+name: Iron Curtain
 color: Iron Gray
 season: 21
 photo: "/img/season-21_iron-gray-3.jpg"
