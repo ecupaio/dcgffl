@@ -16,8 +16,10 @@ location:
 ---
 ![](/img/2021-09-22-sweat-event.PNG)
 
-Come join your league-mates in a strength training workout led by our very own Coach "G"! 
+Come join your league-mates in a strength training workout led by our very own Coach "G"!
 
 Click the signup link to get 3 class passes for a special DCGFFL rate of $30, and then click through and register in the online portal for the “DCGFFL” class on 9/22 at 7:30pm! You can also come attend and sign up in person at 7:15pm even if you haven’t registered online.
+
+You can [CLICK HERE](https://clients.mindbodyonline.com/classic/ws?studioid=891039&stype=-105&sTG=37&sVT=1086&sView=day&sLoc=1&sTrn=4&date=09/22/21) to access the specific work out class and sign up.
 
 Come for the workout; stay to mix, mingle, and have a drink or two!
