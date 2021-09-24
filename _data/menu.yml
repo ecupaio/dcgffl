@@ -60,6 +60,5 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Register for [rec league](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=7570d24952&e=c3641de19c)
-    and [supplemental for fall season](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=5a25b9609a&e=c3641de19c)!
-  show: true
+  text: ''
+  show: false
