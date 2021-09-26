@@ -10,8 +10,8 @@ field: "2"
 date: 2021-09-26T12:00:00.000-04:00
 season: 21
 week: 3
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Derrick J., Brett C.
+game-ball: Pat S., Sasha B.
+sportsperson: Zach G., Stephen H.
 
 ---
