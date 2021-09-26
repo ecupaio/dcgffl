@@ -12,6 +12,6 @@ season: 21
 week: 3
 mvp: Bill C., Shaq B.
 game-ball: Nolan L., Shane L.
-sportsperson: ''
+sportsperson: Ethan R., Tiger R.
 
 ---
