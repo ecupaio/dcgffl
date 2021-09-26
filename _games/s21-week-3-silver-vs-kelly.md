@@ -10,8 +10,8 @@ field: "4"
 date: 2021-09-26T12:00:00.000-04:00
 season: 21
 week: 3
-mvp: Mark J., Oliver J.
-game-ball: Mile H., PJ M.
+mvp: Oliver J., Jayme F.
+game-ball: Mike H., PJ M.
 sportsperson: Aaron S., Jayme F.
 
 ---
