@@ -12,7 +12,6 @@ location:
   city: ''
   state: ''
   zip: 
-published: false
 
 ---
 Join us to learn from one of the best in the business. For years, Margie has provided helpful insight to our league members, and she has helped many realize the dream of homeownership. 
