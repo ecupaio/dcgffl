@@ -61,27 +61,48 @@ rankings:
     Fueled by the spirit of Celine and the physicality of Brian S., this team took down last week’s top-ranked team. QB Pat repeatedly found his receivers open in the middle. I know they walked off the field feelin’ themselves.
 
     ![](https://i.pinimg.com/originals/d9/e7/55/d9e7550009bdd5e7ba4520db2f304df5.gif)
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-lime-green.md
+  record: 1-2
+  text: |-
+    It seems AJ and Twon were able to put their bickering aside, and Toxic sLIME turned into something palatable this week as they came away with their first win. Just as well, their captain was running late for a performance anyway.
+
+    ![](https://c.tenor.com/4a8bmaUMxLsAAAAC/s4-rpdr.gif)r
+- team: _teams/s21-kelly-green.md
+  record: 1-2
+  text: |-
+    Their QB #4, Mike H, stepped up and took the field, but this game turned into a battle of the defenses with Kelly coming out with their first win over Silver. Now, if we can just get them a healthy and regular QB, things might turnaround:
+
+    ![](https://c.tenor.com/ZfQWYSYwBrIAAAAC/rpdr-waiting.gif)
+- team: _teams/s21-silver.md
+  record: 1-2
+  text: |-
+    Kelly Green was in those DMs while this team took a Tylenol PM.
+
+    ![](https://c.tenor.com/7YAgsn1uVnQAAAAC/drag-race-drag.gif)
+- team: _teams/s21-gold.md
+  record: 1-2
+  text: |-
+    This team struggled to field a full 7 this week. I know Captain Bryan was thankful to see Chuck R. step up and make some clutch plays. At this rate, they should think about fielding Betty White.
+
+    ![](https://thumbs.gfycat.com/IncompleteAncientBichonfrise-max-1mb.gif)
+- team: _teams/s21-red.md
+  record: 1-2
+  text: |-
+    As soon as White stepped onto the field, Red was in trouble. Maybe Brandon is too focused on getting ready for Gay Bowl to give his team the attention they need right now. Let’s see how they regroup after he gets back from Arizona.
+
+    ![](https://c.tenor.com/9-KmuBDK9EoAAAAC/taylor-swift-i-knew-you-were-trouble.gif)
+- team: _teams/s21-royal.md
+  record: 0-3
+  text: |-
+    We’re all waiting for this team to blue-m. Nadja, Joe, and Alex S. sure were fun to watch this week though. They fought a hard battle, but in the end came up shy in the back-and-forth against Into the Thicc of It (Forest Green).
+
+    ![](https://media0.giphy.com/media/4HcAcJ2efMo9wspIFt/giphy.gif)
+- team: _teams/s21-atomic-blue.md
+  record: 0-3
+  text: |-
+    It’s hard to find the words...and even harder to watch.
+
+    ![](https://i.gifer.com/I2HM.gif)
 published: false
 
 ---
