@@ -103,6 +103,5 @@ rankings:
     It’s hard to find the words...and even harder to watch.
 
     ![](https://i.gifer.com/I2HM.gif)
-published: false
 
 ---
