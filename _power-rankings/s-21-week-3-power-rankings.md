@@ -1,6 +1,6 @@
 ---
 date: 2021-09-29 07:26:49 -0400
-title: S 21 Week 3 Power Rankings
+title: S21 Week 3 Power Rankings
 author: Aaron Sayama and Stephanie McDaniel
 season: 21
 week: 3
