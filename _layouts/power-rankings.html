@@ -45,7 +45,7 @@ layout: default
     </div>
     <div class="posts-nav">
       {% if page.id == '/power-rankings' %}
-        {% assign rankings = site.power-rankings | where: "published", true | sort: 'date' | reverse  %}
+        {% assign rankings = site.power-rankings  | sort: 'date' | reverse  %}
         {% assign prev = rankings[1] %}
       {% else %}
         {% assign next = page.next %}

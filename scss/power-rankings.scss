@@ -38,9 +38,12 @@
       margin-top: 2rem;
       display: flex;
       justify-content: space-between;
+      flex-direction: row;
       .nav-item {
         &.next {
           text-align: right;
+          justify-self:end;
+          margin-left: auto;
         }
       }
     }
