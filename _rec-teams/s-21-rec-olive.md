@@ -1,5 +1,5 @@
 ---
-title: S21 - Rec - Olive
+title: S21 Rec - Olive
 name: Olive
 color: Olive
 season: 21
