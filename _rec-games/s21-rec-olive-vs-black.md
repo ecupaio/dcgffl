@@ -6,7 +6,7 @@ teams-score:
   score: 
 - team: _teams/tbd.md
   score: 
-field: "1"
+field: 1
 date: 2021-10-15 18:30:00 -0400
 season: 21
 week: 2
