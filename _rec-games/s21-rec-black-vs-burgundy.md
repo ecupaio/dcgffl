@@ -6,7 +6,7 @@ teams-score:
   score: 
 - team: _teams/s09-black.html
   score: 
-field: "1"
+field: 1
 date: 2021-10-08 18:30:00 -0400
 season: 21
 week: 1
