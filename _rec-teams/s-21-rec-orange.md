@@ -19,6 +19,6 @@ members:
 - Thomas R.
 - Tony S.
 - Tracy S.
-division: ''
+division: Recreation
 
 ---

@@ -19,6 +19,6 @@ members:
 - Quinn M.
 - Christopher T.
 - Dyonne W.
-division: ''
+division: Recreation
 
 ---
