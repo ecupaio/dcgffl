@@ -1,5 +1,5 @@
 ---
-title: S 21 - Rec - Olive
+title: S21 - Rec - Olive
 name: Olive
 color: Olive
 season: 21
@@ -7,18 +7,18 @@ photo: ''
 captain: Brandon M.
 quarterback: ''
 members:
-- Andrew G.
-- Charles R.
-- Chris R.
+- Samuel B.
 - Demitrian C.
-- Garrett S.
-- Lamar R.
+- Andrew G.
+- Robert K.
 - Luis M.
 - Marek M.
 - Marquez M.
+- Charles R.
+- Chris R.
+- Lamar R.
+- Garrett S.
 - Mike W.
-- Robert K.
-- Samuel B.
 division: ''
 
 ---
