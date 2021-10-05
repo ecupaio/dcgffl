@@ -1,6 +1,6 @@
 ---
 location: _locations/trinidad-recreation-center.md
-title: S21 Rec - Orange vs. Olive
+title: S21 Rec - Orange vs Olive
 teams-score:
 - team: _teams/tbd.md
   score: 
