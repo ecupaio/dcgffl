@@ -19,6 +19,6 @@ members:
 - Michael P.
 - Tony S.
 - Kirk Y.
-division: ''
+division: Recreation
 
 ---
