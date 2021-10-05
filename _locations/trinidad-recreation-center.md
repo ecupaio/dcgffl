@@ -1,9 +1,9 @@
 ---
 title: Trinidad Recreation Center
 info: ''
-address: Trinidad Recreation Center
+address: 1310 Childress St. NE
 city: Washington
 state: DC
-zip: 
+zip: 20002
 
 ---
