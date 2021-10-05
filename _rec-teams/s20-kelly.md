@@ -19,5 +19,6 @@ members:
 - Matt Thorpe
 - Joe Walker
 division: Pitchers
+published: false
 
 ---
