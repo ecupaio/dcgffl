@@ -1,5 +1,5 @@
 ---
-title: S 21 Rec - Orange
+title: S21 Rec - Orange
 name: Orange
 color: Orange
 season: 21
@@ -20,6 +20,5 @@ members:
 - Tony S.
 - Tracy S.
 division: ''
-published: false
 
 ---
