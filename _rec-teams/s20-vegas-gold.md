@@ -6,7 +6,7 @@ season: 20
 division: Pitchers
 captain: Ken Green
 quarterback: Ben Hunt
-members: 
+members:
 - Logan Dawson
 - Kevin Hamilton
 - Justin Mezetin
@@ -17,4 +17,6 @@ members:
 - Andy Smith
 - Kyle Suib
 - Stephen Tackney
+published: false
+
 ---

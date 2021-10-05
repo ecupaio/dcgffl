@@ -3,10 +3,10 @@ title: S20 - Kelly
 color: Kelly
 name: ''
 season: 20
-photo: '/img/pink-s19.jpg'
+photo: "/img/pink-s19.jpg"
 captain: Danny Hughes
 quarterback: Jim Connolly
-members: 
+members:
 - Tony Britford
 - Cameron Burrell
 - Paul Guequierre
@@ -19,4 +19,5 @@ members:
 - Matt Thorpe
 - Joe Walker
 division: Pitchers
+
 ---
