@@ -2,9 +2,9 @@
 location: _locations/trinidad-recreation-center.md
 title: S21 Rec - Orange vs Olive
 teams-score:
-- team: _teams/tbd.md
+- team: _rec-teams/s-21-rec-orange.md
   score: 
-- team: _teams/tbd.md
+- team: _rec-teams/s-21-rec-olive.md
   score: 
 field: 2
 date: 2021-10-08 18:30:00 -0400
