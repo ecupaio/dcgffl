@@ -10,6 +10,5 @@ members:
 - Sean D.
 - Tony S.
 division: ''
-published: false
 
 ---
