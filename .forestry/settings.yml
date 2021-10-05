@@ -67,7 +67,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - game
+  - rec-game
 - type: directory
   path: _rec-playoffs
   label: Rec Playoffs
