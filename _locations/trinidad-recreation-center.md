@@ -1,6 +1,6 @@
 ---
 title: Trinidad Recreation Center
-info: ''
+info: This is used for Friday Night Recreation League.
 address: 1310 Childress St. NE
 city: Washington
 state: DC
