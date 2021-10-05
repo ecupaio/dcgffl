@@ -2,9 +2,9 @@
 location: _locations/trinidad-recreation-center.md
 title: S21 Rec - Orange vs Black
 teams-score:
-- team: _teams/tbd.md
+- team: _rec-teams/s-21-rec-orange.md
   score: 
-- team: _teams/tbd.md
+- team: _rec-teams/s21-rec-black.md
   score: 
 field: 2
 date: 2021-10-22 18:30:00 -0400
@@ -13,6 +13,5 @@ week: 3
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
