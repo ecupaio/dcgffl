@@ -4,9 +4,11 @@ name: Black
 color: Black
 season: 21
 photo: ''
-captain: ''
+captain: Tony B.
 quarterback: ''
-members: []
+members:
+- Sean D.
+- Tony S.
 division: ''
 published: false
 
