@@ -19,6 +19,6 @@ members:
 - Lamar R.
 - Garrett S.
 - Mike W.
-division: ''
+division: Recreation
 
 ---
