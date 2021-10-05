@@ -53,7 +53,12 @@ content-id: team
       {% elsif page.collection == "rec-teams" %}
       {% assign games = site.rec-games %}
       {% endif %}
-      {% for game in site.games %}
+      {% if page.collection == "teams" %}
+      {% assign teams = site.teams %}
+      {% elsif page.collection == "rec-teams" %}
+      {% assign teams = site.rec-teams %}
+      {% endif %}
+      {% for game in games %}
       {% if game.teams-score[0].team contains page.path or game.teams-score[1].team contains page.path %}
       <div class="game">
         {% for score in game.teams-score %}
@@ -68,7 +73,8 @@ content-id: team
               <div class="field">Field: {{ game.field }}</div>
             </div>
             {% assign opponent = game.teams-score | where_exp: "item", "item.team != page.path"  %}
-            {% assign opponent-name = site.teams | where: "path", opponent[0].team %}
+            
+            {% assign opponent-name = teams | where: "path", opponent[0].team %}
             <a class="game-opp" href="{{ opponent-name[0].url }}">
             {% if opponent-name[0].name and opponent-name[0].name != '' %}
             vs {{ opponent-name[0].name }}
@@ -116,7 +122,8 @@ content-id: team
         <div class="key-col">Team</div>
         <div class="key-col record">W - L - T</div>
       </div>
-      {% for team in site.teams %}
+      
+      {% for team in teams %}
       {% if page.division == team.division and page.season == team.season %}
       {% if team.name and team.name != ''%}
         {% assign team-name = team.name %}
@@ -131,7 +138,7 @@ content-id: team
       {% assign wins = 0 %}
       {% assign losses = 0 %}
       {% assign ties = 0 %}
-      {% assign season-games = site.games | where: "season", page.season %}
+      {% assign season-games = games | where: "season", page.season %}
       {% for game in season-games %}
         {% if game.teams-score[0].score > game.teams-score[1].score and game.teams-score[0].team == team.path  %}
         {% assign wins = wins | plus: 1 %}
