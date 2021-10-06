@@ -3,7 +3,7 @@ button:
   visible: true
   text: Email for Zoom Link!
   link: margie@rmcenter.com
-title: Home Buying Workshop with Margie Hofberg!
+title: 'Home Buying 101: Workshop with Margie Hofberg!'
 date: 2021-11-04T18:30:00.000-04:00
 time: 6:30 to 7:30 PM
 location:
