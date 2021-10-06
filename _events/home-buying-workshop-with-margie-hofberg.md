@@ -14,4 +14,4 @@ location:
   zip: 
 
 ---
-Join us to learn from one of the best in the business. For years, Margie has provided helpful insight to our league members, and she has helped many realize the dream of homeownership. Public Welcome: [please email](mailto:margie@rmcenter.com) for a Zoom link. Sponsored by DC Gay Flag Football League!
+Join us to learn from one of the best in the business. For years, Margie has provided helpful insight to our league members, and she has helped many realize the dream of homeownership. Want to attend?: [please email](mailto:margie@rmcenter.com) for a Zoom link. Sponsored by DC Gay Flag Football League!
