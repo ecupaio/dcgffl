@@ -52,6 +52,7 @@ fields:
     name: zip
     label: zip
 pages:
+- _events/dcgffl-mid-season-party-time.md
 - _events/dcgffl-sweat-social-event.md
 - _events/example-event-3.md
 - _events/fall-2021-regular-registration.md
