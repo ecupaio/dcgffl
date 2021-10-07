@@ -12,6 +12,5 @@ location:
   city: Washington
   state: District of Columbia
   zip: 20002
-published: false
 
 ---
