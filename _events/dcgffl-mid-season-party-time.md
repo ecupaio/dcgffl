@@ -3,7 +3,7 @@ button:
   visible: true
   text: Check out Red Bear!
   link: https://www.redbear.beer/
-title: DCGFFL Mid-Season Party Time!
+title: DCGFFL Season 21 Mid-Season Party Time!
 date: 2021-10-28 19:00:00 -0400
 time: 7:00 pm to Close
 location:
