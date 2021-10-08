@@ -1,5 +1,5 @@
 ---
-date: 2021-09-24T08:25:39.000-04:00
+date: 2021-10-08 08:25:39 -0400
 title: Game Day Photos - Week 3
 permalink: "/s21-photos-week-3/"
 attachments: []
