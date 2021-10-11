@@ -11,7 +11,7 @@ date: 2021-10-10T10:00:00.000-04:00
 season: 21
 week: 4
 mvp: Jordan J., Kevin H.
-game-ball: ''
-sportsperson: ''
+game-ball: Logan D., Tony S.
+sportsperson: Bradley W., Yvette G.
 
 ---
