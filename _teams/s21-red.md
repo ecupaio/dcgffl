@@ -15,8 +15,10 @@ members:
 - Juan Q.
 - John Riley
 - Kevin Smiffy
+- Ocho K.
 - Paul Guequierre
 - Peter Pawlowski
+- Sam Brown
 - Tim A.
 division: A
 
