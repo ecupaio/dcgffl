@@ -10,6 +10,7 @@ members:
 - Brandon C.
 - Jason Mascelli
 - John B.
+- Kevin Hamilton
 - Michael Hess
 - Oliver J.
 - Patrick Mcilvane
