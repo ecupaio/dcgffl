@@ -10,11 +10,13 @@ members:
 - Aiden Byrne
 - Antonio H.
 - Brad Allen
+- Brice R.
 - David W.
 - Fatima A.
 - Greg Carter
 - Holly A.
 - Sean Bartel
+- Sean D.
 - William L.
 - Zachary Gianelle
 division: B
