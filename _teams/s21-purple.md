@@ -12,6 +12,7 @@ members:
 - Daniel B.
 - Drew Crane
 - Heidi Voss
+- Munroe B.
 - Oliver K.
 - Quinn M.
 - Rob B.
