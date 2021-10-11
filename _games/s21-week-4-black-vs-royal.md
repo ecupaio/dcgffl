@@ -3,7 +3,7 @@ location: _locations/carter-baron.md
 title: S21 Week 4 - Black vs Royal
 teams-score:
 - team: _teams/s21-black.md
-  score: 27
+  score: 25
 - team: _teams/s21-royal.md
   score: 27
 field: "2"
