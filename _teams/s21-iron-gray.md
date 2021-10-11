@@ -9,7 +9,9 @@ quarterback: Andy Pratt
 members:
 - Alex D.
 - Amanda Dafonte
+- Benjamin W.
 - Christopher Goodale
+- Connor S.
 - Edward Jaffe
 - Elizabeth White
 - John Kearns
