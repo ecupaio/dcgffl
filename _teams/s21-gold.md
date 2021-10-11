@@ -11,8 +11,10 @@ members:
 - Brendan McFarland
 - Charles Roth
 - Cole L.
+- Dyonne W.
 - Jens Piferoen
 - Josh Estryn
+- Justin Parker
 - Mike D.
 - Patrick S.
 - Sean Holihan
