@@ -12,6 +12,7 @@ members:
 - Brandon M.
 - Demitrian Cook
 - Garrett Schiponi
+- Patrick B.
 - Paul Whitney
 - Kyle O.
 - Roel Ruiz
