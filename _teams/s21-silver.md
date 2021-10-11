@@ -15,6 +15,7 @@ members:
 - Mark Japinga
 - Nick Vucovich
 - Nick W.
+- Nikki Kasparek
 - Pete D.
 - PJ Morgan
 - Tom Hassett
