@@ -15,6 +15,9 @@ members:
 - Desmond J.
 - Jack Miles
 - John L.
+- Luc Olinga
+- Mark Hofberg
+- Matthew Devino
 - Kirk
 - Taylor Jay Nelson
 division: A
