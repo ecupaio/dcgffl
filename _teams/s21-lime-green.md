@@ -11,6 +11,7 @@ members:
 - Barry Mauck
 - Brian Donohoe
 - Del-Vaunté Scott
+- Eric G.
 - Fernando Herrera
 - Gabriel Hernandez
 - Jim Roll
