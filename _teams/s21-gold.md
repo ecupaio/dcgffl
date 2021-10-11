@@ -16,9 +16,7 @@ members:
 - Josh Estryn
 - Justin Parker
 - Mike D.
-- Patrick S.
 - Sean Holihan
-- Tori Tensi
 - Tracy S.
 division: A
 
