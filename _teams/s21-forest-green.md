@@ -10,6 +10,7 @@ members:
 - Bradley W.
 - Christopher Taste
 - Derrick Holt
+- Dominick Manuel
 - Dwaylan Applewhite
 - Kat Rosenthal
 - John-Francois Hould
