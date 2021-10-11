@@ -10,6 +10,7 @@ members:
 - Aaron Ross
 - Alberto Gonzalez
 - Daniel D.
+- Daniel H.
 - Graham White
 - Hayden Miller
 - Jeff M.
