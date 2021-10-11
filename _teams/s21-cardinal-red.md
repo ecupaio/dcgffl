@@ -14,6 +14,7 @@ members:
 - Eli M.
 - Francisco H.
 - Gregg L.
+- Keaton Fedak
 - Kori Saunders
 - Rajan Kapoor
 - Sasha Buchert
