@@ -19,7 +19,6 @@ members:
 - Mark Hofberg
 - Matthew Devino
 - Kirk
-- Taylor Jay Nelson
 division: A
 
 ---
