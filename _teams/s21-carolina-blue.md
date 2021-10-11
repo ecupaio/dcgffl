@@ -12,6 +12,7 @@ members:
 - Bill Cammas
 - Daniel Lucero
 - Ethan Rudolph
+- Justin Mezetin
 - Kenny J.
 - Marek Malysa
 - Mariam Mehter
