@@ -9,6 +9,7 @@ quarterback: Jim Connolly
 members:
 - Alex Kizer
 - Alex Schaps
+- Jared Lucas
 - Jay Maroney
 - Joe Owens
 - Kyle Butts
