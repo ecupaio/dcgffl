@@ -8,9 +8,11 @@ captain: Danny Hughes
 quarterback: Matthew C.
 members:
 - Caroline L.
+- Charles Dunst
 - Joe Kozel
 - Johnny Moseman
 - Kent T.
+- Okan K.
 - Rob Casey
 - Tevin M.
 - Tiger Ricchetti
