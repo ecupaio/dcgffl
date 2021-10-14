@@ -1,6 +1,6 @@
 ---
 date: 2021-10-13 19:15:49 -0400
-title: The Kozaks
+title: The Kozaks - S21 Week 4
 author: 'By Stephanie McDaniel Let''s start with some Power Rankings history, or should
   I say The Kozaks. Kozak is a DCGFFL legacy and powerhouse -- if only his knees hadn’t
   quit on him. The league has an incredibly exciting archive of Power Rankings/Kozaks
@@ -109,6 +109,5 @@ rankings:
     Gold has had a rough go this season. With another loss behind them, they’re hopeful things will turn around with Sean H as a back up in the pocket and new teammate Justin P coming in. In the words of Dumbledore, “Help will always be given at Hogwarts to those who ask for it.”
 
     ![](https://media.giphy.com/media/720g7C1jz13wI/giphy.gif)
-published: false
 
 ---
