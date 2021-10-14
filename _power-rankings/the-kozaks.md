@@ -70,7 +70,7 @@ rankings:
   text: |-
     The league’s favorite mascot can be found on the sidelines with this team. His name is Kobe. Oh right...sorry, I got distracted by the cuteness. Black got their second L this week in a nail biter against Royal. Tough loss, hope you find comfort in Kobe.
 
-    ![](https://lh4.googleusercontent.com/24zuBJof5Q9Uy_buNToABaNhXtlQUu7VVJPdf-GaxObJshe_QqvVbTkSfmIDLGpp3iLicJk6ZpkbQewz8lM-Mh6xHXQRYQ3OrX4sOTvFwtS-2ravAqWkLrSGDcmwcqp5n465_ORG=s0 =296x476)
+    [Download File](https://imgflip.com/i/5qc9fd "Download File")
 - team: _teams/s21-iron-gray.md
   record: '1-3 Previous Ranking #7'
   text: |-
