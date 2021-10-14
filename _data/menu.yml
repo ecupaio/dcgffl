@@ -20,6 +20,8 @@ nav:
   link: "/news/"
 - title: Events
   link: "/events/"
+- title: Gallery
+  link: https://www.flickr.com/photos/55392288@N03/sets/
 - title: Sponsor
   link: "/sponsors/"
 nav-button:
