@@ -109,5 +109,6 @@ rankings:
     Gold has had a rough go this season. With another loss behind them, they’re hopeful things will turn around with Sean H as a back up in the pocket and new teammate Justin P coming in. In the words of Dumbledore, “Help will always be given at Hogwarts to those who ask for it.”
 
     ![](https://media.giphy.com/media/720g7C1jz13wI/giphy.gif)
+published: false
 
 ---
