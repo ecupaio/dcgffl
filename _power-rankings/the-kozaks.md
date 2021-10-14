@@ -1,15 +1,13 @@
 ---
 date: 2021-10-13 19:15:49 -0400
 title: The Kozaks - S21 Week 4
-author: 'By Stephanie McDaniel Let''s start with some Power Rankings history, or should
-  I say The Kozaks. Kozak is a DCGFFL legacy and powerhouse -- if only his knees hadn’t
-  quit on him. The league has an incredibly exciting archive of Power Rankings/Kozaks
-  - if you haven’t looked back at previous weeks and seasons, I suggest you do so
-  now (or maybe after you finish reading this week’s Kozaks...).   We end Week 4 with
-  only two teams remaining undefeated. Can Carolina and White keep it up? Who will
-  be the first to fall?    We also have one team who has yet to win a single game:
-  Atomic. Can their star supplemental picks help turn this season around? There’s
-  only one place to find all the answers: DCGFFL Kozaks!'
+author: 'By Stephanie McDaniel. Let''s start with some Power Rankings history, or
+  should I say The Kozaks. Kozak is a DCGFFL legacy and powerhouse -- if only his
+  knees hadn’t quit on him.  We end Week 4 with only two teams remaining undefeated.
+  Can Carolina and White keep it up? Who will be the first to fall?    We also have
+  one team who has yet to win a single game: Atomic. Can their star supplemental picks
+  help turn this season around? There’s only one place to find all the answers: DCGFFL
+  Kozaks!'
 season: 21
 week: 4
 rankings:
