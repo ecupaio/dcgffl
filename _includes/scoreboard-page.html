@@ -97,8 +97,9 @@
       </div>
     </div>
     <div class="games-archive">
-      {% assign divisions = site.teams | where: "season", league.season | group_by: 'division' %}
-      {% assign season-games = site.games | where: "season", league.season %}
+      
+      {% assign divisions = teams | where: "season", league.season | group_by: 'division' %}
+      {% assign season-games = games | where: "season", league.season %}
       <div class="rankings {% if divisions.size == 0 %}hidden{% endif %}">
         <h3>Season {{ league.season }} Records</h3>
         
@@ -154,7 +155,7 @@
           
         {% endfor %}
       </div>
-      {% assign seasons = site.games | group_by: "season" | reverse %}
+      {% assign seasons = games | group_by: "season" | reverse %}
 
       <div class="seasons">
         <h3>All Scores</h3>
