@@ -42,7 +42,7 @@ playoffs:
 
 ---
 {% include hero.html %}
-{% include scoreboard-feed.html teams=site.teams games=site.games %}
+{% include scoreboard-feed.html teams=site.teams games=site.games scoreboard='/score-board/' %}
 {% include playoffs.html %}
 {% include schedule-feed.html games=site.games teams=site.teams schedule-link='/schedule/' %}
 {% include teams.html teams=site.teams %}
