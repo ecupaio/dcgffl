@@ -3,7 +3,7 @@ location: _locations/carter-baron.md
 title: S21 Week 5 - Navy vs Lime
 teams-score:
 - team: _teams/s21-navy.md
-  score: 34
+  score: 33
 - team: _teams/s21-lime-green.md
   score: 32
 field: "3"
