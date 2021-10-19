@@ -53,9 +53,12 @@ rankings:
     A messy W is better than no W, right? (See: Tempe, AZ 2021)
 
     ![](https://c.tenor.com/YGiA1R5tYQYAAAAC/win-djkhaled.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-black.md
+  record: 2-3
+  text: |-
+    You know what’s really fun about this team? All the dogs on the sidelines.
+
+    ![](https://media3.giphy.com/media/1gdie6tuheZwGlnfwj/giphy.gif)
 - team: []
   record: ''
   text: ''
