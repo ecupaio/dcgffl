@@ -59,9 +59,12 @@ rankings:
     You know what’s really fun about this team? All the dogs on the sidelines.
 
     ![](https://media3.giphy.com/media/1gdie6tuheZwGlnfwj/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-iron-gray.md
+  record: 2-3
+  text: |-
+    Joe H on the sidelines when his team won with superstar rookie, Amanda, back.
+
+    ![](https://media1.giphy.com/media/LRTik0n16Gi0i2Pa82/giphy.gif)
 - team: []
   record: ''
   text: ''
