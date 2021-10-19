@@ -43,8 +43,10 @@ rankings:
     ![](https://c.tenor.com/XA0bnRE22RkAAAAM/the-climb-miley-cyrus.gif)
 - team: _teams/s21-forest-green.md
   record: 3-2
-  text: Tough loss for Forest Green where the team just couldn’t find its groove.
-    Live look at JC at Dirty Goose after this game.
+  text: |-
+    Tough loss for Forest Green where the team just couldn’t find its groove. Live look at JC at Dirty Goose after this game.
+
+    ![](/img/img_3425.JPG)
 - team: []
   record: ''
   text: ''
