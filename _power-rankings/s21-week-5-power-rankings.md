@@ -77,9 +77,12 @@ rankings:
     Trainwreck has exactly 7 plays and, well, each and every one of them worked on this Kelly Green defense.
 
     ![](https://64.media.tumblr.com/9cfadc7684682a6e4a04ba48ea7f6a3e/tumblr_inline_oxzjxeDSdS1qksi3x_500.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-kelly-green.md
+  record: 1-4
+  text: |-
+    Father’s Day came twice this year in this battle between League veterans Trainwreck and Tony S. A few dropped balls coupled with a particularly porous defense has Kelly Green in search of a new dad.
+
+    ![](https://c.tenor.com/JS2r5vf7ZKYAAAAC/alyssa-edwards-oh-my-gosh.gif)
 - team: []
   record: ''
   text: ''
