@@ -95,9 +95,12 @@ rankings:
     All of us on the sidelines watching literally any of the 5 interceptions thrown this game.
 
     ![](https://c.tenor.com/kQLeiYLtltUAAAAC/ouch-alaska.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-atomic-blue.md
+  record: 0-5
+  text: |-
+    As Adele said: “Go easy on me.”
+
+    ![](https://c.tenor.com/nzN3k-ur5_0AAAAd/adele-go-easy.gif)
 published: false
 
 ---
