@@ -35,9 +35,12 @@ rankings:
     After back-to-back losses, the Care Bears seem to be back in-sync and taking down teams with their relentless positivity and some clever playmaking. If only they could tighten up that defense.
 
     ![](https://c.tenor.com/dV_2BHFEWtkAAAAC/carebear-carebears.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-neon-orange.md
+  record: 3-2
+  text: |-
+    Helmed by Derrick J and Pat S, this team has seen quite the climb. Pat played safe and smart, and with the help of a lackluster defense from Forest, Orange was able to clinch a win. Will they be able to maintain consistency from here on out to climb even higher?
+
+    ![](https://c.tenor.com/XA0bnRE22RkAAAAM/the-climb-miley-cyrus.gif)
 - team: []
   record: ''
   text: ''
