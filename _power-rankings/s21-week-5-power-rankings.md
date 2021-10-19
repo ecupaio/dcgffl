@@ -23,9 +23,12 @@ rankings:
     While one of their players might have lost a tooth during this game, Levert and Keith made sure to fill the gaps here to a narrow win over Lime. Levert could be heard on Sunday at Dirty Goose talking about how the A Division is “so much harder.” Maybe so, but we’re looking forward to seeing who stands out in a couple of weeks.
 
     ![](https://thumbs.gfycat.com/AmusingPhonyEkaltadeta-size_restricted.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-white.md
+  record: 4-1
+  text: |-
+    I’m sure the White team’s GroupMe has heard quite enough from this team’s captain, but maybe they should not have had a mixer the night before a big game?
+
+    ![](https://media.tenor.co/images/000bbe31b53dc763ed274dde1bf0c8f4/tenor.gif)
 - team: []
   record: ''
   text: ''
