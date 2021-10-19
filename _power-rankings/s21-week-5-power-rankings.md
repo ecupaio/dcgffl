@@ -83,9 +83,12 @@ rankings:
     Father’s Day came twice this year in this battle between League veterans Trainwreck and Tony S. A few dropped balls coupled with a particularly porous defense has Kelly Green in search of a new dad.
 
     ![](https://c.tenor.com/JS2r5vf7ZKYAAAAC/alyssa-edwards-oh-my-gosh.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-gold.md
+  record: 1-4
+  text: |-
+    Let’s look on the bright side: it was a close game for Gold!
+
+    ![](https://c.tenor.com/hT40dUCSq5UAAAAC/growth-you-know-what-that-is.gif)
 - team: []
   record: ''
   text: ''
