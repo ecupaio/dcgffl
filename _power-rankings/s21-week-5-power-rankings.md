@@ -29,9 +29,12 @@ rankings:
     I’m sure the White team’s GroupMe has heard quite enough from this team’s captain, but maybe they should not have had a mixer the night before a big game?
 
     ![](https://media.tenor.co/images/000bbe31b53dc763ed274dde1bf0c8f4/tenor.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-cardinal-red.md
+  record: 3-2
+  text: |-
+    After back-to-back losses, the Care Bears seem to be back in-sync and taking down teams with their relentless positivity and some clever playmaking. If only they could tighten up that defense.
+
+    ![](https://c.tenor.com/dV_2BHFEWtkAAAAC/carebear-carebears.gif)
 - team: []
   record: ''
   text: ''
