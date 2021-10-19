@@ -46,10 +46,13 @@ rankings:
   text: |-
     Tough loss for Forest Green where the team just couldn’t find its groove. Live look at JC at Dirty Goose after this game.
 
-    ![](/img/img_3425.JPG)
-- team: []
-  record: ''
-  text: ''
+    ![](/img/16178779.jpeg)
+- team: _teams/s21-red.md
+  record: 3-2
+  text: |-
+    A messy W is better than no W, right? (See: Tempe, AZ 2021)
+
+    ![](https://c.tenor.com/YGiA1R5tYQYAAAAC/win-djkhaled.gif)
 - team: []
   record: ''
   text: ''
