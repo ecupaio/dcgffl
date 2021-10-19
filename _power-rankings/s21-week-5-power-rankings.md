@@ -65,9 +65,12 @@ rankings:
     Joe H on the sidelines when his team won with superstar rookie, Amanda, back.
 
     ![](https://media1.giphy.com/media/LRTik0n16Gi0i2Pa82/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-lime-green.md
+  record: 2-3
+  text: |-
+    It all came down to one call on whether or not Twon was in bounds on a 2pt conversion. I think we’ve all seen this movie before.
+
+    ![](https://media.giphy.com/media/13XHzq8LoDPnNK/giphy.gif)
 - team: []
   record: ''
   text: ''
