@@ -89,9 +89,12 @@ rankings:
     Let’s look on the bright side: it was a close game for Gold!
 
     ![](https://c.tenor.com/hT40dUCSq5UAAAAC/growth-you-know-what-that-is.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-silver.md
+  record: 1-4
+  text: |-
+    All of us on the sidelines watching literally any of the 5 interceptions thrown this game.
+
+    ![](https://c.tenor.com/kQLeiYLtltUAAAAC/ouch-alaska.gif)
 - team: []
   record: ''
   text: ''
