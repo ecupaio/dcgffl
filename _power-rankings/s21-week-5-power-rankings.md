@@ -17,9 +17,12 @@ rankings:
     Purple hit the field with something to prove and this was THEE match-up. Purple death-dropped and split all over that field to put a stop to White’s winning record. And, yes, they did score from there.
 
     ![](https://c.tenor.com/AguGYjP8_J4AAAAM/laganja.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-navy.md
+  record: 4-1
+  text: |-
+    While one of their players might have lost a tooth during this game, Levert and Keith made sure to fill the gaps here to a narrow win over Lime. Levert could be heard on Sunday at Dirty Goose talking about how the A Division is “so much harder.” Maybe so, but we’re looking forward to seeing who stands out in a couple of weeks.
+
+    ![](https://thumbs.gfycat.com/AmusingPhonyEkaltadeta-size_restricted.gif)
 - team: []
   record: ''
   text: ''
