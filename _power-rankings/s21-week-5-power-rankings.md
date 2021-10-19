@@ -71,9 +71,12 @@ rankings:
     It all came down to one call on whether or not Twon was in bounds on a 2pt conversion. I think we’ve all seen this movie before.
 
     ![](https://media.giphy.com/media/13XHzq8LoDPnNK/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-royal.md
+  record: 2-3
+  text: |-
+    Trainwreck has exactly 7 plays and, well, each and every one of them worked on this Kelly Green defense.
+
+    ![](https://64.media.tumblr.com/9cfadc7684682a6e4a04ba48ea7f6a3e/tumblr_inline_oxzjxeDSdS1qksi3x_500.gif)
 - team: []
   record: ''
   text: ''
