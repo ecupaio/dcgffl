@@ -3,11 +3,11 @@ location: _locations/carter-baron.md
 title: S21 Week 6 - Navy vs Iron
 teams-score:
 - team: _teams/s21-navy.md
-  score: 
+  score: 28
 - team: _teams/s21-iron-gray.md
-  score: 
+  score: 31
 field: "1"
-date: 2021-10-24 12:00:00 -0400
+date: 2021-10-24T12:00:00.000-04:00
 season: 21
 week: 6
 mvp: ''
