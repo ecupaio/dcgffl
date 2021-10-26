@@ -19,7 +19,7 @@
       <h2 class="week-title">Season {{ league.season}} Week {{last-week}}</h2>
       <div class="games-list">
         {% if current-games.size == 0 %}
-        <div class="no-scores">
+        <div class="no-scores hidden">
           {{ league.scoreboard.no-scores }}
         </div>
         {% endif %}
@@ -30,7 +30,7 @@
           <div class="teams">
             <div class="matchup">
               <div class="team-score">
-                {% assign team1 = site.teams | where: "path", game.teams-score[0].team | first %}
+                {% assign team1 = teams | where: "path", game.teams-score[0].team | first %}
                 <div class="team">
                   <a href="{{ team1.url }}">
                     <h3 class="team-name">
@@ -63,7 +63,7 @@
                 </div>
               </div>
               <div class="team-score">
-                {% assign team2 = site.teams | where: "path", game.teams-score[1].team | first %}
+                {% assign team2 = teams | where: "path", game.teams-score[1].team | first %}
                 <div class="team">
                   <a href="{{ team2.url }}">
                     <h3 class="team-name">
