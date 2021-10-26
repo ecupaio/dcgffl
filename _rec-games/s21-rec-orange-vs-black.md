@@ -1,6 +1,6 @@
 ---
 location: _locations/trinidad-recreation-center.md
-title: S21 Rec - Orange vs Black
+title: S21 Rec Week 3 - Orange vs Black
 teams-score:
 - team: _rec-teams/s-21-rec-orange.md
   score: 18
