@@ -1,6 +1,6 @@
 ---
 location: _locations/trinidad-recreation-center.md
-title: S21 Rec - Orange vs Olive
+title: S21 Rec Week 1 - Orange vs Olive
 teams-score:
 - team: _rec-teams/s-21-rec-orange.md
   score: 6

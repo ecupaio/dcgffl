@@ -1,6 +1,6 @@
 ---
 location: _locations/trinidad-recreation-center.md
-title: S21 Rec - Olive Vs Black
+title: S21 Rec Week 2 - Olive Vs Black
 teams-score:
 - team: _rec-teams/s-21-rec-olive.md
   score: 19
