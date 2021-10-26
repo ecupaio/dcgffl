@@ -3,11 +3,11 @@ location: _locations/carter-baron.md
 title: S21 Week 6 - Cardinal vs Silver
 teams-score:
 - team: _teams/s21-cardinal-red.md
-  score: 
+  score: 51
 - team: _teams/s21-silver.md
-  score: 
+  score: 12
 field: "4"
-date: 2021-10-24 10:00:00 -0400
+date: 2021-10-24T10:00:00.000-04:00
 season: 21
 week: 6
 mvp: ''
