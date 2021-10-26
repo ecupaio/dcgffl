@@ -1,6 +1,6 @@
 ---
 location: _locations/trinidad-recreation-center.md
-title: S21 Rec - Black vs Burgundy
+title: S21 Rec Week 1 - Black vs Burgundy
 teams-score:
 - team: _rec-teams/s21-rec-black.md
   score: 12
