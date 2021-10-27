@@ -23,9 +23,12 @@ rankings:
     They had a shoestring team this week, but, honestly, 7(in) is all you need.
 
     ![](https://c.tenor.com/fw48ShJWgtcAAAAC/true-its-true-tho.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-navy.md
+  record: 4-2
+  text: |-
+    Tough loss for the team this week, but Levert and Holleran are a force on the field. As we round out the season, they are certainly a team to track through playoffs.
+
+    ![](https://y.yarn.co/3cd6bc28-a633-4767-8260-36099654a55d_text.gif)
 - team: []
   record: ''
   text: ''
