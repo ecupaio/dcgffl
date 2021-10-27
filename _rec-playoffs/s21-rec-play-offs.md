@@ -7,6 +7,5 @@ rounds:
   games: []
 - title: Orange vs Burgundy
   games: []
-published: false
 
 ---
