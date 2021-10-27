@@ -70,3 +70,5 @@ fields:
       - type: number
         name: score
         label: Score
+pages:
+- _rec-playoffs/s21-rec-play-offs.md
