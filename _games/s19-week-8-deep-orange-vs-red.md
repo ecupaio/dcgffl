@@ -5,13 +5,14 @@ teams-score:
 - team: _teams/deep-orange.html
   score: 43
 - team: _teams/red-2.html
-  score: 0
+  score: 
 field: ''
-date: 2019-11-03 10:00:00 -0500
+date: 2019-11-03T10:00:00.000-05:00
 season: 19
 week: 8
 mvp: BJ, Javi
 game-ball: Scott, Craig
 sportsperson: Levert, Nikki
+published: false
 
 ---
