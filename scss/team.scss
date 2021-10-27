@@ -104,25 +104,35 @@
             flex-direction: column;
           }
           .game-date {
+            width: 20%;
             padding-right: 2rem;
             @include bp-medium {
               padding: 0;
+              width: 100%;
             }  
           }
           .game-location {
+            width: 40%;
             @include bp-medium {
               padding: 0.5rem 0;
+              width: 100%;
             }
           }
           .game-opp {
             padding: 0 2rem;
+            width: 30%;
             @include bp-medium {
               padding: 0 0 0.5rem;
+              width: 100%;
             }  
           }
           
           .game-result {
             display: flex;
+            width: 15%;
+            @include bp-medium {
+              width: 100%;
+            }
             .win-loss {
               padding-right: 0.5rem;
               font-weight: 700;
