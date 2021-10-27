@@ -71,9 +71,12 @@ rankings:
     With almost a full roster of players and a team that is slowly gelling, they overwhelmed Black to a comfortable W this week. TBD on how well this team will hold with a couple of tough matches still to come, but, in the meantime:
 
     ![](https://i.pinimg.com/originals/e3/cf/37/e3cf374ca1b9e0d6c21c7895fc183707.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-black.md
+  record: 2-4
+  text: |-
+    Amanda and Jorge’s wedding really took the wind out of the sails here. WIth Cline MIA and Danny H out for the season, Shane L stepped up as QB3 and was able to lead a pretty solid offense during the second half. How do we get Shane to QB next season?
+
+    ![](https://i.gifer.com/78Bh.gif)
 - team: []
   record: ''
   text: ''
