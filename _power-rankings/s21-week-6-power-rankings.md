@@ -65,9 +65,12 @@ rankings:
     Due to a forfeit, they had an easy W. Hope they had a relaxing Sunday!
 
     ![](https://media.giphy.com/media/12GJdpgSsmhdwQ/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-kelly-green.md
+  record: 2-4
+  text: |-
+    With almost a full roster of players and a team that is slowly gelling, they overwhelmed Black to a comfortable W this week. TBD on how well this team will hold with a couple of tough matches still to come, but, in the meantime:
+
+    ![](https://i.pinimg.com/originals/e3/cf/37/e3cf374ca1b9e0d6c21c7895fc183707.gif)
 - team: []
   record: ''
   text: ''
