@@ -59,9 +59,12 @@ rankings:
     Despite a forceful rush, Neon Orange couldn’t stop this trainwreck.
 
     ![](https://i.imgur.com/Sn0ppU4.jpg)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-lime-green.md
+  record: 3-3
+  text: |-
+    Due to a forfeit, they had an easy W. Hope they had a relaxing Sunday!
+
+    ![](https://media.giphy.com/media/12GJdpgSsmhdwQ/giphy.gif)
 - team: []
   record: ''
   text: ''
