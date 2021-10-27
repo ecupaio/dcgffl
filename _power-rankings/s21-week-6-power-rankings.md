@@ -89,9 +89,9 @@ rankings:
     Overheard in the DCGFFL, Ben M edition:
 
     ![](https://media0.giphy.com/media/moMC0W6yuGn13AhOh6/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-atomic-blue.md
+  record: 0-6
+  text: "![](https://c.tenor.com/xNpG9DQvzZsAAAAC/chicken-lovely.gif)"
 - team: []
   record: ''
   text: ''
