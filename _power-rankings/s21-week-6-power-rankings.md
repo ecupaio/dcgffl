@@ -41,9 +41,12 @@ rankings:
     Creeping up in the rankings is Brandon W, who, even without BB and Del, has been making strides. A solid W this week over Gold puts them within spitting distance of the Top 5.
 
     ![](https://media3.giphy.com/media/3ubqmFn2F7ytq/200.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-iron-gray.md
+  record: 3-3
+  text: |-
+    Andy Pratt’s new father status must have also come with the manual _What to Expect when You’re Quarterbacking_ because he looked great this week leading his team to a W over Navy. Joe H’s yelling at the refs notwithstanding, of course.
+
+    ![](http://farm6.staticflickr.com/5484/10013067715_57f78b2f97_o.gif)
 - team: []
   record: ''
   text: ''
