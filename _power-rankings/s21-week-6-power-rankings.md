@@ -47,9 +47,12 @@ rankings:
     Andy Pratt’s new father status must have also come with the manual _What to Expect when You’re Quarterbacking_ because he looked great this week leading his team to a W over Navy. Joe H’s yelling at the refs notwithstanding, of course.
 
     ![](http://farm6.staticflickr.com/5484/10013067715_57f78b2f97_o.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-royal.md
+  record: 3-3
+  text: |-
+    Never say you can’t build a team around Joe Owens. Joe’s 6 touchdowns over Neon Orange feels just a tad disrespectful. Here’s Joe and team around TD #4, probably:
+
+    ![](https://media2.giphy.com/media/3ov9jWLbdZISvS7RCM/giphy.gif)
 - team: []
   record: ''
   text: ''
