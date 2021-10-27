@@ -17,9 +17,12 @@ rankings:
     While Carolina Blue had a rough game *cough 2 INTs on Ben H*, this team has consistently proven themselves. 5 Ws is still a tremendous record, but the cracks in the offense are wide open now. With Cammas not making it for playoffs, will this team be able to adjust?
 
     ![](https://media2.giphy.com/media/UvEl9N88bmMslnxPeN/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-cardinal-red.md
+  record: 4-2
+  text: |-
+    They had a shoestring team this week, but, honestly, 7(in) is all you need.
+
+    ![](https://c.tenor.com/fw48ShJWgtcAAAAC/true-its-true-tho.gif)
 - team: []
   record: ''
   text: ''
