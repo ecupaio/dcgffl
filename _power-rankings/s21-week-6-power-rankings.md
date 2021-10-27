@@ -35,9 +35,12 @@ rankings:
     Goodness, what a Cinderella story of a game! With JC’s parents on the sidelines, the team rallied around and won by sheer positivity and heart. In a _Friday Night Lights_ moment, it all came down to 2 extra points with seconds left. Captain Austin P ran a crisp route with a perfect catch that sealed the deal for a W, leaving the sidelines stunned.
 
     ![](https://media4.giphy.com/media/FSl9d5EUpz6AU/200.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-red.md
+  record: 4-2
+  text: |-
+    Creeping up in the rankings is Brandon W, who, even without BB and Del, has been making strides. A solid W this week over Gold puts them within spitting distance of the Top 5.
+
+    ![](https://media3.giphy.com/media/3ubqmFn2F7ytq/200.gif)
 - team: []
   record: ''
   text: ''
