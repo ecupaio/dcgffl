@@ -3,7 +3,7 @@ button:
   visible: true
   text: JOIN ZOOM CALL HERE
   link: https://us02web.zoom.us/j/83598222095
-title: 'Home Buying 101: Workshop with Margie Hofberg!'
+title: 'Home Buying 101: Workshop with RMC!'
 date: 2021-11-04T18:30:00.000-04:00
 time: 6:30 to 7:30 PM
 location:
