@@ -93,7 +93,7 @@ rankings:
   record: 0-6
   text: "![](https://c.tenor.com/xNpG9DQvzZsAAAAC/chicken-lovely.gif)"
 - team: _teams/s21-white.md
-  record: 4-1 (UNRANKED)
+  record: 4-2 (UNRANKED)
   text: |-
     After a tough loss to Purple, this team--in a “I’m-taking-My-Toys-and-Going-Home” mood--forfeited this week.
 
