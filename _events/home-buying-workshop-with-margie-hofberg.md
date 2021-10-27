@@ -21,6 +21,6 @@ location:
   
 Have questions about the Real Estate Market in Washington D.C.? Thinking about buying a home but have never thought about where or when to apply for a mortgage? Whether you are curious about the mortgage process for that dream condo you hope to buy in 10 years, or you are ready to buy next week, this event is for you!   
   
-**DCGFFL has had the privilege of working with Residential Mortgage Center, Inc. and Margie Hofberg over the past few years.**   
+**DCGFFL has had the privilege of working with dedicated sponsor Residential Mortgage Center, Inc. and Margie Hofberg, proud parent of league player Mark, over the past few years.**   
   
 **Please join Residential Mortgage Center Inc and Margie Hofberg on Thursday, November 4th at 6:30 PM. You can join the call,** [**HERE**](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=770a1970f8&e=c3641de19c)**. Please feel free to share this event with friends.**
