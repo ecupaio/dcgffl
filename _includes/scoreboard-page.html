@@ -19,14 +19,19 @@
       <h2 class="week-title">Season {{ league.season}} Week {{last-week}}</h2>
       <div class="games-list">
         {% if current-games.size == 0 %}
-        <div class="no-scores hidden">
+        <!-- no scores -->
+        <div class="no-scores ">
           {{ league.scoreboard.no-scores }}
         </div>
         {% endif %}
         {% for game in all-games %}
         {% assign current-week = league.season | plus: last-week %}
         {% assign game-week = game.season | plus: game.week %}
-        <div class="game {% if current-week != game-week %}hidden{% endif %}" data-week="Season {{ game.season}} Week {{ game.week}}" >
+        
+        
+        
+        <div class="game {% if current-games.size == 0 %}hidden{% elsif league.season != game.season and league.week != last-week %}hidden{% endif %}" data-week="Season {{ game.season}} Week {{ game.week}}" >
+          <!-- {% if league.season != game.season and league.week != last-week %}hidden{% endif %} -->
           <div class="teams">
             <div class="matchup">
               <div class="team-score">

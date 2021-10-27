@@ -73,7 +73,7 @@ module.exports = function(grunt) {
     },
     shell: {
       jekyllServe: {
-        command: 'bundle exec jekyll serve --livereload --incremental'
+        command: 'bundle exec jekyll serve --livereload'
       }
     },
 		concurrent: {

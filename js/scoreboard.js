@@ -2,15 +2,21 @@ $(function() {
   $('.week-link').click(function(e) {
     e.preventDefault();
     var selectedWeek = $(this).data('week');
-    $('.no-scores').addClass('hidden');
+    console.log(selectedWeek);
+    
     $('.games-list .game').each(function(i,game) {
-      if ($(this).data('week') == selectedWeek) {
+      if ($(this).data('week') === selectedWeek) {
         $(this).removeClass('hidden');
       } else {
         $(this).addClass('hidden');
       }
     });
     $('.week-title').text(selectedWeek);
+    if ($('.games-list .game').not('.hidden').length > 0) {
+      $('.no-scores').addClass('hidden');
+    } else {
+      $('.no-scores').removeClass('hidden');
+    }
     $('html,body').animate({
       scrollTop: $('#scoreboard').offset().top
     });
