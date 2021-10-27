@@ -5,13 +5,14 @@ teams-score:
 - team: _teams/gold.html
   score: 33
 - team: _teams/kelly.html
-  score: 0
+  score: 
 field: ''
-date: 2019-11-03 10:00:00 -0500
+date: 2019-11-03T10:00:00.000-05:00
 season: 19
 week: 8
 mvp: Garrett, Brandon
 game-ball: Pat, JP
 sportsperson: Alex, Jens
+published: false
 
 ---
