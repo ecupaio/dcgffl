@@ -6,7 +6,7 @@ teams-score:
   score: 43
 - team: _teams/red-2.html
   score: 
-field: ''
+field: "1"
 date: 2019-11-03T10:00:00.000-05:00
 season: 19
 week: 8
