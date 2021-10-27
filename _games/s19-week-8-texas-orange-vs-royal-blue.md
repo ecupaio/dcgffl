@@ -7,11 +7,12 @@ teams-score:
 - team: _teams/royal.html
   score: 41
 field: ''
-date: 2019-11-03 10:00:00 -0500
+date: 2019-11-03T10:00:00.000-05:00
 season: 19
 week: 8
 mvp: Sam, Earl
 game-ball: Kori, Brandon
 sportsperson: Jake, Pete
+published: false
 
 ---
