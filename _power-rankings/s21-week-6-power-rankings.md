@@ -53,9 +53,12 @@ rankings:
     Never say you can’t build a team around Joe Owens. Joe’s 6 touchdowns over Neon Orange feels just a tad disrespectful. Here’s Joe and team around TD #4, probably:
 
     ![](https://media2.giphy.com/media/3ov9jWLbdZISvS7RCM/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-neon-orange.md
+  record: 3-3
+  text: |-
+    Despite a forceful rush, Neon Orange couldn’t stop this trainwreck.
+
+    ![](https://i.imgur.com/Sn0ppU4.jpg)
 - team: []
   record: ''
   text: ''
