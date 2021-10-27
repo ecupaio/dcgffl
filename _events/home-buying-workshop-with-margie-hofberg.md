@@ -1,13 +1,13 @@
 ---
 button:
   visible: true
-  text: Email for Zoom Link!
-  link: margie@rmcenter.com
+  text: JOIN ZOOM CALL HERE
+  link: https://us02web.zoom.us/j/83598222095
 title: 'Home Buying 101: Workshop with Margie Hofberg!'
 date: 2021-11-04T18:30:00.000-04:00
 time: 6:30 to 7:30 PM
 location:
-  name: Virtual (More information coming soon!)
+  name: Virtual
   address: ''
   city: ''
   state: ''
