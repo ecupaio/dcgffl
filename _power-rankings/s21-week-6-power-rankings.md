@@ -11,9 +11,12 @@ rankings:
     Coming off of a pillow-biting win, Purple handedly took care of business this week, moving them into this week’s #1 spot. Here’s the team’s response to congrats at Dirty Goose:
 
     ![](https://66.media.tumblr.com/0b096aeb2b46f7053ea8d6194a41c0e7/tumblr_o43lj1k1jZ1ql5yr7o1_500.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-carolina-blue.md
+  record: 5-1
+  text: |-
+    While Carolina Blue had a rough game *cough 2 INTs on Ben H*, this team has consistently proven themselves. 5 Ws is still a tremendous record, but the cracks in the offense are wide open now. With Cammas not making it for playoffs, will this team be able to adjust?
+
+    ![](https://media2.giphy.com/media/UvEl9N88bmMslnxPeN/giphy.gif)
 - team: []
   record: ''
   text: ''
