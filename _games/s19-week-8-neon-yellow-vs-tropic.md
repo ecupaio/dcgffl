@@ -7,11 +7,12 @@ teams-score:
 - team: _teams/s19-tropic-like-it-s-hot.md
   score: 24
 field: ''
-date: 2019-11-03 10:00:00 -0500
+date: 2019-11-03T10:00:00.000-05:00
 season: 19
 week: 8
 mvp: Marvin, Antonio
 game-ball: Zack, Haley
 sportsperson: Lindsey, Haley
+published: false
 
 ---
