@@ -29,9 +29,12 @@ rankings:
     Tough loss for the team this week, but Levert and Holleran are a force on the field. As we round out the season, they are certainly a team to track through playoffs.
 
     ![](https://y.yarn.co/3cd6bc28-a633-4767-8260-36099654a55d_text.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-forest-green.md
+  record: 4-2
+  text: |-
+    Goodness, what a Cinderella story of a game! With JC’s parents on the sidelines, the team rallied around and won by sheer positivity and heart. In a _Friday Night Lights_ moment, it all came down to 2 extra points with seconds left. Captain Austin P ran a crisp route with a perfect catch that sealed the deal for a W, leaving the sidelines stunned.
+
+    ![](https://media4.giphy.com/media/FSl9d5EUpz6AU/200.gif)
 - team: []
   record: ''
   text: ''
