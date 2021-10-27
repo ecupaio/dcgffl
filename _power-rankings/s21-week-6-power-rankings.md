@@ -83,9 +83,12 @@ rankings:
     Bryan J pretty much every Sunday:
 
     ![](https://media3.giphy.com/media/iJ2Y4QzehnaZN9jVaV/giphy.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-silver.md
+  record: 1-5
+  text: |-
+    Overheard in the DCGFFL, Ben M edition:
+
+    ![](https://media0.giphy.com/media/moMC0W6yuGn13AhOh6/giphy.gif)
 - team: []
   record: ''
   text: ''
