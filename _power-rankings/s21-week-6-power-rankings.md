@@ -1,0 +1,61 @@
+---
+date: 2021-10-27 07:46:54 -0400
+title: S21 Week 6 Power Rankings
+author: Aaron Sayama
+season: 21
+week: 6
+rankings:
+- team: _teams/s21-purple.md
+  record: 5-1
+  text: |-
+    Coming off of a pillow-biting win, Purple handedly took care of business this week, moving them into this week’s #1 spot. Here’s the team’s response to congrats at Dirty Goose:
+
+    ![](https://66.media.tumblr.com/0b096aeb2b46f7053ea8d6194a41c0e7/tumblr_o43lj1k1jZ1ql5yr7o1_500.gif)
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+- team: []
+  record: ''
+  text: ''
+published: false
+
+---
