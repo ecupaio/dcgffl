@@ -77,9 +77,12 @@ rankings:
     Amanda and Jorge’s wedding really took the wind out of the sails here. WIth Cline MIA and Danny H out for the season, Shane L stepped up as QB3 and was able to lead a pretty solid offense during the second half. How do we get Shane to QB next season?
 
     ![](https://i.gifer.com/78Bh.gif)
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-gold.md
+  record: 1-5
+  text: |-
+    Bryan J pretty much every Sunday:
+
+    ![](https://media3.giphy.com/media/iJ2Y4QzehnaZN9jVaV/giphy.gif)
 - team: []
   record: ''
   text: ''
