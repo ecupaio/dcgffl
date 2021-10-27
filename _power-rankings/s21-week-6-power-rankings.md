@@ -93,10 +93,14 @@ rankings:
   record: 0-6
   text: "![](https://c.tenor.com/xNpG9DQvzZsAAAAC/chicken-lovely.gif)"
 - team: _teams/s21-white.md
-  record: 4-1-1 (UNRANKED)
-  text: "After a tough loss to Purple, this team--in a “I’m-taking-My-Toys-and-Going-Home”
-    mood--forfeited. \n\n![](https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Gifs/hd_2dacd7cd-c608-4129-8d62-ad18021746f8_gizelle_bryant.gif)\n\nGotta
-    play to get ranked, girlies.\n\n![](https://c.tenor.com/P9-1x4KHozAAAAAC/antm-tyra-banks.gif)"
-published: false
+  record: 4-1 (UNRANKED)
+  text: |-
+    After a tough loss to Purple, this team--in a “I’m-taking-My-Toys-and-Going-Home” mood--forfeited this week.
+
+    ![](https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Gifs/hd_2dacd7cd-c608-4129-8d62-ad18021746f8_gizelle_bryant.gif)
+
+    Gotta play to get ranked, girlies.
+
+    ![](https://c.tenor.com/P9-1x4KHozAAAAAC/antm-tyra-banks.gif)
 
 ---
