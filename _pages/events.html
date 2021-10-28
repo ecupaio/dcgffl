@@ -14,7 +14,7 @@ scripts:
       <div class="months-list">
         
         {% assign upcoming-events = site.events | where_exp: 'event', 'event.date > site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" %}
-        {% assign past-events = site.events | where_exp: 'event', 'event.date < site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" %}
+        {% assign past-events = site.events | where_exp: 'event', 'event.date < site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" | reverse %}
         <h2>Upcoming Events</h2>
         {% for month in upcoming-events %}
         <div class="event-month" data-month="{{ month.name }}">
@@ -77,14 +77,15 @@ scripts:
             </div>
             {% endfor %}
           </div>
-          {% assign past-events-ungrouped = site.events | where_exp: 'event', 'event.date < site.time' %}
+          
+        </div>
+        {% endfor %}
+        <!-- {% assign past-events-ungrouped = site.events | where_exp: 'event', 'event.date < site.time' %}
           {% if past-events-ungrouped.size > 10 %}
           <div class="btn-row">
             <a href="#" class="btn load-events">Load more</a>
           </div>
-          {% endif %}
-        </div>
-        {% endfor %}
+          {% endif %} -->
       </div>
       <div class="menu-col">
         <div class="months-menu">
