@@ -15,7 +15,8 @@ scripts:
         
         {% assign upcoming-events = site.events | where_exp: 'event', 'event.date > site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" %}
         {% assign past-events = site.events | where_exp: 'event', 'event.date < site.time' | group_by_exp: "post", "post.date | date: '%B %Y'" | reverse %}
-        <h2>Upcoming Events</h2>
+        <div class="upcoming-events">
+          <h2>Upcoming Events</h2>
         {% for month in upcoming-events %}
         <div class="event-month" data-month="{{ month.name }}">
           <h3 class="month-title">{{ month.name }}</h3>
@@ -47,9 +48,11 @@ scripts:
           </div>
         </div>
         {% endfor %}
+        </div>
+        <div class="past-events">
         <h2 data-month="Past Events">Past Events</h2>
         {% for month in past-events %}
-        <div class="event-month" data-month="{{ month.name }}">
+        <div class="event-month {% if forloop.index > 2 %}hidden{% endif %}" data-month="{{ month.name }}">
           <h3 class="month-title">{{ month.name }}</h3>
           <div class="events-list">
             {% for event in month.items %}
@@ -59,7 +62,7 @@ scripts:
               <div class="event-date-time">
                 <div class="event-date">{{ event.date | date: '%B %e, %Y'}}</div>
                 {% if event.time.size > 0 %}
-                <div class="event-time">{{ event.time }}</div>
+                <div class="event-time"> | {{ event.time }}</div>
                 {% endif %}
               </div> 
               {% endif %}
@@ -80,12 +83,13 @@ scripts:
           
         </div>
         {% endfor %}
-        <!-- {% assign past-events-ungrouped = site.events | where_exp: 'event', 'event.date < site.time' %}
-          {% if past-events-ungrouped.size > 10 %}
-          <div class="btn-row">
-            <a href="#" class="btn load-events">Load more</a>
+        {% if past-events.size > 2 %}
+          <div class="btn-row ">
+            <a href="#" class="btn load-past-events">Load more</a>
           </div>
-          {% endif %} -->
+        {% endif %}
+        </div>
+        
       </div>
       <div class="menu-col">
         <div class="months-menu">
