@@ -6,15 +6,16 @@ $(function() {
       scrollTop: $('[data-month="'+month+'"]').offset().top - 117
     });
   });
-  $('.load-events').click(function(e) {
+  $('.load-past-events').click(function(e) {
     e.preventDefault();
-    var firstHidden = $('.event.hidden:first').index();
-      $('.event.hidden').slice(0,9).removeClass('hidden');
+    var firstHidden = $('.past-events .event-month.hidden').eq(0).index() - 1;
+    console.log(firstHidden);
+      $('.past-events .event-month.hidden').slice(0,3).removeClass('hidden');
       $('html,body').animate({
-        scrollTop: $('.event:eq('+firstHidden+')').offset().top - 117
+        scrollTop: $('.past-events .event-month:eq('+firstHidden+')').offset().top - 117
       }, 500); 
-      if ($('.event.hidden').length === 0) {
-        $('.load-events').addClass("hidden");  
+      if ($('.past-events .event-month.hidden').length === 0) {
+        $('.load-past-events').addClass("hidden");  
       } 
   });
 });
