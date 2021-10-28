@@ -27,11 +27,18 @@
         {% for game in all-games %}
         {% assign current-week = league.season | plus: last-week %}
         {% assign game-week = game.season | plus: game.week %}
+        {%-capture display -%}
+        {% if current-games.size == 0 %}
+        hidden
+        {% elsif game.week != last-week %}
+          hidden
+          {% if game.season != league.season %}
+          hidden 
+          {% endif %}
+        {% endif %}
+        {%- endcapture -%}
         
-        
-        
-        <div class="game {% if current-games.size == 0 %}hidden{% elsif league.season != game.season and league.week != last-week %}hidden{% endif %}" data-week="Season {{ game.season}} Week {{ game.week}}" >
-          <!-- {% if league.season != game.season and league.week != last-week %}hidden{% endif %} -->
+        <div class="game {{ display }}" data-week="Season {{ game.season}} Week {{ game.week}}" >
           <div class="teams">
             <div class="matchup">
               <div class="team-score">
