@@ -3,7 +3,7 @@ champion: _teams/tbd.md
 title: S21 Rec - Play Offs
 season: 21
 rounds:
-- title: Round 1
+- title: Semifinals
   games:
   - title: S21 Rec Playoff - Olive Vs Black
     division: ''
@@ -25,7 +25,17 @@ rounds:
       score: 
     - team: _rec-teams/s21-rec-burgundy.md
       score: 
-- title: Orange vs Burgundy
-  games: []
+- title: Championship
+  games:
+  - title: S21 Rec Championship
+    division: ''
+    date: 2021-11-05 20:00:00 -0400
+    location: Trinidad Recreation Center
+    field: "1"
+    teams-score:
+    - team: []
+      score: 
+    - team: []
+      score: 
 
 ---
