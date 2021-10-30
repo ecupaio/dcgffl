@@ -1,13 +1,13 @@
 ---
 location: _locations/carter-baron.md
-title: S21 Week 8 - Iron vs TBD
+title: S21 Week 8 - Iron vs Silver
 teams-score:
 - team: _teams/s21-iron-gray.md
   score: 
-- team: _teams/tbd.md
+- team: _teams/s21-silver.md
   score: 
-field: ''
-date: 2021-11-07 00:00:00 -0400
+field: "3"
+date: 2021-11-07 12:00:00 -0500
 season: 21
 week: 8
 mvp: ''
