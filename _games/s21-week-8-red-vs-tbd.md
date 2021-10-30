@@ -6,8 +6,8 @@ teams-score:
   score: 
 - team: _teams/s21-forest-green.md
   score: 
-field: ''
-date: 2021-11-07T00:00:00.000-04:00
+field: "1"
+date: 2021-11-07 10:00:00 -0500
 season: 21
 week: 8
 mvp: ''
