@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S21 Week 8 - Gold vs TBD
+title: S21 Week 8 - Gold vs Royal
 teams-score:
 - team: _teams/s21-gold.md
   score: 
