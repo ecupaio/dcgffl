@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s21-silver.md
   score: 
 field: "3"
-date: 2021-11-07 12:00:00 -0500
+date: 2021-11-07 10:00:00 -0500
 season: 21
 week: 8
 mvp: ''
