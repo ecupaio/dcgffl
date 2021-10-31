@@ -10,8 +10,8 @@ field: "2"
 date: 2021-10-31T12:00:00.000-04:00
 season: 21
 week: 7
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: JC A., Cameron M.
+game-ball: Mel M., Sasha B.
+sportsperson: Austin P., Kori S.
 
 ---
