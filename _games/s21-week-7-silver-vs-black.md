@@ -10,8 +10,8 @@ field: "2"
 date: 2021-10-31T10:00:00.000-04:00
 season: 21
 week: 7
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Tom H., Charles D.
+game-ball: Nikki K., Kent T.
+sportsperson: Chris R., Shaq B.
 
 ---
