@@ -10,8 +10,8 @@ field: "1"
 date: 2021-10-31T10:00:00.000-04:00
 season: 21
 week: 7
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Josh E., Paul W.
+game-ball: Bryan J., Brandon M.
+sportsperson: Jens P., Levert J.
 
 ---
