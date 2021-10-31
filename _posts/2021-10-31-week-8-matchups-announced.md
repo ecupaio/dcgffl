@@ -6,6 +6,6 @@ attachments: []
 ---
 ### Week 8 Games - Cross-Division Play
 
-Who will your team face off against in Week 8?  With the division games behind us, the Week 8 games will face teams in opposite divisions against each other!  See below!
+Who will your team face off against in Week 8?  With the divisional games behind us, the Week 8 games will face teams in opposite divisions against each other!  See below!
 
 ![](/img/week-8-games.PNG)
