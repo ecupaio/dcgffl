@@ -10,8 +10,8 @@ field: "4"
 date: 2021-10-31T12:00:00.000-04:00
 season: 21
 week: 7
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Scott G., John C.
+game-ball: Steve P., Ocho K.
+sportsperson: Drew C., JJ J.
 
 ---
