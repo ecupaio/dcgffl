@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s21-black.md
   score: 
 field: "3"
-date: 2021-11-07T00:00:00.000-04:00
+date: 2021-11-07 12:00:00 -0500
 season: 21
 week: 8
 mvp: ''
