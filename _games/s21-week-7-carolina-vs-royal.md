@@ -10,8 +10,8 @@ field: "3"
 date: 2021-10-31T12:00:00.000-04:00
 season: 21
 week: 7
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Ben H., Alex K.
+game-ball: Kenny J., Scott K.
+sportsperson: Andrew A., Scott K.
 
 ---
