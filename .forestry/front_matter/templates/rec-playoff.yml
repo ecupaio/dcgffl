@@ -45,8 +45,17 @@ fields:
     - type: datetime
       name: date
       label: Date
-    - type: text
-      name: location
+    - name: location
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+          file: 
+          path: 
       label: Location
     - type: text
       name: field
