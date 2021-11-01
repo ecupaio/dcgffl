@@ -18,7 +18,7 @@ rounds:
   - title: S21 Rec Playoff - Orange vs Burgundy
     division: ''
     date: 2021-11-05T18:30:00.000-04:00
-    location: Trinidad Recreation Center
+    location: _locations/trinidad-recreation-center.md
     field: "2"
     teams-score:
     - team: _rec-teams/s-21-rec-orange.md
