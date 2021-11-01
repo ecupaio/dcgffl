@@ -11,5 +11,4 @@ rounds:
     date: 2021-10-29 19:45:00 -0400
     location: _locations/trinidad-recreation-center.md
 published: false
-
 ---

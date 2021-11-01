@@ -15,9 +15,11 @@ css: events
           <div class="info-block date">
             <i class="fa fa-calendar-alt"></i> <span class="info">{{ page.date | date: "%B %e, %Y"  }}</span>
           </div>
+          {% if page.time.size > 0 %}
           <div class="info-block time">
             <i class="fa fa-clock"></i> <span class="info">{{ page.time }}</span>
           </div>
+          {% endif %}
           {% unless page.location.address == '' %}
           <div class="info-block location">
             <a href="https://www.google.com/maps?q={{ page.location.address | url_encode }}+{{page.location.city | url_encode }}+{{ page.location.state | url_encode }}+{{ page.location.zip | url_encode }}" class="location-link"><i class="fa fa-map-marker-alt"></i> <span class="info">{{ page.location.name }}</span></a>

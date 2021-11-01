@@ -1,6 +1,6 @@
 ---
 title: S21 Rec - Black
-name: Black
+name: ''
 color: Black
 season: 21
 photo: ''

@@ -1,14 +1,14 @@
 <section id="results-section">
   <div class="inner-section">
     <h2 class="results-title">{{ page.results.title }}</h2>
-    {% assign past-playoffs = include.playoffs | where_exp: 'playoff', 'playoff.champion != ""' %}
+    {% assign past-playoffs = include.playoffs | where_exp: 'playoff', 'playoff.champion.size > 0' %}
     <div class="playoffs-list">
       {% for playoff in past-playoffs %}
       <div class="playoff-block">
         <div class="playoff">
           <h4 class="playoff-season">Season {{ playoff.season }}</h4>
           <div class="playoff-champ">
-            {% assign champion = site.teams | where: "path", playoff.champion | first %}
+            {% assign champion = include.teams | where: "path", playoff.champion | first %}
             <div class="champ-label">Champion</div> <h5 class="champ-team">{{ champion.name }} ({{ champion.color }})</h5>
           </div>
           <div class="playoff-link">

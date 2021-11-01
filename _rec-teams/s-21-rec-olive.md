@@ -1,6 +1,6 @@
 ---
 title: S21 Rec - Olive
-name: Olive
+name: ''
 color: Olive
 season: 21
 photo: ''

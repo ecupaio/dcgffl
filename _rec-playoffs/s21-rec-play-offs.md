@@ -1,5 +1,5 @@
 ---
-champion: _teams/tbd.md
+champion: 
 title: S21 Rec - Play Offs
 season: 21
 rounds:
@@ -33,9 +33,9 @@ rounds:
     location: Trinidad Recreation Center
     field: "1"
     teams-score:
-    - team: []
+    - team: _rec-teams/tbd.md
       score: 
-    - team: []
+    - team: _rec-teams/tbd.md
       score: 
 
 ---

@@ -24,9 +24,13 @@
       .divisions-grid {
         display: flex;
         max-width: $size-large;
+        @include bp-medium {
+          display: block;   
+        }
         .division {
           flex: 1 0 50%;
           padding: 0.5rem 1rem;
+          
           .games-list {
             .game {
               display: flex;
@@ -54,7 +58,7 @@
               }
               .scores-col {
                 padding: 0 0.5rem;
-                flex: 1 0 auto;
+                flex: 1;
                 .team-score {
                   display: flex;
                   justify-content: space-between;
@@ -70,10 +74,7 @@
                     }
                   }
                   .team {
-                    a {
-                      font-weight: 400;
-                      color: $black;
-                    }
+                    
                   }
                   .score {
                     padding-left: 1rem;

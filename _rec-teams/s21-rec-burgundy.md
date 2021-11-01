@@ -1,6 +1,6 @@
 ---
 title: S21 Rec - Burgundy
-name: Burgundy
+name: ''
 color: Burgundy
 season: 21
 photo: ''

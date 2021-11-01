@@ -8,9 +8,14 @@ content-id: playoff-page
     <div class="title-block">
       <h1 class="playoff-title">Season {{ page.season }} Playoffs</h1>
     </div>
-    {% if page.champion != '' %}
+    {% if page.collection == 'rec-playoffs' %}
+    {% assign teams = site.rec-teams %}
+    {% elsif page.collection == 'playoffs' %}
+    {% assign teams = site.teams %}
+    {% endif %}
+    {% if page.champion.size > 0 %}
     <div class="champ-block">
-      {% assign champ = site.teams | where: "path", page.champion | first %}
+      {% assign champ = teams | where: "path", page.champion | first %}
       <i class="fa fa-trophy champ-icon"></i>
       <h2 class="champ-name"><a href="{{ champ.url }}">{{ champ.name }} ({{ champ.color }})</a></h2>
       <h5 class="champ-season">Season {{ page.season }} champions</h5>
@@ -47,6 +52,7 @@ content-id: playoff-page
             </div>
             <div class="scores-col">
               {% for item in game.teams-score %}
+              
               {% if item.team == game.teams-score[0].team %}
                 {% assign team1-score = item.score | plus: 0 %}
                 {% assign team2-score = game.teams-score[1].score | plus: 0 %}
@@ -67,9 +73,12 @@ content-id: playoff-page
               {% endif %}
               <div class="team-score {{ winner }}">
                 <div class="team">  
-                {% assign team = site.teams | where: "path", item.team | first %}
+                {% assign team = teams | where: "path", item.team | first %}
                 {% if team.name and team.name != '' %}
                 {% assign team-name = team.name %}
+                {%- capture team-name -%}
+                {{ team.name }}
+                {%- endcapture -%}
                 {% else %}
                 {% assign team-name = team.color %}
                 {% endif %}

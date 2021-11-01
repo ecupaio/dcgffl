@@ -1,6 +1,6 @@
 ---
 title: S21 Rec - Orange
-name: Orange
+name: ''
 color: Orange
 season: 21
 photo: ''
