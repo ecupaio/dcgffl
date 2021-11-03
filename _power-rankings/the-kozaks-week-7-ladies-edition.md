@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-silver.md
+  record: 1-6
+  text: |-
+    Silversatile’s league veterans, Jayme and Nikki, help hold this team together, while Annie rounds them out. In Capt. Jorge’s words, “The term rookie doesn't quite apply to our defensive minded, Raven loving, tequila swilling bad ass...Don't let the dimples fool you - she already has your flags.” If only this team had a few more games before playoffs, I think they’re really finding their stride.
+
+    ![](/img/jayme.jpg)![](/img/nikki.jpg)![](/img/annie.jpg)
 - team: _teams/s21-gold.md
   record: 1-6
   text: The Golden Gurls are really missing Tori, who had a season-ending injury.
