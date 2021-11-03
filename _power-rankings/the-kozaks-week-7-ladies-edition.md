@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-iron-gray.md
+  record: 3-4
+  text: |-
+    Amanda D. is the heart and soul of Iron Curtain. Even though she was a little hungover this past Sunday, she still brought a high level of energy to the team. She even got called for an illegal rush when she wasn’t rushing on that play. Hmm, who reffed that game?? Her speed and enthusiasm are huge for this team. Capt. Joe is right to want her in the running for Female Rookie of the Season!
+
+    ![](/img/amanda.jpg)
 - team: _teams/s21-black.md
   record: 3-4
   text: |-
