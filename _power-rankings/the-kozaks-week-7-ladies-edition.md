@@ -5,6 +5,11 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-gold.md
+  record: 1-6
+  text: The Golden Gurls are really missing Tori, who had a season-ending injury.
+    I guess the next best female shout out on this team is Mop Top’s wife who just
+    had a baby! Maybe we could get New-momma M out there to help this team.
 - team: _teams/s21-atomic-blue.md
   record: 0-7
   text: |-
