@@ -5,6 +5,24 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-cardinal-red.md
+  record: 4-3
+  text: |-
+    The Care Bears have had a couple of close losses recently, but when you’re writing the Kozaks, you put your team #1! The only team with FOUR women: yours truly, Sasha, Kori, and Stacey. We have really missed Stacey’s presence on the field since her injury, but she and Jewel can be seen on the sidelines as the Care Bears’ biggest fans! Shout out to Kori for Wig of the Day this past weekend!
+
+    ![](/img/kori.jpeg)
+- team: _teams/s21-carolina-blue.md
+  record: 6-1
+  text: |-
+    The only team with 6 wins this season. Can the Blew Ball Busters hold on through playoffs? I guess it all depends on if they have their fearless, athletic, speedster, Mariam! With high energy, kindness, and skill, Mariam is the key! Honestly, she would fit right in with the Care Bears :)
+
+    ![](/img/mariam.jpg)
+- team: _teams/s21-forest-green.md
+  record: 5-2
+  text: |-
+    Even though this is the ladies edition, I still have to shout out Jordan and admit when I’m wrong. I ate my words this past Sunday when Jordan showed me up - he had something to prove and he did it. Alright, back to the stars of Into the Thicc of It: Mel and Kat! Kat’s out with a calf injury, but Capt. Austin is hoping her reliable hands and veteran route-running will be back for playoffs! Mel is an impressive player and an awesome teammate. Mel is known for her toughness and willingness to stick her nose in the action - her positive attitude and grit are huge assets to this team!
+
+    ![](/img/mel.jpg)![](/img/kat2.jpg)
 - team: _teams/s21-purple.md
   record: 5-2
   text: |-
