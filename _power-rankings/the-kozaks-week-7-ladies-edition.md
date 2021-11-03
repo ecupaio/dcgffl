@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-black.md
+  record: 3-4
+  text: |-
+    Blackbeard & the Booty Pirates have had a tough season, but they’ve been rallying thanks to Caroline! And let’s not forget everyone’s favorite sideline morale booster, Sam C., who got their dog into a rainbow costume for the game!
+
+    ![](/img/ruud.jpeg)
 - team: _teams/s21-kelly-green.md
   record: 3-4
   text: |-
