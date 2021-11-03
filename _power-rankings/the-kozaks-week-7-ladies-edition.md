@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-red.md
+  record: 5-2
+  text: |-
+    Fire in the Hole eked out a win over Purple last week. Maybe if they had some ladies, it would’ve been a blowout! Here’s some pictures of the awesomeness they’re missing out on. Specifically, Kori tackling Ben H.
+
+    ![](/img/kori-tackle.jpg)![](/img/kori-tackle2.jpg)
 - team: _teams/s21-white.md
   record: 5-2
   text: |-
