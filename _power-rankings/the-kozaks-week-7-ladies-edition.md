@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-kelly-green.md
+  record: 3-4
+  text: |-
+    Shantal and Yvette make this football thing look effortless, but don’t be fooled by their cute faces. They’re fierce underneath! The Cadet Kellys are lucky to have these two.
+
+    ![](/img/yvette.jpg)
 - team: _teams/s21-neon-orange.md
   record: 3-4
   text: |-
