@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-neon-orange.md
+  record: 3-4
+  text: |-
+    Veteran Fatima and Rookie Holly are the glue for Celine Neon! With Holly’s sure hands, you’d think she’s been playing in the league since the beginning. Fatima brings some savage speed. These ladies are not to be trifled with.
+
+    ![](/img/holly.jpg)
 - team: _teams/s21-royal.md
   record: 3-4
   text: |-
