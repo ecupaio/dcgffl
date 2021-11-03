@@ -1,6 +1,6 @@
 ---
 date: 2021-11-03 15:02:44 -0400
-title: The Kozaks Week 7 Ladies+ Edition
+title: 'The Kozaks: Ladies+ Edition'
 author: Steph McDaniel
 season: 21
 week: 7
