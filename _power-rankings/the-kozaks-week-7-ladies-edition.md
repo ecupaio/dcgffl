@@ -5,6 +5,20 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-purple.md
+  record: 5-2
+  text: |-
+    Jam it In is having a solid season. Ashley S., Munroe, and Heide round out this scrappy team! Although I think I’ve seen Heide at more social events than actual games. Let’s be honest though, partying is a big part of what makes Purple, Jam it In! Ashley got her first DCGFFL TD in Week 6, and Munroe got a crucial goal line pick to help Purple beat White in Week 4!
+
+    Side note: we all need to pressure Scott to write his playoff predictions in The Kozaks after Week 8!
+
+    ![](/img/ashley-s.jpg)     ![](/img/munroe.jpg)
+- team: _teams/s21-navy.md
+  record: 5-2
+  text: |-
+    Shipfaced, c’mon man. No ladies on the team?! Well, here’s a look at Levert regretting that decision and making sure his equipment is still in check.
+
+    ![](/img/levert.jpg)
 - team: _teams/s21-red.md
   record: 5-2
   text: |-
