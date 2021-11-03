@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-royal.md
+  record: 3-4
+  text: |-
+    Blue-m for You is hanging on after a tough loss to Carolina. Nadja plays a key role on this team. Her offensive blocking and ability to read the field helps to set up some clutch plays!
+
+    ![](/img/nadja.jpg)
 - team: _teams/s21-silver.md
   record: 1-6
   text: |-
