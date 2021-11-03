@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-white.md
+  record: 5-2
+  text: |-
+    The Cream Team beat Iron this past week to put them back in the rankings after a forfeit the week before. Another team with no ladies, but as Vincent would say, Bryan S. is “just one of the girls.” Oh, and Jeff M. has one of the cutest little ladies on the sidelines: Lily! What a sweetheart!
+
+    ![Disclaimer: I didn't have a picture of Lily, so this has to suffice.](/img/bryan-s.jpg)
 - team: _teams/s21-lime-green.md
   record: 4-3
   text: |-
