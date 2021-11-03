@@ -5,6 +5,12 @@ author: Steph McDaniel
 season: 21
 week: 7
 rankings:
+- team: _teams/s21-lime-green.md
+  record: 4-3
+  text: |-
+    Can you believe Gay J didn’t draft any ladies?! Yeah, me too. We love Capt. Darryl though, so we’ll let it slide…here’s some badass ladies of the league anyway.
+
+    ![](/img/yvette2.jpg)![](/img/nikki2.jpg)
 - team: _teams/s21-iron-gray.md
   record: 3-4
   text: |-
