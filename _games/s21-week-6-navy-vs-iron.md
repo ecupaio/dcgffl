@@ -10,8 +10,8 @@ field: "1"
 date: 2021-10-24T12:00:00.000-04:00
 season: 21
 week: 6
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Keith H, Trey P
+game-ball: 'Alex, John K '
+sportsperson: Keith H, Sean K
 
 ---
