@@ -10,8 +10,8 @@ field: "1"
 date: 2021-10-24T10:00:00.000-04:00
 season: 21
 week: 6
-mvp: ''
-game-ball: ''
+mvp: Ocho, Josh E
+game-ball: Tim Adams, Joe Heron
 sportsperson: ''
 
 ---
