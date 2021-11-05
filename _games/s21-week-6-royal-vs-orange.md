@@ -10,8 +10,8 @@ field: "3"
 date: 2021-10-24T10:00:00.000-04:00
 season: 21
 week: 6
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Joe O, Brian S
+game-ball: Scott K, Aiden B
+sportsperson: Nadja R,  Brad A
 
 ---
