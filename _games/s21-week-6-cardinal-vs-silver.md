@@ -10,8 +10,8 @@ field: "4"
 date: 2021-10-24T10:00:00.000-04:00
 season: 21
 week: 6
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Brian H, Tommy H
+game-ball: Keaton F, Nick W
+sportsperson: Adam S, Brandon T
 
 ---
