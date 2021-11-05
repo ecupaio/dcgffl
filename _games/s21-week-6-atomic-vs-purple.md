@@ -10,8 +10,8 @@ field: "2"
 date: 2021-10-24T10:00:00.000-04:00
 season: 21
 week: 6
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Tony S, Tyler L
+game-ball: Alonzo, Ashley H
+sportsperson: Gordon, Steve P
 
 ---
