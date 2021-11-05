@@ -10,8 +10,8 @@ field: "4"
 date: 2021-10-24T12:00:00.000-04:00
 season: 21
 week: 6
-mvp: ''
-game-ball: ''
+mvp: Shane L, Richard N
+game-ball: Charles D, Kevin H
 sportsperson: ''
 
 ---
