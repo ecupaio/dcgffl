@@ -3,12 +3,17 @@ champion: _teams/tbd.md
 title: S21 Rec - CHAMPIONSHIP
 season: 21
 rounds:
-- title: TBD vs TBD
+- title: Olive vs Burgandy
   games:
-  - title: TBD vs TBD
+  - title: Olive vs Burgandy
     division: ''
-    teams-score: []
-    date: 2021-10-29 19:45:00 -0400
+    teams-score:
+    - team: []
+      score: 19
+    - team: []
+      score: 18
+    date: 2021-10-29T19:45:00.000-04:00
     location: _locations/trinidad-recreation-center.md
 published: false
+
 ---
