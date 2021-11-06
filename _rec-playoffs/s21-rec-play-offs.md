@@ -11,9 +11,9 @@ rounds:
     field: "1"
     teams-score:
     - team: _rec-teams/s-21-rec-olive.md
-      score: 
+      score: 30
     - team: _rec-teams/s21-rec-black.md
-      score: 
+      score: 12
     location: _locations/trinidad-recreation-center.md
   - title: S21 Rec Playoff - Orange vs Burgundy
     division: ''
@@ -22,9 +22,9 @@ rounds:
     field: "2"
     teams-score:
     - team: _rec-teams/s-21-rec-orange.md
-      score: 
+      score: 0
     - team: _rec-teams/s21-rec-burgundy.md
-      score: 
+      score: 6
 - title: Championship
   games:
   - title: S21 Rec Championship
