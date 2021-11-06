@@ -1,5 +1,5 @@
 ---
-champion: ''
+champion: _rec-teams/s-21-rec-olive.md
 title: S21 Rec - Play Offs
 season: 21
 rounds:
@@ -33,9 +33,9 @@ rounds:
     location: Trinidad Recreation Center
     field: "1"
     teams-score:
-    - team: _rec-teams/tbd.md
-      score: 
-    - team: _rec-teams/tbd.md
-      score: 
+    - team: _rec-teams/s-21-rec-olive.md
+      score: 19
+    - team: _rec-teams/s21-rec-burgundy.md
+      score: 18
 
 ---
