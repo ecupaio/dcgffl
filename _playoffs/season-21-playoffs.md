@@ -107,11 +107,15 @@ rounds:
       score: 
     date: 2021-11-14 09:30:00 -0500
     location: _locations/carter-baron.md
-  - title: ''
-    division: ''
-    teams-score: []
-    date: 
-    location: []
+  - title: S21 Playoffs Round 1 - 4A Purple vs 5B Black
+    division: East
+    teams-score:
+    - team: _teams/s21-purple.md
+      score: 
+    - team: _teams/s21-black.md
+      score: 
+    date: 2021-11-14 09:30:00 -0500
+    location: _locations/carter-baron.md
 - title: S21 Playoff Round 2
   games:
   - title: ''
