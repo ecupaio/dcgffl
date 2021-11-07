@@ -55,11 +55,15 @@ rounds:
       score: 
     date: 2021-11-14 11:30:00 -0500
     location: _locations/carter-baron.md
-  - title: ''
-    division: ''
-    teams-score: []
-    date: 
-    location: []
+  - title: S21 Playoffs Round 1 - 3B Cardinal vs 6A Iron Grey
+    division: "2"
+    teams-score:
+    - team: _teams/s21-cardinal-red.md
+      score: 
+    - team: _teams/s21-iron-gray.md
+      score: 
+    date: 2021-11-14 09:30:00 -0500
+    location: _locations/carter-baron.md
   - title: ''
     division: ''
     teams-score: []
