@@ -121,6 +121,5 @@ rounds:
     location: _locations/carter-baron.md
     title: S21 Playoffs Championship
     division: ''
-published: false
 
 ---
