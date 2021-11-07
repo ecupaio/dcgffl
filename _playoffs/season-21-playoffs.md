@@ -102,6 +102,5 @@ rounds:
     teams-score: []
     date: 2021-11-14 13:15:00 -0500
     location: _locations/carter-baron.md
-published: false
 
 ---
