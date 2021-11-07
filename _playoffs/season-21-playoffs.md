@@ -23,7 +23,7 @@ rounds:
       score: 
     date: 2021-11-14 11:30:00 -0500
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 2A Forest vs 6B Gold
+  - title: S21 Playoffs Round 1 - 2B Forest vs 6A Gold
     division: "1"
     teams-score:
     - team: _teams/s21-forest-green.md
@@ -32,7 +32,7 @@ rounds:
       score: 
     date: 2021-11-14 11:30:00 -0500
     location: _locations/carter-baron.md
-  - title: ''
+  - title: 'S21 Playoffs Round 1 - 2B '
     division: ''
     teams-score: []
     date: 
