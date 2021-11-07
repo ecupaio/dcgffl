@@ -89,11 +89,15 @@ rounds:
       score: 
     date: 2021-11-14 11:30:00 -0500
     location: _locations/carter-baron.md
-  - title: ''
-    division: ''
-    teams-score: []
-    date: 
-    location: []
+  - title: S21 Playoffs Round 1 - 2A Navy vs 7B Orange
+    division: West
+    teams-score:
+    - team: _teams/s21-navy.md
+      score: 
+    - team: _teams/s21-neon-orange.md
+      score: 
+    date: 2021-11-14 11:30:00 -0500
+    location: _locations/carter-baron.md
   - title: ''
     division: ''
     teams-score: []
