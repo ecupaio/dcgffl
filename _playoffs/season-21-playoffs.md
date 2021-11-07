@@ -114,6 +114,13 @@ rounds:
     date: 2021-11-21 10:00:00 -0500
     location: _locations/carter-baron.md
     title: S21 Playoffs Semifinals - North vs South
+- title: S21 Playoffs Championship
+  games:
+  - teams-score: []
+    date: 2021-11-21 12:00:00 -0500
+    location: _locations/carter-baron.md
+    title: S21 Playoffs Championship
+    division: ''
 published: false
 
 ---
