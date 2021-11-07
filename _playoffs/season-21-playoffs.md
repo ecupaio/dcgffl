@@ -7,7 +7,7 @@ rounds:
 - title: S21 Playoff Round 1
   games:
   - title: S21 Playoff Round 1 - 1A White vs 1B Silver
-    division: "1"
+    division: 1A
     teams-score:
     - team: _teams/s21-white.md
       score: 
