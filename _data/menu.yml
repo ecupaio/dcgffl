@@ -10,12 +10,12 @@ nav:
   link: "/schedule/"
 - title: Scoreboard
   link: "/score-board/"
+- title: Playoffs
+  link: "/playoffs/"
 - title: Power Rankings
   link: "/power-rankings/"
 - title: Recreation League
   link: "/recreation-league/"
-- title: Rec Scoreboard
-  link: "/recreation-league/score-board/"
 - title: Travel Program
   link: "/travel-program/"
 - title: News
