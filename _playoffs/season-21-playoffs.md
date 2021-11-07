@@ -102,7 +102,7 @@ rounds:
     teams-score: []
     date: 2021-11-14 13:15:00 -0500
     location: _locations/carter-baron.md
-- title: S21 Playoffs Semifinals
+- title: S21 Semifinals
   games:
   - title: S21 Playoffs Semifinals - East vs West
     division: East vs West
@@ -114,7 +114,7 @@ rounds:
     date: 2021-11-21 10:00:00 -0500
     location: _locations/carter-baron.md
     title: S21 Playoffs Semifinals - North vs South
-- title: S21 Playoffs Championship
+- title: S21 Championship
   games:
   - teams-score: []
     date: 2021-11-21 12:00:00 -0500
