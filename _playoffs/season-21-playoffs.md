@@ -14,6 +14,29 @@ rounds:
       score: 
     date: 2021-11-14 09:30:00 -0500
     location: _locations/carter-baron.md
+  - title: S21 Playoffs Round 1 - 2B Forest vs 7A Gold
+    division: "1"
+    teams-score:
+    - team: _teams/s21-forest-green.md
+      score: 
+    - team: _teams/s21-gold.md
+      score: 
+    date: 2021-11-14 11:30:00 -0500
+    location: _locations/carter-baron.md
+  - title: S21 Playoffs Round 1 - 3A Red vs 6B Kelly
+    division: "1"
+    teams-score:
+    - team: _teams/s21-red.md
+      score: 
+    - team: _teams/s21-kelly-green.md
+      score: 
+    date: 2021-11-14 09:30:00 -0500
+    location: _locations/carter-baron.md
+  - title: ''
+    division: ''
+    teams-score: []
+    date: 
+    location: []
   - title: S21 Playoffs Round 1 - 1B Carolina vs 8A Atomic
     division: "2"
     teams-score:
@@ -23,16 +46,7 @@ rounds:
       score: 
     date: 2021-11-14 11:30:00 -0500
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 2B Forest vs 6A Gold
-    division: "1"
-    teams-score:
-    - team: _teams/s21-forest-green.md
-      score: 
-    - team: _teams/s21-gold.md
-      score: 
-    date: 2021-11-14 11:30:00 -0500
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 2A Navy vs 6B Orange
+  - title: S21 Playoffs Round 1 - 2A Navy vs 7B Orange
     division: "2"
     teams-score:
     - team: _teams/s21-navy.md
@@ -41,16 +55,6 @@ rounds:
       score: 
     date: 2021-11-14 11:30:00 -0500
     location: _locations/carter-baron.md
-  - title: ''
-    division: ''
-    teams-score: []
-    date: 
-    location: []
-  - title: ''
-    division: ''
-    teams-score: []
-    date: 
-    location: []
   - title: ''
     division: ''
     teams-score: []
