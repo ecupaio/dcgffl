@@ -85,23 +85,23 @@ rounds:
   - title: S21 Playoffs Round 2 - East
     division: East
     teams-score: []
-    date: 
-    location: []
+    date: 2021-11-14 13:15:00 -0500
+    location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - West
     division: West
     teams-score: []
-    date: 
-    location: []
+    date: 2021-11-14 13:15:00 -0500
+    location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - North
     division: North
     teams-score: []
-    date: 
-    location: []
+    date: 2021-11-14 13:15:00 -0500
+    location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - South
     division: South
     teams-score: []
-    date: 
-    location: []
+    date: 2021-11-14 13:15:00 -0500
+    location: _locations/carter-baron.md
 published: false
 
 ---
