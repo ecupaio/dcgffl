@@ -42,42 +42,6 @@ rounds:
       score: 
     date: 2021-11-14 09:30:00 -0500
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 1B Carolina vs 8A Atomic
-    division: East
-    teams-score:
-    - team: _teams/s21-carolina-blue.md
-      score: 
-    - team: _teams/s21-atomic-blue.md
-      score: 
-    date: 2021-11-14 11:30:00 -0500
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 2A Navy vs 7B Orange
-    division: West
-    teams-score:
-    - team: _teams/s21-navy.md
-      score: 
-    - team: _teams/s21-neon-orange.md
-      score: 
-    date: 2021-11-14 11:30:00 -0500
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 3B Cardinal vs 6A Iron Grey
-    division: West
-    teams-score:
-    - team: _teams/s21-cardinal-red.md
-      score: 
-    - team: _teams/s21-iron-gray.md
-      score: 
-    date: 2021-11-14 09:30:00 -0500
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 4A Purple vs 5B Black
-    division: East
-    teams-score:
-    - team: _teams/s21-purple.md
-      score: 
-    - team: _teams/s21-black.md
-      score: 
-    date: 2021-11-14 09:30:00 -0500
-    location: _locations/carter-baron.md
 - title: S21 Playoffs Round 1 - East-West Bracket
   games:
   - title: S21 Playoffs Round 1 - 1B Carolina vs 8A Atomic
