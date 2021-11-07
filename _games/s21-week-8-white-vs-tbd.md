@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s21-white.md
   score: 27
 - team: _teams/s21-neon-orange.md
-  score: 
+  score: 14
 field: "2"
 date: 2021-11-07T10:00:00.000-05:00
 season: 21
