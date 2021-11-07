@@ -82,23 +82,23 @@ rounds:
     location: _locations/carter-baron.md
 - title: S21 Playoff Round 2
   games:
-  - title: ''
-    division: ''
+  - title: S21 Playoffs Round 2 - East
+    division: East
     teams-score: []
     date: 
     location: []
-  - title: ''
-    division: ''
+  - title: S21 Playoffs Round 2 - West
+    division: West
     teams-score: []
     date: 
     location: []
-  - title: ''
-    division: ''
+  - title: S21 Playoffs Round 2 - North
+    division: North
     teams-score: []
     date: 
     location: []
-  - title: ''
-    division: ''
+  - title: S21 Playoffs Round 2 - South
+    division: South
     teams-score: []
     date: 
     location: []
