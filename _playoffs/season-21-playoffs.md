@@ -32,11 +32,15 @@ rounds:
       score: 
     date: 2021-11-14 09:30:00 -0500
     location: _locations/carter-baron.md
-  - title: ''
-    division: ''
-    teams-score: []
-    date: 
-    location: []
+  - title: S21 Playoffs Round 1 - 4B Royal vs 5A Lime
+    division: "1"
+    teams-score:
+    - team: _teams/s21-royal.md
+      score: 
+    - team: _teams/s21-lime-green.md
+      score: 
+    date: 2021-11-14 09:30:00 -0500
+    location: _locations/carter-baron.md
   - title: S21 Playoffs Round 1 - 1B Carolina vs 8A Atomic
     division: "2"
     teams-score:
