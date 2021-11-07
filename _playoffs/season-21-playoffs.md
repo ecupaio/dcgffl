@@ -4,7 +4,7 @@ title: Season 21 Playoffs
 permalink: "/season-21-playoffs/"
 season: 21
 rounds:
-- title: S21 Playoff Round 1
+- title: S21 Playoff Round 1 - North-South Bracket
   games:
   - title: S21 Playoff Round 1 - 1A White vs 1B Silver
     division: North
