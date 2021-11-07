@@ -1,6 +1,7 @@
 ---
 champion: _teams/tbd.md
 title: Season 21 Playoffs
+permalink: "/season-21-playoffs/"
 season: 21
 rounds:
 - title: S21 Playoff Round 1
