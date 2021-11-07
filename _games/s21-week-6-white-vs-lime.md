@@ -3,7 +3,7 @@ location: _locations/carter-baron.md
 title: S21 Week 6 - White vs Lime
 teams-score:
 - team: _teams/s21-white.md
-  score: 
+  score: 0
 - team: _teams/s21-lime-green.md
   score: 36
 field: "3"
