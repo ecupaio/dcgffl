@@ -14,4 +14,6 @@ After 8 weeks of regular season play, we've finally arrived at the playoffs!  Th
 
 The DCGFFL uses a 16-team cross-conference bracket.  Odd Seeds from one conference will be on one side of the bracket while Even Seeds are on the other side of the bracket. Seeding was determined by overall record. If there was a tie in overall record, seeding was determined by divisional record and then by game result between the tied teams.
 
-Who will be Season 21 Champion??  It all comes down to this!
+Who will be Season 21 Champion??  It all comes down to this! 
+
+**Download the full bracket below:**
