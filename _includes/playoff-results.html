@@ -17,7 +17,7 @@
             {{ champion.name }} ({{ champion.color }})
             {%- endcapture -%}
             {% else %}
-            {% assign champion-team = {{ champion.color }} %}
+            {% assign champion-team = champion.color %}
             {% endif %}
             <div class="champ-label">Champion</div> <h5 class="champ-team"><a href="{{ champion.url }}">{{ champion-team }}</a></h5>
             {% endif %}
