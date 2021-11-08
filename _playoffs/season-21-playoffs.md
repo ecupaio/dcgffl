@@ -1,5 +1,5 @@
 ---
-champion: _teams/tbd.md
+champion: ''
 title: Season 21 Playoffs
 permalink: "/season-21-playoffs/"
 season: 21

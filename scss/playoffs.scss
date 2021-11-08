@@ -24,6 +24,7 @@
       .divisions-grid {
         display: flex;
         max-width: $size-large;
+        flex-flow: row wrap;
         @include bp-medium {
           display: block;   
         }
