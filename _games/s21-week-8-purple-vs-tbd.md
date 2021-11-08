@@ -10,8 +10,8 @@ field: "4"
 date: 2021-11-07T12:00:00.000-05:00
 season: 21
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Drew C, Brett C
+game-ball: Steve P, Keaton F
+sportsperson: Munroe B, Rajan K
 
 ---
