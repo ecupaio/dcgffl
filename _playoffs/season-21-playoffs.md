@@ -104,9 +104,9 @@ rounds:
     division: North
     teams-score:
     - team: _teams/s21-royal.md
-      score: 
+      score: 40
     - team: _teams/s21-white.md
-      score: 
+      score: 21
     date: 2021-11-14T13:15:00.000-05:00
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - South
