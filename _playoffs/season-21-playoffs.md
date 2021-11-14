@@ -66,9 +66,9 @@ rounds:
     division: West
     teams-score:
     - team: _teams/s21-cardinal-red.md
-      score: 
+      score: 26
     - team: _teams/s21-iron-gray.md
-      score: 
+      score: 25
     date: 2021-11-14T09:30:00.000-05:00
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 1 - 4A Purple vs 5B Black
