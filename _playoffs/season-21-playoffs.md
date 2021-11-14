@@ -80,7 +80,7 @@ rounds:
       score: 25
     date: 2021-11-14T09:30:00.000-05:00
     location: _locations/carter-baron.md
-- title: S21 Playoff Round 2
+- title: S21 Quarterfinals
   games:
   - title: S21 Playoffs Round 2 - East
     division: East
