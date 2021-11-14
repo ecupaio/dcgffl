@@ -37,9 +37,9 @@ rounds:
     division: North
     teams-score:
     - team: _teams/s21-royal.md
-      score: 
+      score: 32
     - team: _teams/s21-lime-green.md
-      score: 
+      score: 28
     date: 2021-11-14T09:30:00.000-05:00
     location: _locations/carter-baron.md
 - title: S21 Playoffs Round 1 - East-West Bracket
