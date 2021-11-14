@@ -57,9 +57,9 @@ rounds:
     division: West
     teams-score:
     - team: _teams/s21-navy.md
-      score: 
+      score: 45
     - team: _teams/s21-neon-orange.md
-      score: 
+      score: 31
     date: 2021-11-14T11:30:00.000-05:00
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 1 - 3B Cardinal vs 6A Iron Grey
