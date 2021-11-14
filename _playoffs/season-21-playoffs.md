@@ -10,9 +10,9 @@ rounds:
     division: North
     teams-score:
     - team: _teams/s21-white.md
-      score: 
+      score: 39
     - team: _teams/s21-silver.md
-      score: 
+      score: 25
     date: 2021-11-14T11:30:00.000-05:00
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 1 - 2B Forest vs 7A Gold
