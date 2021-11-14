@@ -84,7 +84,11 @@ rounds:
   games:
   - title: S21 Playoffs Round 2 - East
     division: East
-    teams-score: []
+    teams-score:
+    - team: _teams/s21-carolina-blue.md
+      score: 
+    - team: _teams/s21-black.md
+      score: 
     date: 2021-11-14T13:15:00.000-05:00
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - West
