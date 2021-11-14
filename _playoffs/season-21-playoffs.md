@@ -103,7 +103,11 @@ rounds:
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - South
     division: South
-    teams-score: []
+    teams-score:
+    - team: _teams/s21-forest-green.md
+      score: 
+    - team: _teams/s21-red.md
+      score: 
     date: 2021-11-14T13:15:00.000-05:00
     location: _locations/carter-baron.md
 - title: S21 Semifinals
