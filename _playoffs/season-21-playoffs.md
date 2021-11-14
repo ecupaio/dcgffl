@@ -75,9 +75,9 @@ rounds:
     division: East
     teams-score:
     - team: _teams/s21-purple.md
-      score: 
+      score: 19
     - team: _teams/s21-black.md
-      score: 
+      score: 25
     date: 2021-11-14T09:30:00.000-05:00
     location: _locations/carter-baron.md
 - title: S21 Playoff Round 2
