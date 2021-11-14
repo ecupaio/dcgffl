@@ -95,9 +95,9 @@ rounds:
     division: West
     teams-score:
     - team: _teams/s21-navy.md
-      score: 
+      score: 33
     - team: _teams/s21-cardinal-red.md
-      score: 
+      score: 19
     date: 2021-11-14T13:15:00.000-05:00
     location: _locations/carter-baron.md
   - title: S21 Playoffs Round 2 - North
