@@ -26,6 +26,10 @@ resources:
       link: ''
 
 ---
+### Thanks to all our 2021 Travel Players!
+
+**Congratulations to the Senators for bringing home a championship trophy to D.C. at Gay Bowl!**
+
 ### About the Travel Program
 
 The DCGFFL’s wealth of talent comes together annually to represent DC at two national tournaments — Pride Bowl (Chicago, early June) and Gay Bowl (annually rotating city, early fall).
@@ -54,9 +58,3 @@ Any questions on the travel program can be directed to the TMB at [DCGFFLTravel@
 [NGFFL Rules](https://ngffl.org/rules-of-play)
 
 [Learn More about Gay Bowl](https://ngffl.org/gaybowl)
-
-### Thanks to all our 2021 Travel Players!
-
-**Congratulations to the Senators for bringing home a championship trophy to D.C. at Gay Bowl!**
-
-![](/img/2021_senators_gay_bowl.jpg)
