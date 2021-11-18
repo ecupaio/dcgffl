@@ -2,7 +2,7 @@
 button:
   visible: true
   text: Download the Bracket
-  link: ''
+  link: "/img/season-21-playoff-bracket-1.pdf"
 title: Final Four and Championship!
 date: 2021-11-21 10:00:00 -0500
 time: 10am (Semifinals) and Noon (Finals)
