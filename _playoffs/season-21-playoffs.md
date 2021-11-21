@@ -1,5 +1,5 @@
 ---
-champion: ''
+champion: _teams/s21-carolina-blue.md
 title: Season 21 Playoffs
 permalink: "/season-21-playoffs/"
 season: 21
@@ -142,9 +142,9 @@ rounds:
   games:
   - teams-score:
     - team: _teams/s21-red.md
-      score: 
+      score: 28
     - team: _teams/s21-carolina-blue.md
-      score: 
+      score: 41
     date: 2021-11-21T12:00:00.000-05:00
     location: _locations/carter-baron.md
     title: S21 Playoffs Championship
