@@ -140,7 +140,11 @@ rounds:
     title: S21 Playoffs Semifinals - North vs South
 - title: S21 Championship
   games:
-  - teams-score: []
+  - teams-score:
+    - team: _teams/s21-red.md
+      score: 
+    - team: _teams/s21-carolina-blue.md
+      score: 
     date: 2021-11-21T12:00:00.000-05:00
     location: _locations/carter-baron.md
     title: S21 Playoffs Championship
