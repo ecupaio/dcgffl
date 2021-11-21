@@ -124,9 +124,9 @@ rounds:
     division: East vs West
     teams-score:
     - team: _teams/s21-carolina-blue.md
-      score: 
+      score: 36
     - team: _teams/s21-navy.md
-      score: 
+      score: 30
     location: _locations/carter-baron.md
     date: 2021-11-21T10:00:50.000-05:00
   - division: North vs South
