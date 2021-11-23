@@ -12,4 +12,5 @@ Congratulations to the Blew Ball Busters (Carolina Blue) on their triumph over F
 
 Shout out to champion captain Tony Britford and champion quarterback Ben Hunt on leading your team to victory!
 
-![](/img/0108e031-0c44-48d3-b5cb-173fd0092a1c.jpeg)
+![](/img/0108e031-0c44-48d3-b5cb-173fd0092a1c.jpeg)  
+Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season! See you in the spring!
