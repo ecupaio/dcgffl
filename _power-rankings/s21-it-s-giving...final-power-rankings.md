@@ -74,33 +74,59 @@ rankings:
     It’s giving...Ted Lasso.
 
     ![](https://c.tenor.com/7OwSbz5FQdwAAAAC/ted-lasso-how-about-that.gif)
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-lime-green.md
+  record: 5-4
+  text: |-
+    The story here is always about AJ and Twon, but, on the whole, they were tame(r) this season. And, while no one wanted to see them win a championship again, we did see that look of anguish on AJ’s face after they lost. Gotta say I felt some schadenfreude there.
+
+    It’s giving...growth, it’s giving...emotion, it’s giving...sad girl energy.
+
+    ![](https://c.tenor.com/raPLsSCf9-MAAAAC/crying-call-me-by-your-name.gif)
+- team: _teams/s21-iron-gray.md
+  record: 4-5
+  text: |-
+    Iron’s record might not accurately reflect their performance this season, but they were a force, and each of those losses were close and hard fought. We tip our hat to the veterans on this team who led, and to our Female MVP and new Social Chair, Amanda Dafonte, for her enthusiasm and gusto.
+
+    It’s giving...warm and fuzzy, it’s giving...Joe Heron.
+
+    ![](https://c.tenor.com/T9CVhK1Eo3kAAAAM/snl-saturday-night-live.gif)
+- team: _teams/s21-kelly-green.md
+  record: 3-6
+  text: |-
+    This was an odd couple of a captain and QB pairing, and with multiple false starts this season, nothing ever really gelled here.
+
+    It’s giving...odd couple, it’s giving...inconsistent, it’s giving...Congress.
+
+    ![](https://media.giphy.com/media/cnFLwc8Lx9q1XN986v/giphy.gif)
+- team: _teams/s21-neon-orange.md
+  record: 3-6
+  text: "Derrick and Pat did all they could this season with such tall receivers,
+    but, alas, it was...far from enough. Maybe they should’ve had a better cheer?
+    \n\nIt’s giving...offbeat drum major.\n\n  \n![](https://media0.giphy.com/media/26uf68LgjAMAj2a9a/giphy.gif)"
+- team: _teams/s21-silver.md
+  record: 1-8
+  text: |-
+    This team really did try, though.
+
+    It’s giving...backyard football at the family function
+
+    ![](https://media.giphy.com/media/3ohhwfp5a3OKI185l6/giphy.gif)
+- team: _teams/s21-gold.md
+  record: 1-8
+  text: |-
+    I mean, where do I begin?
+
+    It’s giving...no, it’s taking…
+
+    ![](https://c.tenor.com/8YQdgDw62RsAAAAC/take-my.gif)
+- team: _teams/s21-atomic-blue.md
+  record: 0-9
+  text: |-
+    I hope they all come back next season!
+
+    It’s giving...participation trophy.
+
+    ![](https://c.tenor.com/UCKV-vJCkZEAAAAM/participation-participation-tropjy.gif)
 published: false
 
 ---
