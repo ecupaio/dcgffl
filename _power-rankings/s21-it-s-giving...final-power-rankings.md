@@ -24,7 +24,7 @@ rankings:
 - team: _teams/s21-navy.md
   record: 7-4
   text: |-
-    Offensive player of the season, Keith H, had a monster season, but did the cracks on this team really showed in their final match, and, so, maybe they really were nothing to write home about all season.
+    Offensive player of the season, Keith H, had a monster season, but boy did the cracks on this team really show in their final match, and, so, maybe they really were nothing to write home about after all.
 
     It’s giving...almost there, it’s giving...generic, it’s giving...J Crew Factory
 
