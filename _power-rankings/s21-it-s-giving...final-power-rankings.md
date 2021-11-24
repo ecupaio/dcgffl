@@ -1,6 +1,6 @@
 ---
 date: 2021-11-24 11:47:36 -0500
-title: 'S21: It''s giving...Final Power Rankings'
+title: 'S21: It''s Giving...Final, Definitive Power Rankings'
 author: Aaron Sayama
 season: 21
 week: 10
