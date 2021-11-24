@@ -127,6 +127,5 @@ rankings:
     It’s giving...participation trophy.
 
     ![](https://c.tenor.com/UCKV-vJCkZEAAAAM/participation-participation-tropjy.gif)
-published: false
 
 ---
