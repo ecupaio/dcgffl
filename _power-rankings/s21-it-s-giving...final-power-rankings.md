@@ -50,15 +50,30 @@ rankings:
     It’s giving...[bad art friend](https://www.nytimes.com/2021/10/05/magazine/dorland-v-larson.html), it’s giving...kidney.
 
     ![](https://c.tenor.com/uOArKWdEkCMAAAAM/thats-not-what-friends-do-real-housewives-of-beverly-hills.gif)
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s21-white.md
+  record: 6-4
+  text: |-
+    No one really wanted this team to go further than they did, not even their captain.
+
+    It’s giving...up.
+
+    ![](https://c.tenor.com/7c2sMTjBuxMAAAAM/facepalm-the-huxtables.gif)
+- team: _teams/s21-black.md
+  record: 5-5
+  text: |-
+    For a team that was as demoralized as it was, they certainly pulled off an upset, but that was about all they could do..all season.
+
+    It’s giving...mediocre.
+
+    ![](https://c.tenor.com/4nRRMr-ezioAAAAM/john-mulaney-mulaney.gif)
+- team: _teams/s21-purple.md
+  record: 5-4
+  text: |-
+    Charlie Salem Award Winner Scott Graham and League Legend Earl Armstrong coached and carried this team through a fun season, but lost in a surprise upset. What a tragic end, but, here’s to hoping their rookies will be back next season.
+
+    It’s giving...Ted Lasso.
+
+    ![](https://c.tenor.com/7OwSbz5FQdwAAAAC/ted-lasso-how-about-that.gif)
 - team: []
   record: ''
   text: ''
