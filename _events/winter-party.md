@@ -1,6 +1,6 @@
 ---
 button:
-  visible: true
+  visible: false
   text: See the venue
   link: https://thedirtygoosedc.com/
 title: Winter Party
