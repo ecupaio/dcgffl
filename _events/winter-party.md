@@ -1,8 +1,8 @@
 ---
 button:
   visible: true
-  text: ''
-  link: ''
+  text: See the venue
+  link: https://thedirtygoosedc.com/
 title: Winter Party
 permalink: "/winter2022party/"
 date: 2022-02-03 19:00:00 -0500
@@ -16,3 +16,8 @@ location:
 published: false
 
 ---
+## Come join us at the winter party!
+
+#### We can't wait to see you again.
+
+Date and time to be determined.
