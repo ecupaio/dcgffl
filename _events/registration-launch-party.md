@@ -9,7 +9,7 @@ date: 2022-02-03 19:00:00 -0500
 time: 7pm-Close
 location:
   name: Red Bear Brewing
-  address: ''
+  address: Red Bear Brewing
   city: ''
   state: ''
   zip: 
