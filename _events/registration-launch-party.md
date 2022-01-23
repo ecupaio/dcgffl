@@ -15,6 +15,8 @@ location:
   zip: 
 
 ---
+#### **Join Us!**
+
 Our 2022 Winter Party will be held on Thursday, February 3rd at Red Bear Brewing Co. from 7 PM to close. This will be our Registration Launch for Season XXII!
 
 #### Reconnect
