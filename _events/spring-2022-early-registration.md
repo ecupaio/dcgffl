@@ -1,6 +1,6 @@
 ---
 title: Spring 2022 Early Registration
-date: 2022-01-26 00:00:00 -0500
+date: 2022-01-26 19:00:00 -0500
 time: 7pm
 button:
   text: REGISTER HERE
