@@ -1,6 +1,6 @@
 ---
 date: 2022-01-26 16:36:45 -0500
-title: Season XXII Earlybird Registration
+title: Season XXII Early Registration
 attachments: []
 
 ---
