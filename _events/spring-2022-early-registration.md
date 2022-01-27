@@ -5,7 +5,7 @@ time: 7pm
 button:
   text: REGISTER HERE
   link: https://forms.gle/1nTtQ7o2F8nEP1MW6
-  visible: true
+  visible: false
 location:
   name: ''
   address: ''
