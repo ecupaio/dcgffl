@@ -4,11 +4,11 @@ title: Season XXII Early Registration
 attachments: []
 
 ---
-#### RETURNING PLAYERS: [**Register here**](https://forms.gle/jqHKXyhwa1xAk1pK6 "Season 22 Registration") starting 7pm Wednesday, January 26, 2022!
+#### Early registration is full!  Check back to register on Wednesday, February 2nd, at 7pm!
 
 At that time, returning players should refresh the registration link until the form is active. This will register you for the Spring 2022 season (Season XXII), which runs from mid-March to late May.
 
-This early registration is limited to 100 players - so don’t delay, register immediately at 7pm to secure your spot! After the early spots are filled, registration will be made available to all players the following week (see below).
+**_The early registration is limited to 100 players and filled up in less than 3 hours_** - so if you missed out, don’t delay, register immediately at 7pm on February 2nd at 7pm to secure your spot! 
 
 #### NEW PLAYERS:
 
