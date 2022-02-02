@@ -14,7 +14,7 @@ location:
   zip: ''
 
 ---
-Mark your calendars: Regular Registration for ALL players (both NEW and RETURNING players who didn't sign up during early registration) will open on **Wednesday, February 2nd, at 7pm!** At that time, refresh the registration link until the form is active. This will register you for the Spring 2022 season (Season XXII), which runs from mid-March to late May.
+Mark your calendars: Regular Registration for ALL players (both NEW and RETURNING players who didn't sign up during early registration) will open on **Wednesday, February 2nd, at 7pm!** At that time, [refresh the registration link until the form is active](https://forms.gle/n2DW4ryGxd3qStTB7). This will register you for the Spring 2022 season (Season XXII), which runs from mid-March to late May.
 
 _Registration fills up fast_ - early registration filled up in under 3 hours! - so don't delay, register immediately at 7pm to secure your spot!  Don't miss out - [sign up for our mailing list to get notified](http://eepurl.com/c9JkQz) of important events like registration opening!
 
