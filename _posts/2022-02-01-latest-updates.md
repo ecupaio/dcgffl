@@ -14,6 +14,6 @@ Here's the latest from DCGFFL:
 
 #### Want to see what the DCGFFL is like?
 
-[**Check out our End-of-Season Video from Fall 2021!**]()
+[**Check out our End-of-Season Video from Fall 2021!**](https://youtu.be/MwjrAyrwLpQ)
 
 We're all excited to get our community together again for Spring 2022!  Come be a part of it!
