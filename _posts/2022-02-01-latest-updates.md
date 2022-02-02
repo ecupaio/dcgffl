@@ -2,7 +2,9 @@
 date: 2022-02-01 20:31:54 -0500
 title: Latest Updates
 permalink: "/season22-registrationweek/"
-attachments: []
+attachments:
+- title: ''
+  file: ''
 
 ---
 Here's the latest from DCGFFL:
