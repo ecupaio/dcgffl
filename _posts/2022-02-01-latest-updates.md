@@ -11,3 +11,9 @@ Here's the latest from DCGFFL:
 * **Feb. 2** - [Regular Registration OPENS](https://dcgffl.org/events/spring-2022-regular-registration/) to play in Season 22 (mid-March through mid-May)!  Refresh website at 7 PM for the link to register!
 * **Feb. 3** - [Registration Launch Party](https://dcgffl.org/season22launchparty/) at Red Bear Brewing Co., 7 PM to Close.  Bring a friend and get them to register for a chance to win!
 * **Feb. 14** - Registration CLOSES, 10 PM
+
+#### Want to see what the DCGFFL is like?
+
+[**Check out our End-of-Season Video from Fall 2021!**]()
+
+We're all excited to get our community together again for Spring 2022!  Come be a part of it!
