@@ -12,7 +12,7 @@ With a 50/50 chance of accumulating snow on Sunday morning, we decided to offer 
 * **QB Tryout Option #1 - Saturday, February 12th at 1 PM at Edgewood Recreation Center turf field (300 Evarts St. NE, Washington, DC 20002)**
 * **QB Tryout Option #2 - Sunday, February 13th at 1 PM at Carter Barron Soccer Fields (1698 Kennedy St NW, Washington, DC 20011)**
 
-Registered prospective QBs are required to attend at least one of the tryouts.  We expect to have much better weather conditions on Saturday so we recommend you join then if you are able!
+Registered prospective QBs are required to attend at least one of the tryouts.  **We expect to have much better weather conditions on Saturday (62 degrees and sunny!) so we recommend you join then if you are able!**
 
 Come prepared to demonstrate your ability to:
 
