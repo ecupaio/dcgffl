@@ -1,19 +1,18 @@
 ---
 title: New Player Workshop 2
-date: 2022-02-23 19:00:00 -0500
-time: 7pm-8pm
+date: 2022-02-27 13:00:00 -0500
+time: 1pm-2:30pm
 button:
   text: ''
   link: ''
   visible: false
 location:
-  name: Brentwood Hamilton Park
-  address: 1300 6th St NW
+  name: Carter Barron
+  address: 1698 Kennedy St NW
   city: Washington
   state: DC
   zip: 
-permalink: "/npw1-s22/"
-published: false
+permalink: "/npw2-s22/"
 
 ---
 New Player Workshops are opportunities for new players to develop and demonstrate their flag football skills, which helps ensure that fair teams are selected. 
