@@ -1,7 +1,7 @@
 ---
 title: New Player Workshop 1
-date: 2022-02-23 19:00:00 -0500
-time: 7pm-8pm
+date: 2022-02-23 22:00:00 -0500
+time: 8pm-9:30pm
 button:
   text: ''
   link: ''
