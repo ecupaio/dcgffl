@@ -8,7 +8,7 @@ date: 2022-03-03 19:00:00 -0500
 time: 7pm
 location:
   name: Pitchers DC
-  address: ''
+  address: Pitchers DC
   city: Washington
   state: DC
   zip: 
