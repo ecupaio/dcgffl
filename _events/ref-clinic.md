@@ -13,6 +13,11 @@ location:
   city: ''
   state: ''
   zip: 
-published: false
 
 ---
+**Join us at the Referee Clinic!**
+
+This is a great opportunity for refs, returning and new, to talk about the latest rules and prepare for the season!
+
+By attending, **you could win two tickets to the Wizards vs. Nuggets game  
+on March 16!**
