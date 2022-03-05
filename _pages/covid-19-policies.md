@@ -8,7 +8,7 @@ All participants of the DCGFFL are expected to work together and abide by CDC gu
 
 #### Vaccination
 
-All Players, Officials, and Spectators who are able to do so are expected to be fully vaccinated against COVID-19, in accordance with CDC guidelines. Proof of vaccination will not be required for participation in DCGFFL, but being vaccinated is the best way to make our league as safe as possible. As of January 15, 2022, DC guidelines require proof of vaccination to enter many businesses; this includes sponsor venues that will be hosting DCGFFL events throughout the season. Thus, local guidelines require that individuals be fully vaccinated against COVID-19 in order to participate fully in this season’s events.
+All Players, Officials, and Spectators who are able to do so are expected to be fully vaccinated against COVID-19, in accordance with CDC guidelines. Proof of vaccination will not be required for participation in DCGFFL, but being vaccinated is the best way to make our league as safe as possible. As of March 5, 2022, many of our sponsors require proof of vaccination to enter; this includes venues that will be hosting DCGFFL events throughout the season. Thus, individuals are expected to be fully vaccinated against COVID-19 in order to fully participate in this season’s events.
 
 #### Face Coverings
 
