@@ -20,6 +20,7 @@ members:
 - Bryan Sanders
 - Ron S.
 - Diego U. S.
+- Kip Malcolm (forever family member)
 division: ''
 
 ---
