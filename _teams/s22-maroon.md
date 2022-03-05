@@ -18,7 +18,7 @@ members:
 - Sam P.
 - Jeremy Steslicki
 - Kirk Y.
-- Jordan Y. (forever family member)
+- Jordan Younger (forever family member)
 division: ''
 
 ---
