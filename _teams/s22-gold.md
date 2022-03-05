@@ -17,7 +17,7 @@ members:
 - Jason Mascelli
 - Mariam Mehter
 - Tiger Richetti
-- Dan Vladimer
+- Dan V.
 division: ''
 
 ---
