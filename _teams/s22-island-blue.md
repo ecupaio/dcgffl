@@ -13,13 +13,11 @@ members:
 - Luis Cotto
 - Michael D.
 - Dan King
-- ''
-- ''
-- ''
-- ''
-- ''
-- ''
+- Daniel Lucero
+- Jay M.
+- Jack M.
+- Trey P.
+- Dyonne W.
 division: ''
-published: false
 
 ---
