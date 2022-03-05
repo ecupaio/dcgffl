@@ -8,8 +8,8 @@ permalink: "/refclinic-s22/"
 date: 2022-03-08 19:00:00 -0500
 time: 7pm EST
 location:
-  name: TBA
-  address: ''
+  name: The Dirty Goose
+  address: The Dirty Goose
   city: ''
   state: ''
   zip: 
@@ -24,4 +24,4 @@ Attendees will get one free beverage on us!
 By attending, **you could win two tickets to the Wizards vs. Nuggets game  
 on March 16!**
 
-Venue is to be announced. 
+#### UPDATED VENUE: The Dirty Goose
