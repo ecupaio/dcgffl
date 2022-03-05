@@ -19,7 +19,7 @@ members:
 - Christopher Taste
 - Jamilah W.
 - Lindsey W.
-- Andrei J.
+- Andrei J. (forever family member)
 division: ''
 
 ---
