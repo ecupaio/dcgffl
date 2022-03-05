@@ -23,3 +23,5 @@ Attendees will get one free beverage on us!
 
 By attending, **you could win two tickets to the Wizards vs. Nuggets game  
 on March 16!**
+
+Venue is to be announced. 
