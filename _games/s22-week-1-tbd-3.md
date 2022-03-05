@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S22 Week 1 - TBD 1
+title: S22 Week 1 - TBD 3
 teams-score:
 - team: _teams/tbd.md
   score: 
@@ -13,5 +13,6 @@ week: 1
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
