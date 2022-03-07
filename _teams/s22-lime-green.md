@@ -3,7 +3,7 @@ title: S22 - Lime Green
 name: ''
 color: Lime Green
 season: 22
-photo: ''
+photo: "/img/s22_lime_green.jpeg"
 captain: Will Lipovsky
 quarterback: Marcello Trigg
 members:
