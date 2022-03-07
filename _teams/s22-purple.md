@@ -3,7 +3,7 @@ title: S22 - Purple
 name: ''
 color: Purple
 season: 22
-photo: ''
+photo: "/img/s22_purple.jpeg"
 captain: JC Chiuco
 quarterback: Zach Brown
 members:

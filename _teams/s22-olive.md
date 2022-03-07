@@ -3,7 +3,7 @@ title: S22 - Olive
 name: ''
 color: Olive
 season: 22
-photo: ''
+photo: "/img/s22_olive.jpeg"
 captain: Mike Osorio
 quarterback: Matthew Cline
 members:
