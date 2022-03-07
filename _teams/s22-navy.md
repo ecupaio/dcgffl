@@ -3,7 +3,7 @@ title: S22 - Navy
 name: ''
 color: Navy
 season: 22
-photo: ''
+photo: "/img/s22_navy.jpeg"
 captain: Ryan Viessman
 quarterback: Austin Plier
 members:
