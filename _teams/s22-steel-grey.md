@@ -3,7 +3,7 @@ title: S22 - Steel Grey
 name: ''
 color: Steel Grey
 season: 22
-photo: ''
+photo: "/img/s22_steel_grey.jpeg"
 captain: Bobby Bosfield
 quarterback: Benjamin Hunt
 members:
