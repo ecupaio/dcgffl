@@ -3,7 +3,7 @@ title: S22 - Forest Green
 name: ''
 color: Forest Green
 season: 22
-photo: ''
+photo: "/img/s22_forest_green.jpeg"
 captain: Levert J.
 quarterback: Keith Holleran
 members:

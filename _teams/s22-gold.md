@@ -3,7 +3,7 @@ title: S22 - Gold
 name: ''
 color: Gold
 season: 22
-photo: ''
+photo: "/img/s22_gold.jpeg"
 captain: Thomas Loughran
 quarterback: Ben McEvoy
 members:
