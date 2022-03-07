@@ -3,7 +3,7 @@ title: S22 - White
 name: ''
 color: White
 season: 22
-photo: ''
+photo: "/img/s22_white.jpeg"
 captain: Brandon M.
 quarterback: Jamil L.
 members:
