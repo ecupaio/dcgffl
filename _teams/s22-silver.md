@@ -3,7 +3,7 @@ title: S22 - Silver
 name: ''
 color: Silver
 season: 22
-photo: ''
+photo: "/img/s22_silver.jpeg"
 captain: Samuel Brown
 quarterback: Wilkes C.
 members:
