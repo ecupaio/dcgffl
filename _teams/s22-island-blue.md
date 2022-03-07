@@ -3,7 +3,7 @@ title: S22 - Island Blue
 name: ''
 color: Island Blue
 season: 22
-photo: ''
+photo: "/img/s22_island_blue.jpeg"
 captain: Jens Piferoen
 quarterback: Jim Connolly
 members:

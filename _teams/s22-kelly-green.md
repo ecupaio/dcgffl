@@ -3,7 +3,7 @@ title: S22 - Kelly Green
 name: ''
 color: Kelly Green
 season: 22
-photo: ''
+photo: "/img/s22_kelly_green.jpeg"
 captain: Mark Hofberg
 quarterback: Brandon Waggoner
 members:
