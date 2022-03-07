@@ -3,7 +3,7 @@ title: S22 - Super Pink
 name: ''
 color: Super Pink
 season: 22
-photo: ''
+photo: "/img/s22_pink.jpeg"
 captain: JC Adams
 quarterback: Cameron M.
 members:
