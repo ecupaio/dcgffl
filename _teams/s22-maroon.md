@@ -3,7 +3,7 @@ title: S22 - Maroon
 name: ''
 color: Maroon
 season: 22
-photo: ''
+photo: "/img/s22_maroon.jpeg"
 captain: Bradley Williams
 quarterback: Marvin Washington
 members:

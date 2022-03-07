@@ -3,7 +3,7 @@ title: S22 - Magenta
 name: ''
 color: Magenta
 season: 22
-photo: ''
+photo: "/img/s22_magenta.jpeg"
 captain: Derrick Johnson
 quarterback: AJ Reust
 members:
