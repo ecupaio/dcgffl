@@ -3,7 +3,7 @@ title: S22 - Red
 name: ''
 color: Red
 season: 22
-photo: ''
+photo: "/img/s22_red.jpeg"
 captain: Mark Japinga
 quarterback: Brian Hotchkiss
 members:
