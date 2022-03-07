@@ -3,7 +3,7 @@ title: S22 - Black
 name: ''
 color: Black
 season: 22
-photo: ''
+photo: "/img/s22_black.jpeg"
 captain: Joe H.
 quarterback: Pat Shilo
 members:

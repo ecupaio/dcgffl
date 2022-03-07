@@ -3,7 +3,7 @@ title: S22 - Dark Orange
 name: ''
 color: Dark Orange
 season: 22
-photo: ''
+photo: "/img/s22_dark_orange.jpeg"
 captain: Tony Britford
 quarterback: Garrett Schiponi
 members:
