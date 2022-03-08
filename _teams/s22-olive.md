@@ -19,6 +19,6 @@ members:
 - Jim Roll
 - J. Mecha Santos
 - Desmond J. (forever family member)
-division: ''
+division: Kiki
 
 ---

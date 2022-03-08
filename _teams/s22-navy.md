@@ -20,6 +20,6 @@ members:
 - Jamilah W.
 - Lindsey W.
 - Andrei J. (forever family member)
-division: ''
+division: Dirty Goose
 
 ---
