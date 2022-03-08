@@ -19,6 +19,6 @@ members:
 - Lamar Rogers
 - Kent T.
 - Brad Allen (forever family member)
-division: ''
+division: Dirty Goose
 
 ---

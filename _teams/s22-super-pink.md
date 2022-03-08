@@ -19,6 +19,6 @@ members:
 - Meghanne Tighe
 - Paul Whitney
 - Del Mcspadden (forever family member)
-division: ''
+division: Kiki
 
 ---
