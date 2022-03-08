@@ -19,6 +19,6 @@ members:
 - Evan Ryan
 - Randy Snight
 - Lana P. (forever family member)
-division: ''
+division: Dirty Goose
 
 ---
