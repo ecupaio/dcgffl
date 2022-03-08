@@ -3,8 +3,8 @@ date: 2022-03-08 08:43:41 -0500
 title: Season XXII Schedule Release
 permalink: "/s22-schedule/"
 attachments:
-- title: ''
+- title: Download Season 22 Schedule
   file: "/img/dcgffl-season-xxii-schedule.pdf"
 
 ---
-See attached for the Season XXII Schedule of games!  View the matchups, game times, fields, and divisions here!
+See attached for the Season XXII Schedule of games for Spring 2022!  View the matchups, game times, fields, and divisions here!
