@@ -19,6 +19,6 @@ members:
 - Nick W.
 - Ryan Winter
 - Kevin Comerford (forever family member)
-division: ''
+division: Dirty Goose
 
 ---
