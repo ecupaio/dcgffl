@@ -19,6 +19,6 @@ members:
 - Joe Platte
 - Alex Santos
 - Patrick McIntyre (forever family member)
-division: ''
+division: Kiki
 
 ---
