@@ -18,6 +18,6 @@ members:
 - Johnathan S.
 - Jamar W.
 - Gideon Y.
-division: ''
+division: Dirty Goose
 
 ---

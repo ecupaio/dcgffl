@@ -19,6 +19,6 @@ members:
 - Jeremy Steslicki
 - Kirk Y.
 - Jordan Younger (forever family member)
-division: ''
+division: Dirty Goose
 
 ---
