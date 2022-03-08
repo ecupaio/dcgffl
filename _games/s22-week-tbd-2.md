@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S22 Week 2 - TBD 2
+title: S22 Week 1 - TBD 2
 teams-score:
 - team: _teams/tbd.md
   score: 
