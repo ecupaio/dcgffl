@@ -19,6 +19,6 @@ members:
 - Alex Valdes
 - Judson White
 - Danny Hughes (forever family member)
-division: ''
+division: Dirty Goose
 
 ---
