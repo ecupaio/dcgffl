@@ -19,6 +19,6 @@ members:
 - Del-Vaunte Scott
 - Kevin Smiffy
 - Eric Green (forever family member)
-division: ''
+division: Kiki
 
 ---
