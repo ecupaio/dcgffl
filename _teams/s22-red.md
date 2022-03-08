@@ -18,6 +18,6 @@ members:
 - Connor Starr
 - Adam Strasberg
 - Ashley Strong
-division: ''
+division: Kiki
 
 ---
