@@ -18,6 +18,6 @@ members:
 - Mariam Mehter
 - Tiger Richetti
 - Dan V.
-division: ''
+division: Kiki
 
 ---

@@ -18,6 +18,6 @@ members:
 - Jack M.
 - Trey P.
 - Dyonne W.
-division: ''
+division: Dirty Goose
 
 ---
