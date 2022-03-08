@@ -19,6 +19,6 @@ members:
 - Ivan Torres
 - Christopher Wooley
 - Marc Knobbe (forever family member)
-division: ''
+division: Kiki
 
 ---

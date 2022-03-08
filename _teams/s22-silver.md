@@ -20,6 +20,6 @@ members:
 - Kori S.
 - Brian Silverman
 - Richard Martin (forever family member)
-division: ''
+division: Kiki
 
 ---
