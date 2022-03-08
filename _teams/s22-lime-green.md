@@ -19,6 +19,6 @@ members:
 - Nick Vucovich
 - Ryan Whitelaw
 - Matt Nelson (forever family member)
-division: ''
+division: Dirty Goose
 
 ---
