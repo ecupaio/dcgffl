@@ -13,7 +13,6 @@ location:
   city: ''
   state: ''
   zip: 
-published: false
 
 ---
 The DCGFFL Women's travel team is hosting tryouts for the 2022 season. This year the Senators are looking to field TWO teams for the first time in our travel history. So come out and show us what you got!
