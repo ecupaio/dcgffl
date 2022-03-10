@@ -5,11 +5,11 @@ button:
   link: ''
 title: Women’s Travel Team Tryouts
 permalink: "/senators-tryouts-s22/"
-date: 
-time: ''
+date: 2022-03-27 14:00:00 -0400
+time: 2pm
 location:
-  name: ''
-  address: ''
+  name: Carter Barron Soccer Fields
+  address: Carter Barron Soccer Fields
   city: ''
   state: ''
   zip: 
