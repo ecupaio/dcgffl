@@ -2,7 +2,7 @@
 button:
   visible: true
   text: Register Here
-  link: bit.ly/dcsenators
+  link: http://bit.ly/dcsenators
 title: Women’s Travel Team Tryouts
 permalink: "/senators-tryouts-s22/"
 date: 2022-03-27 14:00:00 -0400
