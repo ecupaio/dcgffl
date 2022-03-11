@@ -1,6 +1,6 @@
 ---
 title: S22 - Lime Green
-name: ''
+name: Citrus Got Real
 color: Lime Green
 season: 22
 photo: "/img/s22_lime_green.jpeg"
