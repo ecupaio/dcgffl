@@ -18,7 +18,6 @@ members:
 - Charles Roth
 - Evan Ryan
 - Randy Snight
-- Lana P. (forever family member)
 division: Dirty Goose
 
 ---
