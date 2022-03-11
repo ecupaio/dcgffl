@@ -18,7 +18,8 @@ members:
 - Ashley R.
 - Nick Vucovich
 - Ryan Whitelaw
-- Matt Nelson (forever family member)
+- Matt Nelson (Forever Family member)
+- Lana P. (Forever Family member)
 division: Dirty Goose
 
 ---
