@@ -18,7 +18,7 @@ members:
 - Juan Felipe Quintero Moreno
 - Jim Roll
 - J. Mecha Santos
-- Desmond J. (forever family member)
+- Desmond J. (Forever Family member)
 division: Kiki
 
 ---
