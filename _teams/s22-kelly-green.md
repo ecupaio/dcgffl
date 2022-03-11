@@ -18,7 +18,7 @@ members:
 - Tadia R.
 - Del-Vaunte Scott
 - Kevin Smiffy
-- Eric Green (forever family member)
+- Eric Green (Forever Family member)
 division: Kiki
 
 ---

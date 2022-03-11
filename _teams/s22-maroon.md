@@ -18,7 +18,7 @@ members:
 - Sam P.
 - Jeremy Steslicki
 - Kirk Y.
-- Jordan Younger (forever family member)
+- Jordan Younger (Forever Family member)
 division: Dirty Goose
 
 ---
