@@ -18,7 +18,7 @@ members:
 - Stacey T.
 - Meghanne Tighe
 - Paul Whitney
-- Del Mcspadden (forever family member)
+- Del Mcspadden (Forever Family member)
 division: Kiki
 
 ---

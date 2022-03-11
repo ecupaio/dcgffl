@@ -18,7 +18,7 @@ members:
 - Tony Smith
 - Nick W.
 - Ryan Winter
-- Kevin Comerford (forever family member)
+- Kevin Comerford (Forever Family member)
 division: Dirty Goose
 
 ---
