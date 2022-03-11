@@ -18,7 +18,7 @@ members:
 - Ryan Stoffers
 - Ivan Torres
 - Christopher Wooley
-- Marc Knobbe (forever family member)
+- Marc Knobbe (Forever Family member)
 division: Kiki
 
 ---

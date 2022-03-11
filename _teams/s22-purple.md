@@ -18,7 +18,7 @@ members:
 - Kyle Oliver
 - Joe Platte
 - Alex Santos
-- Patrick McIntyre (forever family member)
+- Patrick McIntyre (Forever Family member)
 division: Kiki
 
 ---
