@@ -19,7 +19,7 @@ members:
 - Christopher Taste
 - Jamilah W.
 - Lindsey W.
-- Andrei J. (forever family member)
+- Andrei J. (Forever Family member)
 division: Dirty Goose
 
 ---
