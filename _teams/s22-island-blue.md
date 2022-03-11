@@ -1,6 +1,6 @@
 ---
-title: S22 - Island Blue
-name: ''
+title: S22 - Island Blue (Easy Lei)
+name: Easy Lei
 color: Island Blue
 season: 22
 photo: "/img/s22_island_blue.jpeg"
