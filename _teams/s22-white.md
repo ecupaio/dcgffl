@@ -18,7 +18,8 @@ members:
 - Andy Pratt
 - Lamar Rogers
 - Kent T.
-- Brad Allen (forever family member)
+- Brad Allen (Forever Family member)
+- Emory Rogers (Forever Family member)
 division: Dirty Goose
 
 ---
