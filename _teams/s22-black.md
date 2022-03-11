@@ -20,7 +20,7 @@ members:
 - Bryan Sanders
 - Ron S.
 - Diego U. S.
-- Kip Malcolm (forever family member)
+- Kip Malcolm (Forever Family member)
 division: Kiki
 
 ---
