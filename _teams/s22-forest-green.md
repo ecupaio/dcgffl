@@ -18,7 +18,7 @@ members:
 - Stacy Robinson
 - Alex Valdes
 - Judson White
-- Danny Hughes (forever family member)
+- Danny Hughes (Forever Family member)
 division: Dirty Goose
 
 ---
