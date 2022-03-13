@@ -28,6 +28,10 @@ In coordination with team captains, the Board is considering various options to 
 
 #### **Field Conditions**
 
-Here's a look at the frozen fields.  Stay warm today!  
+Here's a look at the frozen fields.  Stay warm today!  Warmer weather is on the way soon!
+
+![](/img/s22-week1-fields-frozen1.jpeg)
+
+![](/img/s22-week1-fields-frozen2.jpeg)
 
 ![](/img/s22-week1-fields-frozen.jpg)
