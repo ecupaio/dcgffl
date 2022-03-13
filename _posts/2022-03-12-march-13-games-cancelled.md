@@ -20,4 +20,14 @@ DCGFFL Season XXII drink specials:
 * TDG - $6 Deep Eddy, $4 Bud Light, or $20 mix match buckets Bud Light, Michelob Ultra, and Truly.
 * KiKi - full premium rail $7, Bud Light $4, and $20 mix match buckets Bud Light, Michelob Ultra, and Truly.
 
-Hope to see you tomorrow!
+Hope to see you on Sunday!
+
+#### **How will this affect the schedule?**
+
+In coordination with team captains, the Board is considering various options to adjust the schedule as a result of the cancellation.  We will work hard to get an updated schedule published by mid-week.  Stay tuned!
+
+#### **Field Conditions**
+
+Here's a look at the frozen fields.  Stay warm today!  
+
+![](/img/s22-week1-fields-frozen.jpg)
