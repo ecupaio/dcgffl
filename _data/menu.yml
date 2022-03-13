@@ -64,6 +64,6 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Playing this season?  [Meet your team at TAP](https://dcgffl.org/tap-season-22/)!  3/3
-    at 7pm at Pitchers.
-  show: false
+  text: "[March 13 Games Cancelled](https://dcgffl.org/s22-week1-cancel/), but Sunday
+    Funday still on!"
+  show: true
