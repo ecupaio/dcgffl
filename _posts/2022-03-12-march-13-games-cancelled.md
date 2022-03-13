@@ -33,5 +33,3 @@ Here's a look at the frozen fields.  Stay warm today!  Warmer weather is on the 
 ![](/img/s22-week1-fields-frozen1.jpeg)
 
 ![](/img/s22-week1-fields-frozen2.jpeg)
-
-![](/img/s22-week1-fields-frozen.jpg)
