@@ -5,7 +5,7 @@ permalink: "/s22-week1-cancel/"
 attachments: []
 
 ---
-### Games are canceled for week one, but Sunday Funday is still ON!
+### Games are CANCELED for week one, but Sunday Funday is still ON!
 
 #### **Sunday Fun Day!**
 
