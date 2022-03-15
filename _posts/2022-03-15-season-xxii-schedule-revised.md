@@ -7,8 +7,10 @@ attachments:
   file: "/img/dcgffl-season-xxii-schedule.pdf"
 
 ---
-See attached for the latest Season XXII Schedule of games for Spring 2022! REVISED March 15, 2022.
+See attached for the latest Season XXII Schedule of games for Spring 2022! **REVISED** March 15, 2022.
 
-View the matchups, game times, fields, and divisions here!
+The Week 1 games were rescheduled as a second doubleheader for each team, while largely preserving the rest of the schedule.  All rescheduled games are noted in bold and italicized text on the schedule.
+
+View the matchups, game times, fields, and divisions [here](/league/)!
 
 ![](/img/dcgffl_schedule_s22_revised.PNG)
