@@ -12,6 +12,7 @@ location:
   city: ''
   state: ''
   zip: ''
+permalink: "/s22-supp-reg/"
 
 ---
 Mark your calendars: Supplemental Registration for any players who missed out on joining in the regular registration period, but still want to play in Spring 2022 flag football, is coming up!
