@@ -24,7 +24,9 @@ Hope to see you on Sunday!
 
 #### **How will this affect the schedule?**
 
-In coordination with team captains, the Board is considering various options to adjust the schedule as a result of the cancellation.  We will work hard to get an updated schedule published by mid-week.  Stay tuned!
+In coordination with team captains, the Board considered various options to adjust the schedule as a result of the cancellation.  [**The updated schedule can be viewed here! **](/s22-schedule-rev/)
+
+The Week 1 games were rescheduled as a second doubleheader for each team, while largely preserving the rest of the schedule.  All rescheduled games are noted in bold and italicized text on the schedule.
 
 #### **Field Conditions**
 
