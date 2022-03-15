@@ -1,9 +1,9 @@
 ---
-date: 2022-03-08 08:43:41 -0500
+date: 2022-03-15 08:43:41 -0400
 title: Season XXII Schedule Revised
-permalink: "/s22-schedule/"
+permalink: "/s22-schedule-rev/"
 attachments:
-- title: Download Season 22 Schedule
+- title: Download Season 22 Revised Schedule
   file: "/img/dcgffl-season-xxii-schedule.pdf"
 
 ---
