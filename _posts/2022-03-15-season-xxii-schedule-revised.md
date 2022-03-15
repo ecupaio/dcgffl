@@ -7,6 +7,8 @@ attachments:
   file: "/img/dcgffl-season-xxii-schedule.pdf"
 
 ---
-See attached for the Season XXII Schedule of games for Spring 2022!  View the matchups, game times, fields, and divisions here!
+See attached for the latest Season XXII Schedule of games for Spring 2022! REVISED March 15, 2022. 
 
-![](/img/dcgffl-season-22-schedule.PNG)
+View the matchups, game times, fields, and divisions here!
+
+![](/img/5636d9ac-1368-434e-ac68-3588037d1f2d.jpeg)
