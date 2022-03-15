@@ -64,6 +64,5 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: "[March 13 Games Cancelled](https://dcgffl.org/s22-week1-cancel/), but Sunday
-    Funday still on!"
-  show: false
+  text: "[Revised schedule](/s22-schedule-rev/) for Spring 2022 published!"
+  show: true
