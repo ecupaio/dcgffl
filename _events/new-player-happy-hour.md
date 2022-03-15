@@ -21,8 +21,6 @@ DCGFFL invites both new and seasoned players to come out, meet new friends, and 
 
 If you like tacos, tequila, and titillating conversation, this event is for you!
 
-![](/img/s21_season_end-2.jpeg)
-
 ##### What: New Player Happy Hour!
 
 ##### When: Thursday March 24th, 7:00 to 10:00 pm
