@@ -113,10 +113,9 @@ $(function(){
     var email = $(this).find('.email').val();
     $.ajax({
       url: 'https://dcgffl.us16.list-manage.com/subscribe/post-json?u=44f118b44c71d10ae3076bec3&id=110054a516&subscribe=Subscribe&c=?',
-      type: 'GET',
+      type: 'POST',
       data: $(this).serialize(),
-      dataType: 'jsonp',
-      contentType: "application/json; charset=utf-8",
+      dataType: 'json',
       success: function(data) {
         console.log(data);
         if (data.result === 'error') {

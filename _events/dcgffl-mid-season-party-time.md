@@ -14,7 +14,7 @@ location:
   zip: 20002
 
 ---
-**Come join us for the mid-season party at Red Bear on** **Thursday,** **October 28, 2021 at 7 PM**. **Stay until close!**   
+**Come join us for the mid-season party at Red Bear on** **Thursday,** **October 28, 2021 at 7 PM**. **Stay until close!** 
   
 **Prizes...**
 
