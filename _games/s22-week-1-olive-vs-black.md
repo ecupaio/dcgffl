@@ -7,11 +7,12 @@ teams-score:
 - team: _teams/s22-black.md
   score: 
 field: "1"
-date: 2022-03-13 11:00:00 -0400
+date: 2022-03-13T11:00:00.000-04:00
 season: 22
 week: 1
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
