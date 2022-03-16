@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s22-white.md
   score: 
 field: "3"
-date: 2022-03-13 11:00:00 -0400
+date: 2022-03-13T11:00:00.000-04:00
 season: 22
 week: 1
 mvp: ''
