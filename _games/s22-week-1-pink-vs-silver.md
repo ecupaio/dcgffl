@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S22 Week 3 - Pink vs Silver
+title: S22 Week 3 - Super Pink vs Silver
 teams-score:
 - team: _teams/s22-super-pink.md
   score: 
