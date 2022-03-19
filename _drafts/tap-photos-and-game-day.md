@@ -5,7 +5,7 @@ permalink: "/s21-tap-photos/"
 attachments: []
 
 ---
-Remember when you met your team for the first time?? That was FUN. You know what will be even more fun? Playing with your team for the first time! Enjoy these memories from TAP to get yourself amped and ready to go for week 2, game 1 tomorrow! 
+Remember when you met your team for the first time?? That was FUN. You know what will be even more fun? Playing with your team for the first time! Enjoy these memories from TAP to get yourself amped and ready to go for the first spring games tomorrow! 
 
 A big thanks to Shawn King, photographer!  Link to full album below. Like what you see?? Post on social media and tag DCGFFL!
 
