@@ -1,24 +1,17 @@
 ---
-date: 2021-09-20T08:32:01.000-04:00
+date: 2022-03-19 00:00:00 -0400
 title: TAP Photos and Game Day!
 permalink: "/s21-tap-photos/"
 attachments: []
 
 ---
-Check out these amazing photos from the Team Announcement Party!  A big thanks to Shawn King, photographer!  Link to full album below:
+Remember when you met your team for the first time?? That was FUN. You know what will be even more fun? Playing with your team for the first time! Enjoy these memories from TAP to get yourself amped and ready to go for week 2, game 1 tomorrow! 
 
-##### [Season 21 TAP Photos](https://drive.google.com/drive/folders/1i3uNrUpwsuZ_7ccEHqqA-y3l31w3Utsg?usp=sharing)
+A big thanks to Shawn King, photographer!  Link to full album below. Like what you see?? Post on social media and tag DCGFFL!
+
+##### [Season 22 TAP Photos](https://drive.google.com/drive/folders/137J_e6L1Fn-_UendgyIBY6jzHA_7BYzQ)
 
 Here are some highlights!
 
-![](/img/s21_tap-4.jpeg)
-
-![](/img/s21_tap-3.jpeg)
-
-![](/img/s21_tap-6.jpeg)
-
-![](/img/s21_tap-1.jpeg)
-
-![](/img/s21_tap-2.jpeg)
-
-![](/img/s21_tap-5.jpeg)
+![](/img/season22_tap-2.jpeg)  
+![](/img/season22_tap-1.jpeg)
