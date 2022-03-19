@@ -12,3 +12,15 @@ A big thanks to Shawn King, photographer!  Link to full album below. Like what y
 #### Access [Season 22 TAP Photos](https://drive.google.com/drive/folders/137J_e6L1Fn-_UendgyIBY6jzHA_7BYzQ) Here!
 
 Here are some highlights!
+
+![](/img/s22_tap-4.jpeg)
+
+![](/img/s22_tap-8.jpeg)
+
+![](/img/s22_tap-6.jpeg)
+
+![](/img/s22_tap-5.jpeg)
+
+![](/img/s22_tap-9.jpeg)
+
+![](/img/s22_tap-1.jpeg)
