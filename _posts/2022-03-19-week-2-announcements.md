@@ -14,5 +14,6 @@ Hey footballers!  Who's ready for the first games?!?  This week's updates:
 * [New Player Happy Hour](/s22-nphh/) on Thursday March 24 at 7pm at new sponsor bar Salazar!
 * [RMC Home Buying Workshop](/s22-rmc/) on Monday April 4 at 6:30pm via Zoom!
 * [Photos from TAP](/s22-tap-photos/) published!
+* Coming soon: [Recreation League](/recreation-league/)!
 
 See you at Carter Barron for [Sunday morning football, March 20, 9:30-2pm!](/schedule/)  Head to our featured sponsors the Dirty Goose after the games, and to Kiki for the afterparty!
