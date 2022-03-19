@@ -13,6 +13,6 @@ Hey footballers!  Who's ready for the first games?!?  This week's updates:
 * Want to be involved as a social non-playing member?  [Forever Family Registration extended](/foreverfamily-season22/) through Sunday March 27 at 7pm!
 * [New Player Happy Hour](/s22-nphh/) on Thursday March 24 at 7pm at new sponsor bar Salazar!
 * [RMC Home Buying Workshop](/s22-rmc/) on Monday April 4 at 6:30pm via Zoom!
-* Photos from TAP published!
+* [Photos from TAP](/s22-tap-photos/) published!
 
-See you at Carter Barron for Sunday morning football, March 20, 9:30-2pm!  Head to our featured sponsors the Dirty Goose after the games, and to Kiki for the afterparty!
+See you at Carter Barron for [Sunday morning football, March 20, 9:30-2pm!](/schedule/)  Head to our featured sponsors the Dirty Goose after the games, and to Kiki for the afterparty!
