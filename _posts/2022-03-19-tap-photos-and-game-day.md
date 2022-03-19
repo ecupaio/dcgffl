@@ -1,7 +1,7 @@
 ---
 date: 2022-03-19 00:00:00 -0400
 title: TAP Photos and Game Day!
-permalink: "/s21-tap-photos/"
+permalink: "/s22-tap-photos/"
 attachments: []
 
 ---
