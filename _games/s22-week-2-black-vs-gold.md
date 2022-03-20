@@ -3,11 +3,11 @@ location: _locations/carter-baron.md
 title: S22 Week 2 - Black vs Gold
 teams-score:
 - team: _teams/s22-black.md
-  score: 
+  score: 33
 - team: _teams/s22-gold.md
   score: 
 field: "4"
-date: 2022-03-20 11:00:00 -0400
+date: 2022-03-20T11:00:00.000-04:00
 season: 22
 week: 2
 mvp: ''
