@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s22-olive.md
   score: 19
 - team: _teams/s22-black.md
-  score: 
+  score: 13
 field: "3"
 date: 2022-03-20T12:30:00.000-04:00
 season: 22
