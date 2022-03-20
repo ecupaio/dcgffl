@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s22-kelly-green.md
   score: 34
 - team: _teams/s22-olive.md
-  score: 
+  score: 7
 field: "1"
 date: 2022-03-20T11:00:00.000-04:00
 season: 22
