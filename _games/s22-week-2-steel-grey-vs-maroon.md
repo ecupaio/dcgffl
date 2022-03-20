@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s22-steel-grey.md
   score: 27
 - team: _teams/s22-maroon.md
-  score: 
+  score: 12
 field: "4"
 date: 2022-03-20T12:30:00.000-04:00
 season: 22
