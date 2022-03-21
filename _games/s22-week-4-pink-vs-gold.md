@@ -7,12 +7,11 @@ teams-score:
 - team: _teams/s22-gold.md
   score: 
 field: "4"
-date: 2022-04-03 09:30:00 -0400
+date: 2022-04-03T09:30:00.000-04:00
 season: 22
 week: 4
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
