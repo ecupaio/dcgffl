@@ -8,8 +8,8 @@ teams-score:
   score: 
 field: "2"
 date: 2022-04-03 09:30:00 -0400
-season: 
-week: 
+season: 22
+week: 4
 mvp: ''
 game-ball: ''
 sportsperson: ''
