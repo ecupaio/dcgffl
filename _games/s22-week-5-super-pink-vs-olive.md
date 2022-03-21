@@ -13,6 +13,5 @@ week: 5
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
