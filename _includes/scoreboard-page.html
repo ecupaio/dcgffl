@@ -9,8 +9,11 @@
     {% assign games = include.games %}
     {% assign teams = include.teams %}
     {% assign league = site.pages | where: "path", include.league | first %}
-    {% assign all-games = games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" %}
     {% assign last-week = league.week | minus: 1 %}
+    {% if last-week == 0 %}
+    {% assign last-week = 1 %}
+    {% endif %}
+    {% assign all-games = games | sort: date | reverse | where_exp: "item", "item.teams-score[0].score.size > 0" | %}
     {% assign current-games = all-games | where: "season", league.season | where: "week", last-week %}
     
     
@@ -24,16 +27,16 @@
           {{ league.scoreboard.no-scores }}
         </div>
         {% endif %}
-        {% for game in all-games %}
+        {% for game in current-games %}
         {% assign current-week = league.season | plus: last-week %}
         {% assign game-week = game.season | plus: game.week %}
         {%-capture display -%}
         {% if current-games.size == 0 %}
-        hidden
+        
         {% elsif game.week != last-week %}
-          hidden
+          
           {% if game.season != league.season %}
-          hidden 
+           
           {% endif %}
         {% endif %}
         {%- endcapture -%}
