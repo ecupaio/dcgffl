@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S22 Week 4 - Pink vs Gold
+title: S22 Week 4 - Super Pink vs Gold
 teams-score:
 - team: _teams/s22-super-pink.md
   score: 
