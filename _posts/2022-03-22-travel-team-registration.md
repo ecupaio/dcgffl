@@ -24,3 +24,5 @@ More information about the travel program can be viewed here: [https://dcgffl.or
 ![](/img/tp-commanders.jpeg)
 
 ![](/img/tp-deltaforce.jpeg)
+
+![](/img/2021-07-10-avengers-pride-bowl.jpeg)
