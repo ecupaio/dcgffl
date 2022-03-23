@@ -14,3 +14,5 @@ This season's game dates are Fridays April 8, April 22, April 29 (regular games)
 Spring 2022 Recreation League Registration will open on Wednesday, March 23, at 7pm! At that time, [refresh the registration link](https://forms.gle/41VzGUi7M1pxechCA) until the form is active.
 
 #### [Register here](https://forms.gle/41VzGUi7M1pxechCA) starting March 23 at 7pm!
+
+![](/img/rec-option.jpg)
