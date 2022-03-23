@@ -1,15 +1,14 @@
 ---
-date: 2021-09-16T11:41:33.000-04:00
+date: 2022-03-23 17:40:33 -0400
 title: Register for the Recreation League!
 attachments: []
+permalink: "/s22-rec-register/"
 
 ---
-## Recreation League Registration is OPEN!
+## Recreation League Registration!
 
-**Sign up** [**HERE**](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=7570d24952&e=c3641de19c)**.**
+The Recreation League is a supplemental league that runs in tandem with the regular league. It is primarily for those who want to develop their skills, try new positions, or try out the DCGFFL for the first time (but Recreation League is not a prerequisite!). The Recreation League is open to everyone - FREE for those playing in the Sunday League, and $35 for all others!
 
-OPEN TODAY - FRIDAY, SEPT. 24.
+This season's game dates are Fridays April 8, April 22, April 29 (regular games), and May 6 (playoffs and championship game). Games begin at 6:30 PM, and warm-ups may begin as early as 6 PM.  This season's regular games will be played at Brentwood Hamilton Park, located at Brentwood Hamilton Park, 1300 6th St NE, Washington, DC 20002. The playoffs and championship game will be played at The Fields at RFK Campus, 401 Oklahoma Ave NE, Washington, DC 20002.
 
-Recreation League games begin on Friday, October 8th! This season's games will be played at Trinidad Recreation Center, located at 1310 Childress St. NE, Washington, DC 20002.
-
-This season's game dates are October 8, 15, and 22. The playoffs and championship game will occur on October 29. We will provide information on game start times in our next weekly email.
+Spring 2022 Recreation League Registration will open on Wednesday, March 23, at 7pm! At that time, refresh the registration link until the form is active.  
