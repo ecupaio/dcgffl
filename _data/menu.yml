@@ -64,6 +64,5 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: "[Supplemental Registration](/s22-supp-reg/) for Spring 2022 flag football
-    is open!"
-  show: false
+  text: Registration for [Travel Teams](/2022-travel-reg/) is open!
+  show: true
