@@ -10,7 +10,7 @@ field: "3"
 date: 2022-03-20T09:30:00.000-04:00
 season: 22
 week: 2
-mvp: ''
+mvp: Fernando
 game-ball: ''
 sportsperson: ''
 
