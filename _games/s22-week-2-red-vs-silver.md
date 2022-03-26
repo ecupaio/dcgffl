@@ -12,6 +12,6 @@ season: 22
 week: 2
 mvp: Kevin P, Christine H
 game-ball: Dick N, Christine H
-sportsperson: Alex F, Wilkes
+sportsperson: Alex E, Wilkes
 
 ---
