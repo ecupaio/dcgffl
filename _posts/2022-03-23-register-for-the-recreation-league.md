@@ -15,4 +15,6 @@ Spring 2022 Recreation League Registration will open on Wednesday, March 23, at 
 
 #### [Register here](https://forms.gle/41VzGUi7M1pxechCA) starting March 23 at 7pm!
 
+Registration will close Sunday, April 3, at midnight!
+
 ![](/img/rec-option.jpg)
