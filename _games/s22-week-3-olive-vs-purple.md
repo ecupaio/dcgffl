@@ -3,7 +3,7 @@ location: _locations/carter-baron.md
 title: S22 Week 3 - Olive vs Purple
 teams-score:
 - team: _teams/s22-olive.md
-  score: 
+  score: 21
 - team: _teams/s22-purple.md
   score: 
 field: "2"
