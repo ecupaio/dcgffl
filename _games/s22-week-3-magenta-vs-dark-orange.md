@@ -10,8 +10,8 @@ field: "3"
 date: 2022-03-27T11:00:00.000-04:00
 season: 22
 week: 3
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: 'Derrick J, '
+game-ball: Ethan, Chase
+sportsperson: Joe, Evan
 
 ---
