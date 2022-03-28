@@ -1,6 +1,6 @@
 ---
 title: S22 - White
-name: ''
+name: Wonder Bred
 color: White
 season: 22
 photo: "/img/s22_white.jpeg"
