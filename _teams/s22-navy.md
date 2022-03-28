@@ -1,6 +1,6 @@
 ---
 title: S22 - Navy
-name: ''
+name: Boats 'N' Hoes
 color: Navy
 season: 22
 photo: "/img/s22_navy.jpeg"

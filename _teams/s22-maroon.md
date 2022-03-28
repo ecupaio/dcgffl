@@ -1,6 +1,6 @@
 ---
 title: S22 - Maroon
-name: ''
+name: MaroonPauls Drag Race
 color: Maroon
 season: 22
 photo: "/img/s22_maroon.jpeg"

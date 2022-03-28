@@ -1,6 +1,6 @@
 ---
 title: S22 - Olive
-name: ''
+name: Shaken Not Stirred
 color: Olive
 season: 22
 photo: "/img/s22_olive.jpeg"
