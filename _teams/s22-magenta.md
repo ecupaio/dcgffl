@@ -1,6 +1,6 @@
 ---
-title: S22 - Magenta
-name: ''
+title: S22 - Magenta (μgenta Variant)
+name: μgenta Variant
 color: Magenta
 season: 22
 photo: "/img/s22_magenta.jpeg"
