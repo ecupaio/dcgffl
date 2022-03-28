@@ -10,8 +10,8 @@ field: "1"
 date: 2022-03-27T12:30:00.000-04:00
 season: 22
 week: 3
-mvp: ''
-game-ball: ''
+mvp: Ocho, Nick
+game-ball: Shaq B, Ryan
 sportsperson: ''
 
 ---
