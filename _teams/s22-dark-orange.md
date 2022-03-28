@@ -1,6 +1,6 @@
 ---
-title: S22 - Dark Orange
-name: ''
+title: S22 - Dark Orange (Orange Queery)
+name: Orange Queery
 color: Dark Orange
 season: 22
 photo: "/img/s22_dark_orange.jpeg"

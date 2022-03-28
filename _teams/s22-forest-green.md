@@ -1,6 +1,6 @@
 ---
-title: S22 - Forest Green
-name: ''
+title: S22 - Forest Green (Fwhorest Queens)
+name: Fwhorest Queens
 color: Forest Green
 season: 22
 photo: "/img/s22_forest_green.jpeg"
