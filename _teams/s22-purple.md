@@ -1,5 +1,5 @@
 ---
-title: S22 - Purple
+title: S22 - Purple (Peritwinkle)
 name: Peritwinkle
 color: Purple
 season: 22

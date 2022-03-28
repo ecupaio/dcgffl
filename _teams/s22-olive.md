@@ -1,5 +1,5 @@
 ---
-title: S22 - Olive
+title: S22 - Olive (Shaken Not Stirred)
 name: Shaken Not Stirred
 color: Olive
 season: 22
