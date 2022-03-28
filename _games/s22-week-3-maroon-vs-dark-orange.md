@@ -3,11 +3,11 @@ location: _locations/carter-baron.md
 title: S22 Week 3 - Maroon vs Dark Orange
 teams-score:
 - team: _teams/s22-maroon.md
-  score: 
+  score: 20
 - team: _teams/s22-dark-orange.md
-  score: 
+  score: 13
 field: "3"
-date: 2022-03-27 12:30:00 -0400
+date: 2022-03-27T12:30:00.000-04:00
 season: 22
 week: 3
 mvp: ''
