@@ -1,6 +1,6 @@
 ---
 title: S22 - Kelly Green
-name: ''
+name: "\U0001F951"
 color: Kelly Green
 season: 22
 photo: "/img/s22_kelly_green.jpeg"
