@@ -10,8 +10,8 @@ field: "4"
 date: 2022-03-27T11:00:00.000-04:00
 season: 22
 week: 3
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Nikki K, Wilkes C
+game-ball: Daniel B, Kori S
+sportsperson: Cam M, Oliver J
 
 ---
