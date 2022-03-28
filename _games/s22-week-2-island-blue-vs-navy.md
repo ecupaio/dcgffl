@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s22-island-blue.md
   score: 34
 - team: _teams/s22-navy.md
-  score: 
+  score: 0
 field: "2"
 date: 2022-03-20T09:30:00.000-04:00
 season: 22
