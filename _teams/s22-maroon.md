@@ -1,5 +1,5 @@
 ---
-title: S22 - Maroon
+title: S22 - Maroon (MaroonPauls Drag Race)
 name: MaroonPauls Drag Race
 color: Maroon
 season: 22

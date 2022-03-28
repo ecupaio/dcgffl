@@ -1,5 +1,5 @@
 ---
-title: S22 - Navy
+title: S22 - Navy (Boats 'N' Hoes)
 name: Boats 'N' Hoes
 color: Navy
 season: 22

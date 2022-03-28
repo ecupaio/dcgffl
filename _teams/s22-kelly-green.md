@@ -1,5 +1,5 @@
 ---
-title: S22 - Kelly Green
+title: "S22 - Kelly Green (\U0001F951)"
 name: "\U0001F951"
 color: Kelly Green
 season: 22
