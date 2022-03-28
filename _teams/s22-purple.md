@@ -1,6 +1,6 @@
 ---
 title: S22 - Purple
-name: ''
+name: Peritwinkle
 color: Purple
 season: 22
 photo: "/img/s22_purple.jpeg"
