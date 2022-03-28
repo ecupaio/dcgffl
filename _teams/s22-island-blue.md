@@ -1,5 +1,5 @@
 ---
-title: S22 - Island Blue
+title: S22 - Island Blue (Easy Lei)
 name: Easy Lei
 color: Island Blue
 season: 22

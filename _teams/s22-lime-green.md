@@ -1,5 +1,5 @@
 ---
-title: S22 - Lime Green
+title: S22 - Lime Green (Citrus Got Real)
 name: Citrus Got Real
 color: Lime Green
 season: 22
