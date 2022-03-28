@@ -10,8 +10,8 @@ field: "1"
 date: 2022-03-27T11:00:00.000-04:00
 season: 22
 week: 3
-mvp: ''
-game-ball: ''
+mvp: Michael B, Fernando H
+game-ball: Keaton F, Alex P
 sportsperson: ''
 
 ---
