@@ -1,6 +1,6 @@
 ---
-title: S22 - Gold
-name: ''
+title: S22 - Gold (DC Gay Flag Football Team)
+name: DC Gay Flag Football Team
 color: Gold
 season: 22
 photo: "/img/s22_gold.jpeg"
