@@ -10,8 +10,8 @@ field: "2"
 date: 2022-03-27T12:30:00.000-04:00
 season: 22
 week: 3
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Kevin P, Charles D
+game-ball: Dick N, Aaron B
+sportsperson: Dwaylan A, Brian S
 
 ---
