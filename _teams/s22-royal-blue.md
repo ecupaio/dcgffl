@@ -1,6 +1,6 @@
 ---
 title: S22 - Royal Blue
-name: ''
+name: Gaystar Royalco
 color: Royal Blue
 season: 22
 photo: "/img/s22_royal_blue.jpeg"

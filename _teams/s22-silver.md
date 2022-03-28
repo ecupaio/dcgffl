@@ -1,6 +1,6 @@
 ---
 title: S22 - Silver
-name: ''
+name: Chrome Wreckers
 color: Silver
 season: 22
 photo: "/img/s22_silver.jpeg"
