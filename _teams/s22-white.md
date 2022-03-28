@@ -1,5 +1,5 @@
 ---
-title: S22 - White
+title: S22 - White (Wonder Bred)
 name: Wonder Bred
 color: White
 season: 22

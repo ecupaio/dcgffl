@@ -1,5 +1,5 @@
 ---
-title: S22 - Super Pink
+title: S22 - Super Pink (Super Pwinks)
 name: Super Pwinks
 color: Super Pink
 season: 22

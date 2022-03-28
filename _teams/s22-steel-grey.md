@@ -1,5 +1,5 @@
 ---
-title: S22 - Steel Grey
+title: S22 - Steel Grey (Buns of Steel)
 name: Buns of Steel
 color: Steel Grey
 season: 22
