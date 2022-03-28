@@ -1,6 +1,6 @@
 ---
 title: S22 - Red
-name: ''
+name: Taylor's Version
 color: Red
 season: 22
 photo: "/img/s22_red.jpeg"
