@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s22-kelly-green.md
   score: 26
 - team: _teams/s22-super-pink.md
-  score: 
+  score: 12
 field: "3"
 date: 2022-03-27T09:30:00.000-04:00
 season: 22
