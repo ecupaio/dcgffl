@@ -1,6 +1,6 @@
 ---
 title: S22 - Super Pink
-name: ''
+name: Super Pwinks
 color: Super Pink
 season: 22
 photo: "/img/s22_pink.jpeg"
