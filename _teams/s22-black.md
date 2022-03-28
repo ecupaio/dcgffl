@@ -1,6 +1,6 @@
 ---
-title: S22 - Black
-name: ''
+title: S22 - Black (My Neck, My Black)
+name: My Neck, My Black
 color: Black
 season: 22
 photo: "/img/s22_black.jpeg"
