@@ -7,11 +7,11 @@ teams-score:
 - team: _teams/s22-purple.md
   score: 
 field: "2"
-date: 2022-03-27 09:30:00 -0400
+date: 2022-03-27T09:30:00.000-04:00
 season: 22
 week: 3
-mvp: ''
-game-ball: ''
+mvp: Kevin, Mecha
+game-ball: 'Joey, '
 sportsperson: ''
 
 ---
