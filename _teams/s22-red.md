@@ -1,5 +1,5 @@
 ---
-title: S22 - Red
+title: S22 - Red (Taylor's Version)
 name: Taylor's Version
 color: Red
 season: 22

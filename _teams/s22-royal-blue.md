@@ -1,5 +1,5 @@
 ---
-title: S22 - Royal Blue
+title: S22 - Royal Blue (Gaystar Royalco)
 name: Gaystar Royalco
 color: Royal Blue
 season: 22

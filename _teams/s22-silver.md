@@ -1,5 +1,5 @@
 ---
-title: S22 - Silver
+title: S22 - Silver (Chrome Wreckers)
 name: Chrome Wreckers
 color: Silver
 season: 22
