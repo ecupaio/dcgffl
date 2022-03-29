@@ -21,8 +21,8 @@ DCGFFL has had the privilege of working with dedicated sponsor Residential Mortg
 
 **Please feel free to share this event with friends!**
 
-**Please join Residential Mortgage Center Inc and Margie Hofberg on Monday, April 4th at 6:30 PM.   
-  
-Join the Zoom call here:** [https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09](https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09 "https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09")
+##### Please join Residential Mortgage Center Inc and Margie Hofberg on Monday, April 4th at 6:30 PM. 
 
-![](/img/rmc_logo.jpg)
+#### Join the Zoom call here:** [https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09](https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09 "https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09")
+
+#### ![](/img/rmc_logo.jpg)
