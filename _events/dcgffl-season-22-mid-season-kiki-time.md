@@ -15,7 +15,9 @@ location:
   zip: 20001
 
 ---
-Let's have a kiki! Come join us for the mid-season party at Kiki on Thursday, April 7th!
+### Let's have a kiki! 
+
+Come join us for the mid-season party at Kiki on Thursday, April 7th!
 
 Theme: OPEN DRAG SHOW (pending participation)! Please email Amanda Dafonte (social director) at [amanda.d.dafonte@gmail.com](mailto:amanda.d.dafonte@gmail.com) if you are interested in slaying.
 
