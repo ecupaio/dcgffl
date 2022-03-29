@@ -12,7 +12,7 @@ location:
   city: ''
   state: ''
   zip: 
-permalink: https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09
+permalink: "/RMC-101-S22/"
 
 ---
 Have questions about the Real Estate Market in Washington D.C.? Thinking about buying a home but have never thought about where or when to apply for a mortgage? Whether you are curious about the mortgage process for that dream condo you hope to buy in 10 years, or you are ready to buy next week, this event is for you!
