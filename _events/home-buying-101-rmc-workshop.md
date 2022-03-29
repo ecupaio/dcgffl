@@ -19,10 +19,10 @@ Have questions about the Real Estate Market in Washington D.C.? Thinking about b
 
 DCGFFL has had the privilege of working with dedicated sponsor Residential Mortgage Center, Inc. and Margie Hofberg, proud parent of league player Mark, over the past few years.
 
-**Please feel free to share this event with friends!**
+##### **Please feel free to share this event with friends!**
 
-##### Please join Residential Mortgage Center Inc and Margie Hofberg on Monday, April 4th at 6:30 PM. 
+Please join Residential Mortgage Center Inc and Margie Hofberg on Monday, April 4th at 6:30 PM. 
 
-#### Join the Zoom call here:** [https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09](https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09 "https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09")
+#### Join the Zoom call here: [https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09](https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09 "https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09")
 
 #### ![](/img/rmc_logo.jpg)
