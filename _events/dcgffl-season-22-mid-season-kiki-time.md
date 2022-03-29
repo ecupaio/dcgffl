@@ -23,3 +23,5 @@ Theme: OPEN DRAG SHOW (pending participation)! Please email Amanda Dafonte (soci
 
 * _Best Team Attendance:_ **$200 gift card for a team event at Yard House**.
 * _Drag Show Winner:_ **$50 gift card to Yard House**
+
+![](/img/s22_midseason_promo.jpg)
