@@ -4,7 +4,8 @@ button:
   text: Check out the Facebook event
   link: https://fb.me/e/2nRjUbg9d
 title: DCGFFL Season 22 Mid-Season Kiki Time!
-date: 2001-04-07 00:00:00 -0400
+permalink: "/S22-midseason-party/"
+date: 2022-04-07 19:00:00 -0400
 time: 7:00 pm - 10:00 pm
 location:
   name: Kiki
