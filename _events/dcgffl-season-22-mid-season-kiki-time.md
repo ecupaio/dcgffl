@@ -17,10 +17,9 @@ location:
 ---
 Let's have a kiki! Come join us for the mid-season party at Kiki on Thursday, April 7th!
 
-Theme: OPEN DRAG SHOW (pending participation)! Please email Amanda Dafonte (social director) at amanda.d.dafonte@gmail.com if you are interested in slaying.
+Theme: OPEN DRAG SHOW (pending participation)! Please email Amanda Dafonte (social director) at [amanda.d.dafonte@gmail.com](mailto:amanda.d.dafonte@gmail.com) if you are interested in slaying.
 
-Prizes…
+#### Prizes:
 
-Best Attendance at Mid-Season Party: $200 gift card for a team event at Yard House.
-
-DCGFFLs Drag Show Winner: $50 gift card to Yard House
+* _Best Team Attendance:_ **$200 gift card for a team event at Yard House**.
+* _Drag Show Winner:_ **$50 gift card to Yard House**
