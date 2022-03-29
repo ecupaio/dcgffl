@@ -27,19 +27,13 @@
           {{ league.scoreboard.no-scores }}
         </div>
         {% endif %}
-        {% for game in current-games %}
-        {% assign current-week = league.season | plus: last-week %}
-        {% assign game-week = game.season | plus: game.week %}
-        {%-capture display -%}
-        {% if current-games.size == 0 %}
+        {% for game in all-games %}
         
-        {% elsif game.week != last-week %}
-          
-          {% if game.season != league.season %}
-           
-          {% endif %}
-        {% endif %}
-        {%- endcapture -%}
+        {% unless game.week == last-week and game.season == league.season %}
+          {% assign display = 'hidden' %}
+        {% endunless %}
+        
+        
         
         <div class="game {{ display }}" data-week="Season {{ game.season}} Week {{ game.week}}" >
           <div class="teams">
