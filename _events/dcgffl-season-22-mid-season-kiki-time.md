@@ -12,7 +12,6 @@ location:
   city: Washington
   state: DC
   zip: 20001
-published: false
 
 ---
 Let's have a kiki! Come join us for the mid-season party at Kiki on Thursday, April 7th!
