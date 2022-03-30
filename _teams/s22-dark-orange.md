@@ -18,6 +18,7 @@ members:
 - Charles Roth
 - Evan Ryan
 - Randy Snight
+- Alexander Viadero (Forever Family member)
 division: Dirty Goose
 
 ---
