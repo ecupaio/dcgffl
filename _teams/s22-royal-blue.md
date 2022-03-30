@@ -13,6 +13,7 @@ members:
 - Pete D.
 - Joshua Estryn
 - Chris Gillyard
+- Dinora H.
 - John K.
 - Jeff R.
 - Ryan Stoffers
