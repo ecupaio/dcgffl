@@ -15,9 +15,11 @@ members:
 - Nolan L.
 - Mel Malguy
 - Jason Mascelli
+- Stephanie McDaniel
 - Mariam Mehter
 - Tiger Richetti
 - Dan V.
+- Camilo Apolinares (Forever Family member)
 division: Kiki
 
 ---
