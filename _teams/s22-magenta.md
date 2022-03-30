@@ -7,6 +7,7 @@ photo: "/img/s22_magenta.jpeg"
 captain: Derrick Johnson
 quarterback: AJ Reust
 members:
+- Freddie Ball
 - Andrew Carr
 - Greg C.
 - Zachary Gianelle
@@ -18,6 +19,7 @@ members:
 - Johnathan S.
 - Jamar W.
 - Gideon Y.
+- Daniel Lebiednik (Forever Family member)
 division: Dirty Goose
 
 ---
