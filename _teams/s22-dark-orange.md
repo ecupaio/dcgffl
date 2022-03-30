@@ -11,6 +11,7 @@ members:
 - Divante B.
 - Chase Castillo
 - Marek Malysa
+- Noah M.
 - Joe Owens
 - Andy Packey
 - Samantha P.
