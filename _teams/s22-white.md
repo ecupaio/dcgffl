@@ -11,6 +11,7 @@ members:
 - Gabriel Hernandez
 - Fernando Herrera
 - Jeff M.
+- Adam M.
 - Andrew M.
 - Obie McNair
 - Alex P.
