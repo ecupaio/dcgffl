@@ -17,6 +17,7 @@ members:
 - Jay M.
 - Jack M.
 - Trey P.
+- Tony Stewart
 - Dyonne W.
 division: Dirty Goose
 
