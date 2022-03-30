@@ -8,6 +8,7 @@ captain: JC Adams
 quarterback: Cameron M.
 members:
 - Daniel B.
+- Sam Cramer
 - Hunter F.
 - Antonio H.
 - Derrick Holt
