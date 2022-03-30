@@ -16,8 +16,10 @@ members:
 - Twon H.
 - Kyle Miller
 - Sam P.
+- Darryl P.
 - Jeremy Steslicki
 - Kirk Y.
+- Donald Mitchell (Forever Family member)
 - Jordan Younger (Forever Family member)
 division: Dirty Goose
 
