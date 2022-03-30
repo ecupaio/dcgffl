@@ -19,6 +19,7 @@ members:
 - Oliver K.
 - Kori S.
 - Brian Silverman
+- Harry Suchyta
 - Richard Martin (Forever Family member)
 division: Kiki
 
