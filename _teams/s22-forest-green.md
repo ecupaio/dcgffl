@@ -17,6 +17,7 @@ members:
 - John Riley
 - Stacy Robinson
 - Alex Valdes
+- Mike W.
 - Judson White
 - Danny Hughes (Forever Family member)
 division: Dirty Goose
