@@ -7,6 +7,7 @@ photo: "/img/s22_black.jpeg"
 captain: Joe H.
 quarterback: Pat Shilo
 members:
+- Michael A.
 - 'Aaron Beck
 
   '
