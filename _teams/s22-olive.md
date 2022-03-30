@@ -7,6 +7,7 @@ photo: "/img/s22_olive.jpeg"
 captain: Mike Osorio
 quarterback: Matthew Cline
 members:
+- Clay Arnold
 - Isaiah B.
 - Tucker Biffel
 - Joey C.
