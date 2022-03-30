@@ -7,6 +7,7 @@ photo: "/img/s22_purple.jpeg"
 captain: JC Chiuco
 quarterback: Zach Brown
 members:
+- Austin A.
 - Benjamin Behrmann
 - Will Besl
 - Drew Crane

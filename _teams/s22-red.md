@@ -13,6 +13,7 @@ members:
 - Alex E.
 - Bob Hukill
 - Michael K.
+- Shayne Madella
 - Richard Nulanz
 - Kevin Penny
 - Connor Starr
