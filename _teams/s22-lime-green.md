@@ -10,8 +10,11 @@ members:
 - Bobby Baldwin
 - Sean Bartel
 - Emily B.
+- Bryan B.
 - Bill Cammas
 - Mario C.
+- Matt Devino
+- Sean Dickson
 - Jordan J.
 - Thomas L.
 - Leo Lutz
