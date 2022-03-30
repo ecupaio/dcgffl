@@ -9,6 +9,7 @@ quarterback: Austin Plier
 members:
 - Andy Allen
 - Munroe Bell-Rose
+- Kyle Butts
 - Amanda Dafonte
 - Logan Dawson
 - Ben Jennings
