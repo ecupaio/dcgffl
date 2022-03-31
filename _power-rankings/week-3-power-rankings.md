@@ -76,7 +76,7 @@ rankings:
   text: |-
     Fwhorest Queens? Or Drama Queens? Somebody call Bravo, I think we’ve found the Real Housewives of DCGFFL. Levert, Quinn and John Riley have all earned their spot on the show due to arguing with the refs. Let's hope Forest Green and the refs are on the same page by the mid-season party.
 
-    ![](https://lh6.googleusercontent.com/1sPOJyn3A9l7MVvIsfGOb2rxKiSyd2_-SKpcn8gzZaEoauf_Cwv3PmzSWoMK9am1gSNcITeUhMITR72aI8N2qiYGofAG29oqsW4iEgXnhjLABJFxtlFpX4SicJXYwM1RO3QptlEG =347x196)
+    ![Team Hell No GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/ki1X172sb8x7uLyfYl/giphy.gif)
 - team: _teams/s22-silver.md
   record: 1-2
   text: |-
