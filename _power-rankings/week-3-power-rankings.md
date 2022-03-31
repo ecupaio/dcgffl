@@ -70,7 +70,7 @@ rankings:
   text: |-
     Look out for this rookie captain and QB duo, we're all wondering if the new girls can lead their team to the championship
 
-    ![](https://lh6.googleusercontent.com/W7gLIoiXqnKhOEJGQrS9gyWR87I1M7Ko0DxO99R6EQAxni2ZB3TIBdMYMLWK20H1_b0G-2mr4wD6l-5zl_-K8wDFqFETfYz5F2UyHTZBKW_pK5QSoOlzQ-9-ntp-_f4qAozNBxJo =292x292)
+    ![Bring It On GIFs | Tenor](https://c.tenor.com/kT-R7bu3f8gAAAAM/dwayne-johnson-bring-it-on.gif)
 - team: _teams/s22-forest-green.md
   record: 1-1
   text: |-
