@@ -49,10 +49,10 @@ rankings:
     ![Mathematics GIFs - Get the best GIF on GIPHY](https://media2.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 - team: _teams/s22-island-blue.md
   record: 2-1
-  text: "Don’t be fooled by the 36-0 score people. Easy lei had a beachy Sunday this
-    week, Lime decided not to show up. Let’s see next week if they can win with a
-    full roster on the opposing sideline.\n\n  \n![](https://lh5.googleusercontent.com/sdwUlI0iB1QXCMhmJisVdZgdJCcHAP6VDwfNsCYi09iPlYa-kg61GzxJxSvxUh66S0CjBXXzNaQ0WeY2fFP8yn-bdarijJk9mRzgEuSD_TiJOkaBxjKfyitbUL5ItVLli1W3J4oo
-    =330x186)"
+  text: |-
+    Don’t be fooled by the 36-0 score people. Easy lei had a beachy Sunday this week, Lime decided not to show up. Let’s see next week if they can win with a full roster on the opposing sideline.
+
+    ![GIF editingandlayout unflappable unfazed - animated GIF on GIFER - by  Doomfang](https://i.gifer.com/2e4.gif)
 - team: _teams/s22-magenta.md
   record: 1-2
   text: |-
