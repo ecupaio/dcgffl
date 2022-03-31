@@ -115,6 +115,5 @@ rankings:
   text: "… I know you lying. I get it, it was cold… Really? No-one wanted to show
     up?\n\n  \n![](https://lh3.googleusercontent.com/lU0nxvkHNGdMO1kwjQH4LeEooO8KuoFZkHNY9uRsax19nGNSdD7BzBpNwr04ZrKNCN2RPmho21LNhexIBS0KwtIkksrNMHA34xuItoc-d_V2XEucg4vzxGsDIJ_uV4B74LrA9jOx
     =245x245)"
-published: false
 
 ---
