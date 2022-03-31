@@ -112,6 +112,6 @@ rankings:
   text: |-
     … I know you lying. I get it, it was cold… Really? No-one wanted to show up?
 
-    ![Viola Davis GIFs | Tenor](https://c.tenor.com/z2lZXHT2aIcAAAAM/what-does-my-expression-say-pissed.gif)
+    ![Disappointed Nope GIF - Disappointed Nope Viola Davis - Discover & Share  GIFs](https://c.tenor.com/50EVoeKHRBYAAAAC/disappointed-nope.gif)
 
 ---
