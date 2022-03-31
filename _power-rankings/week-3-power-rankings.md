@@ -28,7 +28,7 @@ rankings:
   text: |-
     You might have missed this game because you were busy watching another or playing in your own, but we all heard Sean Karson’s excitement this weekend. He finally got a good one, eh? All jokes aside this team put forth an amazing game with star performances by Josh Estryn and Ivan Torres
 
-    ![](https://lh6.googleusercontent.com/BNImpI0iUw5NAaiLmA3JqWZHJ3h1UGBni6QgBJmbDcnBmrkA6oFFmHF_nh3vP2dNvpTOVrdFoqOc6ySTICfuQtl0yi1SZUgQKUZaJdhKEe1zqekT4nl3at1TRV-mJMVVJmFVp-R4 =300x169)
+    ![New party member! Tags: funny happy basketball nba celebration fans  warriors gsw dance cam dancing fans boogie times | Bad dancing, Giphy, Nba  funny](https://i.pinimg.com/originals/9f/cb/dd/9fcbdd10d872804f7d180e1a19262fa1.gif)
 - team: _teams/s22-gold.md
   record: 2-0
   text: |-
