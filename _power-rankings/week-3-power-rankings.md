@@ -58,7 +58,7 @@ rankings:
   text: |-
     We usually encourage players to go to a boozy brunch AFTER their game, but at least AJ showed up! We can’t say the same thing about their star player Greg Carter. I hope he doesn’t have the μgenta Variant.
 
-    ![](https://lh4.googleusercontent.com/GUO7wythSdEd5o8Gg8nIEnxApbuTdQDok2RwyKtKV7NCPIz3bmPEmbIqTAXfKkS2zxvgsn2tsLsQ5bW2W1XeN3S35KDOBQFEH5gjDEVyAOk9hRZtVhi5ftWEUJp7iR2NEyLMe4KX =346x194)
+    ![Where You At GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/oX8TgJ957YFETDKYqB/giphy.gif)
 - team: _teams/s22-dark-orange.md
   record: 2-1
   text: |-
