@@ -46,7 +46,7 @@ rankings:
   text: |-
     I don’t know what’s more peculiar. Matt Cline rushing or Mike Osorio signing the ref’s scorecard that his team lost when they indeed won. Maybe Mike should take his Martinis stirred not shaken because something wasn’t clicking, but at least it was on the field!
 
-    ![](https://lh5.googleusercontent.com/q3Uw1qsPmqwp2Dm_YPZr5mm9TnL99M9m5oClNZweL3rXd5i_BPA6XO-456MGA4dJc6fprxbydZh8GBsKhsSJi0uGeU8z2OaOb2xvCAxngS6YfV4moEDKzEh_7eBMGKmk1H6ik5xh =350x195)
+    ![Mathematics GIFs - Get the best GIF on GIPHY](https://media2.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 - team: _teams/s22-island-blue.md
   record: 2-1
   text: "Don’t be fooled by the 36-0 score people. Easy lei had a beachy Sunday this
