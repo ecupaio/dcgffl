@@ -5,6 +5,27 @@ author: Shaq Brooks
 season: 22
 week: 3
 rankings:
+- team: []
+  record: ''
+  text: ''
+- team: _teams/s22-dark-orange.md
+  record: 2-1
+  text: |-
+    Last year's champion captain was able to pull out 1 win and one loss, we’ll see if his on the field marriage can produce enough chemistry to get another championship!
+
+    ![](https://lh3.googleusercontent.com/MOYV3teOpdHA6XS3eMjcVbNjr7NlUzNtvTgpHOyE5OXGqfC4uqmkKR3GFUGwvdiz5x2Ua6yo7tjJULmaVFhIoML0WiKHvXWcEfEyjB6jcfk6DtP0Qd6ycgg3XSFLIjMNhTyhEUix =354x218)
+- team: _teams/s22-white.md
+  record: 1-1
+  text: |-
+    Look out for this rookie captain and QB duo, we're all wondering if the new girls can lead their team to the championship
+
+    ![](https://lh6.googleusercontent.com/W7gLIoiXqnKhOEJGQrS9gyWR87I1M7Ko0DxO99R6EQAxni2ZB3TIBdMYMLWK20H1_b0G-2mr4wD6l-5zl_-K8wDFqFETfYz5F2UyHTZBKW_pK5QSoOlzQ-9-ntp-_f4qAozNBxJo =292x292)
+- team: _teams/s22-magenta.md
+  record: 1-2
+  text: |-
+    We usually encourage players to go to a boozy brunch AFTER their game, but at least AJ showed up! We can’t say the same thing about their star player Greg Carter. I hope he doesn’t have the μgenta Variant.
+
+    ![](https://lh4.googleusercontent.com/GUO7wythSdEd5o8Gg8nIEnxApbuTdQDok2RwyKtKV7NCPIz3bmPEmbIqTAXfKkS2zxvgsn2tsLsQ5bW2W1XeN3S35KDOBQFEH5gjDEVyAOk9hRZtVhi5ftWEUJp7iR2NEyLMe4KX =346x194)
 - team: _teams/s22-forest-green.md
   record: 1-1
   text: |-
