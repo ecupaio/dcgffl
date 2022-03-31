@@ -5,9 +5,30 @@ author: Shaq Brooks
 season: 22
 week: 3
 rankings:
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s22-gold.md
+  record: 2-0
+  text: |-
+    This team has me confused in multiple ways, first of all what is this name, secondly when did Rob start showing up to games on time? It paid off because they were able to get that one point win over Wonder Bred.
+
+    ![Dazed Confused GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/1ZlrrYTN7gAxdGE8nM/200w.gif?cid=82a1493b1l0tymy8sb6ominaxgcy33ndafqz7ecxdtsjalm2&rid=200w.gif&ct=g)
+- team: _teams/s22-maroon.md
+  record: 2-1
+  text: |-
+    They didn’t win last week, but this week they managed to pull out two wins! It turns out their team was catching more than balls, it was reported that Jeremey was catching Zs in his car between games. Winning Strategy? I guess so.
+
+    ![](https://lh4.googleusercontent.com/eYOYIErwhHdjzKRHWEflOkjlWSpfZPSkzlyyqRDK1N8Uykg2hWSAfQw1HrhS3nws5ztnMvwne_vqzT4RzYyRo2oVqsjIynhMcBkl4GV1OlSD-IVHfH4okqt1tYgK-0KaN1gPI2Ju =350x198)
+- team: _teams/s22-olive.md
+  record: 2-1
+  text: |-
+    I don’t know what’s more peculiar. Matt Cline rushing or Mike Osorio signing the ref’s scorecard that his team lost when they indeed won. Maybe Mike should take his Martinis stirred not shaken because something wasn’t clicking, but at least it was on the field!
+
+    ![](https://lh5.googleusercontent.com/q3Uw1qsPmqwp2Dm_YPZr5mm9TnL99M9m5oClNZweL3rXd5i_BPA6XO-456MGA4dJc6fprxbydZh8GBsKhsSJi0uGeU8z2OaOb2xvCAxngS6YfV4moEDKzEh_7eBMGKmk1H6ik5xh =350x195)
+- team: _teams/s22-island-blue.md
+  record: 2-1
+  text: "Don’t be fooled by the 36-0 score people. Easy lei had a beachy Sunday this
+    week, Lime decided not to show up. Let’s see next week if they can win with a
+    full roster on the opposing sideline.\n\n  \n![](https://lh5.googleusercontent.com/sdwUlI0iB1QXCMhmJisVdZgdJCcHAP6VDwfNsCYi09iPlYa-kg61GzxJxSvxUh66S0CjBXXzNaQ0WeY2fFP8yn-bdarijJk9mRzgEuSD_TiJOkaBxjKfyitbUL5ItVLli1W3J4oo
+    =330x186)"
 - team: _teams/s22-dark-orange.md
   record: 2-1
   text: |-
