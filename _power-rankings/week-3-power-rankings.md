@@ -19,12 +19,10 @@ rankings:
     ![Lakers Win GIFs - Get the best GIF on GIPHY](https://media1.giphy.com/media/hG6zC3KaKjiUw/giphy.gif)
 - team: _teams/s22-kelly-green.md
   record: 2-0
-  text: "I wish I could name this team the golden girls team, but for them age is
-    really just a number. Represented by a host of veteran players, the question isn’t
-    if they know the game, it's just if they’ll be able to finish the season. The
-    happily expecting Scott Graham will be missing a few games, we’ll see if they
-    can hold their own on the field without him.\n\n  \n![](https://lh4.googleusercontent.com/CzW-GFsjG8huEIp6Y9Sle08i7oQSTQ0JWVpyZWLXUJIDIVTBCbofc5yrIsmoTQ8e4dl7J4pP3oB4dwO8woG2BdGGIEX3lnQz9EO_hyjG5EyWtuj_SsnyJcsNE8kqCaDQZkwb4k4Q
-    =277x347)"
+  text: |-
+    I wish I could name this team the golden girls team, but for them age is really just a number. Represented by a host of veteran players, the question isn’t if they know the game, it's just if they’ll be able to finish the season. The happily expecting Scott Graham will be missing a few games, we’ll see if they can hold their own on the field without him.
+
+    ![Baby Football GIFs - Get the best GIF on GIPHY](https://media2.giphy.com/media/cPAtqkRUPagVvgVzEz/200w.gif?cid=82a1493bwswkv3qfn0v5u1y7ufkfmb3s532xswrab9k0q5es&rid=200w.gif&ct=g)
 - team: _teams/s22-royal-blue.md
   record: 2-0
   text: |-
