@@ -106,7 +106,7 @@ rankings:
   text: |-
     Knowing that this team consists of 80% of the board, I hope their approval rating is higher than their ranking. But shoutout to Logan for, not only being a great director of players, but also for scoring the only point for his team this season. Let’s not make it your last.
 
-    ![](https://lh6.googleusercontent.com/jHLTiR5YP9txp4NlMvwq7adp1ZxceQ_dndeH6Fszmcn9i94N3n9denqGWc-yaFQ1zatq65TtSRXOl-91bW2v5GiM-tCfToc4rVEeCDfDLTd1ZJYSLRnXREhdkIktw99YyHQW2uRB =300x302)
+    ![Oh Yay GIF - Parks And Rec Aubrey Plaza April Ludgate - Discover & Share  GIFs](https://c.tenor.com/Xd36LaBxcr8AAAAC/parks-and-rec-aubrey-plaza.gif)
 - team: _teams/s22-lime-green.md
   record: 0-3
   text: "… I know you lying. I get it, it was cold… Really? No-one wanted to show
