@@ -16,7 +16,7 @@ rankings:
   text: |-
     Bobby’s return to the field has been nothing short of spectacular. Leading her team to a 38 -16 win. If anyone is going to Steel the crown from Red, it might be them. Are yall really about to let Ben Hunt win his second championship in a row?
 
-    ![Lakers Win GIFs - Get the best GIF on GIPHY](https://media1.giphy.com/media/hG6zC3KaKjiUw/giphy.gif)
+    ![Funny Gifs : kobe bryant GIF - VSGIF.com](https://i.gifer.com/embedded/download/G8aL.gif)
 - team: _teams/s22-kelly-green.md
   record: 2-0
   text: |-
