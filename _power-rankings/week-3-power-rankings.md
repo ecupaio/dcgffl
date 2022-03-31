@@ -64,7 +64,7 @@ rankings:
   text: |-
     Last year's champion captain was able to pull out 1 win and one loss, we’ll see if his on the field marriage can produce enough chemistry to get another championship!
 
-    ![](https://lh3.googleusercontent.com/MOYV3teOpdHA6XS3eMjcVbNjr7NlUzNtvTgpHOyE5OXGqfC4uqmkKR3GFUGwvdiz5x2Ua6yo7tjJULmaVFhIoML0WiKHvXWcEfEyjB6jcfk6DtP0Qd6ycgg3XSFLIjMNhTyhEUix =354x218)
+    ![Best Friends Friendship GIF by SpongeBob SquarePants - Find & Share on GIPHY](https://media1.giphy.com/media/H2GX5Ik1ILy5q/source.gif)
 - team: _teams/s22-white.md
   record: 1-1
   text: |-
