@@ -88,13 +88,13 @@ rankings:
   text: |-
     If bitter was a color... it’d be Pwink. Consistent losses have plagued this team and I don’t just mean their games. With multiple injuries they struggle to get their feet under them. We didn’t expect them to be this low and we bet they didn’t either. Hopefully they can pull it together next week.
 
-    ![](https://lh3.googleusercontent.com/QFe7Q_RLfvjddgFa01il-YLAKVM-X966UAEn_a4lhuV-fdsDvpHQC_VlymFGZ_j2jpIehepfIZXe80dRj8o0uKppOv0wZeaZ3dZyv5Jyp5fj2pD5SEAZsbywlnO8hM_NoBV9TKLF =325x325)
+    ![Flexing In The Cut GIF by Bounce - Find & Share on GIPHY](https://media4.giphy.com/media/3oEjI4xcY0Ye5DX8Tm/giphy.gif?cid=790b7611dcc6e65f5b8ac55f432a678a76d6847006ecbafd&rid=giphy.gif&ct=g)
 - team: _teams/s22-black.md
   record: 0-3
   text: |-
     If you want to be a riff on Khia’s one hit wonder you’re going to need at least 1 win. With 3 losses, this team is sadly dragging behind. Maybe week 3 will be their one hit. New Chant Alert: "My Neck, My Black, catch some passes, get a sack."
 
-    ![](https://lh3.googleusercontent.com/BbM_fqVn4iPUxgIZmteqFPdE7eovFfxbO8sft9LlNkYWn6zo6wu4ohAanDz2cMfEWZ0Q4X40AuMV-lAwT-rcjod8_P-1KE2ched_W1703xMRCsixbviBhdjcKYrcIEjL6dlKbkqU =364x308)
+    ![Practice GIFs - Get the best GIF on GIPHY](https://media0.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif)
 - team: _teams/s22-purple.md
   record: 0-2
   text: "Rookie QB can't seem to lead his twinks to victory. But we are seeing the
