@@ -5,6 +5,33 @@ author: Shaq Brooks
 season: 22
 week: 3
 rankings:
+- team: _teams/s22-red.md
+  record: 3-0
+  text: |-
+    I don't know about you, but this team may win season 22” (Taylor Swift's Voice). You can see Dwaylan making sacks on the field and twerking at the bar. Not only a star in name, Connor Starr shined bright on the field while sporting a shoulder brace and finishing the game. From talent to determination, I wonder who’s going to beat this team.
+
+    ![](https://lh4.googleusercontent.com/lbqv5ZPkS31Vu-qyxlH5y81c8gdsQ-bBHoHKy2ZlxjPIjeLwwt67QTKtQFG2CYSQVdn04zd5Ma3yFaxEwNaGGcQPxzM_0Vj3S_Hx-JfB0Rj7_gnJJCYJ7ExEW2bnGGMdB07CKIWT =252x224)
+- team: _teams/s22-steel-grey.md
+  record: 2-0
+  text: "Bobby’s return to the field has been nothing short of spectacular. Leading
+    her team to a 38 -16 win. If anyone is going to Steel the crown from Red, it might
+    be them. Are yall really about to let Ben Hunt win his second championship in
+    a row?\n\n  \n![](https://lh6.googleusercontent.com/gNXjGzyfOVtePiD0YE__jyYkzMqwKgsFpYCGJCXbN5gQ-oySYIWXMrrjJ3fykS65tBhJ_2Q3cUZpfPw8D_7rzn-3O80c21wtGrdaulq0NZTn87IruNXZzluSGPbb3sFY21s13Afl
+    =292x213)"
+- team: _teams/s22-kelly-green.md
+  record: 2-0
+  text: "I wish I could name this team the golden girls team, but for them age is
+    really just a number. Represented by a host of veteran players, the question isn’t
+    if they know the game, it's just if they’ll be able to finish the season. The
+    happily expecting Scott Graham will be missing a few games, we’ll see if they
+    can hold their own on the field without him.\n\n  \n![](https://lh4.googleusercontent.com/CzW-GFsjG8huEIp6Y9Sle08i7oQSTQ0JWVpyZWLXUJIDIVTBCbofc5yrIsmoTQ8e4dl7J4pP3oB4dwO8woG2BdGGIEX3lnQz9EO_hyjG5EyWtuj_SsnyJcsNE8kqCaDQZkwb4k4Q
+    =277x347)"
+- team: _teams/s22-royal-blue.md
+  record: 2-0
+  text: |-
+    You might have missed this game because you were busy watching another or playing in your own, but we all heard Sean Karson’s excitement this weekend. He finally got a good one, eh? All jokes aside this team put forth an amazing game with star performances by Josh Estryn and Ivan Torres
+
+    ![](https://lh6.googleusercontent.com/BNImpI0iUw5NAaiLmA3JqWZHJ3h1UGBni6QgBJmbDcnBmrkA6oFFmHF_nh3vP2dNvpTOVrdFoqOc6ySTICfuQtl0yi1SZUgQKUZaJdhKEe1zqekT4nl3at1TRV-mJMVVJmFVp-R4 =300x169)
 - team: _teams/s22-gold.md
   record: 2-0
   text: |-
@@ -29,6 +56,12 @@ rankings:
     week, Lime decided not to show up. Let’s see next week if they can win with a
     full roster on the opposing sideline.\n\n  \n![](https://lh5.googleusercontent.com/sdwUlI0iB1QXCMhmJisVdZgdJCcHAP6VDwfNsCYi09iPlYa-kg61GzxJxSvxUh66S0CjBXXzNaQ0WeY2fFP8yn-bdarijJk9mRzgEuSD_TiJOkaBxjKfyitbUL5ItVLli1W3J4oo
     =330x186)"
+- team: _teams/s22-magenta.md
+  record: 1-2
+  text: |-
+    We usually encourage players to go to a boozy brunch AFTER their game, but at least AJ showed up! We can’t say the same thing about their star player Greg Carter. I hope he doesn’t have the μgenta Variant.
+
+    ![](https://lh4.googleusercontent.com/GUO7wythSdEd5o8Gg8nIEnxApbuTdQDok2RwyKtKV7NCPIz3bmPEmbIqTAXfKkS2zxvgsn2tsLsQ5bW2W1XeN3S35KDOBQFEH5gjDEVyAOk9hRZtVhi5ftWEUJp7iR2NEyLMe4KX =346x194)
 - team: _teams/s22-dark-orange.md
   record: 2-1
   text: |-
@@ -41,12 +74,6 @@ rankings:
     Look out for this rookie captain and QB duo, we're all wondering if the new girls can lead their team to the championship
 
     ![](https://lh6.googleusercontent.com/W7gLIoiXqnKhOEJGQrS9gyWR87I1M7Ko0DxO99R6EQAxni2ZB3TIBdMYMLWK20H1_b0G-2mr4wD6l-5zl_-K8wDFqFETfYz5F2UyHTZBKW_pK5QSoOlzQ-9-ntp-_f4qAozNBxJo =292x292)
-- team: _teams/s22-magenta.md
-  record: 1-2
-  text: |-
-    We usually encourage players to go to a boozy brunch AFTER their game, but at least AJ showed up! We can’t say the same thing about their star player Greg Carter. I hope he doesn’t have the μgenta Variant.
-
-    ![](https://lh4.googleusercontent.com/GUO7wythSdEd5o8Gg8nIEnxApbuTdQDok2RwyKtKV7NCPIz3bmPEmbIqTAXfKkS2zxvgsn2tsLsQ5bW2W1XeN3S35KDOBQFEH5gjDEVyAOk9hRZtVhi5ftWEUJp7iR2NEyLMe4KX =346x194)
 - team: _teams/s22-forest-green.md
   record: 1-1
   text: |-
@@ -88,19 +115,6 @@ rankings:
   text: "… I know you lying. I get it, it was cold… Really? No-one wanted to show
     up?\n\n  \n![](https://lh3.googleusercontent.com/lU0nxvkHNGdMO1kwjQH4LeEooO8KuoFZkHNY9uRsax19nGNSdD7BzBpNwr04ZrKNCN2RPmho21LNhexIBS0KwtIkksrNMHA34xuItoc-d_V2XEucg4vzxGsDIJ_uV4B74LrA9jOx
     =245x245)"
-- team: _teams/s22-red.md
-  record: 3-0
-  text: |-
-    I don't know about you, but this team may win season 22” (Taylor Swift's Voice). You can see Dwaylan making sacks on the field and twerking at the bar. Not only a star in name, Connor Starr shined bright on the field while sporting a shoulder brace and finishing the game. From talent to determination, I wonder who’s going to beat this team.
-
-    ![](https://lh4.googleusercontent.com/lbqv5ZPkS31Vu-qyxlH5y81c8gdsQ-bBHoHKy2ZlxjPIjeLwwt67QTKtQFG2CYSQVdn04zd5Ma3yFaxEwNaGGcQPxzM_0Vj3S_Hx-JfB0Rj7_gnJJCYJ7ExEW2bnGGMdB07CKIWT =252x224)
-- team: _teams/s22-steel-grey.md
-  record: 2-0
-  text: "Bobby’s return to the field has been nothing short of spectacular. Leading
-    her team to a 38 -16 win. If anyone is going to Steel the crown from Red, it might
-    be them. Are yall really about to let Ben Hunt win his second championship in
-    a row?\n\n  \n![](https://lh6.googleusercontent.com/gNXjGzyfOVtePiD0YE__jyYkzMqwKgsFpYCGJCXbN5gQ-oySYIWXMrrjJ3fykS65tBhJ_2Q3cUZpfPw8D_7rzn-3O80c21wtGrdaulq0NZTn87IruNXZzluSGPbb3sFY21s13Afl
-    =292x213)"
 published: false
 
 ---
