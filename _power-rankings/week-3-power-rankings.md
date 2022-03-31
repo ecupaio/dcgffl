@@ -82,7 +82,7 @@ rankings:
   text: |-
     Chrome wreckers may have secured a 1 point win over Pink, but they got their chrome wrecked in their first game. So bad in fact the other team brought in Sean, their Captain, to QB the later part of the game. Might be time to turn the hoopty into the junkyard boys or at least get a tune up.
 
-    ![](https://lh6.googleusercontent.com/yGOwt0v1sw8TXu_SlBMfcBEmSwQuqMkt2NJuGROlkXdohl3lDa7xKovhyIH63_xAZUUARBzXdXVgKYzCVrzFdZd8IUWOwsFH1NgajPheY0VlQq5r0ulFL-s0Brgmgy0dZfWajFWw =355x265)
+    ![Bumper Cars GIFs - Get the best GIF on GIPHY](https://media0.giphy.com/media/1hzAAFIBjBQXyU6xBO/200.gif)
 - team: _teams/s22-super-pink.md
   record: 0-3
   text: |-
