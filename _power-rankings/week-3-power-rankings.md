@@ -40,7 +40,7 @@ rankings:
   text: |-
     They didn’t win last week, but this week they managed to pull out two wins! It turns out their team was catching more than balls, it was reported that Jeremey was catching Zs in his car between games. Winning Strategy? I guess so.
 
-    ![](https://lh4.googleusercontent.com/eYOYIErwhHdjzKRHWEflOkjlWSpfZPSkzlyyqRDK1N8Uykg2hWSAfQw1HrhS3nws5ztnMvwne_vqzT4RzYyRo2oVqsjIynhMcBkl4GV1OlSD-IVHfH4okqt1tYgK-0KaN1gPI2Ju =350x198)
+    ![Things Every Tired Adult Will Relate To](https://img.buzzfeed.com/buzzfeed-static/static/2019-09/17/0/asset/e0d7fe1929e9/anigif_sub-buzz-1037-1568680384-1.gif)
 - team: _teams/s22-olive.md
   record: 2-1
   text: |-
