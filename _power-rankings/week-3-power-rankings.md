@@ -97,10 +97,10 @@ rankings:
     ![Practice GIFs - Get the best GIF on GIPHY](https://media0.giphy.com/media/8vkEKXvnXkyCZx8w6b/giphy.gif)
 - team: _teams/s22-purple.md
   record: 0-2
-  text: "Rookie QB can't seem to lead his twinks to victory. But we are seeing the
-    progress, lets hope Drew doesn't miss a game because he might be their only hope.\n\n
-    \ \n![](https://lh3.googleusercontent.com/zjPsDnG3RoyihotSz85rILKXScsEoWPLGxJaJrkF-V76ln9daNeFcjHe0nOVLMOEJdRiX88L5qdZSwo5QUogidWf-RpRpZl_Hh0XPZ_BJkdNE3kY03nVVBqJCyRneXxMYFzTmO26
-    =334x334)"
+  text: |-
+    Rookie QB can't seem to lead his twinks to victory. But we are seeing the progress, lets hope Drew doesn't miss a game because he might be their only hope.
+
+    ![Clemsonfootball GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/lAZ6fhepvAUec/giphy.gif)
 - team: _teams/s22-navy.md
   record: 0-2
   text: |-
