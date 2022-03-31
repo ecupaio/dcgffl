@@ -13,11 +13,10 @@ rankings:
     ![Taylor Swift Hair Flip GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/dXKiD8XysOuhFAJB1f/200.gif)
 - team: _teams/s22-steel-grey.md
   record: 2-0
-  text: "Bobby’s return to the field has been nothing short of spectacular. Leading
-    her team to a 38 -16 win. If anyone is going to Steel the crown from Red, it might
-    be them. Are yall really about to let Ben Hunt win his second championship in
-    a row?\n\n  \n![](https://lh6.googleusercontent.com/gNXjGzyfOVtePiD0YE__jyYkzMqwKgsFpYCGJCXbN5gQ-oySYIWXMrrjJ3fykS65tBhJ_2Q3cUZpfPw8D_7rzn-3O80c21wtGrdaulq0NZTn87IruNXZzluSGPbb3sFY21s13Afl
-    =292x213)"
+  text: |-
+    Bobby’s return to the field has been nothing short of spectacular. Leading her team to a 38 -16 win. If anyone is going to Steel the crown from Red, it might be them. Are yall really about to let Ben Hunt win his second championship in a row?
+
+    ![Lakers Win GIFs - Get the best GIF on GIPHY](https://media1.giphy.com/media/hG6zC3KaKjiUw/giphy.gif)
 - team: _teams/s22-kelly-green.md
   record: 2-0
   text: "I wish I could name this team the golden girls team, but for them age is
