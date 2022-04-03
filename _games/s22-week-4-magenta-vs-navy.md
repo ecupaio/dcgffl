@@ -10,8 +10,8 @@ field: "4"
 date: 2022-04-03T11:00:00.000-04:00
 season: 22
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Ethan, Andrew A
+game-ball: Jarrod, Lindsey W
+sportsperson: Zach G, Matt P
 
 ---
