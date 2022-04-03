@@ -10,8 +10,8 @@ field: "1"
 date: 2022-04-03T11:00:00.000-04:00
 season: 22
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Keith H, Kyle M
+game-ball: Shaq B, Scott
+sportsperson: Shaq B, Antwon H
 
 ---
