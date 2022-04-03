@@ -10,7 +10,7 @@ field: "3"
 date: 2022-04-03T12:30:00.000-04:00
 season: 22
 week: 4
-mvp: Matan S, Lyndsey G
+mvp: Matan S, Lindsey W
 game-ball: Tony, Andrew A
 sportsperson: Jean-Francois, Austin P
 
