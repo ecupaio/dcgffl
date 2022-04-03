@@ -10,8 +10,8 @@ field: "4"
 date: 2022-04-03T12:30:00.000-04:00
 season: 22
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Ivan T, Dick N
+game-ball: Jeff, Alex E
+sportsperson: Pete D, Shane M
 
 ---
