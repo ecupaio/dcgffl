@@ -10,8 +10,8 @@ field: "3"
 date: 2022-04-03T11:00:00.000-04:00
 season: 22
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Mark H, Chris G
+game-ball: John L, Dinora
+sportsperson: Braden B, Chris G
 
 ---
