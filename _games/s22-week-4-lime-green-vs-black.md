@@ -10,8 +10,8 @@ field: "1"
 date: 2022-04-03T12:30:00.000-04:00
 season: 22
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Bill C, Bryan S
+game-ball: Dickson, Charles D
+sportsperson: Emily, Barry M
 
 ---
