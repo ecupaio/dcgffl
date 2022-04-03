@@ -10,8 +10,8 @@ field: "2"
 date: 2022-04-03T12:30:00.000-04:00
 season: 22
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Wyatt E, Tiger R
+game-ball: Jon L, Nolan L
+sportsperson: Marlon, Andrew G
 
 ---
