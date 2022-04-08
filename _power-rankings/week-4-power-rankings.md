@@ -5,6 +5,39 @@ author: Del Mcspadden
 season: 22
 week: 4
 rankings:
+- team: []
+  record: ''
+  text: ''
+- team: _teams/s22-olive.md
+  record: 3-1
+  text: |-
+    Shaken Not Stirred certainly played a close game. With a few key players missing and one point in between them and a tough loss they cut it a little close for comfort. Regardless, they were able to pull out a win. Hopefully next week they’ve got a full roster or the only thing shaken might not be their martinis.
+
+    ![Say What Maya Rudolph GIF by Saturday Night Live](https://media4.giphy.com/media/j9SlCd2tXnh4zF8UsU/giphy.gif?cid=790b7611740e67a195606efb5ba2f49366909c3eeeeba88e&rid=giphy.gif&ct=g)
+- team: _teams/s22-forest-green.md
+  record: 2-1
+  text: |-
+    The Fwhorest Queens started a forest fire this week on the field. There's no arguing that QB Keith Holleran played the game his birthday deserved. However, there was plenty of speculation to why Shaq Brooks showed up right before the half, tired and tipsy. Did the girls have him shaking in his boots after last weeks power rankings? If so, do it again. That pick six and touchdown were cute for you. Maybe it was just the tequila though.
+
+    ![That Ho Over There Real Housewives Gif By RealitytvGIF](https://media0.giphy.com/media/ChqSKnatBGvWo/giphy.gif?cid=790b761157efa84e96669822a4f82f84c43ea8e1b934021d&rid=giphy.gif&ct=g)
+- team: _teams/s22-maroon.md
+  record: 2-2
+  text: "MaroonPaul's Drag Race is true to the current season of drag race. Talented
+    team but like this years snatch game they can't seem to click to get the win.
+    Maybe they can get things moving next weekend. \n\n![Season 4 Falling GIF by RuPaul's
+    Drag Race](https://media4.giphy.com/media/elHCBSN6hjvpvsQ8nn/giphy.gif?cid=790b7611b2bbf2898b131401d3cc451d0ce25185a3dd3c3b&rid=giphy.gif&ct=g)"
+- team: _teams/s22-dark-orange.md
+  record: 2-2
+  text: |-
+    Orange Queery started this weeks game with a big play early on but their momentum didn’t last longer than the first half. If there's one thing we know no one enjoys not being able to finish and I’m sure this team is no different. Hopefully they find a more satisfying ending in next weeks game.
+
+    ![Elektra Abundance GIF by Pose FX](https://media4.giphy.com/media/gk49IugT8aPmo6ACSH/giphy.gif?cid=790b7611260c412c203d7b2a70b7ca216b7b509f5b961f3a&rid=giphy.gif&ct=g)
+- team: _teams/s22-magenta.md
+  record: 2-2
+  text: |-
+    μgenta Variant enjoyed a cozy win this week. Something must have clicked for this team because things were working on the field. Other teams may want to watch closely but don’t get too close….this variants a strong one.
+
+    ![Batman Clap GIF](https://media2.giphy.com/media/11OOAQSnUaZT2M/giphy.gif?cid=790b76116e62e9ebe0305deaff9275aa70773783cce0ebec&rid=giphy.gif&ct=g)
 - team: _teams/s22-gold.md
   record: 2-2
   text: |-
