@@ -1,6 +1,6 @@
 ---
 location: _locations/brentwood.md
-title: S22 Week 3 - Pink vs Blue
+title: S22 Rec Week 3 - Pink vs Blue
 week: 3
 season: 22
 date: 2022-04-29 18:30:00 -0400
