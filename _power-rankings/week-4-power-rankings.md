@@ -5,9 +5,39 @@ author: Del Mcspadden
 season: 22
 week: 4
 rankings:
-- team: []
-  record: ''
-  text: ''
+- team: _teams/s22-kelly-green.md
+  record: 4-0
+  text: "Is it Avocado season, because this guac doesn’t seem to be browning any time
+    soon! It’s certainly not easy winning three weekends in a row, but \U0001F951
+    has seemed to manage it seamlessly. Not to mention winning both games in their
+    double header this week. Y’all might want to get your change cups and get in line
+    because they said it before: GUAC IS ALWAYS EXTRA\n\n![David Giuntoli Surprise
+    GIF by ABC Network](https://media4.giphy.com/media/2nsiqpAv4fTqLcLl6T/giphy.gif?cid=790b7611f4c87e8c4db873b9626c1c1b52f56409c8d475e8&rid=giphy.gif&ct=g)"
+- team: _teams/s22-steel-grey.md
+  record: 4-0
+  text: |-
+    Winning their double header this week with stunning performances by Ben Hunt and Matan it’s hard to tell if Buns of Steel will ever show a little rust. With a record like theirs the only “medal” Buns of Steel is going for is Stainless. No white refrigerators here.
+
+    ![Celebrate In Love GIF by HBO Max](https://media0.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif?cid=790b761121637a9a5842ddb1c9264f9c98220517a9f18d3d&rid=giphy.gif&ct=g)
+- team: _teams/s22-royal-blue.md
+  record: 3-1
+  text: "Gaystar Royalco was serving a serious turnaround story even Logan Roy would
+    have to be proud of. Giving away three interceptions in their loss against \U0001F951,
+    it was a pleasant surprise to see them seemingly fueled by the L in the next game.
+    They turned around to beat last weeks #1 team Taylors Version.\n\n![American Horror
+    Story Madison Montgomery GIF](https://media4.giphy.com/media/3o7WTyfrAJcQocEBgc/giphy.gif?cid=790b7611bc10c7e5d8967c1933e9669aa2ab977c58ffc838&rid=giphy.gif&ct=g)"
+- team: _teams/s22-red.md
+  record: 4-1
+  text: |-
+    Last weeks #1 team Taylors Version was looking promising, and still does. This week, Connor Starr had another breakout weekend scoring multiple TD’s. Nevertheless, we’re all wondering if there’s history with Gaystar Royalco because this team walked away from their first L like a bad breakup. After that game they might be singing a different tune. Reputation (Taylor’s Version) perhaps?
+
+    ![Kanye West Shrug GIF](https://media1.giphy.com/media/1hjmySJVirhOU/giphy.gif?cid=790b76110e6ab8a04cf2f30c1f868d3df93635a549f30977&rid=giphy.gif&ct=g)
+- team: _teams/s22-island-blue.md
+  record: 3-1
+  text: |-
+    We love our league QB’s don’t we? Even when they mix up game times and show up late right after a huge play? All shade aside it really must not have mattered because QB Jim Connolly and team showed us just how easy it is for them to shut a team out in the second half and win the game. Sun hats off to Easy Lei for making winning look not so hard.
+
+    ![Tv Show Dancing GIF by Chrisley Knows Best](https://media1.giphy.com/media/3oz8xXUXODTG49GGaI/giphy.gif?cid=790b761150e5c00ce12f84a375565537b7eef75fe5cc2a69&rid=giphy.gif&ct=g)
 - team: _teams/s22-olive.md
   record: 3-1
   text: |-
@@ -80,6 +110,5 @@ rankings:
     You is smart, you is kind, you is important. I don’t know what else to say to y’all at this point. Better luck next week.
 
     ![Unimpressed Viola Davis GIF](https://media2.giphy.com/media/kZD8cN1MycfKw/giphy.gif?cid=790b761149c9f2f12aa1169ee9b4ca97931a40fe27f4aa3b&rid=giphy.gif&ct=g)
-published: false
 
 ---
