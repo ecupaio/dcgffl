@@ -1,6 +1,6 @@
 ---
 location: _locations/brentwood.md
-title: S22 Week 2 - Green vs Pink
+title: S22 Rec Week 2 - Green vs Pink
 week: 2
 season: 22
 date: 2022-04-22 18:30:00 -0400
