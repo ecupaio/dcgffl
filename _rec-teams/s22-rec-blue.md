@@ -19,7 +19,9 @@ members:
 - Marek M.
 - Tevin M.
 - Crawford P.
+- Joe P.
+- Q. R.
+- Harry S.
 division: ''
-published: false
 
 ---
