@@ -5,6 +5,12 @@ author: Del Mcspadden
 season: 22
 week: 4
 rankings:
+- team: _teams/s22-lime-green.md
+  record: 1-3
+  text: |-
+    Although their captain was abroad Citrus Got Real showed up and showed out this week. Getting their first win against My Neck, My Black. Let’s see if they can do it again next week in their fruit filled bout with Orange queery.
+
+    ![Real Housewives GIF by PeacockTV](https://media2.giphy.com/media/3f9RNu7ubaDWIjf88k/giphy.gif?cid=790b761146b43027ca1599a718edad6d562950994f74c53c&rid=giphy.gif&ct=g)
 - team: _teams/s22-purple.md
   record: 0-3
   text: |-
