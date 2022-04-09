@@ -1,6 +1,6 @@
 ---
 location: _locations/brentwood.md
-title: S22 Rec Week 1
+title: S22 Rec Week 1 - Purple vs Pink
 week: 1
 season: 22
 date: 2022-04-08 18:30:00 -0400
