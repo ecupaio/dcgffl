@@ -4,15 +4,15 @@ button:
   text: ''
   link: ''
 title: Recreation League Playoffs and Afterparty!
-date: 
-time: 6:30pm
+date: 2022-05-06 23:00:00 -0400
+time: 6:30pm (Playoffs), 8pm (Finals)
 location:
   name: The Fields at RFK (Games) and Wunder Garten (Afterparty)
   address: The Fields at RFK
   city: ''
   state: ''
   zip: 
-published: false
+permalink: "/s22-rec-finals/"
 
 ---
 ### Come celebrate the Rec League teams!
@@ -21,6 +21,8 @@ Recreation League playoffs and championship games will take place on Friday, May
 
 **NOTE that for these games ONLY, the games will take place at** [**the Fields at RFK**](https://rfkfields.com/)**.**
 
-Following games, we'll head to Wunder Garten to celebrate the recreation league players!  All are invited!  Wunder Garten is located at: 1
+Following games, we'll head to Wunder Garten to celebrate the recreation league players!  All are invited!  Wunder Garten is located at: [1101 First St NE, Washington, DC](https://goo.gl/maps/JfCqRU89fGsMhxYc6)
+
+![](/img/wundergarten-logo.png)
 
 Come celebrate with the recreation players at Wunder Garten, official venue of the recreation league afterparty, after the games on Friday, Nov. 5, starting at 9:30pm!
