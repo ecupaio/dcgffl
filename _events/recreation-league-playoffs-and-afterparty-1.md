@@ -25,4 +25,4 @@ Following games, we'll head to Wunder Garten to celebrate the recreation league 
 
 ![](/img/wundergarten-logo.png)
 
-Come celebrate with the recreation players at Wunder Garten, official venue of the recreation league afterparty, after the games on Friday, Nov. 5, starting at 9:30pm!
+Come celebrate with the recreation players at Wunder Garten, official venue of the recreation league afterparty, after the games on Friday, May 6, starting at 9pm!
