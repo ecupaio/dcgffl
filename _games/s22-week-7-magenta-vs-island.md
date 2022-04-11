@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s22-island-blue.md
   score: 
 field: "1"
-date: 2022-05-01 09:30:00 -0400
+date: 2022-05-01 11:00:00 -0400
 season: 22
 week: 7
 mvp: ''
