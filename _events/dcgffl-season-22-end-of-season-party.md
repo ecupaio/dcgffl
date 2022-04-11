@@ -1,24 +1,24 @@
 ---
 button:
-  visible: true
+  visible: false
   text: ''
   link: ''
 title: DCGFFL Season 22 End-of-Season Party
-date: 2021-11-21T15:00:00.000-05:00
+date: 2022-05-22 15:00:00 -0400
 time: 3pm
 location:
-  name: Pitchers DC
-  address: Pitchers DC
+  name: The Dirty Goose
+  address: The Dirty Goose
   city: ''
   state: ''
   zip: 
-published: false
+permalink: "/s22-season-end-party/"
 
 ---
-**And...just like that! Season XXI has come and is nearly gone...!**
+**And...just like that! Season XXII is nearing a close! Let’s finish in style**
 
-![](/img/dcgffl-thing.jpeg)
+To celebrate the end of this great season, join us Sunday May 22 after the championship game for our Season XXII End Party at The Dirty Goose!
 
-To celebrate the end of this great season, join us THIS Sunday after the games for our Season XXI End Party at Pitchers DC!
+Season Awards will be announced at this event, so come out and celebrate the champions, and party with your league mates to commemorate the end of another epic season!
 
-Season Awards will be announced at this event, so come out and celebrate the champions, and party with your league mates to commemorate the end of a successful season!
+![](/img/tdg_black_rainbow.png)
