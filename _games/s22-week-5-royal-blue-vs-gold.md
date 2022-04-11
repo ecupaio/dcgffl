@@ -3,11 +3,11 @@ location: _locations/carter-baron.md
 title: S22 Week 5 - Royal Blue vs Gold
 teams-score:
 - team: _teams/s22-royal-blue.md
-  score: 
+  score: 6
 - team: _teams/s22-gold.md
-  score: 
+  score: 26
 field: "1"
-date: 2022-04-10 11:00:00 -0400
+date: 2022-04-10T11:00:00.000-04:00
 season: 22
 week: 5
 mvp: ''
