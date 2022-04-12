@@ -42,6 +42,8 @@ fields:
   - type: number
     name: score
     label: Score
+  config:
+    labelField: team
 - name: location
   type: select
   default: []
