@@ -1,7 +1,7 @@
 ---
 title: S22 Rec Purple
 name: Purple
-color: ''
+color: Purple
 season: 22
 photo: ''
 captain: Tony B.
