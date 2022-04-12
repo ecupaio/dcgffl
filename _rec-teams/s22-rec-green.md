@@ -1,5 +1,5 @@
 ---
-title: S22 Rec Green`
+title: S22 Rec Green
 name: Green
 color: ''
 season: 22
