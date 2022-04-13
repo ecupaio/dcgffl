@@ -11,7 +11,7 @@ date: 2022-04-10T11:00:00.000-04:00
 season: 22
 week: 5
 mvp: Oliver, Kyle B
-game-ball: Kristine, Kat R
+game-ball: Christine, Kat R
 sportsperson: ''
 
 ---
