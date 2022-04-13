@@ -12,6 +12,6 @@ season: 22
 week: 5
 mvp: Oliver, Kyle B
 game-ball: Christine, Kat R
-sportsperson: ''
+sportsperson: Christine, Kat R
 
 ---
