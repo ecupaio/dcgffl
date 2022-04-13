@@ -12,6 +12,6 @@ season: 22
 week: 5
 mvp: Twon H, Lamar R
 game-ball: Yvette, Adam
-sportsperson: Brad,
+sportsperson: Bradley, Gabe
 
 ---
