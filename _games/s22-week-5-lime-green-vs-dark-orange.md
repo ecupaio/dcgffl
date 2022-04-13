@@ -10,8 +10,8 @@ field: "1"
 date: 2022-04-10T09:30:00.000-04:00
 season: 22
 week: 5
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Emily, Evan
+game-ball: Leo L, Joe
+sportsperson: Nick, Tony B
 
 ---
