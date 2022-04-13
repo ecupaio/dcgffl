@@ -10,8 +10,8 @@ field: "2"
 date: 2022-04-10T12:30:00.000-04:00
 season: 22
 week: 5
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Mark H, Kevin P
+game-ball: Smiffy, Charlie
+sportsperson: Scott G, Brian H
 
 ---
