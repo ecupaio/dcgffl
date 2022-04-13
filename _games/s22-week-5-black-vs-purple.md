@@ -10,8 +10,8 @@ field: "2"
 date: 2022-04-10T11:00:00.000-04:00
 season: 22
 week: 5
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Bryan S, Kevin H
+game-ball: Chuck, Zach B
+sportsperson: Joe H, Austin
 
 ---
