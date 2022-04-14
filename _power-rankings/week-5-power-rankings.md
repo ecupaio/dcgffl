@@ -25,10 +25,10 @@ rankings:
     ![The Real Housewives Of Atlanta GIFs - Get the best GIF on GIPHY](https://media0.giphy.com/media/OqJi4VZmzsDHvpdrOQ/200.gif)
 - team: _teams/s22-olive.md
   record: 4-1
-  text: "If you think the Super Pwinks were going to shake or stir this Olive, you’re
-    sadly mistaken! This team might be under the radar, but like any good cocktail,
-    it’ll sneak up on you and take you for a ride. And not the ride we know ya'll
-    are looking for ;) \n\n![Latest Cocktail GIFs | Gfycat](https://thumbs.gfycat.com/SanePeskyGalapagoshawk-max-1mb.gif)"
+  text: |-
+    If you think the Super Pwinks were going to shake or stir this Olive, you’re sadly mistaken! This team might be under the radar, but like any good cocktail, it’ll sneak up on you and take you for a ride. And not the ride we know ya'll are looking for ;)
+
+    ![](https://c.tenor.com/0SuA8yWRc8YAAAAd/ayfersucht-ayfer.gif)
 - team: _teams/s22-red.md
   record: 4-2
   text: |-
