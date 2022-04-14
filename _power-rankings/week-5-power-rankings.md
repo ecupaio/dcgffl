@@ -19,7 +19,10 @@ rankings:
     ![Sunprotection GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/l1J9zvorl1IebyNbO/200.gif)
 - team: _teams/s22-forest-green.md
   record: 4-1
-  text: ''
+  text: |-
+    It’s not every week that a team can win both games in their double header. Fwhorest Queens was able to do exactly that and gave us a show doing it. After beating Easy Lei and Citrus Got Real this Green team doubled their wins this season and gave themselves something to celebrate. Nevertheless, what’s a Fwhorest Queens game without a little drama. This is certainly their come up moment in the rankings but they might want to watch the language on the field before more players lose them the come up and have to come out the game. Come on now, real Queens never stoop so low.
+
+    ![The Real Housewives Of Atlanta GIFs - Get the best GIF on GIPHY](https://media0.giphy.com/media/OqJi4VZmzsDHvpdrOQ/200.gif)
 - team: _teams/s22-olive.md
   record: 4-1
   text: "If you think the Super Pwinks were going to shake or stir this Olive, you’re
@@ -75,7 +78,10 @@ rankings:
     ![Best Im Open GIFs | Gfycat](https://thumbs.gfycat.com/AdventurousFavoriteHoiho-size_restricted.gif)
 - team: _teams/s22-silver.md
   record: 2-4
-  text: ''
+  text: |-
+    This week Chrome Wreckers came out strong to serve another loss to Boats ‘N Hoes. Don’t celebrate too soon, they took giving back to the kids seriously this year and gave a win away against Peritwinkle. Maybe next time this seasoned team won’t feel so charitable.
+
+    ![Generous GIFs | Tenor](https://c.tenor.com/XEWQnjJXKTgAAAAM/very-generous-elf.gif)
 - team: _teams/s22-white.md
   record: 1-3
   text: |-
@@ -84,7 +90,10 @@ rankings:
     ![Best Trader Joes GIFs | Gfycat](https://thumbs.gfycat.com/BasicLiveBeagle-size_restricted.gif)
 - team: _teams/s22-super-pink.md
   record: 1-4
-  text: ''
+  text: |-
+    Can someone help me? I can’t find my readers in my birkin. Does that say Super Pwinks or Sub Par Twinks? With a solid roster, it’s easy to wonder what’s going wrong. Yes, it was another tough week for the Super Pwinks, but the good news for them is that next week will be their first week with a completely full and healthy roster. With a 1-4 record it’s fair to wonder if they’ll be able to turn things around this season, but at #15 things pretty much can only go up from here. My fingers are crossed that they do, because winning last week's game looked really good on them!
+
+    ![Power Rangers' original Pink Ranger says she "almost died" because of  "low-budget stunts"](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/12/1490289302-power-ranger-pink.gif)
 - team: _teams/s22-black.md
   record: 1-4
   text: |-
