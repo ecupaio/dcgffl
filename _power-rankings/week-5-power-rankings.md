@@ -75,7 +75,7 @@ rankings:
   text: |-
     Looks like lime might come back this season with their 2nd win of the season. Not sure if it's their QB who only uses one block or if it’s Emily who seems to be ALWAYS open. Whatever it is, keep it up.
 
-    ![Best Im Open GIFs | Gfycat](https://thumbs.gfycat.com/AdventurousFavoriteHoiho-size_restricted.gif)
+    ![](https://c.tenor.com/qNXegx5JotkAAAAd/winnerwinnerchickendinner-karl-lambunao.gif)
 - team: _teams/s22-silver.md
   record: 2-4
   text: |-
