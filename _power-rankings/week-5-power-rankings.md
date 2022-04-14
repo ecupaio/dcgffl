@@ -1,7 +1,7 @@
 ---
 date: 2022-04-14 09:12:39 -0400
 title: 'Week 5: Power Rankings'
-author: 'Del Mcspadden, Shaq Brooks, & '
+author: Del Mcspadden, Shaq Brooks, & Mandy Moore
 season: 22
 week: 5
 rankings:
@@ -73,10 +73,16 @@ rankings:
   text: ''
 - team: _teams/s22-black.md
   record: 1-4
-  text: ''
+  text: |-
+    Well look at that! My Neck, My Black finally hit their stride and secured a win. Thank goodness, because my neck and my back were aching from seeing them at the bottom of the rankings every week. It was a nail biter and a close game, but maybe this one hit wonder has changed their sound and found a dynamic that works. Tune in next week to see if their next game is good enough for radio or if this team is selling a sound from the past.
+
+    ![I Know This Song GIFs - Get the best GIF on GIPHY](https://media0.giphy.com/media/l2YWwGWR68RZkKTIc/200.gif)
 - team: _teams/s22-purple.md
   record: 1-4
-  text: ''
+  text: |-
+    Congrats are in order! In the “Battle for the Bottom” (not the one you all play at Dirty Goose) Peritwinkle takes second. After losing to My Neck, My Black they were able to pull out a win against Chrome Wreckers. They should probably thank Amanda Livingstone for her endless energy and team spirit because the team morale never faltered. I’ll raise a Truly to the twinks for making the second game look a little less like recess this week and a little more like high school. Maybe even college since Sean Holihan showed up this week. Okay, so grad school.
+
+    ![Graduation Champagne GIFs - Get the best GIF on GIPHY](https://media4.giphy.com/media/xUOxeQPR0LtO6RSO5y/giphy-downsized-large.gif)
 - team: _teams/s22-navy.md
   record: 0-5
   text: |-
