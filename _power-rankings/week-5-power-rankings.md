@@ -31,7 +31,7 @@ rankings:
   text: |-
     We hear the best way to prepare for game day is to get silly drunk at a wedding the night before. Maybe if Captain Japinga had fewer _Champagne Problems_ our Taylor’s would have done _All Too Well (Taylor’s Version. 10-Minutes duh)_.
 
-    ![The Bachelor Champagne GIFs - Get the best GIF on GIPHY](https://media4.giphy.com/media/IcdPUZfFDG9fcpmfp0/200.gif)
+    ![Choices GIFs - Get the best GIF on GIPHY](https://media3.giphy.com/media/l0HlUNj5BRuYDLxFm/200.gif)
 - team: _teams/s22-magenta.md
   record: 3-2
   text: |-
@@ -41,24 +41,32 @@ rankings:
 - team: _teams/s22-gold.md
   record: 3-2
   text: |-
-    This team doesn't seem to care too much about anything, but somehow they keep winning. No joke, we saw Keaton run over mid-game to the BBQ mixer happening next to the field to get a snack instead of a sack.
+    We thought this team was here for a good time, not a long time. From the lateness due to hangovers, to Keaton running over to the BBQ mid-game to get a snack instead of a sack, we don't get it but this team somehow keeps winning.
 
     ![Idgaf GIFs - Get the best GIF on GIPHY](https://media1.giphy.com/media/l0ExnkHnZ3lYzHbnG/giphy.gif)
 - team: _teams/s22-royal-blue.md
   record: 3-2
-  text: ''
+  text: "Captain Sean Karson became QB Karson with Oriya out with a shoulder injury.
+    Gold’s dynamic rush was too much for the new QB to handle. Here's to more reps
+    and better luck during rec league. \n\n![](https://i.giphy.com/media/l2YWh0xDnwcIQuVlS/giphy.webp)"
 - team: _teams/s22-island-blue.md
   record: 3-2
-  text: ''
+  text: |-
+    Island blue was missing quite a few players this week. They were probably lei-ing on a beach somewhere.
+
+    ![](https://i.giphy.com/media/jtom7hfbbYVtEgHqZ5/giphy-downsized-large.gif)
 - team: _teams/s22-maroon.md
   record: 3-2
-  text: ''
+  text: |-
+    Let's get ready to rumble. Just kidding, but this game got very heated after an _alleged_ bull rush from a rookie on white. After being escorted off the field Maroon still took home the win.
+
+    ![](https://i.giphy.com/media/JqEB4KkitGwhPRtC7G/giphy.webp)
 - team: _teams/s22-dark-orange.md
   record: 2-3
   text: |-
     Yet another QB missing this week. Not sure if Evan can save this team or if Patrick's cute orange pom poms will get Orange back on track.
 
-    ![Whoa Yeah GIF - Celebrate Pom Poms Excited - Discover & Share GIFs](https://c.tenor.com/L128cFICxEIAAAAC/celebrate-pom-poms.gif)
+    ![](https://i.giphy.com/media/iiE4ah9MAARc0TGNQZ/giphy.webp)
 - team: _teams/s22-lime-green.md
   record: 2-4
   text: |-
