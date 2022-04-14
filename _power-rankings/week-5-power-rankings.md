@@ -87,7 +87,7 @@ rankings:
   text: |-
     Wunder Bred might have been missing from last week's power rankings, but they must not have minded cause they gave us the same energy this week as the last. Another tough week for Wonder Bred’s Rookie Captain and QB duo. Maybe it just takes a little more seasoning to get this team on track. I’d suggest checking your local Trader Hoe’s for some “Everything But The Bottle” seasoning because the way ya’ll party after an L is easily ranked #1 in my book.
 
-    ![Best Trader Joes GIFs | Gfycat](https://thumbs.gfycat.com/BasicLiveBeagle-size_restricted.gif)
+    ![](https://media.giphy.com/media/iH2cNDAdNlTfW/giphy.gif)
 - team: _teams/s22-super-pink.md
   record: 1-4
   text: |-
