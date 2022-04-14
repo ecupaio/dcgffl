@@ -55,10 +55,16 @@ rankings:
   text: ''
 - team: _teams/s22-dark-orange.md
   record: 2-3
-  text: ''
+  text: |-
+    Yet another QB missing this week. Not sure if Evan can save this team or if Patrick's cute orange pom poms will get Orange back on track.
+
+    ![Whoa Yeah GIF - Celebrate Pom Poms Excited - Discover & Share GIFs](https://c.tenor.com/L128cFICxEIAAAAC/celebrate-pom-poms.gif)
 - team: _teams/s22-lime-green.md
   record: 2-4
-  text: ''
+  text: |-
+    Looks like lime might come back this season with their 2nd win of the season. Not sure if it's their QB who only uses one block or if it’s Emily who seems to be ALWAYS open. Whatever it is, keep it up.
+
+    ![Best Im Open GIFs | Gfycat](https://thumbs.gfycat.com/AdventurousFavoriteHoiho-size_restricted.gif)
 - team: _teams/s22-silver.md
   record: 2-4
   text: ''
