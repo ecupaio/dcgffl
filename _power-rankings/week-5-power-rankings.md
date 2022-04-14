@@ -1,7 +1,7 @@
 ---
 date: 2022-04-14 09:12:39 -0400
 title: 'Week 5: Power Rankings'
-author: Del Mcspadden, Shaq Brooks, & Mandy Moore
+author: Del Mcspadden & Shaq Brooks
 season: 22
 week: 5
 rankings:
@@ -112,6 +112,5 @@ rankings:
     Consistency seems to be the goal for this team. There’s not much to say because the record speaks for itself. Instead let’s put a spotlight on how Queen Mother Munroe showed up to teach the girls how to turn a run away game into a runway moment for DCGFFL’s Spring Summer collection. Yeah, maybe the scoreboards not looking so great but rest assured the sideline does.
 
     ![Smize Girl GIF - Tyrabanks Antm Americasnexttopmodel - Discover & Share GIFs](https://c.tenor.com/XwX7ccaM0E8AAAAC/tyrabanks-antm.gif)
-published: false
 
 ---
