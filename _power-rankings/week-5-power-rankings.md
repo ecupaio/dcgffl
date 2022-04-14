@@ -81,7 +81,7 @@ rankings:
   text: |-
     This week Chrome Wreckers came out strong to serve another loss to Boats ‘N Hoes. Don’t celebrate too soon, they took giving back to the kids seriously this year and gave a win away against Peritwinkle. Maybe next time this seasoned team won’t feel so charitable.
 
-    ![Generous GIFs | Tenor](https://c.tenor.com/XEWQnjJXKTgAAAAM/very-generous-elf.gif)
+    ![](https://media.giphy.com/media/xUOwFWkviHhITfuVuU/giphy.gif)
 - team: _teams/s22-white.md
   record: 1-3
   text: |-
