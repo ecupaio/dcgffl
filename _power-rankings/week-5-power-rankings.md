@@ -44,7 +44,7 @@ rankings:
 - team: _teams/s22-gold.md
   record: 3-2
   text: |-
-    We thought this team was here for a good time, not a long time. From the lateness due to hangovers, to Keaton running over to the BBQ mid-game to get a snack instead of a sack, we don't get it but this team somehow keeps winning.
+    This team seems to be here for a good time, not a long time. Between players being tardy due to hangovers and Keaton running over to the BBQ mid-game to get a snack instead of a sack, it’s shocking they keep winning. Drunk, hungry and winning is the new motto and are we mad at it? Probably not, unless you’re the team that lost, Gaystar Royalco.
 
     ![Idgaf GIFs - Get the best GIF on GIPHY](https://media1.giphy.com/media/l0ExnkHnZ3lYzHbnG/giphy.gif)
 - team: _teams/s22-royal-blue.md
@@ -55,7 +55,7 @@ rankings:
 - team: _teams/s22-island-blue.md
   record: 3-2
   text: |-
-    Island blue was missing quite a few players this week. They were probably lei-ing on a beach somewhere.
+    Lets not lie we all know some enjoy an Easy Lei, but I think we can agree just because you’re easy doesn’t mean lei there and take it. Fwhorest Queens ran through this team in last weeks game. Maybe they should try being hard to get next week because things weren't looking so hot on the island this time around. Maybe that's because they were missing a few players this week. They were probably lei-ing on a beach somewhere getting a tan. Lets get some more points next time though because their shot at the top has said all but “Aloha” at this point.
 
     ![](https://i.giphy.com/media/jtom7hfbbYVtEgHqZ5/giphy-downsized-large.gif)
 - team: _teams/s22-maroon.md
