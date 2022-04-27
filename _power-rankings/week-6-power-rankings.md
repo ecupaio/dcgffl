@@ -60,11 +60,11 @@ rankings:
   text: |-
     Joe Owens when he saw his team for the first time:
 
-    ![](https://lh4.googleusercontent.com/V7nl5h2AqKvNi_LRDNA5M_KGjhiGWNdY5qe6dD3N2_hL-dVqIbwSMPFripFcFkomfcNn6u_jM0u_RGMszBBpAUxeG7g5bgfCtS1xRqLDrLGFILsExMT596oM8T_adU1b2M7ULXAW =174x324)
+    ![](/img/screenshot-2022-04-27-094650.png)
 
     Joe Owens when his rookie QB turns out to be pretty good and they go 4-2:
 
-    ![](https://lh3.googleusercontent.com/NT07tfJGwAAsqNzxArqZbpItlqz-2yx-Gw-vWO3v_Y_6Mj9naXMie91jZcRB7EQKXDzwkkUWhN6VNG_DqmJTimXqqbtg25QI1LyqqKFPX3Mw8gJSJy-Q3Hc7xVtRwVx6XQLzYf-B =218x276)
+    ![](/img/screenshot-2022-04-27-094733.png)
 
     Wait, I can’t tell if he’s happy here. Someone let him know he just won.
 - team: _teams/s22-island-blue.md
