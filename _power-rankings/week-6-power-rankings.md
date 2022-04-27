@@ -16,7 +16,7 @@ rankings:
   text: |-
     They stumbled against Magenta but got up quickly to put the season back on track with a win against Easy Lei. With three games left against .500 or below teams, could Buns of Steel find itself coasting into a playoff bye and maybe a fun rematch of Waggoner v. Hunt?
 
-    ![tell me more interesting gif | WiffleGif](http://i.imgur.com/k3oclTP.gif)
+    ![Perhaps GIF - Mark Wahlberg Maybe Maybe Not - Discover & Share GIFs](https://c.tenor.com/XrngRMJ-R14AAAAd/mark-wahlberg-maybe.gif)
 - team: _teams/s22-forest-green.md
   record: 5-2
   text: |-
