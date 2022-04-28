@@ -32,16 +32,15 @@ Each of the two divisions will have teams ranked 1-9, based on overall record, w
 
 #### Playoff Schedule - May 15th
 
-Slot A (2 games) @ 8:30 AM
+![](/img/s22_playoff_format.jpeg)
 
-Slot B (4 games) @ 10 AM
-
-Slot C (4 games) @ 12 PM
-
-Slot D - Quarterfinals (4 games) @ 1:45 PM
+* Slot A (2 games) @ 8:30 AM
+* Slot B (4 games) @ 10 AM
+* Slot C (4 games) @ 12 PM
+* Slot D - Quarterfinals (4 games) @ 1:45 PM
 
 #### Semifinals and Super Bowl Schedule - May 22nd
 
 * Semifinals @ 10 AM
 * Finals @ 12 PM
-* Season-ending party - 
+* Season-ending party -
