@@ -9,6 +9,10 @@ attachments: []
 
 **Arizona Cardinals select gay football player to announce 3rd round NFL Draft pick. Tune in Friday to watch!**  Joel currently plays on the Sunday League's Steel Gray ("Buns of Steel"). See the article, [HERE](https://www.outsports.com/2022/4/25/23039859/arizona-cardinals-nfl-draft-pick-gay-player-joel-horton). Find out more about the draft, [HERE](https://nflcommunications.com/Pages/2022-NFL-DRAFT-SPECIAL-PICKS.aspx).
 
+![](/img/joel_horton.jpg)
+
+Congratulations, Joel!
+
 #### Other News
 
 * [**Power Rankings**]() are here!  Brought to you Week 6 by Sean.  Check out past weeks by Shaq and Del.  Bringing you all the latest league tea!
