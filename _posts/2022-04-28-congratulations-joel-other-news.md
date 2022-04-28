@@ -11,10 +11,10 @@ attachments: []
 
 #### Other News
 
-* [**Power Rankings **]()are here!  Brought to you Week 6 by Sean.  Check out past weeks by Shaq and Del.  Bringing you all the latest league tea!
+* [**Power Rankings**]() are here!  Brought to you Week 6 by Sean.  Check out past weeks by Shaq and Del.  Bringing you all the latest league tea!
 * SAVE-THE-DATE: **Beach Bowl** - July 30, 2022 in Rehoboth Beach, DE!
 * May 14 - **Service Day**! Join us to tackle out-of-control waste for a day of spring cleaning at Carter Barron. Join us next to the trash/recycling area at 10 AM.
 * May 21 - **Service Day**! Join former DCGFFL member, Craig N., at 10:00 AM for a service day event at Crescent Cities Nursing Center (4409 East-West Hwy, Hyattsville, MD 20782) to bring company and the DCGFFL spirit to the residents.
 * The league is seeking skilled **video editors** for our on-field and off-field video productions. If you are interested, please send an email to DCGayFlagFootball@gmail.com!
-* SAVE-THE-DATE - Pride Bowl 2022 - June 24-26 in Chicago, IL
-* SAVE-THE-DATE - Gay Bowl 2022 - October 6-10 in Honolulu, HI
+* SAVE-THE-DATE - **Pride Bowl 2022** - June 24-26 in Chicago, IL
+* SAVE-THE-DATE - **Gay Bowl 2022** - October 6-10 in Honolulu, HI
