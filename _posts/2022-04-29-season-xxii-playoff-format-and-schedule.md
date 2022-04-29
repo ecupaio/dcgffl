@@ -1,7 +1,7 @@
 ---
 date: 2022-04-29 13:00:45 -0400
 title: Season XXII Playoff Format and Schedule
-permalink: "/s22-playoffs"
+permalink: "/s22-playoffs-format"
 attachments: []
 
 ---
