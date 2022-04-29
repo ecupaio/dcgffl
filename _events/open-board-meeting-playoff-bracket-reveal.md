@@ -23,4 +23,4 @@ Each season, the Board holds a meeting open to the active members.  Thinking abo
 
 Following the board meeting, at 8:30pm, you'll get the first look at the Season XXII Playoff Bracket!  Who will you face off in Playoffs the following weekend?!?  Come and find out while enjoying sponsor Barkada Wine Bar's delightful offerings!
 
-Initial information on Playoff format and schedule can be found [here](/s22-playoffs "Season XXII Playoff Format and Schedule").
+Initial information on Playoff format and schedule can be found [here](/s22-playoffs-format "Season XXII Playoff Format and Schedule").
