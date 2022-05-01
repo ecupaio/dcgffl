@@ -5,13 +5,13 @@ teams-score:
 - team: _teams/s22-silver.md
   score: 25
 - team: _teams/s22-gold.md
-  score: 
+  score: 20
 field: "2"
 date: 2022-05-01T11:00:00.000-04:00
 season: 22
 week: 7
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Brian S, Tom L
+game-ball: Drew C, Nolan L
+sportsperson: Oliver , Tiger R
 
 ---
