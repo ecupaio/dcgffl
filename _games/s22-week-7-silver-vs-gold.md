@@ -12,6 +12,6 @@ season: 22
 week: 7
 mvp: Brian S, Tom L
 game-ball: Drew C, Nolan L
-sportsperson: Oliver , Tiger R
+sportsperson: Oliver J, Tiger R
 
 ---
