@@ -12,6 +12,6 @@ season: 22
 week: 7
 mvp: Mark H, Zach B
 game-ball: Wyatt E, Kenny J
-sportsperson: Scott G
+sportsperson: Scott G, Sean H
 
 ---
