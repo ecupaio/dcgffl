@@ -15,16 +15,16 @@ rounds:
     - team: _rec-teams/s22-rec-pink.md
       score: 
     location: _locations/rfk-fields.md
-  - title: S21 Rec Playoff - Orange vs Burgundy
+  - title: S22 Rec Playoff - Purple vs Blue
     division: ''
-    date: 2021-11-05T18:30:00.000-04:00
-    location: _locations/trinidad-recreation-center.md
+    date: 2022-05-06 18:30:00 -0400
+    location: _locations/rfk-fields.md
     field: "2"
     teams-score:
-    - team: _rec-teams/s-21-rec-orange.md
+    - team: _rec-teams/s22-rec-purple.md
       score: 
-    - team: _rec-teams/s21-rec-burgundy.md
-      score: 6
+    - team: _rec-teams/s22-rec-blue.md
+      score: 
 - title: Championship
   games:
   - title: S21 Rec Championship
