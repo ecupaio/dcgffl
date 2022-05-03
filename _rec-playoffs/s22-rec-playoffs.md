@@ -27,15 +27,15 @@ rounds:
       score: 
 - title: Championship
   games:
-  - title: S21 Rec Championship
+  - title: S22 Rec Championship
     division: ''
-    date: 2021-11-05T20:00:00.000-04:00
-    location: Trinidad Recreation Center
+    date: 2022-05-06 20:00:00 -0400
+    location: _locations/rfk-fields.md
     field: "1"
     teams-score:
-    - team: _rec-teams/s-21-rec-olive.md
-      score: 19
-    - team: _rec-teams/s21-rec-burgundy.md
-      score: 18
+    - team: _rec-teams/tbd.md
+      score: 
+    - team: _rec-teams/tbd.md
+      score: 
 
 ---
