@@ -37,5 +37,6 @@ rounds:
       score: 
     - team: _rec-teams/tbd.md
       score: 
+permalink: "/s22-rec-playoffs/"
 
 ---
