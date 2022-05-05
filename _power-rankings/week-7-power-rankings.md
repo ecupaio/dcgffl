@@ -108,13 +108,13 @@ rankings:
     extremely close and Peritwinkle was one catch away from the biggest upset of the
     year. Unfortunately, it wasn’t in their cards this week. Also to all the teams
     that doubt them, let how close this game was serve as a warning. Peritwinkle could
-    humble one of you all soon….or at least get really close to doing it.\n\n![Get
-    Smart Missed It By That Much GIFs | Tenor](https://c.tenor.com/xaV-gZcEK3EAAAAM/missed-it-by-that-much.gif)"
+    humble one of you all soon….or at least get really close to doing it."
 - team: _teams/s22-navy.md
   record: 0-8
   text: |-
     A record breaking every week on the bottom for this team and if only….you know what, let me stop. I don’t bottom shame so I’ve got nothing to say other than we support you and stay ready! Maybe next week <3
 
     ![](https://i.giphy.com/media/3OKkboTlShtJakevU1/giphy.webp)
+published: false
 
 ---
