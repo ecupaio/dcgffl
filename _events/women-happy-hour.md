@@ -13,9 +13,11 @@ location:
   city: Silver Spring
   state: MD
   zip: 20910
-published: false
 
 ---
 **"All are welcome to come meet some bad ass women+." - Your hosts: Mecha, Bobby, and Amanda**
 
-**The Happy Hour is open to ALL Women+ Players of the DCGFFL!** Join the DCGFFL at Denizens Brewing Co. to celebrate the new and experienced women+ in the league. Have a friend interested in joining? Bring them along! The DCGFFL will have an open bar tab, to cover your first drink or two! **Denizens Brewing Co. is located at 1115 East-West Hwy, Silver Spring, MD 20910.**
+![](/img/4136323e-ca2e-460d-94b5-328b948c6cab.jpeg)
+
+**The Happy Hour is open to ALL Women+ Players of the DCGFFL!** Join the DCGFFL at Denizens Brewing Co. to celebrate the new and experienced women+ in the league. Have a friend interested in joining? Bring them along! The DCGFFL will have an open bar tab, to cover your first drink or two!   
+**Denizens Brewing Co. is located at 1115 East-West Hwy, Silver Spring, MD 20910.**
