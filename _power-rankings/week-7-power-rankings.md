@@ -91,10 +91,10 @@ rankings:
     sksksksk.\n\n![](https://i.giphy.com/media/GpyS1lJXJYupG/giphy.webp)"
 - team: _teams/s22-white.md
   record: 2-5
-  text: |-
-    With five losses in a row I would be lying if I said I didn’t think Wonder Bred was going stale. For a while I thought they were baked while playing but after this weeks 45-6 win against Boats ’N’ Hoes they might just be putting the “good" back in “baked goods”. What team wants a slice next week?
-
-    ![The Bake Off GIFs for every situation - The Great British Bake Off | The Great  British Bake Off](https://thegreatbritishbakeoff.co.uk/wp-content/uploads/2016/10/Mary-tackles-Toms-churro-WEB.gif)
+  text: With five losses in a row I would be lying if I said I didn’t think Wonder
+    Bred was going stale. For a while I thought they were baked while playing but
+    after this weeks 45-6 win against Boats ’N’ Hoes they might just be putting the
+    “good" back in “baked goods”. What team wants a slice next week?
 - team: _teams/s22-black.md
   record: 2-6
   text: |-
