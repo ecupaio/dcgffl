@@ -115,6 +115,5 @@ rankings:
     A record breaking every week on the bottom for this team and if only….you know what, let me stop. I don’t bottom shame so I’ve got nothing to say other than we support you and stay ready! Maybe next week <3
 
     ![](https://i.giphy.com/media/3OKkboTlShtJakevU1/giphy.webp)
-published: false
 
 ---
