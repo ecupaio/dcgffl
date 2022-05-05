@@ -94,7 +94,7 @@ rankings:
   text: |-
     With five losses in a row I would be lying if I said I didn’t think Wonder Bred was going stale. For a while I thought they were baked while playing but after this weeks 45-6 win against Boats ’N’ Hoes they might just be putting the “good" back in “baked goods”. What team wants a slice next week?
 
-    ![](https://i.giphy.com/media/Skrl7DRQlaQNi/giphy.webp)
+    ![The Bake Off GIFs for every situation - The Great British Bake Off | The Great  British Bake Off](https://thegreatbritishbakeoff.co.uk/wp-content/uploads/2016/10/Mary-tackles-Toms-churro-WEB.gif)
 - team: _teams/s22-black.md
   record: 2-6
   text: |-
@@ -108,7 +108,8 @@ rankings:
     extremely close and Peritwinkle was one catch away from the biggest upset of the
     year. Unfortunately, it wasn’t in their cards this week. Also to all the teams
     that doubt them, let how close this game was serve as a warning. Peritwinkle could
-    humble one of you all soon….or at least get really close to doing it.\n\n![](https://i.giphy.com/media/3o7WIt9lYk55TRt4aY/giphy.webp)"
+    humble one of you all soon….or at least get really close to doing it.\n\n![Get
+    Smart Missed It By That Much GIFs | Tenor](https://c.tenor.com/xaV-gZcEK3EAAAAM/missed-it-by-that-much.gif)"
 - team: _teams/s22-navy.md
   record: 0-8
   text: |-
