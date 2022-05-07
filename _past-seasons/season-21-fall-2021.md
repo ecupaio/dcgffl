@@ -1,5 +1,5 @@
 ---
-date: 2022-05-07 17:33:20 -0400
+date: 2021-12-01 17:33:20 -0500
 title: Season 21 - Fall 2021
 permalink: "/s21-summary/"
 published: false
