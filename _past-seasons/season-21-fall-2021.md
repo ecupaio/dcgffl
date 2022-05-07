@@ -20,6 +20,22 @@ Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season!
 
 ### Semifinals Bracket Recap
 
+See here for the full bracket! [https://dcgffl.org/season-21-playoffs/](https://dcgffl.org/season-21-playoffs/ "https://dcgffl.org/season-21-playoffs/")
+
 ![](/img/s21_semifinals_results.PNG)
 
-See here for the full bracket! [https://dcgffl.org/season-21-playoffs/](https://dcgffl.org/season-21-playoffs/ "https://dcgffl.org/season-21-playoffs/")
+### End of Season Party
+
+We had a BLAST celebrating the end of Season 21!  A big thanks to photographer Shawn King! Download and share photos from the album linked below:
+
+[**https://drive.google.com/drive/folders/1X5m1EdDXMMVDjsXUuA7GWlGjV_4coTca**](https://drive.google.com/drive/folders/1X5m1EdDXMMVDjsXUuA7GWlGjV_4coTca "https://drive.google.com/drive/folders/1X5m1EdDXMMVDjsXUuA7GWlGjV_4coTca")
+
+It has been a wonderful season. We wish everyone a happy winter and we look forward to another amazing season in the spring!
+
+![](/img/s21_season_end-6.jpeg)
+
+![](/img/s21_season_end-1.jpeg)
+
+![](/img/s21_season_end-4.jpeg)
+
+![](/img/s21_season_end-5.jpeg)
