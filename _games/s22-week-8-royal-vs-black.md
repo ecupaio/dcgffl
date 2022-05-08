@@ -3,11 +3,11 @@ location: _locations/carter-baron.md
 title: S22 Week 8 - Royal vs Black
 teams-score:
 - team: _teams/s22-royal-blue.md
-  score: 
+  score: 35
 - team: _teams/s22-black.md
-  score: 
+  score: 26
 field: "4"
-date: 2022-05-08 09:30:00 -0400
+date: 2022-05-08T09:30:00.000-04:00
 season: 22
 week: 8
 mvp: ''
