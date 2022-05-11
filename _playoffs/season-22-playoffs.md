@@ -42,7 +42,11 @@ rounds:
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 8A Black vs 9B Navy
     division: North
-    teams-score: []
+    teams-score:
+    - team: _teams/s22-black.md
+      score: 
+    - team: _teams/s22-navy.md
+      score: 
     date: 2022-05-15 08:30:00 -0400
     location: _locations/carter-baron.md
 - title: S22 Playoffs Round 1 - East-West Bracket
