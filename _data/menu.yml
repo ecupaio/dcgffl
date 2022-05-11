@@ -64,5 +64,6 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Recreation league games Friday May 6 are POSTPONED! More info coming soon!
-  show: false
+  text: "[Playoff Bracket Released](/season-xxii-playoff-bracket-announced/), and
+    Recreation league finals rescheduled for [May 13 at Brentwood](/s22-rec-finals/)!"
+  show: true
