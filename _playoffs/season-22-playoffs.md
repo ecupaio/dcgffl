@@ -131,6 +131,5 @@ rounds:
     location: _locations/carter-baron.md
     title: S22 Playoffs Championship
     division: ''
-published: false
 
 ---
