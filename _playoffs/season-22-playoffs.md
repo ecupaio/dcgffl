@@ -1,153 +1,135 @@
 ---
-champion: _teams/s21-carolina-blue.md
+champion: ''
 title: Season 22 Playoffs
-permalink: "/season-21-playoffs/"
-season: 21
+permalink: "/season-22-playoffs/"
+season: 22
 rounds:
-- title: S21 Playoff Round 1 - North-South Bracket
+- title: S22 Playoff Round 1 - North-South Bracket
   games:
-  - title: S21 Playoff Round 1 - 1A White vs 1B Silver
+  - title: S22 Playoff Round 1 - 1B Steel Grey vs 8A/9B Winner
     division: North
     teams-score:
-    - team: _teams/s21-white.md
-      score: 39
-    - team: _teams/s21-silver.md
-      score: 25
-    date: 2021-11-14T11:30:00.000-05:00
+    - team: _teams/s22-steel-grey.md
+      score: 
+    date: 2022-05-15 12:00:00 -0400
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 2B Forest vs 7A Gold
+  - title: S22 Playoffs Round 1 - 2A Royal Blue vs 7B Dark Orange
     division: South
     teams-score:
-    - team: _teams/s21-forest-green.md
-      score: 26
-    - team: _teams/s21-gold.md
-      score: 12
-    date: 2021-11-14T11:30:00.000-05:00
+    - team: _teams/s22-royal-blue.md
+      score: 
+    - team: _teams/s22-dark-orange.md
+      score: 
+    date: 2022-05-15 12:00:00 -0400
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 3A Red vs 6B Kelly
+  - title: S22 Playoffs Round 1 - 3B Island Blue vs 6A Red
     division: South
     teams-score:
-    - team: _teams/s21-red.md
-      score: 30
-    - team: _teams/s21-kelly-green.md
-      score: 26
-    date: 2021-11-14T09:30:00.000-05:00
+    - team: _teams/s22-island-blue.md
+      score: 
+    - team: _teams/s22-red.md
+      score: 
+    date: 2022-05-15 10:00:00 -0400
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 4B Royal vs 5A Lime
+  - title: S22 Playoffs Round 1 - 4A Super Pink vs 5B Magenta
     division: North
     teams-score:
-    - team: _teams/s21-royal.md
-      score: 32
-    - team: _teams/s21-lime-green.md
-      score: 28
-    date: 2021-11-14T09:30:00.000-05:00
+    - team: _teams/s22-super-pink.md
+      score: 
+    - team: _teams/s22-magenta.md
+      score: 
+    date: 2022-05-15 10:00:00 -0400
     location: _locations/carter-baron.md
-- title: S21 Playoffs Round 1 - East-West Bracket
-  games:
-  - title: S21 Playoffs Round 1 - 1B Carolina vs 8A Atomic
-    division: East
-    teams-score:
-    - team: _teams/s21-carolina-blue.md
-      score: 12
-    - team: _teams/s21-atomic-blue.md
-      score: 0
-    date: 2021-11-14T11:30:00.000-05:00
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 2A Navy vs 7B Orange
-    division: West
-    teams-score:
-    - team: _teams/s21-navy.md
-      score: 45
-    - team: _teams/s21-neon-orange.md
-      score: 31
-    date: 2021-11-14T11:30:00.000-05:00
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 3B Cardinal vs 6A Iron Grey
-    division: West
-    teams-score:
-    - team: _teams/s21-cardinal-red.md
-      score: 26
-    - team: _teams/s21-iron-gray.md
-      score: 25
-    date: 2021-11-14T09:30:00.000-05:00
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 1 - 4A Purple vs 5B Black
-    division: East
-    teams-score:
-    - team: _teams/s21-purple.md
-      score: 19
-    - team: _teams/s21-black.md
-      score: 25
-    date: 2021-11-14T09:30:00.000-05:00
-    location: _locations/carter-baron.md
-- title: S21 Quarterfinals
-  games:
-  - title: S21 Playoffs Round 2 - East
-    division: East
-    teams-score:
-    - team: _teams/s21-carolina-blue.md
-      score: 31
-    - team: _teams/s21-black.md
-      score: 24
-    date: 2021-11-14T13:15:00.000-05:00
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 2 - West
-    division: West
-    teams-score:
-    - team: _teams/s21-navy.md
-      score: 33
-    - team: _teams/s21-cardinal-red.md
-      score: 19
-    date: 2021-11-14T13:15:00.000-05:00
-    location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 2 - North
+  - title: S22 Playoffs Round 1 - 8A Black vs 9B Navy
     division: North
-    teams-score:
-    - team: _teams/s21-royal.md
-      score: 40
-    - team: _teams/s21-white.md
-      score: 21
-    date: 2021-11-14T13:15:00.000-05:00
+    teams-score: []
+    date: 2022-05-15 08:30:00 -0400
     location: _locations/carter-baron.md
-  - title: S21 Playoffs Round 2 - South
-    division: South
-    teams-score:
-    - team: _teams/s21-forest-green.md
-      score: 23
-    - team: _teams/s21-red.md
-      score: 35
-    date: 2021-11-14T13:15:00.000-05:00
-    location: _locations/carter-baron.md
-- title: S21 Semifinals
+- title: S22 Playoffs Round 1 - East-West Bracket
   games:
-  - title: S21 Playoffs Semifinals - East vs West
+  - title: S22 Playoffs Round 1 - 1A Kelly Green vs 8B/9A Winner
+    division: East
+    teams-score:
+    - team: _teams/s22-kelly-green.md
+      score: 
+    date: 2022-05-15 12:00:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Round 1 - 2B Forest Green vs 7A Silver
+    division: West
+    teams-score:
+    - team: _teams/s22-forest-green.md
+      score: 
+    - team: _teams/s22-silver.md
+      score: 
+    date: 2022-05-15 12:00:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Round 1 - 3A Olive vs 6B Lime Green
+    division: West
+    teams-score:
+    - team: _teams/s22-olive.md
+      score: 
+    - team: _teams/s22-lime-green.md
+      score: 
+    date: 2022-05-15 10:00:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Round 1 - 4B White vs 5A Gold
+    division: East
+    teams-score:
+    - team: _teams/s22-white.md
+      score: 
+    - team: _teams/s22-gold.md
+      score: 
+    date: 2022-05-15 10:00:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Round 1 - 8B Maroon vs 9A Purple
+    division: East
+    teams-score:
+    - team: _teams/s22-maroon.md
+      score: 
+    - team: _teams/s22-purple.md
+      score: 
+    date: 2022-05-15 08:30:00 -0400
+    location: _locations/carter-baron.md
+- title: S22 Quarterfinals
+  games:
+  - title: S22 Playoffs Quarterfinals - East
+    division: East
+    teams-score: []
+    date: 2022-05-15 13:45:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Quarterfinals - West
+    division: West
+    teams-score: []
+    date: 2022-05-15 13:45:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Quarterfinals - North
+    division: North
+    teams-score: []
+    date: 2022-05-15 13:45:00 -0400
+    location: _locations/carter-baron.md
+  - title: S22 Playoffs Quarterfinals - South
+    division: South
+    teams-score: []
+    date: 2022-05-15 13:45:00 -0400
+    location: _locations/carter-baron.md
+- title: S22 Semifinals
+  games:
+  - title: S22 Playoffs Semifinals - East vs West
     division: East vs West
-    teams-score:
-    - team: _teams/s21-carolina-blue.md
-      score: 36
-    - team: _teams/s21-navy.md
-      score: 30
+    teams-score: []
     location: _locations/carter-baron.md
-    date: 2021-11-21T10:00:50.000-05:00
+    date: 2022-05-22 10:00:50 -0400
   - division: North vs South
-    teams-score:
-    - team: _teams/s21-royal.md
-      score: 24
-    - team: _teams/s21-red.md
-      score: 38
-    date: 2021-11-21T10:00:00.000-05:00
+    teams-score: []
+    date: 2022-05-22 10:00:00 -0400
     location: _locations/carter-baron.md
-    title: S21 Playoffs Semifinals - North vs South
-- title: S21 Championship
+    title: S22 Playoffs Semifinals - North vs South
+- title: S22 Championship
   games:
-  - teams-score:
-    - team: _teams/s21-red.md
-      score: 28
-    - team: _teams/s21-carolina-blue.md
-      score: 41
-    date: 2021-11-21T12:00:00.000-05:00
+  - teams-score: []
+    date: 2022-05-22 12:00:00 -0400
     location: _locations/carter-baron.md
-    title: S21 Playoffs Championship
+    title: S22 Playoffs Championship
     division: ''
 published: false
 
