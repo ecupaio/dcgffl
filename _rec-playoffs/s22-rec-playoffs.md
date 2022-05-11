@@ -30,7 +30,7 @@ rounds:
   - title: S22 Rec Championship
     division: ''
     date: 2022-05-06T20:00:00.000-04:00
-    location: _locations/rfk-fields.md
+    location: _locations/brentwood.md
     field: "1"
     teams-score:
     - team: _rec-teams/tbd.md
