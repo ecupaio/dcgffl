@@ -8,9 +8,9 @@ date: 2022-05-13 23:00:00 -0400
 time: 6:30pm (Playoffs), 8pm (Finals)
 location:
   name: Brentwood (Games) and Wunder Garten (Afterparty)
-  address: Brentwood-Hamilton Fields
-  city: ''
-  state: ''
+  address: 1300 6th St NE
+  city: Washington
+  state: DC
   zip: 
 permalink: "/s22-rec-finals/"
 
