@@ -1,6 +1,6 @@
 ---
-date: 2022-04-08 15:22:40 -0400
-title: 'Week 4: Power Rankings'
+date: 2022-04-08T15:22:40.000-04:00
+title: 'S22 Week 4: Power Rankings'
 author: Del Mcspadden
 season: 22
 week: 4
@@ -110,5 +110,6 @@ rankings:
     You is smart, you is kind, you is important. I don’t know what else to say to y’all at this point. Better luck next week.
 
     ![Unimpressed Viola Davis GIF](https://media2.giphy.com/media/kZD8cN1MycfKw/giphy.gif?cid=790b761149c9f2f12aa1169ee9b4ca97931a40fe27f4aa3b&rid=giphy.gif&ct=g)
+permalink: "/s22-wk4-pr/"
 
 ---
