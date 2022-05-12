@@ -1,6 +1,6 @@
 ---
-date: 2022-05-05 16:31:08 -0400
-title: 'Week 7: Power Rankings'
+date: 2022-05-05T16:31:08.000-04:00
+title: 'S22 Week 7: Power Rankings'
 author: Del Mcspadden
 season: 22
 week: 7
@@ -115,5 +115,6 @@ rankings:
     A record breaking every week on the bottom for this team and if only….you know what, let me stop. I don’t bottom shame so I’ve got nothing to say other than we support you and stay ready! Maybe next week <3
 
     ![](https://i.giphy.com/media/3OKkboTlShtJakevU1/giphy.webp)
+permalink: "/s22-wk7-pr/"
 
 ---

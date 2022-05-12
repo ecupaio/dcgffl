@@ -1,7 +1,7 @@
 ---
 date: 2022-05-12 09:06:02 -0400
-title: 'Week 8: Power Rankings'
-permalink: "/s22-pr-wk8/"
+title: 'S22 Week 8: Power Rankings'
+permalink: "/s22-wk8-pr/"
 author: Gordo and Sean - The Prime Directive prohibits Starfleet personnel and spacecraft
   from interfering in the normal development of any society, and mandates that any
   Starfleet vessel or crew member is expendable to prevent violation of this rule.[4]  and  As
