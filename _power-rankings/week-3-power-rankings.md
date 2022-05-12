@@ -1,6 +1,6 @@
 ---
-date: 2022-03-31 12:20:43 -0400
-title: 'Week 3: Power Rankings'
+date: 2022-03-31T12:20:43.000-04:00
+title: 'S22 Week 3: Power Rankings'
 author: Shaq Brooks
 season: 22
 week: 3
@@ -113,5 +113,6 @@ rankings:
     … I know you lying. I get it, it was cold… Really? No-one wanted to show up?
 
     ![Disappointed Nope GIF - Disappointed Nope Viola Davis - Discover & Share  GIFs](https://c.tenor.com/50EVoeKHRBYAAAAC/disappointed-nope.gif)
+permalink: "/s22-wk3-pr/"
 
 ---
