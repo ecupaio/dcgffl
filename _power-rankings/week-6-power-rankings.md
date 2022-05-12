@@ -1,6 +1,6 @@
 ---
-date: 2022-04-27 08:56:31 -0400
-title: 'Week 6: Power Rankings'
+date: 2022-04-27T08:56:31.000-04:00
+title: 'S22 Week 6: Power Rankings'
 author: Sean Holihan
 season: 22
 week: 6
@@ -123,5 +123,6 @@ rankings:
     This is a team of incredibly lovely people – and Kyle Butts – who deserve better than going winless. Week 7’s most exciting game? Navy vs. White. It’s gonna be like watching our very own battle for next year’s first overall pick.
 
     ![Schitts Creek Comedy GIF by CBC](https://media3.giphy.com/media/JmIGZnwAnbrXXvAfpj/giphy.gif?cid=790b7611c90364ba5097b03186f5438df9195ef72302dc4e&rid=giphy.gif&ct=g)
+permalink: "/s22-wk6-pr/"
 
 ---
