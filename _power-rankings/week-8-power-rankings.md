@@ -314,6 +314,8 @@ rankings:
 
     ![](/img/screenshot-2022-05-12-225756.png)
 
+    ![](/img/img-6962.GIF)
+
     ***
 
     Well folks, that does it from us. Remember, if anything above bothered you or upset you, it wasn’t written by me and was definitely from the other guy.
