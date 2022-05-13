@@ -284,6 +284,8 @@ rankings:
 
     We agree, Bryan. But we’d also like to give you credit for not only beating Sean in the palest DCGFFL contest, but also getting a sunburn during last week’s thunder storm. And to be fair, Joe Heron drafted one helluva team, it just, well, isn’t adding up. One thing that did come through this season? A dancing queen.
 
+    Click for live footage of the dancing queen: [video.mov](/img/video.mov "video.mov")
+
     ![](https://c.tenor.com/l1wMXfNUORsAAAAC/tina-twerk.gif)
 
     Does Pat have the skills to squeak out an opening match-up victory? Yes, but it takes more than just him. One lesson that remains as true as ever in this league: it’s the players and veterans that lift you up who truly make a difference, not the ones quick to criticize. That said, we can’t wait for the Joe/Pat/Aaron twerk-off at Kiki.
