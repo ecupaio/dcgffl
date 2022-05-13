@@ -314,8 +314,6 @@ rankings:
 
     Also let’s give it up for Kyle Butts, living simultaneously in nine different cities at one time. I would say he’s omnipresent, but I don’t know what that word means or if I’m using it correctly.
 
-    ![](/img/screenshot-2022-05-12-225756.png)
-
     ![](/img/img-6962.GIF)
 
     ***
