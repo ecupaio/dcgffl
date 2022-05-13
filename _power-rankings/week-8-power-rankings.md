@@ -319,6 +319,5 @@ rankings:
     Well folks, that does it from us. Remember, if anything above bothered you or upset you, it wasn’t written by me and was definitely from the other guy.
 
     Thanks again to all of you for making this community something truly special, and one of the highlights of our spring and fall, even more so now that we get to share it with my little Gordito (Gordo) and Freddie Mercury (Sean). Good luck, get off the bench, get in the game, have fun, be safe, and enjoy this upcoming weekend!
-published: false
 
 ---
