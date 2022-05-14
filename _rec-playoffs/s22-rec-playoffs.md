@@ -33,10 +33,10 @@ rounds:
     location: _locations/brentwood.md
     field: "1"
     teams-score:
-    - team: _rec-teams/tbd.md
-      score: 
-    - team: _rec-teams/tbd.md
-      score: 
+    - team: _rec-teams/s22-rec-purple.md
+      score: 6
+    - team: _rec-teams/s22-rec-pink.md
+      score: 7
 permalink: "/s22-rec-playoffs/"
 
 ---
