@@ -6,11 +6,13 @@ season: 22
 rounds:
 - title: S22 Playoff Round 1 - North-South Bracket
   games:
-  - title: S22 Playoff Round 1 - 1B Steel Grey vs 8A/9B Winner
+  - title: S22 Playoff Round 1 - 1B Steel Grey vs 8A Black
     division: North
     teams-score:
     - team: _teams/s22-steel-grey.md
-      score: 
+      score: 40
+    - team: _teams/s22-black.md
+      score: 32
     date: 2022-05-15 12:00:00 -0400
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 2A Royal Blue vs 7B Dark Orange
@@ -35,18 +37,18 @@ rounds:
     division: North
     teams-score:
     - team: _teams/s22-super-pink.md
-      score: 
+      score: 26
     - team: _teams/s22-magenta.md
-      score: 
+      score: 20
     date: 2022-05-15 10:00:00 -0400
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 8A Black vs 9B Navy
     division: North
     teams-score:
     - team: _teams/s22-black.md
-      score: 
+      score: 40
     - team: _teams/s22-navy.md
-      score: 
+      score: 33
     date: 2022-05-15 08:30:00 -0400
     location: _locations/carter-baron.md
 - title: S22 Playoffs Round 1 - East-West Bracket
