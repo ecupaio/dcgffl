@@ -1,5 +1,5 @@
 ---
-champion: _rec-teams/s22-rec-purple.md
+champion: _rec-teams/s22-rec-pink.md
 title: S22 Rec - Playoffs
 season: 22
 rounds:
