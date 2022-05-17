@@ -28,9 +28,9 @@ rounds:
     division: South
     teams-score:
     - team: _teams/s22-island-blue.md
-      score: 
+      score: 44
     - team: _teams/s22-red.md
-      score: 
+      score: 8
     date: 2022-05-15 10:00:00 -0400
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 4A Super Pink vs 5B Magenta
