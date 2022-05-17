@@ -23,7 +23,7 @@ season: 22
 week: 8
 rankings:
 - team: _teams/s22-kelly-green.md
-  record: 9-0
+  record: 9-0 (#1 Kiki Division)
   text: |-
     Oh, look! You made it past our long, boring intro! Sucker.
 
@@ -35,7 +35,7 @@ rankings:
 
     ![](https://c.tenor.com/S8BzsBpjxlEAAAAC/got-game-of-thrones.gif)
 - team: _teams/s22-steel-grey.md
-  record: 7-2
+  record: 7-2 (#1 Dirty Goose Division)
   text: |-
     I cannot confirm or deny that Matan was cast as Eminem in the Israeli version of 8-mile, but I can tell you his pre-game mixtape features artists including Ofra Haza, Netta, Wu Tang, Neil Diamond, Billy Joel, and Adam Lambert. As for his teammates, Bobby’s and Ben’s draft strategy brought a bodacious brigade of ballers to bear a bounty of big wins.
 
@@ -57,7 +57,7 @@ rankings:
 
     Sean: Yeah, I’m gonna go watch some Teletubbies and have an edible.
 - team: _teams/s22-royal-blue.md
-  record: 7-2
+  record: 7-2 (#2 Kiki Division)
   text: |-
     Andrew: Welp, I knew this day would come: the league finally has a handsome, left-handed, long-haired nice Jewish boy that’s actually likable. Helps that he’s a super athlete, too, propelling this team to a #2 seed in his rookie campaign.
 
@@ -67,7 +67,7 @@ rankings:
 
     A tip of the cap also goes to the veterans and Dads on this team for both steering the young impressionable athletes of this team (including everyone’s favorite thirsty ginger, Josh E.), and providing me (Gordo) with in-depth children’s tv show recommendations (Bluey FTW). Two big things at play this weekend will be Oriya’s durability, and Sean Karson and Fatima dueling it out for 'nicest person we wouldn't actually mind seeing win.'
 - team: _teams/s22-forest-green.md
-  record: 7-2
+  record: 7-2 (#2 Dirty Goose Division)
   text: "We interrupt this preview to let John Riley weigh in with his analysis of
     the Patriots’ 6th round options for the 2029 NFL draft … had you for a minute,
     didn’t we?\n\nSean: Are you mad at John cuz you’re a Jets fan and your QB looks
@@ -92,7 +92,7 @@ rankings:
     Reed, but I think Levert will be hard-pressed to get the same ovation. Maybe he
     can get one of those bubble suits?\n\n![](https://i.pinimg.com/originals/dd/83/0b/dd830b7d49541e37e3b90f851b1cd651.gif)"
 - team: _teams/s22-olive.md
-  record: 7-2
+  record: 7-2 (#3 Kiki Division)
   text: "For a team whose name implies they like things dirty (see what I did there?),
     they missed a golden opportunity to name themselves OliverTitties. Like a good
     dog dad, though, I’m not mad, just supremely disappointed. All that time Matt
@@ -107,7 +107,7 @@ rankings:
     Do you think he reads these?\n\nSean: I don’t know, but for our sake, let’s hope
     he’s not reffing either of our games."
 - team: _teams/s22-island-blue.md
-  record: 5-4
+  record: 5-4 (#3 Dirty Goose Division)
   text: "A team color blessed by Saint Dolly? Sure.\n\n  \n![](https://i.giphy.com/media/3ohhwkoXD0mNAJ0DQY/200.gif)\n\n_Ghetto
     supastar_\n\n_That is what you are_\n\n_Coming from afar_\n\n_Reaching for the
     stars_\n\n_Run away with me to another place_\n\n_We can rely on each other, uh-huh_\n\n_From
@@ -120,7 +120,7 @@ rankings:
     name for this team would be?\n\nSean: Do tell.\n\nGordo: Jens … with benefits.\n\nSean:
     Bravo, good sir.\n\n(I’ve been holding on to that one for a few years)"
 - team: _teams/s22-super-pink.md
-  record: 5-4
+  record: 5-4 (#4 Kiki Division)
   text: |-
     Oh, I thought we were supposed to cancel the season and hand JC and Cameron the trophy when this QB/Captain pairing was first announced. Billed as our next QB legend, Big C struggled to find his footing at first, looking more like The Great White Hype than anything else (now *there’s* an antiquated movie reference for you). With JC and others falling to injury, this team was left Castaway (better?) until Nikki (an overall league MVP candidate in my opinion)grabbed the leadership reins and really got this teams rears in gear.
 
@@ -136,7 +136,7 @@ rankings:
 
     ![](https://c.tenor.com/ecmdLocClq4AAAAC/paul-hollywood-bounce.gif)
 - team: _teams/s22-gold.md
-  record: 5-4
+  record: 5-4 (#5 Kiki Division)
   text: "“The team with no name,” while initially laughed out of the draft room as
     “the team with no talent,” has had lots of opponents eating their Velveeta-covered
     words. Also, we’re salty the league wouldn’t let us use “Urine Trouble.” After
@@ -156,7 +156,7 @@ rankings:
     so, uh, possibly.\n\nGordo: Umm, same? Maybe this is why we’ve both been assigned
     a non-playing role by writing this preview.\n\n![](https://j.gifs.com/wpjOym.gif)"
 - team: _teams/s22-white.md
-  record: 4-5
+  record: 4-5 (#4 Dirty Goose Division)
   text: |-
     You know, I wanted to drop some shade on Brandon M. for his reputation of saying/doing some unsavory/unsportsmany things on the field, but, his rookie captainship has really done a lot for this league, if only to enthusiastically provide shade on his own players, so good on him (just please don’t German suplex or chokeslam any rushers/lineman this weekend, okay?).
 
@@ -168,7 +168,7 @@ rankings:
 
     Win or lose, though, Adam makes a great point: who doesn’t love a good twink?
 - team: _teams/s22-magenta.md
-  record: 4-5
+  record: 4-5 (#5 Dirty Goose Division)
   text: "We didn’t really get to see much of Magenta’s games this season, but we had
     no trouble at all HEARING them. The screams ranging from something that sounds
     like AJ belting out “WHY IS THERE NO VIDEO OF MY FOOTBALL GAMES?!?!” (that said,
@@ -182,7 +182,7 @@ rankings:
     struggle with Greek letters. How exactly do you pronounce their team name?\n\nSean:
     I dunno. I have a hard enough time pronouncing words in English."
 - team: _teams/s22-red.md
-  record: 4-5
+  record: 4-5 (#6 Kiki Division)
   text: |-
     I’ve been waiting over two years to make this remark, and I’ve probably jinxed all of us, but here goes: if you’ve ever Lady-and-the-Tramped a one-dollar bill with a drag Hotchkiss, you’re probably immune to COVID-19.
 
@@ -194,7 +194,7 @@ rankings:
 
     How do they reverse their fortunes and Begin Again as the undefeated crew we saw early on? Lean on their leadership: Japinga can get this talent aligned, Hotchy has the moxy, and if Adam can help contribute to a little Strasmas miracle, we might find Red to be The Lucky One in the Final Four after all. My gut, however, says they’ll be the Girl at Home next weekend.
 - team: _teams/s22-lime-green.md
-  record: 4-5
+  record: 4-5 (#6 Dirty Goose Division)
   text: "Sean: Gordo, did you hear about the really handsome guy on lime with the
     adorable little dachshund?\n\nGordo: We’re back on the dog again?\n\nSean: I only
     have a couple of go-to lines …\n\nGordo: Is that why you’re still single?  \nSean:
@@ -216,7 +216,7 @@ rankings:
     final take: “don’t sleep on this team … ya know, cuz if you oversleep and miss
     your game, that’d be kinda bad.”"
 - team: _teams/s22-dark-orange.md
-  record: 4-5
+  record: 4-5 (#7 Dirty Goose Division)
   text: "Well if it isn’t the island of misfit musical theater kids. Garrett grabbed
     himself quite a contingent of his fall Rec League championship team (whattup,
     Olive-ia Rodrighoes!), along with some top tier FOGWAPS talent like Joe Owens.
@@ -236,7 +236,7 @@ rankings:
     obsession?\n\nSean: I would call it more of a predilection. But sure, I’m good
     with whatever you call it.\n\n![](https://c.tenor.com/cW9RoM5GtWMAAAAC/orange-cassidy-aew.gif)"
 - team: _teams/s22-silver.md
-  record: 3-6
+  record: 3-6 (#7 Kiki Division)
   text: |-
     Sean: Did you know Sam Brown ruins everything, Gordo?
 
@@ -252,7 +252,7 @@ rankings:
 
     ![Image of How about this leaflet "Famous Jewish Sports Legends"](https://y.yarn.co/af4cd79f-2a28-4ae2-91f7-9ed506faf461_text.gif)
 - team: _teams/s22-maroon.md
-  record: 3-6
+  record: 3-6 (#8 Dirty Goose Division)
   text: |-
     I’m giving this team a below satisfactory for the name - Maroon Paul’s Drag Race? They do have our favorite drag queen, Jazzmine St James D’Monaco, so Bradley and co. deserve some credit for that.
 
@@ -278,7 +278,7 @@ rankings:
 
     Their keys to success this weekend? More bourbon, more butterbeer, and more ballin’. I expect some noise from this crew, even if they’ve got an uphill climb.
 - team: _teams/s22-black.md
-  record: 2-7
+  record: 2-7 (#8 Kiki Division)
   text: |-
     “I don’t know what some of these captains do at these drafts.” -Bryan Sanders, 3/3/2022
 
@@ -290,7 +290,7 @@ rankings:
 
     Does Pat have the skills to squeak out an opening match-up victory? Yes, but it takes more than just him. One lesson that remains as true as ever in this league: it’s the players and veterans that lift you up who truly make a difference, not the ones quick to criticize. That said, we can’t wait for the Joe/Pat/Aaron twerk-off at Kiki.
 - team: _teams/s22-purple.md
-  record: 1-8
+  record: 1-8 (#9 Kiki Division)
   text: |-
     There are not many people who “won” the pandemic years, but JC and his doomsday bod have to be up there. Some might call it a reinvention, but to be honest, the killer instinct and way of the sword have always been with JC, he just now shines that sword on his somehow perfectly tanned abs. (while Kevin Hamilton’s chiseled \[yet pasty\] abs, in stark contrast, blinded most opponents when he went “crop top” halfway through the season. Mmm, nothing like some pasty chiseled FOGWAPS).
 
@@ -304,7 +304,7 @@ rankings:
 
     ![](/img/ceiu.gif)
 - team: _teams/s22-navy.md
-  record: 0-9
+  record: 0-9 (#9 Dirty Goose Division)
   text: |-
     Broke: Nice guys finish last.
 
