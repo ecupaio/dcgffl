@@ -158,10 +158,14 @@ rounds:
     title: S22 Playoffs Semifinals - North vs South
 - title: S22 Championship
   games:
-  - teams-score: []
+  - teams-score:
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
     date: 2022-05-22 12:00:00 -0400
     location: _locations/carter-baron.md
     title: S22 Playoffs Championship
-    division: ''
+    division: TBD vs TBD
 
 ---
