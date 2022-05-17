@@ -19,9 +19,9 @@ rounds:
     division: South
     teams-score:
     - team: _teams/s22-royal-blue.md
-      score: 
+      score: 40
     - team: _teams/s22-dark-orange.md
-      score: 
+      score: 21
     date: 2022-05-15 12:00:00 -0400
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 3B Island Blue vs 6A Red
