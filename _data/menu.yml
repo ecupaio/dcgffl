@@ -64,6 +64,6 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: "[Playoff Bracket Released](/season-xxii-playoff-bracket-announced/), and
-    Recreation league finals rescheduled for [May 13 at Brentwood](/s22-rec-finals/)!"
-  show: false
+  text: Elections are open - [cast your ballot](https://forms.gle/vAThuiVNbYTey7Qy9)
+    if you participated in one of the last two seasons!
+  show: true
