@@ -11,8 +11,10 @@ week: 9
 rankings:
 - team: _teams/s22-kelly-green.md
   record: 11-0
-  text: 'The only question left: will Brandon be nicer to refs after he finally gets
-    his '
+  text: |-
+    The only question left: will Brandon be nicer to refs after he finally gets his win?
+
+    ![](/img/screenshot-2022-05-19-131030.png)
 - team: _teams/s22-royal-blue.md
   record: 9-2
   text: "How do you solve a problem like Oriya?\n\nHow do you snatch his flag and
