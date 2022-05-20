@@ -146,14 +146,14 @@ rounds:
     - team: _teams/s22-olive.md
       score: 
     location: _locations/carter-baron.md
-    date: 2022-05-22 10:00:50 -0400
+    date: 2022-05-22 09:00:50 -0400
   - division: North vs South
     teams-score:
     - team: _teams/s22-royal-blue.md
       score: 
     - team: _teams/s22-super-pink.md
       score: 
-    date: 2022-05-22 10:00:00 -0400
+    date: 2022-05-22 09:00:00 -0400
     location: _locations/carter-baron.md
     title: S22 Playoffs Semifinals - North vs South
 - title: S22 Championship
