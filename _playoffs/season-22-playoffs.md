@@ -163,7 +163,7 @@ rounds:
       score: 
     - team: _teams/tbd.md
       score: 
-    date: 2022-05-22 12:00:00 -0400
+    date: 2022-05-22 11:00:00 -0400
     location: _locations/carter-baron.md
     title: S22 Playoffs Championship
     division: TBD vs TBD
