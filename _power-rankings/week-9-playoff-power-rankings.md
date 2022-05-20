@@ -116,6 +116,5 @@ rankings:
 - team: _teams/s22-navy.md
   record: 0-10
   text: "![](https://i.giphy.com/media/tLRifcvQNJIic/giphy.webp)"
-published: false
 
 ---
