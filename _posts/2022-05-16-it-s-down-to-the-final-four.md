@@ -14,3 +14,5 @@ What a weekend, folks!  Plenty of tight matchups and close battles in the single
 Come one, come all to watch the Season 22 showdown this Sunday at Carter Barron!
 
 Following games, we invite all league members to a VIP Season End Party from 3pm-7pm at the Dirty Goose.  The rooftop is EXCLUSIVELY reserved for us, so make sure to contact your team leaders to get wrist bands and access the after party!
+
+![](/img/s21_season_end-1.jpeg)
