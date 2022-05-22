@@ -1,5 +1,5 @@
 ---
-champion: ''
+champion: _teams/s22-olive.md
 title: Season 22 Playoffs
 permalink: "/season-22-playoffs/"
 season: 22
@@ -159,13 +159,13 @@ rounds:
 - title: S22 Championship
   games:
   - teams-score:
-    - team: _teams/tbd.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+    - team: _teams/s22-olive.md
+      score: 37
+    - team: _teams/s22-super-pink.md
+      score: 32
     date: 2022-05-22 11:00:00 -0400
     location: _locations/carter-baron.md
     title: S22 Playoffs Championship
-    division: TBD vs TBD
+    division: West vs North
 
 ---
