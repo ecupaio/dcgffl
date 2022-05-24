@@ -142,9 +142,9 @@ rounds:
     division: East vs West
     teams-score:
     - team: _teams/s22-kelly-green.md
-      score: 
+      score: 33
     - team: _teams/s22-olive.md
-      score: 
+      score: 41
     location: _locations/carter-baron.md
     date: 2022-05-22 09:00:50 -0400
   - division: North vs South
