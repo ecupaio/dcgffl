@@ -7,7 +7,7 @@ published: false
 ---
 **DCGFFL Season XXII Semi-Finals and Championship Game Recap**
 
-Congratulations to the [Blew Ball Busters](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=db6ea2ae60&e=c3641de19c) (Carolina Blue) on their triumph over Fire in the Hole (Red), securing their victory and the DCGFFL Season Trophy!
+Congratulations to the [Blew Ball Busters](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=db6ea2ae60&e=c3641de19c) (Carolina Blue) on their triumph over Fire in the Hole (Red), securing their victory and the DCGFFL Season Trophy! See here for the full bracket! [https://dcgffl.org/season-22-playoffs/](https://dcgffl.org/season-22-playoffs/ "https://dcgffl.org/season-22-playoffs/")
 
 ![](/img/a39dffb9-c81a-4b6c-a585-6509e13a8c7b.jpeg)
 
@@ -15,13 +15,11 @@ Shout out to champion captain Tony Britford and champion quarterback Ben Hunt on
 
 ![](/img/0108e031-0c44-48d3-b5cb-173fd0092a1c.jpeg)
 
-See photos from the championship, here! [https://www.flickr.com/photos/55392288@N03/albums/72157720225207145](https://www.flickr.com/photos/55392288@N03/albums/72157720225207145 "https://www.flickr.com/photos/55392288@N03/albums/72157720225207145")
+See more photos from the [semifinals](https://www.flickr.com/photos/55392288@N03/albums/72177720299159771 "https://www.flickr.com/photos/55392288@N03/albums/72177720299159771") and [championship](https://www.flickr.com/photos/55392288@N03/albums/72177720299164710 "https://www.flickr.com/photos/55392288@N03/albums/72177720299164710") here! 
 
 Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season!
 
-### Semifinals Bracket Recap
-
-See here for the full bracket! [https://dcgffl.org/season-21-playoffs/](https://dcgffl.org/season-22-playoffs/ "https://dcgffl.org/season-22-playoffs/")
+### Awards
 
 ![](/img/s21_semifinals_results.PNG)
 
