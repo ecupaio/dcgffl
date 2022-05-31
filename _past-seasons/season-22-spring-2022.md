@@ -48,18 +48,4 @@ The DCGFFL Board for Season XXIII consists of:
 **Social Director**: Amanda Dafonte  
 **Director At-Large**: JC Adams
 
-### End of Season Party
-
-We had a BLAST celebrating the end of Season 21!  A big thanks to photographer Shawn King! Download and share photos from the album linked below:
-
-[**https://drive.google.com/drive/folders/1X5m1EdDXMMVDjsXUuA7GWlGjV_4coTca**](https://drive.google.com/drive/folders/1X5m1EdDXMMVDjsXUuA7GWlGjV_4coTca "https://drive.google.com/drive/folders/1X5m1EdDXMMVDjsXUuA7GWlGjV_4coTca")
-
-It has been a wonderful season. We wish everyone a happy winter and we look forward to another amazing season in the spring!
-
-![](/img/s21_season_end-6.jpeg)
-
-![](/img/s21_season_end-1.jpeg)
-
-![](/img/s21_season_end-4.jpeg)
-
-![](/img/s21_season_end-5.jpeg)
+Thank you as well to all candidates who ran in our most recent elections and were willing to volunteer their time to give back to the league!
