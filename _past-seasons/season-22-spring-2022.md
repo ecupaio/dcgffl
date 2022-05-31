@@ -8,7 +8,10 @@ permalink: "/s22-summary/"
 
 Congratulations to [Shaken Not Stirred](https://dcgffl.org/teams/s22-olive/ "https://dcgffl.org/teams/s22-olive/") (Olive) on beating 🥑 (Kelly Green) and Super Pwinks (Super Pink) on their road to winning the Season XXII championship trophy!
 
-![](/img/52092568315_e47f6f7445_k.jpeg)Shout out to captain Mike Osorio and quarterback Matt Cline on leading their team to victory!
+![](/img/52092568315_e47f6f7445_k.jpeg)
+
+  
+Shout out to captain Mike Osorio and quarterback Matt Cline on leading their team to victory!
 
 ![](/img/52092567095_ca1dcf4bff_k.jpeg)
 
