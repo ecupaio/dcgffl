@@ -5,7 +5,7 @@ permalink: "/s21-summary/"
 published: false
 
 ---
-**DCGFFL Season XXI Semi-Finals and Championship Game Recap**
+**DCGFFL Season XXII Semi-Finals and Championship Game Recap**
 
 Congratulations to the [Blew Ball Busters](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&id=db6ea2ae60&e=c3641de19c) (Carolina Blue) on their triumph over Fire in the Hole (Red), securing their victory and the DCGFFL Season Trophy!
 
@@ -21,7 +21,7 @@ Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season!
 
 ### Semifinals Bracket Recap
 
-See here for the full bracket! [https://dcgffl.org/season-21-playoffs/](https://dcgffl.org/season-21-playoffs/ "https://dcgffl.org/season-21-playoffs/")
+See here for the full bracket! [https://dcgffl.org/season-21-playoffs/](https://dcgffl.org/season-22-playoffs/ "https://dcgffl.org/season-22-playoffs/")
 
 ![](/img/s21_semifinals_results.PNG)
 
