@@ -1,5 +1,5 @@
 ---
-date: 2022-06-01 17:00:20 -0400
+date: 2022-05-31 17:00:20 -0400
 title: Season 22 - Spring 2022
 permalink: "/s22-summary/"
 published: false
