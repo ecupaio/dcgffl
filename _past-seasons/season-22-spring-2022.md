@@ -2,7 +2,6 @@
 date: 2022-05-31 17:00:20 -0400
 title: Season 22 - Spring 2022
 permalink: "/s22-summary/"
-published: false
 
 ---
 #### DCGFFL Season XXII Semifinals and Championship Game Recap
@@ -16,10 +15,7 @@ Shout out to captain Mike Osorio and quarterback Matt Cline on leading their tea
 
 See more photos from the [semifinals](https://www.flickr.com/photos/55392288@N03/albums/72177720299159771 "https://www.flickr.com/photos/55392288@N03/albums/72177720299159771") and [championship](https://www.flickr.com/photos/55392288@N03/albums/72177720299164710 "https://www.flickr.com/photos/55392288@N03/albums/72177720299164710")! Check out the Season 22 Playoffs page to see Olive's road to the championship and all other playoff results! [https://dcgffl.org/season-22-playoffs/](https://dcgffl.org/season-22-playoffs/ "https://dcgffl.org/season-22-playoffs/")
 
-Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season!  
- 
-
- 
+Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season! 
 
 #### Award Winners
 
@@ -37,10 +33,6 @@ Congratulations to all of our Season XXII award winners for their fantastic seas
 **Michael "Snowy" Snowden Sportsmanship Award**: Shaq Brooks  
 **Best Boo**: Chad Kennedy  
 **Best Fan**: Eric Green
-
- 
-
- 
 
 #### Your New Board
 
