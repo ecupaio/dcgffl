@@ -18,7 +18,7 @@ See more photos from the [semifinals](https://www.flickr.com/photos/55392288@N03
 
 Thanks to ALL our players, refs, and supporters for a fantastic DCGFFL season!
 
-### Award Winners
+#### Award Winners
 
 Congratulations to all of our Season XXII award winners for their fantastic seasons and overall contributions to the league:
 
@@ -35,7 +35,7 @@ Congratulations to all of our Season XXII award winners for their fantastic seas
 **Best Boo**: Chad Kennedy  
 **Best Fan**: Eric Green
 
-### Your New Board
+#### Your New Board
 
 Now that Season XXII is over, we have a new board to introduce! Thank you to our outgoing members, Jim Roll and Ricky Harrison, for all your hard work over the past year to get the league restarted following our COVID hiatus!
 
