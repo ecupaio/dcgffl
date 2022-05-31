@@ -5,7 +5,7 @@ permalink: "/s22-summary/"
 published: false
 
 ---
-### DCGFFL Season XXII Semifinals and Championship Game Recap
+#### DCGFFL Season XXII Semifinals and Championship Game Recap
 
 Congratulations to [Shaken Not Stirred](https://dcgffl.org/teams/s22-olive/ "https://dcgffl.org/teams/s22-olive/") (Olive) on beating 🥑 (Kelly Green) and Super Pwinks (Super Pink) on their road to winning the Season XXII championship trophy!  
   
