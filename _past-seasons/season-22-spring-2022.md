@@ -10,7 +10,6 @@ Congratulations to [Shaken Not Stirred](https://dcgffl.org/teams/s22-olive/ "htt
 
 ![](/img/52092568315_e47f6f7445_k.jpeg)
 
-  
 Shout out to captain Mike Osorio and quarterback Matt Cline on leading their team to victory!
 
 ![](/img/52092567095_ca1dcf4bff_k.jpeg)
@@ -33,8 +32,12 @@ Congratulations to all of our Season XXII award winners for their fantastic seas
 **Golden Whistle**: Levert James  
 **John Boyd Ally Award**: Andrew Gordon  
 **Michael "Snowy" Snowden Sportsmanship Award**: Shaq Brooks  
-**Best Boo**: Chad Kennedy  
+**Best Boo**: Chad Kennedy (Brandon Waggoner's Boo)  
 **Best Fan**: Eric Green
+
+**Rec League MVP**: Christine Hohl  
+**Rec League Sportsmanship Award**: Joe Platte  
+**Rec League Champions**: [Pink](https://dcgffl.org/recreation-league/teams/s22-rec-pink/ "https://dcgffl.org/recreation-league/teams/s22-rec-pink/")
 
 #### Your New Board
 
