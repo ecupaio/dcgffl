@@ -44,12 +44,12 @@ Congratulations to all of our Season XXII award winners for their fantastic seas
 Now that Season XXII is over, we have a new board to introduce! Thank you to our outgoing members, Jim Roll and Ricky Harrison, for all your hard work over the past year to get the league restarted following our COVID hiatus!
 
 The DCGFFL Board for Season XXIII consists of:  
-**Commissioner**: Logan Dawson  
-**Director of Players**:  
-**Director of Communications**: Munroe Bell-Rose  
-**Treasurer**: Ryan Viessman  
-**Director of Operations**: JJ Johnson  
-**Social Director**: Amanda Dafonte  
-**Director At-Large**: JC Adams
+**Commissioner**: Logan Dawson (new role!)  
+**Director of Players**: Kevin Comerford (new! - appointed)  
+**Director of Communications**: Munroe Bell-Rose (new!)  
+**Treasurer**: Ryan Viessman (continuing)  
+**Director of Operations**: JJ Johnson (continuing)  
+**Social Director**: Amanda Dafonte (continuing)  
+**Director At-Large**: JC Adams (re-elected!)
 
 Thank you as well to all candidates who ran in our most recent elections and were willing to volunteer their time to give back to the league!
