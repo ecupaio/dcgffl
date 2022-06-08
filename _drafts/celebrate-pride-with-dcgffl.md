@@ -1,18 +1,23 @@
 ---
-date: 2022-05-16T21:48:04.000-04:00
+date: 2022-06-08 12:00:04 -0400
 title: Celebrate Pride with DCGFFL!
-permalink: "/s22-final-four/"
-attachments:
-- title: Download the Quarterfinals Results Here!
-  file: "/img/s22_playoff_week_1_results.pdf"
+permalink: "/dcgffl-pride-2022/"
+attachments: []
 
 ---
-What a weekend, folks!  Plenty of tight matchups and close battles in the single elimination tournament!  At the end of the day, it's down to Kelly Green, Olive, Royal, and Super Pink.  They'll meet on **Sunday May 22nd for the semifinals (9am) and super bowl (11am) - NOTE NEW TIMES!**
+Happy Pride!! 🏳️‍🌈🏳️‍⚧️
 
-![](/img/s22_semifinals_results.PNG)
+DCGFFL is partnering with Team DC and the Washington Commanders for Capital Pride 2022!!
 
-Come one, come all to watch the Season 22 showdown this Sunday at Carter Barron!
+[SIGN UP TO VOLUNTEER HERE](https://forms.gle/gaLSfwVsYx7i1pVb7 "https://forms.gle/gaLSfwVsYx7i1pVb7")
 
-Following games, we invite all league members to a VIP Season End Party from 3pm-7pm at the Dirty Goose.  The rooftop is EXCLUSIVELY reserved for us, so make sure to contact your team leaders to get wrist bands and access the after party!
+**Pride Parade - Sat, 6/11 @ 2:30 PM**  
+Those who march in the parade will receive a free Washington Commanders Pride t-shirt and other swag! Marchers are asked to arrive beginning at 2:30 PM.
 
-![](/img/s21_season_end-1.jpeg)
+**Pride Festival Sports Village - Sun, 6/12**  
+The Washington Commanders are hosting several activities in the Sports Village from 12-6 PM. Sign up to volunteer with the Commanders from 12-2 PM or just stop by later and let them know you're with DCGFFL!
+
+**Pride Festival Beer Tent - Sun, 6/12 from 6-8 PM**  
+We need 16 volunteers to staff the Capital Beer Tent during the festival. Our station is right by the main stage, so come have fun and enjoy the festival with your league mates!
+
+![](/img/img_9768.JPG)![](/img/teamdc.webp)
