@@ -7,8 +7,9 @@ attachments: []
 ---
 Happy Pride!! 🏳️‍🌈🏳️‍⚧️
 
-DCGFFL is partnering with Team DC and the Washington Commanders for Capital Pride 2022!!
-
+DCGFFL is partnering with Team DC and the Washington Commanders for Capital Pride 2022!!  
+  
+  
 [SIGN UP TO VOLUNTEER HERE](https://forms.gle/gaLSfwVsYx7i1pVb7 "https://forms.gle/gaLSfwVsYx7i1pVb7")
 
 **Pride Parade - Sat, 6/11 @ 2:30 PM**  
