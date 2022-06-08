@@ -12,7 +12,7 @@ DCGFFL is partnering with Team DC and the Washington Commanders for Capital Prid
 [SIGN UP TO VOLUNTEER HERE](https://forms.gle/gaLSfwVsYx7i1pVb7 "https://forms.gle/gaLSfwVsYx7i1pVb7")
 
 **Pride Parade - Sat, 6/11 @ 2:30 PM**  
-Those who march in the parade will receive a free Washington Commanders Pride t-shirt and other swag! Marchers are asked to arrive beginning at 2:30 PM.
+Those who march in the parade will receive a free Washington Commanders Pride t-shirt (see the design below) and other swag! Marchers are asked to arrive beginning at 2:30 PM.
 
 **Pride Festival Sports Village - Sun, 6/12**  
 The Washington Commanders are hosting several activities in the Sports Village from 12-6 PM. Sign up to volunteer with the Commanders from 12-2 PM or just stop by later and let them know you're with DCGFFL!
