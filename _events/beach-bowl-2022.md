@@ -6,7 +6,7 @@ button:
 title: Beach Bowl 2022
 permalink: "/beach-bowl-2022/"
 date: 2022-07-30 00:00:00 -0400
-time: ''
+time: 10am
 location:
   name: Rehoboth Beach, DE
   address: Rehoboth Beach, DE
