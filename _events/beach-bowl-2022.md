@@ -9,10 +9,10 @@ date: 2022-07-30 00:00:00 -0400
 time: 10am
 location:
   name: Rehoboth Beach, DE
-  address: ''
-  city: ''
-  state: ''
-  zip: 
+  address: Rehoboth Beach, DE
+  city: 19483 John J Williams Hwy
+  state: DE
+  zip: 19958
 
 ---
 #### SAVE THE DATE for BEACH BOWL!
