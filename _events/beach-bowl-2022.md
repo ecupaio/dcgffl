@@ -1,6 +1,6 @@
 ---
 button:
-  visible: true
+  visible: false
   text: We're partnering with the GPFFL!
   link: http://www.phillyflagfootball.com/pages/gpfflevents1
 title: Beach Bowl 2022
