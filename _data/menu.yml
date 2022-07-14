@@ -1,5 +1,7 @@
 ---
 nav:
+- title: Awards
+  link: "/awards/"
 - title: Home
   link: "/"
 - title: About
