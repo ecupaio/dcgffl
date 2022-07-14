@@ -1,15 +1,15 @@
 ---
 button:
   visible: false
-  text: We're partnering with the GPFFL!
-  link: http://www.phillyflagfootball.com/pages/gpfflevents1
+  text: ''
+  link: ''
 title: Beach Bowl 2022
 permalink: "/beach-bowl-2022/"
 date: 2022-07-30 00:00:00 -0400
 time: 10am
 location:
   name: Rehoboth Beach, DE
-  address: Rehoboth Beach, DE
+  address: ''
   city: ''
   state: ''
   zip: 
