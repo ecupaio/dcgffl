@@ -12,7 +12,8 @@ Save the date for key season 23 events!
 * **August 8 at 7PM** - Registration closes
 * **August 24** - Draft (Pitchers)
 * **August 25** - TAP (7 PM at Pitchers)
-* **September 11** - Week 1 games
+* **September 11** - Week 1 games (Carter Barron Soccer Fields)
+* **September 25** - Washington Commanders Pride Night OUT Game (1 PM at FedEx Field)
 * **November 13** - Playoffs
 * **November 20** - Final Four and Championship
 
