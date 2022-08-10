@@ -10,8 +10,8 @@ Save the date for key season 23 events!
 * **July 20 at 7PM** - Earlybird registration (100 slots for returning players)
 * **July 27 at 7PM** - Regular registration opens for new and returning players
 * **August 8 at 7PM** - Registration closes
-* **August 24** (tentative) - Draft
-* **August 25** (tentative) - TAP
+* **August 24** - Draft (Pitchers)
+* **August 25** - TAP (7 PM at Pitchers)
 * **September 11** - Week 1 games
 * **November 13** - Playoffs
 * **November 20** - Final Four and Championship
