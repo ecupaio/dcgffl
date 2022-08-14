@@ -1,7 +1,7 @@
 ---
 button:
   visible: true
-  text: ''
+  text: Ticket Link Coming Soon
   link: ''
 title: Washington Commanders Pride Night OUT
 permalink: "/commanders-pride-night-2022"
@@ -9,10 +9,10 @@ date: 2022-09-25 13:00:00 -0400
 time: 1 PM
 location:
   name: FedEx Field
-  address: ''
-  city: ''
-  state: ''
-  zip: 
+  address: 1600 Fedex Way
+  city: North Englewood
+  state: MD
+  zip: 20785
 
 ---
 Join DCGFFL and the NFL's Washington Commanders for the second ever Pride Night OUT at FedEx Field on Sunday, September 25th. With a Sunday game against a divisional opponent (Philadelphia Eagles), this year's game will be even bigger than last year's! You won't want to miss out!
