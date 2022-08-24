@@ -19,16 +19,16 @@ location:
 
 Join DCGFFL and the NFL's Washington Commanders for the second ever Pride Night OUT at FedEx Field on Sunday, September 25th. With a Sunday game against a divisional opponent (Philadelphia Eagles), this year's game will be even bigger than last year's! You won't want to miss out!
 
-![](/img/microsoftteams-image.png)
-
 The game kicks off at 1 PM, but the party will have already started.
 
-* DCGFFL will provide buses to help league members with transportation to FedEx Field
-* There will be a pre-game party ($35 cost) in FedEx Field's Legends Plaza that includes a buffet and wine and beer
-* Arrive early to get the exclusive 2022 Pride Night OUT Commanders t-shirt!
+* DCGFFL will provide buses to help league members with transportation to FedEx Field **(Cost: Free)**
+* The official pre-game party held on Legends Plaza at FedEx Field starts at 11 AM. **(Cost: $35 and includes buffet lunch plus unlimited beer/wine/sodas.)**
+* Pride shirts will be given out at the pre-game party to all Pride Night Out ticket holders.
 
 ##### Tickets
 
 * Club Level - $99 (normally $275 - an amazing value and comes with access to air-conditioned club concourse!)
 * Lower Level - $79 (normally $119)
 * Upper Level - $49 (normally $99)
+
+![](/img/microsoftteams-image.png)
