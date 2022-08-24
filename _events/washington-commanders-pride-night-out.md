@@ -1,8 +1,8 @@
 ---
 button:
   visible: true
-  text: Ticket Link Coming Soon
-  link: ''
+  text: Order Tickets
+  link: https://forms.gle/J1guxyTKEkDF6qnK9
 title: Washington Commanders Pride Night OUT
 permalink: "/commanders-pride-night-2022"
 date: 2022-09-25 13:00:00 -0400
@@ -16,6 +16,8 @@ location:
 
 ---
 ![](/img/pride-header.webp)
+
+##### Order Your Tickets [Here](https://forms.gle/J1guxyTKEkDF6qnK9 "https://forms.gle/J1guxyTKEkDF6qnK9")
 
 Join DCGFFL and the NFL's Washington Commanders for the second ever Pride Night OUT at FedEx Field on Sunday, September 25th. With a Sunday game against a divisional opponent (Philadelphia Eagles), this year's game will be even bigger than last year's! You won't want to miss out!
 
