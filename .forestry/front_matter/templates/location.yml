@@ -20,5 +20,3 @@ fields:
 - type: number
   name: zip
   label: Zip
-pages:
-- _locations/trinidad-recreation-center.md
