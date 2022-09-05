@@ -8,6 +8,5 @@ captain: Twon H.
 quarterback: Andrew Aldrian
 members: []
 division: Dirty Goose
-published: false
 
 ---
