@@ -8,6 +8,5 @@ captain: Oliver J.
 quarterback: Matt Cline
 members: []
 division: Dirty Goose
-published: false
 
 ---
