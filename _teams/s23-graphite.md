@@ -8,6 +8,5 @@ captain: Joe Owens
 quarterback: Mark Hofberg
 members: []
 division: Dirty Goose
-published: false
 
 ---
