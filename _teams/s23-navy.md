@@ -8,6 +8,5 @@ captain: Stephanie McDaniel
 quarterback: Brian Hotchkiss
 members: []
 division: Kiki
-published: false
 
 ---
