@@ -1,6 +1,6 @@
 ---
 date: 2022-09-05 12:00:41 -0400
-title: Season XXIII Schedule Release
+title: Season XXIII Schedule Released
 permalink: "/s23-schedule/"
 attachments:
 - title: Download Season 23 Schedule
