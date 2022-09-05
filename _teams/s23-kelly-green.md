@@ -8,6 +8,5 @@ captain: Paul Whitney
 quarterback: Zach Brown
 members: []
 division: Kiki
-published: false
 
 ---
