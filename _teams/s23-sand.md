@@ -8,6 +8,5 @@ captain: Tracy S.
 quarterback: Oriya Cohen
 members: []
 division: Kiki
-published: false
 
 ---
