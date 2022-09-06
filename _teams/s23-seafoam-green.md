@@ -9,7 +9,7 @@ quarterback: Austin Plier
 members:
 - 'Charles Bruno '
 - Logan Dawson
-- Eric Green
+- Eric Green (Forever Family Member)
 - Matt H
 - Derrick Holt
 - JP Hooth
