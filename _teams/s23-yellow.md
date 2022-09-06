@@ -8,7 +8,7 @@ captain: Tony Britford
 quarterback: Jim Connolly
 members:
 - Chase Castillo
-- Kevin Comerford
+- Kevin Comerford (Forever Family Member)
 - Brandon G
 - Paul Guequierre
 - 'Nikki Kasparek '
