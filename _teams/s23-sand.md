@@ -16,7 +16,7 @@ members:
 - Keith L
 - Chris Riotta
 - Lamar Rogers
-- Pedro S
+- Pedro S (Forever Family Member)
 - Stacey Tiamfook
 - Meghanne T
 division: Kiki
