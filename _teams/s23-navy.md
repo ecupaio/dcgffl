@@ -8,14 +8,14 @@ captain: Stephanie McDaniel
 quarterback: Brian Hotchkiss
 members:
 - Brett Chambers
-- Keaton Fedak
+- Keaton Fedak (Forever Family Member)
 - Kevin Hamilton
 - Jack Jackson
 - Robert Kirian
 - Okan Koc
 - Tevin M
 - Zach McRae
-- Darryl P
+- Darryl P (Forever Family Member)
 - John Riley
 - Jim Roll
 - Ashley R
