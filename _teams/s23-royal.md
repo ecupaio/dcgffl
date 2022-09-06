@@ -15,7 +15,7 @@ members:
 - Sean Karson
 - Marc Knobbe
 - Jacob M
-- Emory R
+- Emory R (Forever Family Member)
 - Ivan Torres
 - Kent T
 - Mike W
