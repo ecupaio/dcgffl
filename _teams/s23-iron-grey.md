@@ -7,7 +7,7 @@ photo: "/img/team_irongrey.jpg"
 captain: Derrick Johnson
 quarterback: Andy Pratt
 members:
-- Cesar Azabache
+- Cesar Azabache (Forever Family Member)
 - Evan B
 - Emikly Binnicker
 - Drew Crane
