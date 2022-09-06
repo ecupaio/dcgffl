@@ -15,7 +15,7 @@ members:
 - Paul H
 - 'Fernando Herrera '
 - Steve Pizzo
-- Qais R
+- Q R
 - Chuck Roth
 - Harry Suchyta
 division: Dirty Goose
