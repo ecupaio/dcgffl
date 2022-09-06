@@ -16,7 +16,7 @@ members:
 - Jillian Kuehn
 - John Kwak
 - Mariam Mehter
-- Matt Nelson
+- Matt Nelson (Forever Family Member)
 - Luke Rush
 - Ashley S
 division: Kiki
