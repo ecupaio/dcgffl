@@ -6,7 +6,7 @@ teams-score:
   score: 
 - team: _teams/s23-sand.md
   score: 
-field: "1"
+field: "3"
 date: 2022-09-11 10:45:00 -0400
 season: 23
 week: 1
