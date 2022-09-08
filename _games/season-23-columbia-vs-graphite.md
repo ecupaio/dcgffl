@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: 'Season 23 - Columbia vs Graphite '
+title: 'S23 Week 1 - Columbia vs Graphite '
 teams-score:
 - team: _teams/s09-graphite.html
   score: 
