@@ -6,7 +6,7 @@ teams-score:
   score: 
 - team: _teams/s23-royal.md
   score: 
-field: "1"
+field: "3"
 date: 2022-09-11 12:30:00 -0400
 season: 23
 week: 1
