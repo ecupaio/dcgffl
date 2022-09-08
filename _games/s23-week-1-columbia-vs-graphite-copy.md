@@ -6,7 +6,7 @@ teams-score:
   score: 
 - team: _teams/s23-navy.md
   score: 
-field: "1"
+field: "2"
 date: 2022-09-11 09:00:00 -0400
 season: 23
 week: 1
