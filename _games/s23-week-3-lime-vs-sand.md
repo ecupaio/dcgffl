@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 3 - Royal vs Yellow
+title: S23 Week 3 - Lime vs Sand
 teams-score:
 - team: _teams/s23-royal.md
   score: 
@@ -13,5 +13,6 @@ week: 3
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
