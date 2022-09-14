@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 2 - Kelly vs Seafoam
+title: S23 Week 2 - Kelly vs Seafoam Green
 teams-score:
 - team: _teams/s23-kelly-green.md
   score: 

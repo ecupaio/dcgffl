@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 2 - Forest vs Yellow
+title: S23 Week 2 - Forest Green vs Yellow
 teams-score:
 - team: _teams/s23-forest-green.md
   score: 
