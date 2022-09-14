@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 2 - Iron vs Royal
+title: S23 Week 2 - Iron Grey vs Royal
 teams-score:
 - team: _teams/s23-royal.md
   score: 
