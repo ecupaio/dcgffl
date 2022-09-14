@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: 'S23 Week 2 - Columbia vs Gold '
+title: 'S23 Week 2 - Columbia Blue vs Gold '
 teams-score:
 - team: _teams/s23-columbia-blue.md
   score: 

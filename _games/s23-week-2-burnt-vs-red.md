@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: 'S23 Week 2 - Burnt vs Red '
+title: 'S23 Week 2 - Burnt Orange vs Red '
 teams-score:
 - team: _teams/s23-burnt-orange.md
   score: 
