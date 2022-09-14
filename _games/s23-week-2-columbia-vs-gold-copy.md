@@ -1,18 +1,17 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 2 - Columbia vs Gold -(copy)
+title: S23 Week 2 - Kelly vs Seafoam
 teams-score:
-- team: _teams/s23-columbia-blue.md
+- team: _teams/s23-kelly-green.md
   score: 
-- team: _teams/s23-gold.md
+- team: _teams/s23-seafoam-green.md
   score: 
-field: "4"
-date: 2022-09-18 09:00:00 -0400
+field: "1"
+date: 2022-09-18 10:45:00 -0400
 season: 23
 week: 2
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
