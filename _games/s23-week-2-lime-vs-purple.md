@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 2 - Black vs Red
+title: S23 Week 2 - Lime vs Purple
 teams-score:
 - team: _teams/s23-red.md
   score: 
@@ -13,5 +13,6 @@ week: 2
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
