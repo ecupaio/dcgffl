@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: 'S23 Week 3 - Coral vs Navy '
+title: S23 Week 3 - Red vs Seafoam Green
 teams-score:
 - team: _teams/s23-coral.md
   score: 
@@ -13,5 +13,6 @@ week: 3
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
