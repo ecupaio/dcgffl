@@ -34,7 +34,7 @@ Factors that may be considered include:
 
 * Likelihood of completing all scheduled games during a reasonable time window
 * Potential for long-term, detrimental impact to the playing fields
-* Managers of fields decide to limit the use of fields due to weather or other factors
+* Managers of fields deciding to limit the use of fields due to weather or other factors
 * Any other conditions deemed unsafe for play
 
 The Board will aim to make a decision on potential cancellation of games by 1) 7 PM on the evening prior to any morning games or 2) 9 AM on the morning of any afternoon or evening games. Participants should understand that the significant forecast uncertainty may remain within this timeframe, and a final decision on potential cancellation may need to be delayed until closer to the start of games. Additionally, last minute decisions may have to be made if expected weather conditions are dramatically changed from prior forecasts.
