@@ -2,17 +2,16 @@
 location: _locations/carter-baron.md
 title: S23 Week 5 - Sand vs Yellow
 teams-score:
-- team: _teams/s23-graphite.md
+- team: _teams/s23-sand.md
   score: 
-- team: _teams/s23-burnt-orange.md
+- team: _teams/s23-yellow.md
   score: 
-field: "3"
+field: "4"
 date: 2022-10-16 10:45:00 -0400
 season: 23
 week: 5
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
