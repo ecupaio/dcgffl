@@ -22,11 +22,11 @@ If play is suspended because lightning has been detected:
 2. Play will be suspended **_for at least 30 minutes_**.
 3. Play will remain suspended until lightning is no longer detected within 8 miles of the fields (or thunder is not heard) for 30 consecutive minutes.
 
-#### **Minor Schedule Changes**
+#### Minor Schedule Changes
 
 The Board may decide to reschedule games if minor adjustments to game times would facilitate safer playing conditions. Captains of relevant games will be consulted prior to making an official decision to adjust game times.
 
-#### Equipment
+#### Major Schedule Changes - Cancellation of Games
 
 The Board may decide to cancel a day of games if weather conditions are expected to be unsafe for players or detrimental to the long-term health of the fields.
 
