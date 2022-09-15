@@ -46,7 +46,7 @@ rankings:
   text: |-
     This team loaded up on chips and queso and margaritas at El Rey to carry them through their bar-hopping circuit up and down U street to end up at none other than Green Lantern. The vibes were 18+.
 
-    ![](https://lh4.googleusercontent.com/WyzGLakp3AQmrIKaIdk7eOyHrFLjNcuHL83KESTTFyIpWrDMRZnyOAXg-H9xjiny5qd3X68fOXSEYd5vhCPCDfwQtjUAswJCM1HwpDHyt_46xJzLxAziwUAcJKvchNyE4QGMyjeCt064luoJeGY2p6LUPmEljM_5zLohnTJ7HXsb-xicifnSLcQhZw =245x184)
+    ![](https://64.media.tumblr.com/2194ac434861077fd4747f6fdbcb05bf/889ad456b7a55c3f-0f/s2048x3072/8d1ef5e44d8959aaa7d4718fbb1ddaab205ce111.gif)
 - team: _teams/s23-sand.md
   record: "(Tracy and Oriya)"
   text: |-
@@ -64,7 +64,7 @@ rankings:
   text: |-
     Andrew was so sad that he couldn’t play football today he started re-writing his playbook for next week while live-texting NFL game updates in the GroupMe. Meanwhile the players were so excited to stay in and order Chik-Fil-A on Uber Eats only to remember that it’s Sunday. The vibes were “a dream deferred.”
 
-    ![](https://lh5.googleusercontent.com/a1SkKv5IbxeUzb_bJPnNOM0oK7EZom9araj8gKqnJBWCc5Z36xBwsgJYHlB9kuyMeQPUf0hsbESuMqgn0g10NhRfL5iqTHYwhukZSM-JZku1tZJRIqXNc22gb1KNbfKvwk53euu6ygts_gCMfTf_HGFc0ywr7HAqdRBlaovNr0FL_D22jVf3Ikaw1w =258x258)
+    ![](https://media0.giphy.com/media/l0ExsYrOrUODcIICs/giphy.gif)
 - team: _teams/s23-yellow.md
   record: "(Tony B and Jim)"
   text: |-
@@ -88,7 +88,7 @@ rankings:
   text: |-
     JC went back to bed after hearing games were canceled even though Kal was whining in his kennel, and Bryan worked through new ways to help a client avoid an estate tax. Despite multiple pleas from their chatty team for a function to attend, they settled for a group trip to Costco for $1.50 hotdogs. The vibes were generic and economical.
 
-    ![](https://lh4.googleusercontent.com/cEhfyWl2QKuVO4htUrFA6XNmzQLEsOdC3gaGD8G8wV90OcKH-0kVEhERZe1bNcgjcdjyIBj36yOsGmdLXTLWleRKRJytz0eC4_C9glZ9TSVQVxsqkvuj4WGUAPxe5UNV4CxCVdHkEW1P-fcj3zfBLwNlpcPPPZtI1RT8DK5s5WZ4vCZU-9ZcJNoe0Q =480x264)
+    ![](https://c.tenor.com/4fOrLxMchQcAAAAC/trixie-mattel-drag-race.gif)
 - team: _teams/s23-burnt-orange.md
   record: "(Joe Heron and Marvin)"
   text: "This team gave a half-hearted attempt at a brunch and an NFL game watch.
@@ -100,7 +100,7 @@ rankings:
   text: |-
     This team sat beneath a cabana at Wundergarten and passed around Ben McEvoy’s vape pen for sustenance. The vibes were cherry-flavored.
 
-    ![](https://lh5.googleusercontent.com/6u2FKDu1l-Mq_7SIW_aS0WpqBW_qYtdd2hM5Aqe4QYpt8Sji3h_9VPPOYdquN2iWezFIr0ZZt9clkcFqd2HkF3YFzkPTzqwe6Urf04JezzFi16AXUXyqOhlG1Z7ucJib_ZQD4zT4jUjbzJYm-1rgyl7g83RL2vabrS1H13iMFIZW1RC3A_XP77oPpg =436x245)
+    ![](https://metro.co.uk/wp-content/uploads/2016/03/vaping1.gif)
 - team: _teams/s23-red.md
   record: "(Japinga and Waggoner)"
   text: |-
