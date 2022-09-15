@@ -1,26 +1,42 @@
 ---
 layout: basic-page
 title: Weather Safety Policy
-permalink: "/covid-19/"
-published: false
+permalink: "/weather-safety/"
 
 ---
-All participants of the DCGFFL are expected to work together and abide by CDC guidelines to ensure a safe environment for playing flag football.  On registration, participants will be required to sign an agreement and release waiver to comply with these policies at all times during league events.  Participants should also understand that these protocols are subject to change based on local, federal, and CDC requirements.
+The DCGFFL will abide by the following policy when making decisions related to ongoing or expected inclement weather. All participants of the DCGFFL are expected to work together and abide by these guidelines to ensure a safe environment for playing flag football. Participants should understand that this policy provides general guidelines and may not fully capture every scenario in which inclement weather may limit the DCGFFL’s ability to play games as scheduled and without interruption.
 
-#### Vaccination
+Games are generally played as scheduled unless weather is expected to be or deemed to be a danger to player safety. In addition to player safety, potential impact to field conditions may also be considered when determining whether games can be played as scheduled.
 
-All Players, Officials, and Spectators who are able to do so are expected to be fully vaccinated against COVID-19, in accordance with CDC guidelines. Proof of vaccination will not be required for participation in DCGFFL, but being vaccinated is the best way to make our league as safe as possible. As of March 5, 2022, many of our sponsors require proof of vaccination to enter; this includes venues that will be hosting DCGFFL events throughout the season. Thus, individuals are expected to be fully vaccinated against COVID-19 in order to fully participate in this season’s events.
+#### Suspension of Play
 
-#### Face Coverings
+If games are ongoing, play will be suspended under the following inclement weather conditions:
 
-Per CDC and local guidelines, masks will not be required for outdoor activities. DC guidelines currently require face coverings be worn inside bars and restaurants, including sponsor venues that will be hosting DCGFFL events. Any participants who may choose to still wear masks at outdoor events are welcome to do so, at their option.
+* Lightning detected (via weather radar or sound of thunder) within 8 miles of the fields
+* Active warning for hazardous weather (e.g., tornado warning, severe thunderstorm warning, etc.)
+* Any other conditions deemed unsafe for continuation of play
+
+If play is suspended because lightning has been detected:
+
+1. Players should immediately leave the fields and Shelter in Place inside an indoor building or their vehicles. Players should NOT shelter in place underneath trees or other outdoor structures (e.g., gazebos, dugouts, etc.).
+2. Play will be suspended **_for at least 30 minutes_**.
+3. Play will remain suspended until lightning is no longer detected within 8 miles of the fields (or thunder is not heard) for 30 consecutive minutes.
+
+#### **Minor Schedule Changes**
+
+The Board may decide to reschedule games if minor adjustments to game times would facilitate safer playing conditions. Captains of relevant games will be consulted prior to making an official decision to adjust game times.
 
 #### Equipment
 
-Teams are required to bring their own game balls. At the beginning of the season, Captains will be given team bags that include flag belts. Flag belts must not be shared with other teams.
+The Board may decide to cancel a day of games if weather conditions are expected to be unsafe for players or detrimental to the long-term health of the fields.
 
-#### COVID-19 Exposure and Notification
+Factors that may be considered include:
 
-If a participant tests positive for COVID-19, we encourage them to notify us as soon as possible by emailing dcgayflagfootball@gmail.com or contacting a board member. All personal information will be kept confidential. DCGFFL will abide by all local and Federal guidelines, in the event we receive a report of a participant testing positive. This includes, but is not limited to: Contacting all participants with potential contact with the COVID-positive participant(s).
+* Likelihood of completing all scheduled games during a reasonable time window
+* Potential for long-term, detrimental impact to the playing fields
+* Managers of fields decide to limit the use of fields due to weather or other factors
+* Any other conditions deemed unsafe for play
 
-These guidelines are subject to change based on local, federal, and CDC requirements.
+The Board will aim to make a decision on potential cancellation of games by 1) 7 PM on the evening prior to any morning games or 2) 9 AM on the morning of any afternoon or evening games. Participants should understand that the significant forecast uncertainty may remain within this timeframe, and a final decision on potential cancellation may need to be delayed until closer to the start of games. Additionally, last minute decisions may have to be made if expected weather conditions are dramatically changed from prior forecasts.
+
+If games are canceled, the Board will communicate the decision to players by sending a league-wide email and by asking all captains to notify their team members directly via GroupMe or text message.
