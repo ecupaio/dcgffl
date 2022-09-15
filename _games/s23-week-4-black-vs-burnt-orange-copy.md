@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 4 - Black vs Burnt Orange
+title: S23 Week 4 - Black vs Burnt Orange-(copy)
 teams-score:
 - team: _teams/s23-black.md
   score: 
@@ -13,5 +13,6 @@ week: 4
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
