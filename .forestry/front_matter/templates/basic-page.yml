@@ -22,3 +22,4 @@ fields:
   default: basic-page
 pages:
 - _pages/covid-19-policies.md
+- _pages/weather-safety-policy.md
