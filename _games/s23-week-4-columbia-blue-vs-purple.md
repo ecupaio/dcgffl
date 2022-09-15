@@ -1,12 +1,12 @@
 ---
 location: _locations/carter-baron.md
-title: 'S23 Week 4 - Iron Grey vs White '
+title: S23 Week 4 - Columbia Blue vs Purple
 teams-score:
-- team: _teams/s23-iron-grey.md
+- team: _teams/s23-columbia-blue.md
   score: 
-- team: _teams/s23-white.md
+- team: _teams/s23-purple.md
   score: 
-field: "1"
+field: "2"
 date: 2022-10-02 12:30:00 -0400
 season: 23
 week: 4
