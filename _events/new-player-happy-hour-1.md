@@ -4,7 +4,7 @@ button:
   text: ''
   link: ''
 title: New Player Happy Hour
-date: 2022-09-22 00:00:00 -0400
+date: 2022-09-22 19:00:00 -0400
 time: 7 PM
 location:
   name: Kiki's
