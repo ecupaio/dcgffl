@@ -10,8 +10,8 @@ field: "4"
 date: 2022-09-18 12:30:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Oriya Cohen, Luke Rush
+game-ball: Christine Hohl, Mariam Mehter
+sportsperson: 'Chris Riotta, Dwaylan Applewhite '
 
 ---
