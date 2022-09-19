@@ -10,8 +10,8 @@ field: "4"
 date: 2022-09-18 10:45:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: 'Brian Hotchkiss, Tracy S '
+game-ball: Tevin M,  Keith L
+sportsperson: Okan Koc, Oriya Cohen
 
 ---
