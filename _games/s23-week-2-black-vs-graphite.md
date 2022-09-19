@@ -10,8 +10,8 @@ field: "3"
 date: 2022-09-18 10:45:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: JC Adams, Joe Owens
+game-ball: Tom Hassett
+sportsperson: Everrett W, Heidi Voss
 
 ---
