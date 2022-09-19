@@ -10,8 +10,8 @@ field: "1"
 date: 2022-09-18 09:00:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Evan B, Thomas Cassini
+game-ball: Drew Crane, Jake Backers
+sportsperson: Linda Pratt, Ivan Torres
 
 ---
