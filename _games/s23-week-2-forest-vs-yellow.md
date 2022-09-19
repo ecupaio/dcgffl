@@ -10,8 +10,8 @@ field: "3"
 date: 2022-09-18 09:00:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Chase Castillo, Nolan L
+game-ball: Baxter O'Brien, Alonzo Mable
+sportsperson: Jim Connolly, Judy H
 
 ---
