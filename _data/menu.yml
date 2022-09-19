@@ -66,6 +66,5 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Supplemental Registration is now OPEN. Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd7mKzLAay66SDmFaIaZuYz_kk73ruGUEbfN4iJeLCM_nVcHw/viewform?usp=sf_link
-    "HERE")!
-  show: true
+  text: ''
+  show: false
