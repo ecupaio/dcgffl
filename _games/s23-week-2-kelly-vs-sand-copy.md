@@ -3,9 +3,9 @@ location: _locations/carter-baron.md
 title: S23 Week 2 - Iron Grey vs Royal
 teams-score:
 - team: _teams/s23-royal.md
-  score: 
+  score: 18
 - team: _teams/s23-iron-grey.md
-  score: 
+  score: 34
 field: "1"
 date: 2022-09-18 09:00:00 -0400
 season: 23
