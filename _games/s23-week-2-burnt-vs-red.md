@@ -3,9 +3,9 @@ location: _locations/carter-baron.md
 title: 'S23 Week 2 - Burnt Orange vs Red '
 teams-score:
 - team: _teams/s23-burnt-orange.md
-  score: 
+  score: 6
 - team: _teams/s23-red.md
-  score: 
+  score: 34
 field: "2"
 date: 2022-09-18 10:45:00 -0400
 season: 23
