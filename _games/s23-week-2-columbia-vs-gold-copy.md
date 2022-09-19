@@ -10,8 +10,8 @@ field: "1"
 date: 2022-09-18 10:45:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Logan Dawson, Paul Whitney
+game-ball: Ryan Winter, Dwaylan Applewhite
+sportsperson: Mike Osorio, Daniel D
 
 ---
