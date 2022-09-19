@@ -10,8 +10,8 @@ field: "2"
 date: 2022-09-18 09:00:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: John C, Dan King
+game-ball: 'Munroe Bell-Rose, '
+sportsperson: Munroe Bell-Rose, Obie McNair
 
 ---
