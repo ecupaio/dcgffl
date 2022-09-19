@@ -10,8 +10,8 @@ field: "3"
 date: 2022-09-18 12:30:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Evan Ryan, Harry Suchyta
+game-ball: Camille Thompson, Paul H
+sportsperson: Britt C, Qais R
 
 ---
