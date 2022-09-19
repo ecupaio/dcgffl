@@ -11,7 +11,7 @@ date: 2022-09-18 09:00:00 -0400
 season: 23
 week: 2
 mvp: John C, Dan King
-game-ball: 'Munroe Bell-Rose, '
+game-ball: Munroe Bell-Rose, Richard Cash
 sportsperson: Munroe Bell-Rose, Obie McNair
 
 ---
