@@ -10,8 +10,8 @@ field: "2"
 date: 2022-09-18 10:45:00 -0400
 season: 23
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Luis Cotto, Mecha S
+game-ball: Jay M, Noah M
+sportsperson: Andrew Strahan, Joe H
 
 ---
