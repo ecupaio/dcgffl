@@ -1,6 +1,6 @@
 ---
-title: S23 - Kelly Green
-name: ''
+title: S23 - Kelly Green (Ready for this Kelly)
+name: Ready for this Kelly
 color: Kelly Green
 season: 23
 photo: "/img/team_kellygreen1.JPG"

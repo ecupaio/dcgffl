@@ -1,6 +1,6 @@
 ---
-title: S23 - Lime
-name: ''
+title: S23 - Lime (Cocked & Loaded Limebackers)
+name: Cocked & Loaded Limebackers
 color: Lime
 season: 23
 photo: "/img/team_lime.jpg"
