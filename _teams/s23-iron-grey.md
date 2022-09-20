@@ -1,6 +1,6 @@
 ---
-title: S23 - Iron Grey
-name: ''
+title: S23 - Iron Grey (I Run Gay)
+name: I Run Gay
 color: Iron Grey
 season: 23
 photo: "/img/team_irongrey.jpg"

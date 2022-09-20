@@ -1,6 +1,6 @@
 ---
-title: S23 - Graphite
-name: ''
+title: S23 - Graphite (Rock Hard)
+name: Rock Hard
 color: Graphite
 season: 23
 photo: "/img/team_graphite1.JPG"
