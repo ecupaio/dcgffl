@@ -1,6 +1,6 @@
 ---
-title: S23 - Seafoam Green
-name: ''
+title: S23 - Seafoam Green (Foamosexuals)
+name: Foamosexuals
 color: Seafoam Green
 season: 23
 photo: "/img/team_seafoamgreen.JPG"
