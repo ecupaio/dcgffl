@@ -1,11 +1,12 @@
 ---
 date: 2022-09-20 09:11:44 -0400
 title: 'Season 23 Power Rankings: Week 2'
-author: Eric Green & Obie McNair - Reporting from Carter Barron Fields, it’s Eric
+author: 'Eric Green & Obie McNair - Reporting from Carter Barron Fields, it’s Eric
   Green & Obie McNair for DCGFFL Gossip Takes, serving you the hottest action both
   on and off the field. Well, after a washout of Week 1 games, the guys, gals, gheys,
   gurls, (or your preferred pronouns) were on the field to officially kick off Season
-  XXIII. Eric and Obie are here to spill all the Tea for this week.
+  XXIII. Eric and Obie are here to spill all the Tea for this week. So with that being
+  said: Let''s talk about READING'
 season: 23
 week: 2
 rankings:
@@ -123,6 +124,5 @@ rankings:
     Now we’ll be honest with you, we were prepared to be cynical about Joe H. being back up QB as Marvin is out nursing a cold. But if Cinderella were a real person, Joe was definitely her on this day. We were humbled by Joe’s performance. No, they didn’t win either of their games, but they gave Seafoam a run for their money. They should be proud of what they were able to accomplish. Props to ya, mama!
 
     ![](https://media.giphy.com/media/ae6m4ljnl69urJ539F/giphy.gif)
-published: false
 
 ---
