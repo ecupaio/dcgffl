@@ -113,9 +113,9 @@ rankings:
 - team: _teams/s23-kelly-green.md
   record: 0-2
   text: |-
-    This team has some great players; unfortunately, they ran up on two amazing teams putting Kelly low on the rankings this week. It is refreshing to see a new competitive side of the ever calm and demure Paul. If Captain Paul can rally his team and if Dwaylen continues to put up some amazing stats, like the 4 sacks against Seafoam, this team could be one to contend with.
+    This team has some great players; unfortunately, they ran up on two amazing teams putting Kelly low on the rankings this week. It is refreshing to see a new competitive side of the ever calm and demure Paul. If Captain Paul can rally his team and if Dwaylan continues to put up some amazing stats, like the 4 sacks against Seafoam, this team could be one to contend with.
 
-    “...And that’s on Electro-Abundance-lytes” – Dwaylen!
+    “...And that’s on Electro-Abundance-lytes” – Dwaylan!
 
     ![](https://media0.giphy.com/media/gk49IugT8aPmo6ACSH/giphy.gif)
 - team: _teams/s23-burnt-orange.md
