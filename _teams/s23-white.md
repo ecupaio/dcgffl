@@ -1,6 +1,6 @@
 ---
-title: S23 - White
-name: ''
+title: S23 - White (Not Another White Refrigerator)
+name: Not Another White Refrigerator
 color: White
 season: 23
 photo: "/img/team_white.JPG"

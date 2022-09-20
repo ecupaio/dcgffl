@@ -1,6 +1,6 @@
 ---
-title: S23 - Yellow
-name: ''
+title: S23 - Yellow (Yellow Brick Loads)
+name: Yellow Brick Loads
 color: Yellow
 season: 23
 photo: "/img/team_neonyellow.JPG"
