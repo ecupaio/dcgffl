@@ -1,6 +1,6 @@
 ---
-title: S23 - Navy
-name: ''
+title: S23 - Navy (Cerulean Gworls)
+name: 'Cerulean Gworls '
 color: Navy
 season: 23
 photo: "/img/team_navy2.JPG"

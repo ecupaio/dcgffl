@@ -1,6 +1,6 @@
 ---
-title: S23 - Purple
-name: ''
+title: S23 - Purple (Purple Pee Hole Eaters)
+name: Purple Pee Hole Eaters
 color: Purple
 season: 23
 photo: "/img/team_purple.jpg"
