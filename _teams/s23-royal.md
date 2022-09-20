@@ -1,6 +1,6 @@
 ---
-title: S23 - Royal
-name: ''
+title: S23 - Royal (Rick Royal'd)
+name: Rick Royal'd
 color: Royal
 season: 23
 photo: "/img/team_royalblue.jpg"

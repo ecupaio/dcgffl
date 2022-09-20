@@ -1,6 +1,6 @@
 ---
-title: S23 - Red
-name: ''
+title: S23 - Red (The Red Light District)
+name: 'The Red Light District '
 color: Red
 season: 23
 photo: "/img/team_red.jpg"
