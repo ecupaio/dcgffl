@@ -1,6 +1,6 @@
 ---
-title: S23 - Forest Green
-name: ''
+title: S23 - Forest Green (Shady Birches)
+name: Shady Birches
 color: Forest Green
 season: 23
 photo: "/img/team_forest.JPG"

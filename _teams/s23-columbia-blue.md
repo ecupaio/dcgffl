@@ -1,6 +1,6 @@
 ---
-title: S23 - Columbia Blue
-name: ''
+title: S23 - Columbia Blue (Blue World Order)
+name: Blue World Order
 color: Columbia Blue
 season: 23
 photo: "/img/team_columbiablue.JPG"

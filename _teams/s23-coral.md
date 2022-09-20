@@ -1,6 +1,6 @@
 ---
-title: S23 - Coral
-name: ''
+title: S23 - Coral (Coral Fixation)
+name: Coral Fixation
 color: Coral
 season: 23
 photo: "/img/team_coral.jpg"
