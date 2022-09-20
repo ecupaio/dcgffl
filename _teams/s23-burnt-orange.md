@@ -1,6 +1,6 @@
 ---
-title: S23 - Burnt Orange
-name: ''
+title: S23 - Burnt Orange (Yam It In)
+name: Yam It In
 color: Burnt Orange
 season: 23
 photo: "/img/team_burntorange.JPG"

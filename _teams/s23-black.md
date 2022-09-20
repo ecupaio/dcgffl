@@ -1,6 +1,6 @@
 ---
-title: S23 - Black
-name: ''
+title: S23 - Black (Oh My Goth)
+name: Oh My Goth
 color: Black
 season: 23
 photo: "/img/team_black.jpg"
