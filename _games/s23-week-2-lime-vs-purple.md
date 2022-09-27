@@ -12,6 +12,6 @@ season: 23
 week: 2
 mvp: Evan Ryan, Harry Suchyta
 game-ball: Camille Thompson, Paul H
-sportsperson: Britt C, Qais R
+sportsperson: Britt C, Q. R.
 
 ---
