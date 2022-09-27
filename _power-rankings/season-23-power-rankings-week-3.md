@@ -139,6 +139,5 @@ rankings:
     ![](https://media.giphy.com/media/3oriOaivTEk4PotVEQ/giphy.gif)
 
     > Ok, that’s it for us this week. Derrick had his annual eye exam Monday, and his prescription got worse. If you don’t like what was written about your team, blame it on his poor eyesight on Sunday. Otherwise, feel free to blame it on Joe!
-published: false
 
 ---
