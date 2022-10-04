@@ -16,6 +16,8 @@ location:
 ---
 # DCGFFL Season 23 Mid-Season Party Time!
 
-**Come join us for the mid-season party at Salazars, Thursday,** **October 20th, 2022 at 7 PM**. 
+**Come join us for the mid-season party at Salazars, Thursday,** **October 20th, 2022 at 7 PM**.
 
 More details to come!
+
+![](/img/dcgffl-midseason-poster.png)
