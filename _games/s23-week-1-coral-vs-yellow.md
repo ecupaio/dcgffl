@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s23-yellow.md
   score: 
 field: "4"
-date: 2022-10-02 10:45:00 -0400
+date: 2022-10-22 10:45:00 -0400
 season: 23
 week: 4
 mvp: ''

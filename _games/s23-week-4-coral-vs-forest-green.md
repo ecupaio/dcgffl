@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s23-forest-green.md
   score: 
 field: "4"
-date: 2022-10-02 09:00:00 -0400
+date: 2022-10-22 09:00:00 -0400
 season: 23
 week: 4
 mvp: ''
