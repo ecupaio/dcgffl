@@ -6,13 +6,12 @@ teams-score:
   score: 
 - team: _teams/s23-iron-grey.md
   score: 
-field: "4"
-date: 2022-11-06 10:45:00 -0500
+field: "1"
+date: 2022-11-06 09:00:00 -0500
 season: 23
 week: 8
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
