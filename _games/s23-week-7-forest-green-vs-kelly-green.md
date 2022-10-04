@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 7 - Black vs White
+title: S23 Week 7 - Forest Green vs Kelly Green
 teams-score:
 - team: _teams/s23-black.md
   score: 
@@ -13,5 +13,6 @@ week: 7
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
