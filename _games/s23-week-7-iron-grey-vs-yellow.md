@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: 'S23 Week 7 - Kelly Green vs Royal Blue '
+title: S23 Week 7 - Iron Grey vs Yellow
 teams-score:
 - team: _teams/s23-kelly-green.md
   score: 
@@ -13,5 +13,6 @@ week: 7
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
