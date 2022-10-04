@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 7 - Columbia Blue vs Red
+title: S23 Week 7 - Graphite vs Lime Green
 teams-score:
 - team: _teams/s23-columbia-blue.md
   score: 
@@ -13,5 +13,6 @@ week: 7
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
