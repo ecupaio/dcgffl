@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S23 Week 8 - Sand vs White
+title: 'S23 Week 8 - Forest Green vs Royal Blue '
 teams-score:
 - team: _teams/s23-sand.md
   score: 
@@ -13,5 +13,6 @@ week: 8
 mvp: ''
 game-ball: ''
 sportsperson: ''
+published: false
 
 ---
