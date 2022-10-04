@@ -1,6 +1,6 @@
 ---
 date: 2022-10-04 14:51:53 -0400
-title: DCGFFL Season 23 Mid-Season Party Time!
+title: Mid-Season Party Time!
 attachments: []
 
 ---
