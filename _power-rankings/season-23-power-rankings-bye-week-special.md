@@ -6,7 +6,7 @@ author: 'Stephanie McDaniel & Sasha Buchert - Well, after two weeks of football 
   it has been… weird. Rainstorms, heavy winds, hurricanes, forfeits, and games on
   saturday? Lucky number 23 I guess. We’re just glad the bye week is over and that
   we can get back to football this Sunday. At least our travel team brought back a
-  tan from Gay Bowl. Anyhoo, below is a look ahead at this week’s games.      '
+  cute tan from Gay Bowl. Anyhoo, below is a look ahead at this week’s games.      '
 season: 23
 week: 4
 rankings:
