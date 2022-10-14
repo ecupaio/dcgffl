@@ -101,7 +101,7 @@ rankings:
   text: |-
     The Yammies face the Rock Hards in the highly anticipated epic battle of the Joes…etc
 
-    ![](https://media.tenor.com/JPkESyIjgKkAAAAS/joe-biden.gif)
+    ![](https://media.tenor.com/JPkESyIjgKkAAAAC/joe-biden.gif)
 - team: _teams/s23-graphite.md
   record: 0-2
   text: |-
