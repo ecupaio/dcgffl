@@ -13,6 +13,7 @@ members:
 - Jack Jackson
 - Robert Kirian
 - Okan Koc
+- Jared M
 - Tevin M
 - Zach McRae
 - Darryl P (Forever Family Member)
