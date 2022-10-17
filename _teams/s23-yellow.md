@@ -14,6 +14,7 @@ members:
 - 'Nikki Kasparek '
 - Eddie M
 - 'Justin Mann '
+- Brendan McFarland
 - 'Patrick McIntyre '
 - 'Patrick Mulford '
 - 'Baxter O''Brien '

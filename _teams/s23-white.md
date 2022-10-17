@@ -17,6 +17,7 @@ members:
 - Reed S
 - Matan Showstack
 - Christopher Taste
+- Merrill W
 - Kevin X
 division: Kiki
 
