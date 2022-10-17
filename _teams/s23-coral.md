@@ -17,6 +17,7 @@ members:
 - Brandon M
 - Andrew M
 - Trey P
+- Brandon Tuell
 - Gideon Y
 division: Kiki
 
