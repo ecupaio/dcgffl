@@ -12,6 +12,7 @@ members:
 - Scott Cuviello
 - Christopher Daniel
 - Benny K
+- Charlie Kniseley
 - Javier M
 - Shawn Morris
 - Aaron Ross
