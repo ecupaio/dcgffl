@@ -12,6 +12,7 @@ members:
 - Emikly Binnicker
 - Drew Crane
 - Dwayne D
+- Marlon D
 - Hunter F
 - Kevin Hooker
 - Peter Pham
