@@ -19,6 +19,7 @@ members:
 - Pedro S (Forever Family Member)
 - Stacey Tiamfook
 - Meghanne T
+- Nick V
 division: Kiki
 
 ---
