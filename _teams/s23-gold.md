@@ -7,6 +7,7 @@ photo: "/img/team_gold.jpg"
 captain: Oliver J.
 quarterback: Matt Cline
 members:
+- Luke Bede
 - Ashlee Benet
 - Sasha Buchert
 - Bryan B

@@ -10,6 +10,7 @@ members:
 - Elliott B
 - Robert Casey
 - Antonio H
+- Patrick Kozak
 - Thomas L
 - Leo Lutz
 - PJ M
