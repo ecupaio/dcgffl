@@ -9,6 +9,7 @@ quarterback: Zach Brown
 members:
 - Goran Alanovic
 - Dwaylan Applewhite
+- Cameron Burrell
 - Joshua Curtis
 - Joey DeLuca
 - Daniel D
@@ -19,6 +20,7 @@ members:
 - Matt Nelson (Forever Family Member)
 - Luke Rush
 - Ashley S
+- Malcolm Warbrick
 division: Kiki
 
 ---
