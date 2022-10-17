@@ -18,6 +18,7 @@ members:
 - Q R
 - Chuck Roth
 - Harry Suchyta
+- Larry W
 division: Dirty Goose
 
 ---

@@ -15,6 +15,7 @@ members:
 - Sean Karson
 - Marc Knobbe
 - Jacob M
+- 'Jorge Membreño '
 - Emory R (Forever Family Member)
 - Ivan Torres
 - Kent T
