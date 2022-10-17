@@ -15,6 +15,7 @@ members:
 - Mark Lloyd
 - Alonzo Mable
 - Shayne Madella
+- Mary Mills
 - Adrienne Munoz
 - Alex P
 - Tony Smith
