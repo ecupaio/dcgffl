@@ -9,7 +9,7 @@ teams-score:
 field: "2"
 date: 2022-10-22 12:30:00 -0400
 season: 23
-week: 4
+week: 6
 mvp: ''
 game-ball: ''
 sportsperson: ''
