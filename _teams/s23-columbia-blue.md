@@ -12,6 +12,7 @@ members:
 - Michael Bromell
 - 'Matt Devino '
 - Chris Gillytard
+- Zach Huete
 - Edward Jaffe
 - 'Daniel Lucero '
 - Quinn M

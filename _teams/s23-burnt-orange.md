@@ -14,6 +14,7 @@ members:
 - Matt F
 - Zach Gianelle
 - Joshua Kickenson
+- Jeff M
 - Noah M
 - Shakka P
 - Mecha S
