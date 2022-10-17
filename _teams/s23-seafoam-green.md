@@ -8,6 +8,7 @@ captain: Mike Osorio
 quarterback: Austin Plier
 members:
 - 'Charles Bruno '
+- James D
 - Logan Dawson
 - Eric Green (Forever Family Member)
 - Matt H
