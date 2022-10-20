@@ -56,7 +56,7 @@ rankings:
   text: |-
     This team may have fallen quite far from the number one spot they have enjoyed for several weeks, but don’t count them out just yet. Oh My Goth had a doubleheader and were down to just 8 players due to injuries and absences. Despite this, they were able to find their groove early in the second half against Seafoam and become the exceptional team we all know them to be. Unfortunately, that didn’t last long. During their game against Purple, Bryan S. had to politely remind his team of one of the most fundamental rules of flag football, “PULL THE \[REDACTED\] FLAGS!”
 
-    ![](https://media.giphy.com/media/2K7K5oynVFXG/giphy.gif)
+    ![](https://i.giphy.com/media/deMMOL24ZOZiHdWezh/giphy.webp)
 - team: _teams/s23-navy.md
   record: 2-2
   text: |-
