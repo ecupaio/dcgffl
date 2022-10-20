@@ -108,7 +108,9 @@ rankings:
   text: |-
     What can we say about this team? I’m serious, what can we say? They play a clean game of football. They are a no frills, no fuss, no drama team. At least not audibly. Nikki, Paul, and Tony were all aggressively communicating to each other via hand gestures. I’m curious if the league teaches you sign language after you put in 10 years?
 
-    ![](https://media.giphy.com/media/1zFuyZJMs5cXK/giphy.gif)**Congratulations Nikki for reaching 10 years in the league! We are lucky to have you.**
+    ![](https://media.giphy.com/media/1zFuyZJMs5cXK/giphy.gif)
+
+    **Congratulations Nikki for reaching 10 years in the league! We are lucky to have you.**
 
     ![](https://media.giphy.com/media/Jir7AUookJHIVb5aYM/giphy.gif)
 - team: _teams/s23-royal.md
