@@ -91,7 +91,7 @@ rankings:
 - team: _teams/s23-sand.md
   record: 2-4
   text: |-
-    Lamar getting tackled by a chair on a misjudged fade route thrown by his lefty QB was all I needed to see. Razzies all around for this receiving core. 0-3 for your Sandra Bullocks this weekend.
+    Lamar getting tackled by a chair on a misjudged fade route thrown by his lefty QB was all I needed to see. Razzies all around for this receiving corps. 0-3 for your Sandra Bullocks this weekend.
 
     ![](https://media.giphy.com/media/XhQKOvAUJOeoU/giphy.gif)
 - team: _teams/s23-columbia-blue.md
