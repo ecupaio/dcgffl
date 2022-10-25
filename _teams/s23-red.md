@@ -16,7 +16,7 @@ members:
 - Shane Lawson
 - Jay M
 - Y Pawlowski
-- Tyler Richetti
+- Tiger Ricchetti
 - Andrew Strahan
 division: Dirty Goose
 

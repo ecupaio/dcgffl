@@ -11,7 +11,7 @@ date: 2022-09-18 12:30:00 -0400
 season: 23
 week: 2
 mvp: Brandon Waggoner, Bryan Sanders
-game-ball: Jacob Robertson, Tiger Richetti
+game-ball: Jacob Robertson, Tiger Ricchetti
 sportsperson: 'Brandon Benjamin, Joe Platte '
 
 ---
