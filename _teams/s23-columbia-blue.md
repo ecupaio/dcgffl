@@ -11,7 +11,7 @@ members:
 - 'Sean Bartel '
 - Michael Bromell
 - 'Matt Devino '
-- Chris Gillytard
+- Chris Gillyard
 - Zach Huete
 - Edward Jaffe
 - 'Daniel Lucero '
