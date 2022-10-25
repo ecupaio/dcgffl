@@ -12,6 +12,6 @@ season: 23
 week: 3
 mvp: Austin P., Luis C.
 game-ball: JP H., Shane L.
-sportsperson: Logan D., Tiger R.
+sportsperson: Logan D., Tiger Ricchetti
 
 ---
