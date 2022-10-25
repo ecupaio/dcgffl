@@ -9,7 +9,7 @@ quarterback: Andy Pratt
 members:
 - Cesar Azabache (Forever Family Member)
 - Evan B
-- Emikly Binnicker
+- Emily Binnicker
 - Drew Crane
 - Dwayne D
 - Marlon D
