@@ -19,7 +19,7 @@ members:
 - Brandon Rankin (Forever Family Member)
 - Kat Rosenthal
 - Ron S
-- Heide Voss
+- Heidi Voss
 division: Dirty Goose
 
 ---
