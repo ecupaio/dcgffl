@@ -66,6 +66,6 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Season XXIII Recreational League Registration is OPEN! Register [HERE! ](https://docs.google.com/forms/d/e/1FAIpQLSfnZ5Bsy_PMwnCgFJKmFUhjj9aAtcvgNjkZNTGstQ-XAN-GXA/viewform?usp=sf_link
-    "HERE!")
-  show: false
+  text: Sign up to play with DCGFFL at Sunshine Cup 2023 [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfnZ5Bsy_PMwnCgFJKmFUhjj9aAtcvgNjkZNTGstQ-XAN-GXA/viewform?usp=sf_link
+    "HERE")!
+  show: true
