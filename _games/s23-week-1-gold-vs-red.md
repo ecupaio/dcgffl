@@ -12,6 +12,6 @@ season: 23
 week: 7
 mvp: Oliver J, Tiger Ricchetti
 game-ball: Luke Bede, Jay M
-sportsperson: 'Maria Crossman, '
+sportsperson: Maria Crossman, Joel Horton
 
 ---
