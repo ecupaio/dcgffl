@@ -112,7 +112,9 @@ rankings:
     ![](https://media.giphy.com/media/G4Ihli2UThrBS/giphy.gif)
 - team: _teams/s23-kelly-green.md
   record: 1-7
-  text: Love a lot of girls on this team, but they gave out Candy Corn on Monday.
-published: false
+  text: |-
+    Love a lot of girls on this team, but they gave out Candy Corn on Monday.
+
+    ![](/img/ellpa85xeaandql.jpeg)
 
 ---
