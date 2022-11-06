@@ -3,9 +3,9 @@ location: _locations/carter-baron.md
 title: 'S23 Week 8 - Forest Green vs Royal Blue '
 teams-score:
 - team: _teams/s23-forest-green.md
-  score: 
+  score: 33
 - team: _teams/s23-royal.md
-  score: 
+  score: 20
 field: "4"
 date: 2022-11-06 09:00:00 -0500
 season: 23
