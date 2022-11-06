@@ -3,9 +3,9 @@ location: _locations/carter-baron.md
 title: S23 Week 8 - Graphite vs Seafoam
 teams-score:
 - team: _teams/s23-graphite.md
-  score: 
+  score: 34
 - team: _teams/s23-seafoam-green.md
-  score: 
+  score: 19
 field: "2"
 date: 2022-11-06 10:45:00 -0500
 season: 23
