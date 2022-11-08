@@ -156,16 +156,16 @@ rounds:
     date: 2022-11-20 10:00:00 -0500
     location: _locations/carter-baron.md
     title: S23 Playoffs Semifinals - North vs Central
-- title: S22 Championship
+- title: S23 Championship
   games:
   - teams-score:
-    - team: _teams/s22-olive.md
-      score: 37
-    - team: _teams/s22-super-pink.md
-      score: 32
-    date: 2022-05-22T11:00:00.000-04:00
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-20 12:00:00 -0500
     location: _locations/carter-baron.md
-    title: S22 Playoffs Championship
-    division: West vs North
+    title: S23 Playoffs Championship
+    division: TBD
 
 ---
