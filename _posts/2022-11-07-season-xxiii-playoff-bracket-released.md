@@ -8,9 +8,11 @@ attachments:
 ---
 ### It's Playoff Time!
 
-After a 9-game regular season played in only 6 weeks, we've finally arrived at the playoffs!  The first and second rounds of the playoffs will be played on Sunday, November 13, 2022.  The final 4 teams will play in the semifinals, and the winners will settle it all in the championship the following weekend on Sunday, November 20, 2022.
+After a 9-game regular season played in only 6 weeks, we've finally arrived at the playoffs! [I Run Gay](https://dcgffl.org/teams/s23-iron-grey/ "I Run Gay") and the [Foamosexuals](https://dcgffl.org/teams/s23-seafoam-green/ "Foamosexuals") finished at the top of their respective divisions. Will these two teams make the Final Four or do others have an upset in store?
 
-##### [Click here to see the Playoffs page for Season 23 Playoffs!](/season-23-playoffs "S23 Playoffs")
+The first and second rounds of the playoffs will be played on Sunday, November 13, 2022.  The final 4 teams will play in the semifinals, and the winners will settle it all in the championship the following weekend on Sunday, November 20, 2022.
+
+##### [Click here to visit the Season 23 Playoffs page to see who makes the Final Four and wins it all!](/season-23-playoffs "Season 23 Playoffs")
 
 An 18-team cross-conference bracket was used. See the Playoffs Seeding section of the [DCGFFL Rules of Play](/rules/ "DCGFFL Rules of Play") page for more information on how teams were seeded.
 
