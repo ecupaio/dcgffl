@@ -147,15 +147,15 @@ rounds:
       score: 
     location: _locations/carter-baron.md
     date: 2022-11-20 10:00:50 -0500
-  - division: North vs South
+  - division: North vs Central
     teams-score:
-    - team: _teams/s22-royal-blue.md
-      score: 22
-    - team: _teams/s22-super-pink.md
-      score: 35
-    date: 2022-05-22T09:00:00.000-04:00
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-20 10:00:00 -0500
     location: _locations/carter-baron.md
-    title: S22 Playoffs Semifinals - North vs South
+    title: S23 Playoffs Semifinals - North vs Central
 - title: S22 Championship
   games:
   - teams-score:
