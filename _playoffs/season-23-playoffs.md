@@ -1,8 +1,8 @@
 ---
-champion: _teams/s22-olive.md
+champion: _teams/tbd.md
 title: Season 23 Playoffs
-permalink: "/season-22-playoffs/"
-season: 22
+permalink: "/season-23-playoffs/"
+season: 23
 rounds:
 - title: S22 Playoff Round 1 - North-South Bracket
   games:
