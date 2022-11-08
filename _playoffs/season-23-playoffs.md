@@ -71,14 +71,14 @@ rounds:
       score: 13
     date: 2022-05-15T12:00:00.000-04:00
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 3A Olive vs 6B Lime Green
-    division: West
+  - title: S23 Playoffs Round 1 - 6A Gold vs 3B Forest Green
+    division: East
     teams-score:
-    - team: _teams/s22-olive.md
-      score: 40
-    - team: _teams/s22-lime-green.md
-      score: 34
-    date: 2022-05-15T10:00:00.000-04:00
+    - team: _teams/s23-gold.md
+      score: 
+    - team: _teams/s23-forest-green.md
+      score: 
+    date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 4A Graphite vs 5B Navy
     division: West
