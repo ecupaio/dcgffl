@@ -136,17 +136,17 @@ rounds:
       score: 
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
-- title: S22 Semifinals
+- title: S23 Semifinals
   games:
-  - title: S22 Playoffs Semifinals - East vs West
+  - title: S23 Playoffs Semifinals - East vs West
     division: East vs West
     teams-score:
-    - team: _teams/s22-kelly-green.md
-      score: 33
-    - team: _teams/s22-olive.md
-      score: 41
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
     location: _locations/carter-baron.md
-    date: 2022-05-22T09:00:50.000-04:00
+    date: 2022-11-20 10:00:50 -0500
   - division: North vs South
     teams-score:
     - team: _teams/s22-royal-blue.md
