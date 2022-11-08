@@ -118,14 +118,14 @@ rounds:
       score: 
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Quarterfinals - North
+  - title: S23 Playoffs Quarterfinals - North
     division: North
     teams-score:
-    - team: _teams/s22-steel-grey.md
-      score: 28
-    - team: _teams/s22-super-pink.md
-      score: 33
-    date: 2022-05-15T13:45:00.000-04:00
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
   - title: S22 Playoffs Quarterfinals - South
     division: South
