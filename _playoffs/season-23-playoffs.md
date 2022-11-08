@@ -80,14 +80,14 @@ rounds:
       score: 34
     date: 2022-05-15T10:00:00.000-04:00
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 4B White vs 5A Gold
-    division: East
+  - title: S23 Playoffs Round 1 - 4A Graphite vs 5B Navy
+    division: West
     teams-score:
-    - team: _teams/s22-white.md
-      score: 19
-    - team: _teams/s22-gold.md
-      score: 24
-    date: 2022-05-15T10:00:00.000-04:00
+    - team: _teams/s23-graphite.md
+      score: 
+    - team: _teams/s23-navy.md
+      score: 
+    date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: 'S23 Playoffs Round 1 - 9B Kelly Green vs 8A Columbia Blue '
     division: West
