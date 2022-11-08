@@ -51,7 +51,7 @@ rounds:
       score: 
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
-- title: S22 Playoffs Round 1 - East-West Bracket
+- title: S23 Playoffs Round 1 - East-West Bracket
   games:
   - title: S22 Playoffs Round 1 - 1A Kelly Green vs 8B Maroon
     division: East
@@ -89,14 +89,14 @@ rounds:
       score: 24
     date: 2022-05-15T10:00:00.000-04:00
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 8B Maroon vs 9A Purple
-    division: East
+  - title: 'S23 Playoffs Round 1 - 9B Kelly Green vs 8A Columbia Blue '
+    division: West
     teams-score:
-    - team: _teams/s22-maroon.md
-      score: 26
-    - team: _teams/s22-purple.md
-      score: 12
-    date: 2022-05-15T08:30:00.000-04:00
+    - team: _teams/s23-kelly-green.md
+      score: 
+    - team: _teams/s23-columbia-blue.md
+      score: 
+    date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
 - title: S22 Quarterfinals
   games:
