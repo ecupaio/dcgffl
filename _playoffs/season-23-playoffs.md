@@ -62,14 +62,14 @@ rounds:
       score: 21
     date: 2022-05-15T12:00:00.000-04:00
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 2B Forest Green vs 7A Silver
-    division: West
+  - title: S23 Playoffs Round 1 - 2A Black vs 7B Royal Blue
+    division: East
     teams-score:
-    - team: _teams/s22-forest-green.md
-      score: 33
-    - team: _teams/s22-silver.md
-      score: 13
-    date: 2022-05-15T12:00:00.000-04:00
+    - team: _teams/s23-black.md
+      score: 
+    - team: _teams/s23-royal.md
+      score: 
+    date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 6A Gold vs 3B Forest Green
     division: East
