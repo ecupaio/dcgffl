@@ -4,34 +4,34 @@ title: Season 23 Playoffs
 permalink: "/season-23-playoffs/"
 season: 23
 rounds:
-- title: S22 Playoff Round 1 - North-South Bracket
+- title: S23 Playoff Round 1 - North-Central Bracket
   games:
-  - title: S22 Playoff Round 1 - 1B Steel Grey vs 8A Black
-    division: North
+  - title: S23 Playoff Round 1 - 9A Burnt Orange vs 8B Yellow
+    division: CENTRAL
     teams-score:
-    - team: _teams/s22-steel-grey.md
-      score: 40
-    - team: _teams/s22-black.md
-      score: 32
-    date: 2022-05-15T12:00:00.000-04:00
+    - team: _teams/s23-burnt-orange.md
+      score: 
+    - team: _teams/s23-yellow.md
+      score: 
+    date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 2A Royal Blue vs 7B Dark Orange
-    division: South
+  - title: S23 Playoffs Round 1 - 1A Seafoam Green vs Winner (9A vs 8B)
+    division: CENTRAL
     teams-score:
-    - team: _teams/s22-royal-blue.md
-      score: 40
-    - team: _teams/s22-dark-orange.md
-      score: 21
-    date: 2022-05-15T12:00:00.000-04:00
+    - team: _teams/s23-seafoam-green.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 3B Island Blue vs 6A Red
-    division: South
+  - title: S23 Playoffs Round 1 - 5A Purple vs 4B Coral
+    division: CENTRAL
     teams-score:
-    - team: _teams/s22-island-blue.md
-      score: 44
-    - team: _teams/s22-red.md
-      score: 8
-    date: 2022-05-15T10:00:00.000-04:00
+    - team: _teams/s23-purple.md
+      score: 
+    - team: _teams/s23-coral.md
+      score: 
+    date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 4A Super Pink vs 5B Magenta
     division: North
@@ -102,11 +102,7 @@ rounds:
   games:
   - title: S22 Playoffs Quarterfinals - East
     division: East
-    teams-score:
-    - team: _teams/s22-kelly-green.md
-      score: 36
-    - team: _teams/s22-gold.md
-      score: 28
+    teams-score: []
     date: 2022-05-15T13:45:00.000-04:00
     location: _locations/carter-baron.md
   - title: S22 Playoffs Quarterfinals - West
