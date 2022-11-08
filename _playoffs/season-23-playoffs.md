@@ -7,7 +7,7 @@ rounds:
 - title: S23 Playoff Round 1 - North-Central Bracket
   games:
   - title: S23 Playoff Round 1 - 9A Burnt Orange vs 8B Yellow
-    division: CENTRAL
+    division: Central
     teams-score:
     - team: _teams/s23-burnt-orange.md
       score: 
@@ -16,7 +16,7 @@ rounds:
     date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 1A Seafoam Green vs Winner (9A vs 8B)
-    division: CENTRAL
+    division: Central
     teams-score:
     - team: _teams/s23-seafoam-green.md
       score: 
@@ -25,7 +25,7 @@ rounds:
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 5A Purple vs 4B Coral
-    division: CENTRAL
+    division: Central
     teams-score:
     - team: _teams/s23-purple.md
       score: 
