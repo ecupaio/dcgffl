@@ -53,14 +53,14 @@ rounds:
     location: _locations/carter-baron.md
 - title: S23 Playoffs Round 1 - East-West Bracket
   games:
-  - title: S22 Playoffs Round 1 - 1A Kelly Green vs 8B Maroon
-    division: East
+  - title: S23 Playoffs Round 1 - 1B Iron Grey vs Winner (8A vs 9B)
+    division: West
     teams-score:
-    - team: _teams/s22-kelly-green.md
-      score: 47
-    - team: _teams/s22-maroon.md
-      score: 21
-    date: 2022-05-15T12:00:00.000-04:00
+    - team: _teams/s23-iron-grey.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 2A Black vs 7B Royal Blue
     division: East
@@ -163,6 +163,5 @@ rounds:
     location: _locations/carter-baron.md
     title: S22 Playoffs Championship
     division: West vs North
-published: false
 
 ---
