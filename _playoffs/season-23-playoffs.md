@@ -33,14 +33,14 @@ rounds:
       score: 
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Round 1 - 4A Super Pink vs 5B Magenta
+  - title: S23 Playoffs Round 1 - 3A Lime Green vs 6B Sand
     division: North
     teams-score:
-    - team: _teams/s22-super-pink.md
-      score: 26
-    - team: _teams/s22-magenta.md
-      score: 20
-    date: 2022-05-15T10:00:00.000-04:00
+    - team: _teams/s23-lime.md
+      score: 
+    - team: _teams/s23-sand.md
+      score: 
+    date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S22 Playoffs Round 1 - 8A Black vs 9B Navy
     division: North
