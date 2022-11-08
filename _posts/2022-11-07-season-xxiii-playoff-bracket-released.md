@@ -3,6 +3,7 @@ date: 2022-11-07 23:00:22 -0500
 title: Season XXIII Playoff Bracket Released!
 attachments:
 - file: "/img/season-xxiii-playoff-bracket.pdf"
+  title: Season XXIII Playoff Bracket
 
 ---
 ### It's Playoff Time!
