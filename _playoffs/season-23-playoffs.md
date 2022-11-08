@@ -98,21 +98,25 @@ rounds:
       score: 
     date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
-- title: S22 Quarterfinals
+- title: S23 Quarterfinals
   games:
-  - title: S22 Playoffs Quarterfinals - East
+  - title: S23 Playoffs Quarterfinals - East
     division: East
-    teams-score: []
-    date: 2022-05-15T13:45:00.000-04:00
+    teams-score:
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Quarterfinals - West
+  - title: S23 Playoffs Quarterfinals - West
     division: West
     teams-score:
-    - team: _teams/s22-forest-green.md
-      score: 33
-    - team: _teams/s22-olive.md
-      score: 34
-    date: 2022-05-15T13:45:00.000-04:00
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
   - title: S22 Playoffs Quarterfinals - North
     division: North
