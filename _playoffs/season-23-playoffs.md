@@ -127,14 +127,14 @@ rounds:
       score: 
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
-  - title: S22 Playoffs Quarterfinals - South
-    division: South
+  - title: S23 Playoffs Quarterfinals - South
+    division: Central
     teams-score:
-    - team: _teams/s22-royal-blue.md
-      score: 27
-    - team: _teams/s22-island-blue.md
-      score: 12
-    date: 2022-05-15T13:45:00.000-04:00
+    - team: _teams/tbd.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
 - title: S22 Semifinals
   games:
