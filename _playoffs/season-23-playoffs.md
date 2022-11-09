@@ -53,6 +53,33 @@ rounds:
     location: _locations/carter-baron.md
 - title: S23 Playoffs Round 1 - East-West Bracket
   games:
+  - title: 'S23 Playoffs Round 1 - 9B Kelly Green vs 8A Columbia Blue '
+    division: West
+    teams-score:
+    - team: _teams/s23-kelly-green.md
+      score: 
+    - team: _teams/s23-columbia-blue.md
+      score: 
+    date: 2022-11-13 08:30:00 -0500
+    location: _locations/carter-baron.md
+  - title: S23 Playoffs Round 1 - 4A Graphite vs 5B Navy
+    division: West
+    teams-score:
+    - team: _teams/s23-graphite.md
+      score: 
+    - team: _teams/s23-navy.md
+      score: 
+    date: 2022-11-13 10:00:00 -0500
+    location: _locations/carter-baron.md
+  - title: S23 Playoffs Round 1 - 6A Gold vs 3B Forest Green
+    division: East
+    teams-score:
+    - team: _teams/s23-gold.md
+      score: 
+    - team: _teams/s23-forest-green.md
+      score: 
+    date: 2022-11-13 10:00:00 -0500
+    location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 1B Iron Grey vs Winner (8A vs 9B)
     division: West
     teams-score:
@@ -70,33 +97,6 @@ rounds:
     - team: _teams/s23-royal.md
       score: 
     date: 2022-11-13 12:00:00 -0500
-    location: _locations/carter-baron.md
-  - title: S23 Playoffs Round 1 - 6A Gold vs 3B Forest Green
-    division: East
-    teams-score:
-    - team: _teams/s23-gold.md
-      score: 
-    - team: _teams/s23-forest-green.md
-      score: 
-    date: 2022-11-13 10:00:00 -0500
-    location: _locations/carter-baron.md
-  - title: S23 Playoffs Round 1 - 4A Graphite vs 5B Navy
-    division: West
-    teams-score:
-    - team: _teams/s23-graphite.md
-      score: 
-    - team: _teams/s23-navy.md
-      score: 
-    date: 2022-11-13 10:00:00 -0500
-    location: _locations/carter-baron.md
-  - title: 'S23 Playoffs Round 1 - 9B Kelly Green vs 8A Columbia Blue '
-    division: West
-    teams-score:
-    - team: _teams/s23-kelly-green.md
-      score: 
-    - team: _teams/s23-columbia-blue.md
-      score: 
-    date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
 - title: S23 Quarterfinals
   games:
