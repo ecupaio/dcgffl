@@ -10,8 +10,8 @@ field: "1"
 date: 2022-11-06 12:30:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Demetrian Cook, Logan Dawson
+game-ball: Aaron Ross, Mike Osorio
+sportsperson: Benny K, JP Hooth
 
 ---
