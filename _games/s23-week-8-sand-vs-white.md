@@ -10,8 +10,8 @@ field: "3"
 date: 2022-11-06 09:00:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Oriya Cohen, Ben Hunt
+game-ball: Pete D, Richard Cash
+sportsperson: Lamar Rogers, Merrill W
 
 ---
