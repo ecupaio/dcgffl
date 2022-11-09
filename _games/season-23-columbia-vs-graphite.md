@@ -10,8 +10,8 @@ field: "2"
 date: 2022-11-06 12:30:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Joe Owens, Michael Brommell
+game-ball: Robert Casey, Matt Devino
+sportsperson: 'Mark Hofberg, Chris Gillyard '
 
 ---
