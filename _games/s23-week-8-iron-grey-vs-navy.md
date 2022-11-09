@@ -10,8 +10,8 @@ field: "2"
 date: 2022-11-06 09:00:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Peter Pham, Brett Chambers
+game-ball: Tony Stewart, Tevin M
+sportsperson: 'Emily Binnicker, Bradley Williams '
 
 ---
