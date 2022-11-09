@@ -10,8 +10,8 @@ field: "2"
 date: 2022-11-06 10:45:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Mark Hofberg, Kevin Smiffy
+game-ball: 'Thomas L, Matt H '
+sportsperson: Kat Rosenthal, Logan Dawson
 
 ---
