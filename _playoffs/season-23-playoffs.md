@@ -15,15 +15,6 @@ rounds:
       score: 
     date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
-  - title: S23 Playoffs Round 1 - 1A Seafoam Green vs Winner (9A vs 8B)
-    division: Central
-    teams-score:
-    - team: _teams/s23-seafoam-green.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
-    date: 2022-11-13 12:00:00 -0500
-    location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 5A Purple vs 4B Coral
     division: Central
     teams-score:
@@ -32,6 +23,15 @@ rounds:
     - team: _teams/s23-coral.md
       score: 
     date: 2022-11-13 10:00:00 -0500
+    location: _locations/carter-baron.md
+  - title: S23 Playoffs Round 1 - 1A Seafoam Green vs Winner (9A vs 8B)
+    division: Central
+    teams-score:
+    - team: _teams/s23-seafoam-green.md
+      score: 
+    - team: _teams/tbd.md
+      score: 
+    date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 3A Lime Green vs 6B Sand
     division: North
