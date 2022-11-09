@@ -10,8 +10,8 @@ field: "1"
 date: 2022-11-06 10:45:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Bryan Sanders, Benny K
+game-ball: Jean-Francois Hould, Charlie Kniseley
+sportsperson: 'Michael A, Scott Cuviello '
 
 ---
