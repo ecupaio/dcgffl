@@ -10,8 +10,8 @@ field: "4"
 date: 2022-11-06 12:30:00 -0500
 season: 23
 week: 8
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Aaron Beck, Dwaylan Applewhite
+game-ball: Brandon Tuell, Malcolm Warbrick
+sportsperson: Trey P, Luke Rush
 
 ---
