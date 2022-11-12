@@ -39,7 +39,7 @@ It is so good to be back at Carter Barron and back on the website being shady. T
 
 ##### 1:45 PM
 
-**#1 Seafoam vs. #5 Purple:** Seafoam’s well rounded team shuts down a Purple team that hasn’t been the same since Week 5’s Sunday loss, leading to a mutual restraining order between Twon and Andrew Aldrian. . Seafoam takes it 32-21. That said, the Foamosexuals are sure to flame out against whoever they play in the Final Four.
+**#1 Seafoam vs. #5 Purple:** Seafoam’s well rounded team shuts down a Purple team that hasn’t been the same since Week 5’s Sunday loss, leading to a mutual restraining order between Twon and Andrew Aldrian. Seafoam takes it 32-21. That said, the Foamosexuals are sure to flame out against whoever they play in the Final Four.
 
 **#3 Lime vs. #7 Red:** We keep writing off Brandon Waggoner and rightfully so (based on his look in the huddle this season, he has already made Spaworld plans for next Sunday!). But he can take this team to the Final Four, where they will lose in glorious fashion, like every other year. Red takes it 32-29.
 
