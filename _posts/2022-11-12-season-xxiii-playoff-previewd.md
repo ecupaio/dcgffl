@@ -2,6 +2,7 @@
 date: 2022-11-12 17:00:22 -0500
 title: Season XXIII Playoffs Predictions
 attachments: []
+permalink: "/s23-playoff-predictions"
 
 ---
 ### Season XXIII Playoffs Predictions
