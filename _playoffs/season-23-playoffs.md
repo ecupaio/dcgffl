@@ -57,9 +57,9 @@ rounds:
     division: West
     teams-score:
     - team: _teams/s23-kelly-green.md
-      score: 
+      score: 33
     - team: _teams/s23-columbia-blue.md
-      score: 
+      score: 13
     date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 4A Graphite vs 5B Navy
@@ -80,12 +80,12 @@ rounds:
       score: 
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
-  - title: S23 Playoffs Round 1 - 1B Iron Grey vs Navy
+  - title: S23 Playoffs Round 1 - 1B Iron Grey vs Kelly Green
     division: West
     teams-score:
     - team: _teams/s23-iron-grey.md
       score: 19
-    - team: _teams/s23-navy.md
+    - team: _teams/s23-kelly-green.md
       score: 6
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
