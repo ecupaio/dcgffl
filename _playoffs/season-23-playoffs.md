@@ -80,13 +80,13 @@ rounds:
       score: 
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
-  - title: S23 Playoffs Round 1 - 1B Iron Grey vs Winner (8A vs 9B)
+  - title: S23 Playoffs Round 1 - 1B Iron Grey vs Navy
     division: West
     teams-score:
     - team: _teams/s23-iron-grey.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+      score: 19
+    - team: _teams/s23-navy.md
+      score: 6
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 2A Black vs 7B Royal Blue
