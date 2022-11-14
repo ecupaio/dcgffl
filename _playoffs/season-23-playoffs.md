@@ -149,7 +149,7 @@ rounds:
     date: 2022-11-20 10:00:50 -0500
   - division: North vs Central
     teams-score:
-    - team: _teams/tbd.md
+    - team: _teams/s23-coral.md
       score: 
     - team: _teams/tbd.md
       score: 
