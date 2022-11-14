@@ -103,10 +103,10 @@ rounds:
   - title: S23 Playoffs Quarterfinals - East
     division: East
     teams-score:
-    - team: _teams/tbd.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+    - team: _teams/s23-black.md
+      score: 27
+    - team: _teams/s23-forest-green.md
+      score: 12
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Quarterfinals - West
