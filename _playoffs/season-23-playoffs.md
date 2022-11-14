@@ -66,9 +66,9 @@ rounds:
     division: West
     teams-score:
     - team: _teams/s23-graphite.md
-      score: 
+      score: 20
     - team: _teams/s23-navy.md
-      score: 
+      score: 26
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 6A Gold vs 3B Forest Green
