@@ -84,9 +84,9 @@ rounds:
     division: West
     teams-score:
     - team: _teams/s23-iron-grey.md
-      score: 19
+      score: 27
     - team: _teams/s23-kelly-green.md
-      score: 6
+      score: 21
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 2A Black vs 7B Royal Blue
@@ -143,7 +143,7 @@ rounds:
     teams-score:
     - team: _teams/tbd.md
       score: 
-    - team: _teams/tbd.md
+    - team: _teams/s23-iron-grey.md
       score: 
     location: _locations/carter-baron.md
     date: 2022-11-20 10:00:50 -0500
