@@ -121,10 +121,10 @@ rounds:
   - title: S23 Playoffs Quarterfinals - North
     division: North
     teams-score:
-    - team: _teams/tbd.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+    - team: _teams/s23-lime.md
+      score: 32
+    - team: _teams/s23-red.md
+      score: 38
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Quarterfinals - Central
@@ -151,7 +151,7 @@ rounds:
     teams-score:
     - team: _teams/s23-coral.md
       score: 
-    - team: _teams/tbd.md
+    - team: _teams/s23-red.md
       score: 
     date: 2022-11-20 10:00:00 -0500
     location: _locations/carter-baron.md
