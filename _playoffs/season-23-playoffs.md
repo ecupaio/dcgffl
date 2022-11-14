@@ -28,9 +28,9 @@ rounds:
     division: Central
     teams-score:
     - team: _teams/s23-seafoam-green.md
-      score: 
+      score: 32
     - team: _teams/s23-burnt-orange.md
-      score: 
+      score: 12
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 3A Lime Green vs 6B Sand
