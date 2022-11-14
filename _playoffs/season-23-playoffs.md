@@ -19,9 +19,9 @@ rounds:
     division: Central
     teams-score:
     - team: _teams/s23-purple.md
-      score: 
+      score: 6
     - team: _teams/s23-coral.md
-      score: 
+      score: 26
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 1A Seafoam Green vs Burnt Orange
@@ -37,9 +37,9 @@ rounds:
     division: North
     teams-score:
     - team: _teams/s23-lime.md
-      score: 
+      score: 29
     - team: _teams/s23-sand.md
-      score: 
+      score: 26
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 7A Red vs 2B White
