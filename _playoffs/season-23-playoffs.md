@@ -127,13 +127,13 @@ rounds:
       score: 
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
-  - title: S23 Playoffs Quarterfinals - South
+  - title: S23 Playoffs Quarterfinals - Central
     division: Central
     teams-score:
-    - team: _teams/tbd.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+    - team: _teams/s23-seafoam-green.md
+      score: 18
+    - team: _teams/s23-coral.md
+      score: 32
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
 - title: S23 Semifinals
