@@ -9,10 +9,10 @@ rounds:
   - title: S23 Playoff Round 1 - 9A Burnt Orange vs 8B Yellow
     division: Central
     teams-score:
-    - team: _teams/s23-burnt-orange.md
-      score: 
     - team: _teams/s23-yellow.md
-      score: 
+      score: 14
+    - team: _teams/s23-burnt-orange.md
+      score: 20
     date: 2022-11-13 08:30:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 5A Purple vs 4B Coral
