@@ -75,9 +75,9 @@ rounds:
     division: East
     teams-score:
     - team: _teams/s23-gold.md
-      score: 
+      score: 13
     - team: _teams/s23-forest-green.md
-      score: 
+      score: 18
     date: 2022-11-13 10:00:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Round 1 - 1B Iron Grey vs Kelly Green
@@ -93,9 +93,9 @@ rounds:
     division: East
     teams-score:
     - team: _teams/s23-black.md
-      score: 
+      score: 40
     - team: _teams/s23-royal.md
-      score: 
+      score: 39
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
 - title: S23 Quarterfinals
