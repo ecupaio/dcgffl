@@ -141,7 +141,7 @@ rounds:
   - title: S23 Playoffs Semifinals - East vs West
     division: East vs West
     teams-score:
-    - team: _teams/tbd.md
+    - team: _teams/s23-black.md
       score: 
     - team: _teams/s23-iron-grey.md
       score: 
