@@ -112,10 +112,10 @@ rounds:
   - title: S23 Playoffs Quarterfinals - West
     division: West
     teams-score:
-    - team: _teams/tbd.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+    - team: _teams/s23-iron-grey.md
+      score: 19
+    - team: _teams/s23-navy.md
+      score: 6
     date: 2022-11-13 13:45:00 -0500
     location: _locations/carter-baron.md
   - title: S23 Playoffs Quarterfinals - North
