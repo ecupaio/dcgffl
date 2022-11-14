@@ -46,9 +46,9 @@ rounds:
     division: North
     teams-score:
     - team: _teams/s23-red.md
-      score: 
+      score: 42
     - team: _teams/s23-white.md
-      score: 
+      score: 2
     date: 2022-11-13 12:00:00 -0500
     location: _locations/carter-baron.md
 - title: S23 Playoffs Round 1 - East-West Bracket
