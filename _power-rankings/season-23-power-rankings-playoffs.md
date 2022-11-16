@@ -32,7 +32,7 @@ rankings:
   text: |-
     This team full of the gayest straight people we know struggled out of the gate against Royal Blue. Somehow the Goths were still able to claw back and after two rounds of overtime, Black completed their comeback thanks to a missed extra point. PHEW!
 
-    Black’s second game against the Shady Birches saw a bit of a reversion to the mean for this attendance-challenged but talented team. Although, who could forget the question heard around the DMV, “GORDO WHERE THE \[REDACTED\] ARE YOU?!?”
+    Black’s second game against the Shady Birches saw a bit of a reversion to the mean for this attendance-challenged but talented team. Although, who could forget the question heard around the DMV, “GORDO WHERE THE......ARE YOU?!?”
 
     A question I’m sure his wife and child would love to have answered considering he somehow attends every single league social event and we’ve never seen them together in the same room…Are we sure they’re real or is this a Making Anna/Theranos situation? We’re just asking questions!!!
 
