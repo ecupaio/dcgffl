@@ -66,5 +66,8 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: Sign up to play with DCGFFL at Sunshine Cup 2023 [HERE](https://forms.gle/62qhrYyQup658JeA9)!
+  text: |-
+    [Board elections](https://dcgffl.org/board/#elections-section) are open until 7 PM on Friday!
+
+    Sign up to play with DCGFFL at Sunshine Cup 2023 [HERE](https://forms.gle/62qhrYyQup658JeA9)!
   show: true
