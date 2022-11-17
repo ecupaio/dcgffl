@@ -46,7 +46,7 @@ Admirals – Bryan Sanders
 Commanders – Clay Arnold
 
 Independent Member and Committee Chair – Brandon Waggoner  
-DCGFFL Liaison – Ryan Viessman
+DCGFFL Liaison – JJ Johnson
 
 Any questions on the travel program can be directed to the TMB at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
 
