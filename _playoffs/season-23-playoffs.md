@@ -166,6 +166,6 @@ rounds:
     date: 2022-11-20 12:00:00 -0500
     location: _locations/carter-baron.md
     title: S23 Playoffs Championship
-    division: TBD
+    division: East vs. Central
 
 ---
