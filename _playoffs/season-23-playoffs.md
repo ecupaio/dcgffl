@@ -1,5 +1,5 @@
 ---
-champion: _teams/tbd.md
+champion: _teams/s23-black.md
 title: Season 23 Playoffs
 permalink: "/season-23-playoffs/"
 season: 23
@@ -142,27 +142,27 @@ rounds:
     division: East vs West
     teams-score:
     - team: _teams/s23-black.md
-      score: 
+      score: 39
     - team: _teams/s23-iron-grey.md
-      score: 
+      score: 12
     location: _locations/carter-baron.md
     date: 2022-11-20 10:00:50 -0500
   - division: North vs Central
     teams-score:
     - team: _teams/s23-coral.md
-      score: 
+      score: 26
     - team: _teams/s23-red.md
-      score: 
+      score: 18
     date: 2022-11-20 10:00:00 -0500
     location: _locations/carter-baron.md
     title: S23 Playoffs Semifinals - North vs Central
 - title: S23 Championship
   games:
   - teams-score:
-    - team: _teams/tbd.md
-      score: 
-    - team: _teams/tbd.md
-      score: 
+    - team: _teams/s23-black.md
+      score: 29
+    - team: _teams/s23-coral.md
+      score: 22
     date: 2022-11-20 12:00:00 -0500
     location: _locations/carter-baron.md
     title: S23 Playoffs Championship
