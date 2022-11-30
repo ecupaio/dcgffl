@@ -18,8 +18,9 @@ DCGFFL was voted the Best Amateur Sports League in the Washington Blade's Best o
 * Trained XX new referees
 * Trained 3 new head referees
 * Partnered with our the Greater Philadelphia Flag Football League to host the largest ever DCGFFL Beach Bowl tournament in Rehoboth Beach, DE
+* Partnered with Team DC and the Washington Commanders to make this year's Pride Night OUT football game bigger and better
 
-#### Travel Program Highlights
+#### Travel Program Achievements
 
 * The DC Commanders brought home the Open B2 Division championship from Pride Bowl
 * Sunshine Cup XI featured an all-DC Open A division final with the DC Assassins besting the DC Filibusters
