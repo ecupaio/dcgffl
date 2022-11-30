@@ -45,7 +45,7 @@ Check out the end-of-season video [here](https://vimeo.com/772970326/a468a61226 
 
 #### Your Season XXIV Board
 
-With the end of season comes a new board to introduce! Thank you to our outgoing members, Kevin Comerford, Amanda Dafonte, and JJ Johnson, for their hard work to help make Season XXIII possible! The incomparable JJ Johnson retired from the board after serving a total of 17 seasons on the board and being instrumental in founding and sustaining the DCGFFL over the last 12+ years.
+With the end of the season comes a new board to introduce! Thank you to our outgoing members, Kevin Comerford, Amanda Dafonte, and JJ Johnson, for their hard work to help make Season XXIII possible! The incomparable JJ Johnson retired from the board after serving a total of 17 seasons on the board and being instrumental in founding and sustaining the DCGFFL over the last 12+ years.
 
 The DCGFFL Board for Season XXIV consists of:  
 **Commissioner**: Logan Dawson (continuing)  
