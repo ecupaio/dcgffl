@@ -2,7 +2,6 @@
 date: 2022-11-29 19:00:20 -0500
 title: Season 23 - Fall 2022
 permalink: "/s23-summary/"
-published: false
 
 ---
 #### DCGFFL Season XXIII Semifinals and Championship Game Recap
@@ -39,6 +38,10 @@ Congratulations to all of our Season XXIII award winners for their fantastic sea
 **Rec League MVP**: Jonathan Kummerer  
 **Rec League Sportsperson Award**: Paul Haakenson  
 **Rec League Champions**: Red
+
+#### End-of-Season Video
+
+Check out the end-of-season video [here](https://vimeo.com/772970326/a468a61226 "https://vimeo.com/772970326/a468a61226"), courtesy of Cameron M!
 
 #### Your Season XXIV Board
 
