@@ -7,15 +7,13 @@ attachments: []
 ---
 #### DCGFFL Highlights for 2022
 
-DCGFFL was voted the Best Amateur Sports League in the [Washington Blade's Best of LGBTQ DC 2022 awards](https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/)! 
+DCGFFL was voted the Best Amateur Sports League in the [Washington Blade's Best of LGBTQ DC 2022 awards](https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/)!
 
 #### League Achievements
 
 * Recruited new team leaders with 8 first-time captains and 8 first-time quarterbacks
 * Trained a host of new referees, including 3 new head refs
 * Grew Recreation League participation to include 6 teams for Season 23
-* Partnered with our the Greater Philadelphia Flag Football League to host the largest ever DCGFFL Beach Bowl tournament in Rehoboth Beach, DE
-* Partnered with Team DC and the Washington Commanders to make this year's Pride Night OUT football game bigger and better
 
 #### Travel Program Achievements
 
@@ -23,6 +21,13 @@ DCGFFL was voted the Best Amateur Sports League in the [Washington Blade's Best 
 * Sunshine Cup XI featured an all-DC Open A division final with the DC Assassins besting the DC Filibusters for the championship trophy
 * For the first time ever, DCGFFL fielded two Women's+ Division teams at a travel tournament (Pride Bowl)
 * The DC Space Force competed at Gay Bowl XXII in Hawaii
+
+#### Community Achievements
+
+* DCGFFL member and incoming NGFFL Commissioner, Joel Horton, [announced a pick at the NFL Draft](https://www.outsports.com/2022/4/25/23039859/arizona-cardinals-nfl-draft-pick-gay-player-joel-horton)
+* Marched in the Capital Pride Parade with the Washington Commanders
+* Partnered with Team DC and the Washington Commanders to make this year's Pride Night OUT football game bigger and better
+* Partnered with our the Greater Philadelphia Flag Football League to host the largest ever DCGFFL Beach Bowl tournament in Rehoboth Beach, DE
 
 #### DCGFFL in the News
 
