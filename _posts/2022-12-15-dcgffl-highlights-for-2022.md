@@ -7,6 +7,8 @@ attachments: []
 ---
 #### DCGFFL Highlights for 2022
 
+![](/img/img_7689.jpeg)
+
 DCGFFL was voted the Best Amateur Sports League in the [Washington Blade's Best of LGBTQ DC 2022 awards](https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/)!
 
 #### League Achievements
