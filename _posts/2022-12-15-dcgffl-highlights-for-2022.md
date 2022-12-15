@@ -14,6 +14,7 @@ DCGFFL was voted the Best Amateur Sports League in the [Washington Blade's Best 
 * Recruited new team leaders with 8 first-time captains and 8 first-time quarterbacks
 * Trained a host of new referees, including 3 new head refs
 * Grew Recreation League participation to include 6 teams for Season 23
+* Created the Forever Family program to provide an option for supporters and retired players to participate more formally as social members of the league
 
 #### Travel Program Achievements
 
