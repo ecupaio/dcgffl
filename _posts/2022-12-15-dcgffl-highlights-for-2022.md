@@ -7,24 +7,21 @@ attachments: []
 ---
 #### DCGFFL Highlights for 2022
 
-Seasons XXII and XXIII
-
-DCGFFL was voted the Best Amateur Sports League in the Washington Blade's Best of LGBTQ 2022 awards! [https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/](https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/ "https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/")
+DCGFFL was voted the Best Amateur Sports League in the [Washington Blade's Best of LGBTQ DC 2022 awards](https://www.washingtonblade.com/2022/10/20/best-of-lgbtq-dc-2022/)! 
 
 #### League Achievements
 
-* 8 new captains
-* 8 new quarterbacks
-* Trained XX new referees
-* Trained 3 new head referees
+* Recruited new team leaders with 8 first-time captains and 8 first-time quarterbacks
+* Trained a host of new referees, including 3 new head refs
+* Grew Recreation League participation to include 6 teams for Season 23
 * Partnered with our the Greater Philadelphia Flag Football League to host the largest ever DCGFFL Beach Bowl tournament in Rehoboth Beach, DE
 * Partnered with Team DC and the Washington Commanders to make this year's Pride Night OUT football game bigger and better
 
 #### Travel Program Achievements
 
 * The DC Commanders brought home the Open B2 Division championship from Pride Bowl
-* Sunshine Cup XI featured an all-DC Open A division final with the DC Assassins besting the DC Filibusters
-* For the first time ever, DCGFFL fielded two Women's+ division travel teams at Pride Bowl
+* Sunshine Cup XI featured an all-DC Open A division final with the DC Assassins besting the DC Filibusters for the championship trophy
+* For the first time ever, DCGFFL fielded two Women's+ Division teams at a travel tournament (Pride Bowl)
 * The DC Space Force competed at Gay Bowl XXII in Hawaii
 
 #### DCGFFL in the News
