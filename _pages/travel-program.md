@@ -26,9 +26,9 @@ resources:
       link: ''
 
 ---
-### Thanks to all our 2021 Travel Players!
+### Thanks to all our 2022 Travel Players!
 
-**Congratulations to the Senators for bringing home a championship trophy to D.C. at Gay Bowl!**
+**Congratulations to the Commanders for bringing home a championship trophy from Pride Bowl!**
 
 ### About the Travel Program
 
@@ -46,9 +46,9 @@ Admirals – Bryan Sanders
 Commanders – Clay Arnold
 
 Independent Member and Committee Chair – Brandon Waggoner  
-DCGFFL Liaison – JJ Johnson
+DCGFFL Liaison – Patrick Barboun
 
-Any questions on the travel program can be directed to the TMB at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
+Any questions on the travel program can be directed to the TMC at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
 
 ### Resources
 
