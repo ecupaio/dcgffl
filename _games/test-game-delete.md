@@ -13,5 +13,5 @@ game-ball: Dell, Bradley
 sportsperson: John, Scott
 location: /locations/carter-baron
 field: '5'
-published: false
+published: true
 ---
