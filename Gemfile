@@ -20,3 +20,5 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+
+gem "cloudcannon-jekyll", "~> 3.2", :group => :jekyll_plugins

@@ -38,6 +38,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - cloudcannon-jekyll
 collections:
   pages: 
     output: true

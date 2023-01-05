@@ -3,6 +3,8 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    cloudcannon-jekyll (3.2.4)
+      jekyll (>= 2.4.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     em-websocket (0.5.2)
@@ -65,6 +67,7 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
+  cloudcannon-jekyll (~> 3.2)
   jekyll
   jekyll-sitemap
   webrick (~> 1.7)
