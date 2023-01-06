@@ -8,19 +8,6 @@ collections_config:
   data:
     path: _data
     output: false
-  posts:
-    path: _posts
-    output: true
-    sitemap: true
-    permalink: /:title/
-    create:
-      path: &gt;-
-        [relative_base_path]/{date|year}-{date|month}-{date|day}-{title|slugify}.[ext]
-  drafts:
-    path: _drafts
-    output: false
-    create:
-      publish_to: posts
   pages:
     output: true
     permalink: /:title/
@@ -74,7 +61,19 @@ collections_config:
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
 collection_groups:
-
+- heading: 'League'
+  collections: 
+  - games
+  - teams
+  - playoffs
+- heading: 'Rec League'
+  collections: 
+  - rec-games
+  - rec-teams
+  - rec-playoffs
+- heading: 'Pages'
+  collections: 
+  - pages  
 # Set this to true to disable auto-detection of collections.
 collections_config_override: false
 
