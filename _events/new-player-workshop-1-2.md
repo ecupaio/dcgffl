@@ -13,7 +13,6 @@ location:
   city: Washington
   state: DC
   zip: 20011
-published: false
 
 ---
 New Player Workshops are opportunities for new players to develop and demonstrate their flag football skills, which helps ensure that fair teams are selected.
