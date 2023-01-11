@@ -27,7 +27,7 @@ Save the date for Season 24 games and key events!
 * **May 14** **(Sun)** - Playoffs
 * **May 21** **(Sun)** - Final Four and Championship
 
-All regular season Sunday games will be played at the Carter Barron Soccer Fields.
+All Sunday games will be played at the Carter Barron Soccer Fields.
 
 Captain/QB Pairing and a second New Player Workshop will take place between registration closure and the draft. Exact dates and location will be announced in the coming weeks once they are confirmed.
 
