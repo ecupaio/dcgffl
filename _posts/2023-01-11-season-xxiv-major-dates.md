@@ -10,7 +10,9 @@ Save the date for Season 24 games and key events!
 * **January 18 (Wed)** - Earlybird registration **_opens at 7 PM_** (limited to 100 slots for returning players)
 * **January 25 (Wed)** - Regular registration **_opens at 7 PM_** for both new and returning players
 * **February 6 (Mon)** - Registration closes
+* **TBA** - Captain/QB Pairing
 * **February 12 (Sun)** - [New Player Workshop #1](/s24-npw-1 "/s24-npw-1") (Carter Barron Soccer Fields)
+* **TBA** - New Player Workshop #2
 * **February 22 (Wed)** - Draft (7 PM at Pitchers)
 * **February 23 (Thu)** - TAP (7 PM at Pitchers)
 * **February 25-26 (Sat/Sun)** - Team Practice/Scrimmage Weekend
