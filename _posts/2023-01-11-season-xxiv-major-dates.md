@@ -31,6 +31,6 @@ All Sunday games will be played at the Carter Barron Soccer Fields.
 
 Captain/QB Pairing and a second New Player Workshop will take place between registration closure and the draft. Exact dates and location will be announced in the coming weeks once they are confirmed.
 
-\*Rain Makeup Date: No games will be scheduled for this date at the start of the season. Games will be rescheduled for this date if inclement weather requires postponement of games earlier in the season. Absence from rescheduled games would not count against players for the playoff eligibility attendance requirement.
+\*Rain Makeup Date: At the start of the season, no games will be scheduled for April 30th. Games will be rescheduled for this date if inclement weather requires postponement of games earlier in the season. Absence from rescheduled games would not count against players for the playoff eligibility attendance requirement.
 
 ![](/img/52488747301_ecfb48ae0e_k.jpeg)
