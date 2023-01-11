@@ -8,7 +8,7 @@ permalink: "/s24-npw-1"
 date: 2023-02-12 13:00:00 -0500
 time: 1 PM
 location:
-  name: Carter Barron
+  name: Carter Barron Soccer Fields
   address: 1698 Kennedy St NW
   city: Washington
   state: DC
