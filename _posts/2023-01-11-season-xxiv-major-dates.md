@@ -5,7 +5,7 @@ permalink: "/s24-dates/"
 attachments: []
 
 ---
-Save the date for key Season 24 games and events!
+Save the date for Season 24 games and key events!
 
 * **January 18 (Wed)** - Earlybird registration **_opens at 7 PM_** (limited to 100 slots for returning players)
 * **January 25 (Wed)** - Regular registration **_opens at 7 PM_** for both new and returning players
