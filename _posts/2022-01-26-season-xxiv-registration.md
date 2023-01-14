@@ -1,6 +1,6 @@
 ---
 date: 2022-01-26T16:36:45.000-05:00
-title: Season XXIV Registration
+title: Season XXII Early Registration
 attachments: []
 
 ---
