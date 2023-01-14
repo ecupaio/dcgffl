@@ -1,15 +1,25 @@
 ---
-date: 2022-01-26T16:36:45.000-05:00
-title: Season XXII Early Registration
+date: 2023-01-13 21:00:45 -0500
+title: Season XXIV Registration
 attachments: []
 
 ---
-#### Early registration filled up in less than 3 hours!  Check back to register on Wednesday, February 2nd, at 7pm!
+### Season XXIV Registration Opens Soon!
 
-At that time, players should refresh the registration link until the form is active. This will register you for the Spring 2022 season (Season XXII), which runs from mid-March to late May.
+Season XXIV (Spring 2023) of the DCGFFL will run from March to May, and registration will occur over the next few weeks!
 
-The early registration is limited to 100 returning players and filled up in less than 3 hours - so if you missed out, don’t delay, register immediately at 7pm on February 2nd at 7pm to secure your spot!
+##### EARLYBIRD REGISTRATION:
 
-#### NEW PLAYERS:
+Earlybird Registration opens **Wednesday, January 18th at 7 PM**. At that time, players should refresh the registration link on the website banner until the form is active.
 
-Regular Registration for ALL players will open on **Wednesday, February 2nd, at 7pm**.  If you haven't played in the DCGFFL previously, come back and sign up then!
+This registration period is limited to 100 slots for returning players. Once all the slots are filled, registration will close temporarily and will not reopen until January 25th. Earlybird registration typically fills up within an hour, so register promptly at 7 PM to secure your spot!
+
+##### REGULAR REGISTRATION:
+
+Regular Registration for ALL players, including new players, will open on **Wednesday, January 25th, at 7 PM**.  If you haven't played in the DCGFFL previously or if you're a returning player who missed out on the earlybird slots, come back and sign up then! 
+
+Again, don't delay - register immediately at 7 PM to secure your spot and avoid the waitlist! We do our best to place everyone who registers on a team, but we cannot guarantee that we will have space to add everyone from the waitlist.
+
+##### NEW PLAYERS:
+
+New players (those who have not played in a regular season of the DCGFFL) are required to attend one of the New Player Workshops to be eligible to play in our league. Visit the [Events](https://dcgffl.org/events/) page for more information on the workshops including dates and locations.
