@@ -15,7 +15,7 @@ Save the date for Season 24 games and key events!
 * **February 12 (Sun)** - [New Player Workshop #1](/s24-npw-1 "/s24-npw-1") (Carter Barron Soccer Fields)
 * **TBA** - New Player Workshop #2
 * **February 22 (Wed)** - Draft (7 PM at Pitchers)
-* **February 23 (Thu)** - Team Announcement Party (TAP; 7 PM at Pitchers)
+* **February 23 (Thu)** - [Team Announcement Party](/tap-season-24/) (TAP; 7 PM at Pitchers)
 * **February 25-26 (Sat/Sun)** - Team Practice/Scrimmage Weekend
 * **March 5** **(Sun)** - Week 1 Games
 * **March 12 (Sun)** - Week 2 Games
