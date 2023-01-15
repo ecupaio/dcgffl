@@ -1,10 +1,10 @@
 ---
-title: Spring 2023 Early Registration
-date: 2022-01-26T19:00:00.000-05:00
+title: Spring 2023 Earlybird Registration
+date: 2023-01-18 19:00:00 -0500
 time: 7pm
 button:
   text: REGISTER HERE
-  link: https://forms.gle/1nTtQ7o2F8nEP1MW6
+  link: ''
   visible: false
 location:
   name: ''
@@ -12,13 +12,12 @@ location:
   city: ''
   state: ''
   zip: ''
-published: false
 
 ---
-#### Early registration is full!  Check back to register on Wednesday, February 2nd, at 7pm!
+#### 
 
-Early Registration for returning players opened on **Wednesday, January 26, at 7pm** for the Spring 2022 season (Season XXII), which runs from mid-March to late May.
+Earlybird Registration for returning players opens on **Wednesday, January 18th at 7 PM** for the Spring 2023 season (Season XXIV), which will run from March to late May. At that time, players should refresh the registration link on the website banner until the form is active.
 
-**_This early registration is limited to 100 returning players_ and filled up in less than 3 hours!** - if you missed out, don't delay and register immediately when regular registration opens at 7pm on February 2nd to secure your spot!  New players should sign up at that time!
+This registration period is limited to 100 slots for returning players. Once all the slots are filled, registration will close temporarily and will not reopen until Regular Registration opens at 7 PM on Wednesday, January 25th. New players may begin registering at that time!
 
-Don't miss out - [sign up for our mailing list to get notified](http://eepurl.com/c9JkQz) when registration opens!
+**_Earlybird Registration typically fills up within an hour, so register promptly at 7 PM to secure your spot!_**
