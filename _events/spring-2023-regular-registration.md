@@ -14,7 +14,7 @@ location:
   zip: ''
 
 ---
-Mark your calendars - Regular Registration for ALL players (both NEW and RETURNING players who didn't sign up during early registration) will open on **Wednesday, January 25th at 7 PM!** At that time, refresh the registration link until the form is active. This will register you for the Spring 2023 season (Season XXIV), which runs from March to late May.
+Mark your calendars - Regular Registration for ALL players (both NEW and RETURNING players who didn't sign up during early registration) will open on **Wednesday, January 25th at 7 PM!** At that time, refresh the registration link on the website banner until the form is active. This will register you for the Spring 2023 season (Season XXIV), which runs from March to late May.
 
 _Registration fills up fast_ - early registration typically fills up in less than an hour! So don't delay, register immediately at 7pm to secure your spot!  Don't miss out - [sign up for our mailing list to get notified](http://eepurl.com/c9JkQz) of important events like registration opening!
 
