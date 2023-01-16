@@ -16,9 +16,9 @@ This registration period is limited to 100 slots for returning players. Once all
 
 ##### REGULAR REGISTRATION:
 
-Regular Registration for ALL players, including new players, will open on **Wednesday, January 25th, at 7 PM**.  If you haven't played in the DCGFFL previously or if you're a returning player who missed out on the earlybird slots, come back and sign up then! 
+Regular Registration for ALL players, including new players, will open on **Wednesday, January 25th, at 7 PM**.  If you haven't played in the DCGFFL previously or if you're a returning player who missed out on the earlybird slots, come back and sign up then!
 
-Again, don't delay - register immediately at 7 PM to secure your spot and avoid the waitlist! We do our best to place everyone who registers on a team, but we cannot guarantee that we will have space to add everyone from the waitlist.
+_Registration fills up fast_. **Regular Registration will remain open until Monday, February 6th at 7 PM**, but don't delay! Register immediately at 7 PM to secure your spot and avoid the waitlist! We do our best to place everyone who registers on a team, but we cannot guarantee that we will have space to add everyone from the waitlist.
 
 ##### NEW PLAYERS:
 
