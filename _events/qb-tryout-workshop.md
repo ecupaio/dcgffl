@@ -25,5 +25,5 @@ Come prepared to demonstrate your ability to:
 
 Returning QBs and prospective captains are invited to attend and participate in the workshop as well.
 
-Makeup Date: Sunday, February 5th - 1 PM at Carter Barron Fields  
+**_Rain Makeup Date_**: Sunday, February 5th - 1 PM at Carter Barron Fields  
 The makeup date will only be used if inclement weather requires postponement of the tryout on February 4th.
