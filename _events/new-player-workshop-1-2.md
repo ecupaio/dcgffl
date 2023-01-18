@@ -21,6 +21,6 @@ Please note that if you have not played in the DCGFFL before, you MUST attend at
 
 This is NOT a tryout, just a way for us to make sure teams are picked fairly! If you registered on time, paid the registration fee, and show up to a workshop, you’ll get on a team. You only need to attend ONE of the two workshops to be eligible. We’ll also try to get as many people off the waitlist as possible, so if you are a waitlisted new player, be sure to come!
 
-[**New Player Workshop #2**](/s24-npw-2 "/s24-npw-2") **will be held on Wednesday, February 15 at 8 PM at Edgewood Recreation Center.**
+**As another option,** [**New Player Workshop #2**](/s24-npw-2 "/s24-npw-2") **will be held on Wednesday, February 15 at 8 PM at Edgewood Recreation Center.**
 
 **_Rain Makeup Date:_** If New Player Workshop #1 or #2 is cancelled due to weather or another unforeseen circumstance, we will hold a makeup workshop on Tuesday, February 21 at 8 PM at Brentwood Hamilton Field. **_This rain makeup date will only be used if one of the regularly scheduled dates is cancelled._**
