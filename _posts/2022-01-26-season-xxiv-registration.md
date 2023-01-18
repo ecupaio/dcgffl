@@ -8,6 +8,8 @@ attachments: []
 
 Season XXIV (Spring 2023) of the DCGFFL will run from March to May, and registration will occur over the next few weeks!
 
+![](/img/image-1-14-23-at-6-17-pm.jpeg)
+
 ##### EARLYBIRD REGISTRATION:
 
 Earlybird Registration opens **Wednesday, January 18th at 7 PM**. At that time, players should refresh the registration link on the website banner until the form is active.
