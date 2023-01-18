@@ -4,15 +4,15 @@ button:
   text: ''
   link: ''
 title: 'New Player Workshop #2'
-permalink: "/s24-npw-1"
-date: 2023-02-12 13:00:00 -0500
-time: 1 PM
+permalink: "/s24-npw-2"
+date: 2023-02-15 20:00:00 -0500
+time: 8 PM
 location:
-  name: Carter Barron Soccer Fields
-  address: 1698 Kennedy St NW
+  name: Edgewood Recreation Center
+  address: 300 Evarts St NE
   city: Washington
   state: DC
-  zip: 20011
+  zip: 20002
 published: false
 
 ---
