@@ -12,8 +12,8 @@ Save the date for Season 24 games and key events!
 * **February 4 (Sat)** - [QB Tryout/Workshop](/s24-qb-tryout/ "/s24-qb-tryout/") (Carter Barron Soccer Fields)
 * **February 6 (Mon)** - Registration closes at 7 PM
 * **TBA** - Captain/QB Pairing
-* **February 12 (Sun)** - [New Player Workshop #1](/s24-npw-1 "/s24-npw-1") (Carter Barron Soccer Fields)
-* **TBA** - New Player Workshop #2
+* **February 12 (Sun)** - [New Player Workshop #1](/s24-npw-1 "/s24-npw-1") (1 PM at Carter Barron Soccer Fields)
+* **February 15 (Wed)** - [New Player Workshop #2](/s24-npw-2 "/s24-npw-2") (8 PM at Edgewood Recreation Center)
 * **February 22 (Wed)** - Draft (7 PM at Pitchers)
 * **February 23 (Thu)** - [Team Announcement Party](/tap-season-24/) (TAP; 7 PM at Pitchers)
 * **February 25-26 (Sat/Sun)** - Team Practice/Scrimmage Weekend
@@ -33,7 +33,7 @@ Save the date for Season 24 games and key events!
 
 All Sunday games will be played at the Carter Barron Soccer Fields.
 
-Captain/QB Pairing and a second New Player Workshop will take place between registration closure and the draft. Exact dates and location will be announced in the coming weeks once they are confirmed.
+Captain/QB Pairing will take place between registration closure and the draft. Exact dates and location will be announced in the coming weeks once they are confirmed.
 
 \*Rain Makeup Date: At the start of the season, no games will be scheduled for April 30th. Games will be rescheduled for this date if inclement weather requires postponement of games earlier in the season. Absence from rescheduled games would not count against players for the playoff eligibility attendance requirement.
 
