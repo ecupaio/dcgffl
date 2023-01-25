@@ -4,9 +4,13 @@ title: Season XXIV Registration
 attachments: []
 
 ---
-### Season XXIV Registration Opens Soon!
+### Season XXIV Registration Opens at 7 PM!
 
 Season XXIV (Spring 2023) of the DCGFFL will run from March to May, and registration will occur over the next few weeks!
+
+[**Sunday League Registration Form**](https://forms.gle/kawfkD5S33Y4aAzi7 "https://forms.gle/kawfkD5S33Y4aAzi7")**  
+**[**Women's+ Division Registration Form**](https://forms.gle/tuSJY512jv4bRHzg8 "https://forms.gle/tuSJY512jv4bRHzg8")**  
+**[**Forever Family Registration Form**](https://forms.gle/q8QmktnS1Pcya4A37 "https://forms.gle/q8QmktnS1Pcya4A37")
 
 ![](/img/image-1-14-23-at-6-17-pm.jpeg)
 
