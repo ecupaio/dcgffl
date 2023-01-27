@@ -4,7 +4,7 @@ button:
   text: ''
   link: ''
 title: Ref Clinic - Spring 2023
-permalink: "/refclinic-s23/"
+permalink: "/refclinic-s24/"
 date: 2023-02-28 19:00:00 -0500
 time: 7 PM
 location:
