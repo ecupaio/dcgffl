@@ -17,7 +17,7 @@ Save the date for Season 24 games and key events!
 * **February 22 (Wed)** - Draft (7 PM at Pitchers)
 * **February 23 (Thu)** - [Team Announcement Party](/tap-season-24/) (TAP; 7 PM at Pitchers)
 * **February 25-26 (Sat/Sun)** - Team Practice/Scrimmage Weekend
-* **TBA** - Referee Clinic
+* **February 28 (Tue)** - [Referee Clinic]() (7 PM at Dirty Goose)
 * **March 5** **(Sun)** - Week 1 Games
 * **March 12 (Sun)** - Week 2 Games
 * **March 19 (Sun)** - Week 3 Games
