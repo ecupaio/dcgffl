@@ -45,7 +45,7 @@ Generals – Marvin Washington
 Admirals – Bryan Sanders  
 Commanders – Clay Arnold
 
-Independent Member and Committee Chair – Brandon Waggoner  
+Independent Member and Committee Chair – Kevin Smiffy  
 DCGFFL Liaison – Patrick Barboun
 
 Any questions on the travel program can be directed to the TMC at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
