@@ -9,7 +9,7 @@ Save the date for Season 24 games and key events!
 
 * **January 18 (Wed)** - Earlybird registration **_opens at 7 PM_** (limited to 100 slots for returning players)
 * **January 25 (Wed)** - Regular registration **_opens at 7 PM_** for both new and returning players
-* **February 4 (Sat)** - [QB Tryout/Workshop](/s24-qb-tryout/ "/s24-qb-tryout/") (Carter Barron Soccer Fields)
+* **February 5 (Sun)** - [QB Tryout/Workshop](/s24-qb-tryout/ "/s24-qb-tryout/") (Edgewood Recreation Center - **NEW DATE/LOCATION**)
 * **February 6 (Mon)** - Registration closes at 7 PM
 * **February 9 (Thu)** - Captain/QB Pairing (7 PM at Shaw's Tavern)
 * **February 12 (Sun)** - [New Player Workshop #1](/s24-npw-1 "/s24-npw-1") (1 PM at Carter Barron Soccer Fields)
