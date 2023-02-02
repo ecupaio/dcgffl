@@ -15,6 +15,8 @@ location:
   zip: 20002
 
 ---
+**_NOTE: Date and location have been changed to our makeup date due to a scheduling conflict and less favorable weather on Saturday._**
+
 If you registered as a prospective quarterback and have not previously played quarterback during a regular season of the DCGFFL, you're required to attend the QB Tryout to be eligible for selection as QB.
 
 Come prepared to demonstrate your ability to:
@@ -25,5 +27,5 @@ Come prepared to demonstrate your ability to:
 
 Returning QBs and prospective captains are invited to attend and participate in the workshop as well.
 
-**_Rain Makeup Date_**: Sunday, February 5th - 1 PM at Carter Barron Fields  
+**_Rain Makeup Date_**: Sunday, February 5th - 1 PM at Edgewood Recreation Center  
 The makeup date will only be used if inclement weather requires postponement of the tryout on February 4th.
