@@ -4,7 +4,7 @@ title: Season XXIV Registration
 attachments: []
 
 ---
-### Season XXIV Registration Opens at 7 PM!
+### Season XXIV Registration
 
 Season XXIV (Spring 2023) of the DCGFFL will run from March to May, and registration will occur over the next few weeks!
 
