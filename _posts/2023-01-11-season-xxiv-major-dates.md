@@ -14,7 +14,7 @@ Save the date for Season 24 games and key events!
 * **February 9 (Thu)** - Captain/QB Pairing (7 PM at Shaw's Tavern)
 * **February 12 (Sun)** - [New Player Workshop #1](/s24-npw-1 "/s24-npw-1") (1 PM at Carter Barron Soccer Fields)
 * **February 15 (Wed)** - [New Player Workshop #2](/s24-npw-2 "/s24-npw-2") (8 PM at Edgewood Recreation Center)
-* **February 22 (Wed)** - Draft (7 PM at Pitchers)
+* **February 22 (Wed)** - Draft (7 PM at Location TBD)
 * **February 23 (Thu)** - [Team Announcement Party](/tap-season-24/) (TAP; 7 PM at Pitchers)
 * **February 25-26 (Sat/Sun)** - Team Practice/Scrimmage Weekend
 * **February 28 (Tue)** - [Referee Clinic](/refclinic-s24/ "/refclinic-s24/") (7 PM at Dirty Goose)
