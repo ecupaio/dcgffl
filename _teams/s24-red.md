@@ -4,9 +4,20 @@ name: ''
 color: Red
 season: 24
 photo: ''
-captain: Tracy
-quarterback: Andrew
-members: []
+captain: Tracy S.
+quarterback: Andrew Aldrian
+members:
+- Patrick Barboun
+- JC Chiuco
+- Charles D.
+- Nathaniel G.
+- Andrew Gordon
+- Ja'Bree H.
+- JP Hooth
+- Sean Karson
+- Alex Kizer
+- Marek Malysa
+- Stephen S.
 division: Kiki
 published: false
 
