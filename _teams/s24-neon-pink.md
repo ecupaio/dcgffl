@@ -4,9 +4,20 @@ name: ''
 color: Neon Pink
 season: 24
 photo: ''
-captain: Derrick
-quarterback: Cameron
-members: []
+captain: Derrick Johnson
+quarterback: Cameron M.
+members:
+- Luke B.
+- Elizabeth B.
+- Noah Cosimano
+- Nikki Kasparek
+- Guyton M.
+- Zach M.
+- Johnny Moseman
+- Tiger Ricchetti
+- Chuck Roth
+- Ryan Veissman
+- Larry W.
 division: Dirty Goose
 published: false
 
