@@ -7,6 +7,15 @@ photo: ''
 captain: Levert James
 quarterback: AJ Reust
 members:
+- Fatima A.
+- Aaron Beck
+- Liam D.
+- Dylan Dellisanti
+- Brian Donohoe
+- Andrew Hoyler
+- Leo Lutz
+- Andy S.
+- Alex V.
 - Connor Wilson
 - Gideon Yeager
 division: Kiki
