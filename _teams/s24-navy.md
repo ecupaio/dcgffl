@@ -4,9 +4,20 @@ name: ''
 color: Navy
 season: 24
 photo: ''
-captain: Jay
-quarterback: Matt
-members: []
+captain: Jay M.
+quarterback: Matt Cline
+members:
+- Andy Allen
+- Chris B.
+- Cam Burrell
+- Alex E.
+- Lindsey H.
+- Kenny J.
+- Okan Koc
+- Matt Nix
+- Andrew Packey
+- Bradley S.
+- Randy Snight
 division: Kiki
 published: false
 
