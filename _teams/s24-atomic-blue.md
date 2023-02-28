@@ -4,8 +4,8 @@ name: ''
 color: Atomic Blue
 season: 24
 photo: ''
-captain: Levert
-quarterback: AJ
+captain: Levert James
+quarterback: AJ Reust
 members: []
 division: Kiki
 published: false
