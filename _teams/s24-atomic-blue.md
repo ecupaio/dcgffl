@@ -6,7 +6,9 @@ season: 24
 photo: ''
 captain: Levert James
 quarterback: AJ Reust
-members: []
+members:
+- Connor Wilson
+- Gideon Yeager
 division: Kiki
 published: false
 
