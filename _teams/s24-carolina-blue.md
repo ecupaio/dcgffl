@@ -4,8 +4,8 @@ name: ''
 color: Carolina Blue
 season: 24
 photo: ''
-captain: ''
-quarterback: ''
+captain: Matt
+quarterback: Wyatt
 members: []
 division: Kiki
 published: false
