@@ -4,9 +4,19 @@ name: ''
 color: Kelly Green
 season: 24
 photo: ''
-captain: Mike
-quarterback: Jim
-members: []
+captain: Mike Osorio
+quarterback: Jim Connolly
+members:
+- Luis Cotto
+- Joshua Curtis
+- Cody Griffith
+- JJ J.
+- Adam Maisel
+- Jeff M.
+- Joe Platte
+- Nick W.
+- Larry W.
+- Chris Wooley
 division: Kiki
 published: false
 
