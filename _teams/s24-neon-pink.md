@@ -3,7 +3,7 @@ title: S24 - Neon Pink
 name: ''
 color: Neon Pink
 season: 24
-photo: ''
+photo: "/img/team-pink.jpg"
 captain: Derrick Johnson
 quarterback: Cameron M.
 members:
