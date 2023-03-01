@@ -19,6 +19,5 @@ members:
 - Adam Vavrek
 - Justin W.
 division: Dirty Goose
-published: false
 
 ---

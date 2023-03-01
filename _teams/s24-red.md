@@ -19,6 +19,5 @@ members:
 - Marek Malysa
 - Stephen S.
 division: Kiki
-published: false
 
 ---

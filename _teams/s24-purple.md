@@ -19,6 +19,5 @@ members:
 - Mike W.
 - Ryan Winter
 division: Dirty Goose
-published: false
 
 ---
