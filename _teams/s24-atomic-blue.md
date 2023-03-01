@@ -19,6 +19,5 @@ members:
 - Connor Wilson
 - Gideon Yeager
 division: Kiki
-published: false
 
 ---

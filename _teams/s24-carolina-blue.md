@@ -19,6 +19,5 @@ members:
 - Kent T.
 - Juan V.
 division: Kiki
-published: false
 
 ---
