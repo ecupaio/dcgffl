@@ -3,7 +3,7 @@ title: S24 - Carolina Blue
 name: ''
 color: Carolina Blue
 season: 24
-photo: ''
+photo: "/img/team-carolina-blue.jpg"
 captain: Matt H.
 quarterback: Wyatt Eck
 members:
