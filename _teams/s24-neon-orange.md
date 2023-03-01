@@ -3,7 +3,7 @@ title: S24 - Neon Orange
 name: ''
 color: Neon Orange
 season: 24
-photo: ''
+photo: "/img/team-orange.jpg"
 captain: Kat R.
 quarterback: Ben McEvoy
 members:
