@@ -3,7 +3,7 @@ title: S24 - Gold
 name: ''
 color: Gold
 season: 24
-photo: ''
+photo: "/img/team-gold.jpg"
 captain: Jorge Membreño
 quarterback: Brian Hotchkiss
 members:
