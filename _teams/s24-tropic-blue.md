@@ -3,7 +3,7 @@ title: S24 - Tropic Blue
 name: ''
 color: Tropic Blue
 season: 24
-photo: ''
+photo: "/img/team-tropic-blue.jpg"
 captain: Mark Hofberg
 quarterback: Ben Hunt
 members:
