@@ -3,7 +3,7 @@ title: S24 - Silver
 name: ''
 color: Silver
 season: 24
-photo: ''
+photo: "/img/team-silver.jpg"
 captain: Jens Piferoen
 quarterback: Garrett Schiponi
 members:
