@@ -19,6 +19,5 @@ members:
 - Everett W.
 - Marvin Washington
 division: Dirty Goose
-published: false
 
 ---

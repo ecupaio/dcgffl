@@ -19,6 +19,5 @@ members:
 - Aaron Ross
 - Diego Urena
 division: Kiki
-published: false
 
 ---

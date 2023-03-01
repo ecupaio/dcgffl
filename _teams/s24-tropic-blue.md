@@ -19,6 +19,5 @@ members:
 - Tony Smith
 - Jeremey Steslicki
 division: Dirty Goose
-published: false
 
 ---
