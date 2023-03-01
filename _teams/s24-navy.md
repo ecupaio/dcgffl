@@ -3,7 +3,7 @@ title: S24 - Navy
 name: ''
 color: Navy
 season: 24
-photo: ''
+photo: "/img/team-navy.jpg"
 captain: Jay M.
 quarterback: Matt Cline
 members:
