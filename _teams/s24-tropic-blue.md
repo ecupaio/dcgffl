@@ -4,9 +4,20 @@ name: ''
 color: Tropic Blue
 season: 24
 photo: ''
-captain: Mark
-quarterback: Ben
-members: []
+captain: Mark Hofberg
+quarterback: Ben Hunt
+members:
+- Daniel B.
+- Divante Brown
+- Joe Glover
+- Kevin Hooker
+- Benny Kniseley
+- Thomas L.
+- Latreese L.
+- Jordan Myles
+- Shakka P.
+- Tony Smith
+- Jeremey Steslicki
 division: Dirty Goose
 published: false
 
