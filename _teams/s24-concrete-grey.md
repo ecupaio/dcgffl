@@ -19,6 +19,5 @@ members:
 - Linda Pratt
 - Bradley W.
 division: Kiki
-published: false
 
 ---

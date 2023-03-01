@@ -19,6 +19,5 @@ members:
 - Sherrie R.
 - Paul Whitney
 division: Kiki
-published: false
 
 ---

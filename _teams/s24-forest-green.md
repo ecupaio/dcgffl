@@ -19,6 +19,5 @@ members:
 - Camille Thompson
 - Blake Whetzel
 division: Dirty Goose
-published: false
 
 ---

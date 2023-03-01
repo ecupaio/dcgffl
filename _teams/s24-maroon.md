@@ -19,6 +19,5 @@ members:
 - Ivan Torres
 - Merrill W.
 division: Dirty Goose
-published: false
 
 ---

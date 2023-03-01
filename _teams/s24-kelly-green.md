@@ -18,6 +18,5 @@ members:
 - Larry W.
 - Chris Wooley
 division: Kiki
-published: false
 
 ---
