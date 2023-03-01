@@ -3,7 +3,7 @@ title: S24 - Kelly Green
 name: ''
 color: Kelly Green
 season: 24
-photo: ''
+photo: "/img/team-kelly-green.jpg"
 captain: Mike Osorio
 quarterback: Jim Connolly
 members:
