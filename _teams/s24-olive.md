@@ -19,6 +19,5 @@ members:
 - Lamar Riotta-Rogers
 - Ashley S.
 division: Kiki
-published: false
 
 ---

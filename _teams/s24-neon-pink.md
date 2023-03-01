@@ -19,6 +19,5 @@ members:
 - Ryan Veissman
 - Larry W.
 division: Dirty Goose
-published: false
 
 ---

@@ -19,6 +19,5 @@ members:
 - Kevin M.
 - Chris Riotta-Rogers
 division: Dirty Goose
-published: false
 
 ---

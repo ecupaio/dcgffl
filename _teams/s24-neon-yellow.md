@@ -19,6 +19,5 @@ members:
 - Kyle Oliver
 - Jeff R.
 division: Dirty Goose
-published: false
 
 ---

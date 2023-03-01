@@ -19,6 +19,5 @@ members:
 - Bradley S.
 - Randy Snight
 division: Kiki
-published: false
 
 ---
