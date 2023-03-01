@@ -3,7 +3,7 @@ title: S24 - Neon Yellow
 name: ''
 color: Neon Yellow
 season: 24
-photo: ''
+photo: "/img/team-yellow.jpg"
 captain: Michael Bromell
 quarterback: Daniel D.
 members:
