@@ -3,7 +3,7 @@ title: S24 - Royal Blue
 name: ''
 color: Royal Blue
 season: 24
-photo: ''
+photo: "/img/team-royal.jpg"
 captain: Bryan Sanders
 quarterback: Brandon Waggoner
 members:
