@@ -71,6 +71,7 @@ fields:
   name: sportsperson
   label: Sportsperson
 pages:
+- _games/s1-women-s-week-1-black-vs-blue.md
 - _games/s1-women-s-week-1-purple-vs-red.md
 - _games/s19-slab-on-my-knab-concrete-grey-vs-sour-pass-kids-lime.md
 - _games/s19-tropic-like-it-s-hot-tropic-blue-vs-s19-fancy-gay-pirates-carolina-blue.md
