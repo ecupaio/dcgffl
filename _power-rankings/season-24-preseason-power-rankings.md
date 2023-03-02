@@ -1,19 +1,19 @@
 ---
 date: 2023-03-02 16:07:44 -0500
 title: 'Season 24 Power Rankings: Preseason'
-author: 'Aaron Sayama - Well, footballers, the long wait is over and we’re set to
-  meet on Sunday! First games are on at 9am! But a lot has happened since we last
-  met:  For the straights—Avatar came back into theaters.   But for us queer-identified
-  folks? Well, M3GAN became the gay icon and on-screen representation we so desperately
-  needed; Ariana DeBose delivered HIGH camp at the BAFTAs; Anetra on Drag Race taught
-  us that we need to spell our names using the number of letters and vowels; it became
-  clear that (fictional) lesbian icon Lydia Tár should be in jail; and, Rihanna gave
-  us nothing and everything during the Super Bowl while confirming that we are most
-  definitely not getting the album.   At this point, you’ve been to TAP, you’ve met
-  your teammates, you’ve maybe practiced with them, and you’ve gotten the sense that
-  the GroupMe is either going to be super fun or a snooze. As you get ready for Sunday,
-  you take a look at your schedule and begin to wonder about the competition. Well,
-  let’s look at these preseason rankings!'
+author: 'Aaron S. - Well, footballers, the long wait is over and we’re set to meet
+  on Sunday! First games are on at 9am! But a lot has happened since we last met:  For
+  the straights—Avatar came back into theaters.   But for us queer-identified folks?
+  Well, M3GAN became the gay icon and on-screen representation we so desperately needed;
+  Ariana DeBose delivered HIGH camp at the BAFTAs; Anetra on Drag Race taught us that
+  we need to spell our names using the number of letters and vowels; it became clear
+  that (fictional) lesbian icon Lydia Tár should be in jail; and, Rihanna gave us
+  nothing and everything during the Super Bowl while confirming that we are most definitely
+  not getting the album.   At this point, you’ve been to TAP, you’ve met your teammates,
+  you’ve maybe practiced with them, and you’ve gotten the sense that the GroupMe is
+  either going to be super fun or a snooze. As you get ready for Sunday, you take
+  a look at your schedule and begin to wonder about the competition. Well, let’s look
+  at these preseason rankings!'
 season: 24
 week: 0
 rankings:
@@ -24,19 +24,19 @@ rankings:
     ![](https://lh3.googleusercontent.com/aybC6hKboTLVS6N1GhWcJUcLHKDD_AsD6MmHi_RPZBcxe-grEZpOlkyPYE8R_bzJrTMbxL7iPhQNeOYgnTFVleeFfMNb3FZR1lPMo_MIVTy8tfSIXwgF5SU9lXOuk6V6vRieYAnspkiDciHmWWjNQvw =196x214)
   record: Mark Hofberg and Ben Hunt
 - team: _teams/s24-white.md
-  record: Twon Hines and JC Adams
+  record: Twon H. and JC Adams
   text: |-
     JC is going to have figure out an offensive scheme and really stick with it, but I think he’s got a good coach and mentor in Twon. The D on this team is going to be tight and tough to penetrate. Of course, the real question is whether or not JC/Noah survive this season—it’s certainly a choice to draft your boyfriend! But with Noah AND Munroe on this team, who is going to watch Kal when White takes the field?
 
     ![](https://lh3.googleusercontent.com/R2OQzIV6-3IGWuGjVSippbcAOnY5crJgGfl_lhA2UojTvVrdMjza7Wo4yhDxGmrvaDO26qXBBDkmGXBALTSuNaD5pZG1hhQbhQJooLFh72RyoWjc-QtmnkAN_ieTM7PX6RI8HAZVLLmB-xjDdthMfZ4 =220x197)
 - team: _teams/s24-concrete-grey.md
-  record: Tom Loughran and Daniel Honeycutt
+  record: Tom L. and Daniel H.
   text: |-
     I’m going out on a limb here and calling Concrete Grey a Top 3 team. Admittedly, Honeycutt as QB is a bit of a wild card, and he’s been out of the game for a minute, but wow is this team stacked. Jared, Kevin, Bradley, and Linda know exactly what they’re doing out there, and I definitely don’t want to meet this team at full strength. No matter how they do this season, though, I bet they’ll be drinking for free at Dirty Goose.
 
     ![](https://lh4.googleusercontent.com/YmckDAZcHdaAp9fypSboL3b8VEmYXTjVYy6x6pBus3IR2IhttbmUgw9TYMVePKHcGU5FzAT7ZJnjFlk2ZTNzpCEhmqXfVNrQZgCauMNaBkMCb17jWSOVAc-ofasUt7OM24i8KaVz6Wt7fgmaBXwV_c8 =331x188)
 - team: _teams/s24-neon-pink.md
-  record: Derrick Johnson and Cam MacPherson
+  record: Derrick Johnson and Cam M.
   text: |-
     Cam can make even the most novice of receivers look like stars on the field. That said, he’s just going to throw to Nikki, and there’s no reason not to. The real tea, though, is that this is going to be Team Sunday Funday.
 
@@ -54,7 +54,7 @@ rankings:
 
     ![](https://lh6.googleusercontent.com/gAzQs7j_OOa5BcolfEgBff9Zy3KkkHpVLPqm02NuvvCevK9-W8IRUiHIVXOE4a2XpE1Bpv8p1zybn-xGG8FF4T-JKP8Mg4jMcBwg6CLmulKjnDRWJKpXMA7chxdpKmaHidsrqKi67EuJmKvHvSLVSuM =319x227)
 - team: _teams/s24-maroon.md
-  record: Oliver Jacob and Andy Pratt
+  record: Oliver J. and Andy Pratt
   text: |-
     Yes, a very adequate team will take the field. They will win (some) games. Not sure about much else, though.
 
@@ -66,7 +66,7 @@ rankings:
 
     ![](https://lh5.googleusercontent.com/uwnmsTOOv3VipyJyJg0V2YF_qWlM3-e6RkeRnRuQ4U27r32u6FIUHVOeziPyJVqOzppwUR8uznoEn0xMmf-8JLekUSQeKMP9TkU8vCYavaVeeX3dytSMpEK2ctoCMwhu694R3fQIkGUeLEwmC5Zc50o =480x198)
 - team: _teams/s24-carolina-blue.md
-  record: Matt Hamblin and Wyatt Eck
+  record: Matt H. and Wyatt Eck
   text: |-
     Nothing confirmed, but this team might be a bit of a dark horse this season. I’ve heard some grumblings about this Captain/QB draft placement and that some players…might have undersold themselves. Fully hope Wyatt is dangling invites to future vacations based on performance!
 
@@ -84,7 +84,7 @@ rankings:
 
     ![](https://lh5.googleusercontent.com/MyLGauAADSMO16_rTgCwSLwAyx35Yhw2726B2LEZqTxc-lNVNWh6Mu0p7GNIUMLDD12jWds8S_3jO8Ei-zBuCobkzlcEW84UlABZ4qIl-0s6Mua5Rg7V4JQuV5EbgCPq4-iNlI2AqQQp__-n9FFKGNs =302x176)
 - team: _teams/s24-neon-orange.md
-  record: Kat Rosenthal and Ben McAvoy
+  record: Kat R. and Ben McAvoy
   text: |-
     Goodness there are a lot of personalities on this roster. I would watch a season of “Hard Knocks” featuring this team, though.
 
@@ -96,7 +96,7 @@ rankings:
 
     ![](https://lh6.googleusercontent.com/-eCSq9nhHgAazlKpfyRzS5lRsbqIx-O-IH0W85mjsv5LBKronJFp3CRMMwxFABb8dw6SskFyEzFN5aZvFYUfFBmNT9Yel2-OynmbqLxBzYn96D1_UGUEgI3kICCVwQTc8VJEOQmfCML9BGhD_ufXhgQ =316x177)
 - team: _teams/s24-red.md
-  record: Tracy Smith and Andrew Aldrian
+  record: Tracy S. and Andrew Aldrian
   text: |-
     I poured over this roster and could find nothing cohesive here. Not sure that bodes well for the rest of the season.
 
@@ -108,13 +108,13 @@ rankings:
 
     ![](https://lh5.googleusercontent.com/ISM4QLYzXUDufS2yMbNqtIq_gVV3XNJk13EFltUNty-Lxsc4gH5x2sw3OTJYmqCOoEWiTFl6CfnHUo4U0wI8Dl8QcpKbEOga9pya-dwiP8fi5BusPV4QnlXyBCJl28XdPL1yvdqSkmrNqKtOwUpgBag =218x226)
 - team: _teams/s24-navy.md
-  record: Jay Maroney and Matt Cline
+  record: Jay M. and Matt Cline
   text: |-
     Really just going to watch these games to see if the number of penalties Cam gets this season is over or under the amount of words we hear from Andy and Kenny combined.
 
     ![](https://lh6.googleusercontent.com/PQNOT69b1aggLsODBDQDkblLj966gbfy4X7jdYItaEggEtXUqaHgkevcksl1T5wtF-AkuwUhu_ndIKUsrUeIQIq9OYkVWMKHPReXl5X_vVmyey34b6BxijPHOtIVy55F9hrROWnbs8SLveR7DNVZ11E =268x203)
 - team: _teams/s24-neon-yellow.md
-  record: Michael Bromell and Daniel Dorsey
+  record: Michael Bromell and Daniel D.
   text: |-
     I hear Michael is captaining an undefeated team in the DC Gay Basketball League. Hope he’s lowered his expectations for this experience!
 
