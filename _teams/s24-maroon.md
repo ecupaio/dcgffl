@@ -3,7 +3,7 @@ title: S24 - Maroon
 name: ''
 color: Maroon
 season: 24
-photo: ''
+photo: "/img/maroon-team-pic.jpg"
 captain: Oliver J.
 quarterback: Andy Pratt
 members:
