@@ -125,6 +125,5 @@ rankings:
     This is the leadership duo that took the DC Warriors down to Florida to go 1-5. That W was a forfeit, but, hey, a stat is a stat is a stat. They can only go up from here!
 
     ![](https://lh5.googleusercontent.com/ZAhO24L_57bEFerqaZL7ciF5YYcAhn7yr-xASkbWix0k_sAZ-zABRlTBiiKVI635JMAA-IoowwYROXQlDeCMoClyvVHGoaDZ7xWxTelD4ua1Z-zUgZnpoqc6yKX9P0JJzGO20mIbFpDPT6YIvZ31zRI =308x173)
-published: false
 
 ---
