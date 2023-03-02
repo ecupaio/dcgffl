@@ -3,7 +3,7 @@ title: S24 - White
 name: ''
 color: White
 season: 24
-photo: ''
+photo: "/img/white-team-pic.jpg"
 captain: Twon H.
 quarterback: JC Adams
 members:
