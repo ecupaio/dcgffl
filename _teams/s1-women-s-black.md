@@ -1,13 +1,12 @@
 ---
 title: S1 Women's+ - Black
 name: ''
-color: Blue
+color: Black
 season: 24
 photo: ''
-captain: Christine H
-quarterback: Emily B
+captain: Kori S
+quarterback: Kristin L
 members: []
 division: Women's+
-published: false
 
 ---
