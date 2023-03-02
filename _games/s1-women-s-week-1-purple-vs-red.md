@@ -9,7 +9,7 @@ teams-score:
 field: "2"
 date: 2023-03-10 19:00:00 -0500
 season: 24
-week: 1
+week: 2
 mvp: ''
 game-ball: ''
 sportsperson: ''
