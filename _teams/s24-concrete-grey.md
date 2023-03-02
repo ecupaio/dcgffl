@@ -3,7 +3,7 @@ title: S24 - Concrete Grey
 name: ''
 color: Concrete Grey
 season: 24
-photo: ''
+photo: "/img/concrete-grey-team-pic.jpg"
 captain: Tom L.
 quarterback: Daniel H.
 members:
