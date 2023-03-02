@@ -3,7 +3,7 @@ title: S24 - Olive
 name: ''
 color: Olive
 season: 24
-photo: ''
+photo: "/img/olive-team-pic.jpg"
 captain: Tony Britford
 quarterback: Malcolm Warbrick
 members:
