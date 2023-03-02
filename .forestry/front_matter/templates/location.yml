@@ -20,3 +20,5 @@ fields:
 - type: number
   name: zip
   label: Zip
+pages:
+- _locations/randall-field.md
