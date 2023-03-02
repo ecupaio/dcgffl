@@ -1,5 +1,5 @@
 ---
-location: []
+location: _locations/randall-field.md
 title: S1 Women's+ Week 1 - Purple vs Red
 teams-score:
 - team: _teams/s1-women-s-purple.md
@@ -13,6 +13,5 @@ week: 1
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
