@@ -3,7 +3,7 @@ button:
   visible: true
   text: ''
   link: ''
-title: Midseason Party
+title: Season 24 Midseason Party
 date: 2022-10-20 19:00:00 -0400
 time: 7 PM
 location:
