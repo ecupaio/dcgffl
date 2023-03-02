@@ -1,5 +1,5 @@
 ---
-title: S1 Women's+ - Blue
+title: S01 Women's+ - Blue
 name: ''
 color: Blue
 season: 24

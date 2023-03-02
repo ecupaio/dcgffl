@@ -1,6 +1,6 @@
 ---
 location: _locations/randall-field.md
-title: S1 Women's+ Week 1 - Purple vs Red
+title: S01 Women's+ Week 1 - Purple vs Red
 teams-score:
 - team: _teams/s1-women-s-purple.md
   score: 
