@@ -3,7 +3,7 @@ title: S24 - Red
 name: ''
 color: Red
 season: 24
-photo: ''
+photo: "/img/red-team-pic.jpg"
 captain: Tracy S.
 quarterback: Andrew Aldrian
 members:

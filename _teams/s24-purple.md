@@ -3,7 +3,7 @@ title: S24 - Purple
 name: ''
 color: Purple
 season: 24
-photo: ''
+photo: "/img/purple-team-pic.jpg"
 captain: Jim Roll
 quarterback: Pat Shilo
 members:
