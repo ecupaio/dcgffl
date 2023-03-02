@@ -1,5 +1,5 @@
 ---
-title: S1 Women's+ - Purple
+title: S01 Women's+ - Purple
 name: ''
 color: Purple
 season: 24
