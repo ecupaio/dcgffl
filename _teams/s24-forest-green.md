@@ -3,7 +3,7 @@ title: S24 - Forest Green
 name: ''
 color: Forest Green
 season: 24
-photo: ''
+photo: "/img/forest-green-team-pic.jpg"
 captain: Evan Binder
 quarterback: Austin Plier
 members:
