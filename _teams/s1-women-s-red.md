@@ -7,6 +7,11 @@ photo: ''
 captain: Nikki Kasparek
 quarterback: Megan L.
 members:
+- Nik Battaglia
+- Britt C.
+- Sam C.
+- Gabriela DeAnda
+- Toya J.
 - Mel Malguy
 - Breanna M.-B.
 - Stephanie McDaniel
