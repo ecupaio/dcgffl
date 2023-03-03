@@ -28,6 +28,8 @@ rankings:
   text: |-
     JC is going to have figure out an offensive scheme and really stick with it, but I think he’s got a good coach and mentor in Twon. The D on this team is going to be tight and tough to penetrate. Of course, the real question is whether or not JC/Noah survive this season—it’s certainly a choice to draft your boyfriend! But with Noah AND Munroe on this team, who is going to watch Kal when White takes the field?
 
+    ![](/img/longday-cringe.gif)
+
     ![](https://media.tenor.com/9LntiB2rXBMAAAAM/longday-cringe.gif)
 - team: _teams/s24-concrete-grey.md
   record: Tom Loughran and Daniel Honeycutt
