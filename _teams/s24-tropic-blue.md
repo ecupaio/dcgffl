@@ -1,6 +1,6 @@
 ---
 title: S24 - Tropic Blue
-name: ''
+name: Tropic Blue
 color: Tropic Blue
 season: 24
 photo: "/img/team-tropic-blue.jpg"
