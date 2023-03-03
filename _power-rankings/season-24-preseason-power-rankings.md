@@ -18,10 +18,13 @@ season: 24
 week: 0
 rankings:
 - team: _teams/s24-tropic-blue.md
-  text: |-
-    Listen, I’m not happy about this either. No one is excited to start another season with Ben H. atop the rankings, but this is a strong pairing. Neither is new to this league and both are championship winners. In fact, Ben has been in the League for 7(?) seasons and has only not made it to the Final Four once. Now that he has a strong captain who can pretty much score from anywhere and a roster that includes Steslicki, Bertram, and Tony Smith, among others, the sky’s the limit, I’m afraid.
-
-    ![](https://media.tenor.com/RE19_sZDd38AAAAC/i-hate-this-so-much-frustrated.gif)
+  text: Listen, I’m not happy about this either. No one is excited to start another
+    season with Ben H. atop the rankings, but this is a strong pairing. Neither is
+    new to this league and both are championship winners. In fact, Ben has been in
+    the League for 7(?) seasons and has only not made it to the Final Four once. Now
+    that he has a strong captain who can pretty much score from anywhere and a roster
+    that includes Steslicki, Bertram, and Tony Smith, among others, the sky’s the
+    limit, I’m afraid.
   record: Mark Hofberg and Ben Hunt
 - team: _teams/s24-white.md
   record: Twon Hines and JC Adams
