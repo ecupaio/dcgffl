@@ -1,6 +1,6 @@
 ---
 title: S24 - Kelly Green
-name: ''
+name: Mean Green Kelly Machine
 color: Kelly Green
 season: 24
 photo: "/img/team-kelly-green.jpg"
