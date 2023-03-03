@@ -4,9 +4,20 @@ name: ''
 color: Black
 season: 24
 photo: ''
-captain: Kori S
-quarterback: Kristin L
-members: []
+captain: Kori S.
+quarterback: Kristin Lynch
+members:
+- Sasha Buchert
+- Tiara C.
+- Sara Gordon
+- Lindsey H.
+- Ashley Hollander
+- Amy Kuhn
+- Nour Nadri
+- Ashley S.
+- Stacey Tiamfook
+- Jamilah W.
+- Leena W.
 division: Women's+
 
 ---
