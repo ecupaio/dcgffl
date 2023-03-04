@@ -1,6 +1,6 @@
 ---
 location: _locations/randall-field.md
-title: S01 Women's+ Week 2 - Black vs Red
+title: S01 Women's+ Week 2 - Blue vs Purple
 teams-score:
 - team: _teams/s1-women-s-black.md
   score: 
