@@ -18,6 +18,7 @@ members:
 - Chuck Roth
 - Ryan Veissman
 - Larry W.
+- Kevin Comerford (Forever Family)
 division: Dirty Goose
 
 ---
