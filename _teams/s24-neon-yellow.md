@@ -18,6 +18,7 @@ members:
 - Tyler Lewis
 - Kyle Oliver
 - Jeff R.
+- Pedro S. (Forever Family)
 division: Dirty Goose
 
 ---
