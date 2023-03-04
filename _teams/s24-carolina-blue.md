@@ -18,6 +18,7 @@ members:
 - Ron S.
 - Kent T.
 - Juan V.
+- Joey DeLuca (Forever Family)
 division: Kiki
 
 ---
