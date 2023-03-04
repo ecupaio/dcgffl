@@ -18,6 +18,7 @@ members:
 - Christopher Taste
 - Ivan Torres
 - Merrill W.
+- Amanda Dafonte (Forever Family)
 division: Dirty Goose
 
 ---
