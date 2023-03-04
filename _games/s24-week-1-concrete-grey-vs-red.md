@@ -1,5 +1,5 @@
 ---
-location: _locations/brentwood.md
+location: _locations/carter-baron.md
 title: S24 Week 1 - Concrete Grey vs Red
 teams-score:
 - team: _teams/s24-concrete-grey.md
