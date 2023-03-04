@@ -18,6 +18,7 @@ members:
 - Aaron S.
 - Camille Thompson
 - Blake Whetzel
+- Eric Green (Forever Family)
 division: Dirty Goose
 
 ---
