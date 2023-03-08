@@ -119,6 +119,5 @@ rankings:
     Concrete failed to lay the foundation for a victory as its offense and defense both cracked under the pressure in a stunning defeat. The team didn't seem to have a game plan set in stone, leaving its players feeling mixed up against their opponents. Here's hoping they can solidify a few wins over the weeks ahead, but right now it is so bad, I want to give you a zero.
 
     ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlYjllMjFkZDYwYmEwZGVhZjE5NWRiOWYxMjU3OTBmNDAyOGE3MCZjdD1n/RJ0AvNacl2ZSU/giphy.gif)
-published: false
 
 ---
