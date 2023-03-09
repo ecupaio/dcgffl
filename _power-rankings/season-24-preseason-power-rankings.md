@@ -24,19 +24,19 @@ rankings:
     ![](https://media.tenor.com/RE19_sZDd38AAAAC/i-hate-this-so-much-frustrated.gif)
   record: Mark Hofberg and Ben Hunt
 - team: _teams/s24-white.md
-  record: Twon Hines and JC Adams
+  record: Twon H. and JC Adams
   text: |-
     JC is going to have figure out an offensive scheme and really stick with it, but I think he’s got a good coach and mentor in Twon. The D on this team is going to be tight and tough to penetrate. Of course, the real question is whether or not JC/Noah survive this season—it’s certainly a choice to draft your boyfriend! But with Noah AND Munroe on this team, who is going to watch Kal when White takes the field?
 
     ![](https://media.tenor.com/9LntiB2rXBMAAAAM/longday-cringe.gif)
 - team: _teams/s24-concrete-grey.md
-  record: Tom Loughran and Daniel Honeycutt
+  record: Tom L. and Daniel H.
   text: |-
     I’m going out on a limb here and calling Concrete Grey a Top 3 team. Admittedly, Honeycutt as QB is a bit of a wild card, and he’s been out of the game for a minute, but wow is this team stacked. Jared, Kevin, Bradley, and Linda know exactly what they’re doing out there, and I definitely don’t want to meet this team at full strength. No matter how they do this season, though, I bet they’ll be drinking for free at Dirty Goose.
 
     ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JhY2ZlMTc0Njk4NjA4ZGZmNGY2MWExNmE3YTJjMDRhOGJkMmExZCZjdD1n/RCK0Pr4zSc63e/giphy.gif)
 - team: _teams/s24-neon-pink.md
-  record: Derrick Johnson and Cam MacPherson
+  record: Derrick Johnson and Cam M.
   text: |-
     Cam can make even the most novice of receivers look like stars on the field. That said, he’s just going to throw to Nikki, and there’s no reason not to. The real tea, though, is that this is going to be Team Sunday Funday.
 
@@ -54,7 +54,7 @@ rankings:
 
     ![](https://64.media.tumblr.com/1abd742413afa3837d6cb5ccdc1a05df/2694ae412b0c615b-b8/s540x810/dd4dc629afd3cead2f9c8fcfa769b62864a82b76.gif)
 - team: _teams/s24-maroon.md
-  record: Oliver Jacob and Andy Pratt
+  record: Oliver J. and Andy Pratt
   text: |-
     Yes, a very adequate team will take the field. They will win (some) games. Not sure about much else, though.
 
@@ -66,7 +66,7 @@ rankings:
 
     ![](https://media.giphy.com/media/gLINSQaqjpqko/giphy.gif)
 - team: _teams/s24-carolina-blue.md
-  record: Matt Hamblin and Wyatt Eck
+  record: Matt H. and Wyatt Eck
   text: |-
     Nothing confirmed, but this team might be a bit of a dark horse this season. I’ve heard some grumblings about this Captain/QB draft placement and that some players…might have undersold themselves. Fully hope Wyatt is dangling invites to future vacations based on performance!
 
@@ -84,7 +84,7 @@ rankings:
 
     ![](https://media.tenor.com/1roADbPL6b0AAAAC/mad-men-peggy.gif)
 - team: _teams/s24-neon-orange.md
-  record: Kat Rosenthal and Ben McAvoy
+  record: Kat R. and Ben McAvoy
   text: |-
     Goodness there are a lot of personalities on this roster. I would watch a season of “Hard Knocks” featuring this team, though.
 
@@ -96,7 +96,7 @@ rankings:
 
     ![](https://media2.giphy.com/media/l0HlUJZE8Uo1cSlUI/giphy.gif)
 - team: _teams/s24-red.md
-  record: Tracy Smith and Andrew Aldrian
+  record: Tracy S. and Andrew Aldrian
   text: |-
     I poured over this roster and could find nothing cohesive here. Not sure that bodes well for the rest of the season.
 
@@ -108,13 +108,13 @@ rankings:
 
     ![](https://thumbs.gfycat.com/PoliteGentleCanadagoose-max-1mb.gif)
 - team: _teams/s24-navy.md
-  record: Jay Maroney and Matt Cline
+  record: Jay M. and Matt Cline
   text: |-
     Really just going to watch these games to see if the number of penalties Cam gets this season is over or under the amount of words we hear from Andy and Kenny combined.
 
     ![](http://assets.sbnation.com/assets/2786751/hands-to-face.gif)
 - team: _teams/s24-neon-yellow.md
-  record: Michael Bromell and Daniel Dorsey
+  record: Michael Bromell and Daniel D.
   text: |-
     I hear Michael is captaining an undefeated team in the DC Gay Basketball League. Hope he’s lowered his expectations for this experience!
 
