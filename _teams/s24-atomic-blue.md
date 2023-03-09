@@ -1,6 +1,6 @@
 ---
 title: S24 - Atomic Blue
-name: ''
+name: Atomic Blue Villains
 color: Atomic Blue
 season: 24
 photo: "/img/team-atomic-blue.jpg"
