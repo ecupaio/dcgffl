@@ -1,6 +1,6 @@
 ---
 title: S24 - Carolina Blue
-name: ''
+name: Blue-ty Callers
 color: Carolina Blue
 season: 24
 photo: "/img/team-carolina-blue.jpg"

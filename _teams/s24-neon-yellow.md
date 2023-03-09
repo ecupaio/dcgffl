@@ -1,6 +1,6 @@
 ---
 title: S24 - Neon Yellow
-name: ''
+name: Mellow Yellow
 color: Neon Yellow
 season: 24
 photo: "/img/team-yellow.jpg"

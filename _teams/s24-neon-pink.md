@@ -1,6 +1,6 @@
 ---
 title: S24 - Neon Pink
-name: ''
+name: Pink-182
 color: Neon Pink
 season: 24
 photo: "/img/team-pink.jpg"
