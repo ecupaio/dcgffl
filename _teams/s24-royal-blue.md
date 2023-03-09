@@ -1,6 +1,6 @@
 ---
 title: S24 - Royal Blue
-name: ''
+name: Royal Tenenbottoms
 color: Royal Blue
 season: 24
 photo: "/img/team-royal.jpg"

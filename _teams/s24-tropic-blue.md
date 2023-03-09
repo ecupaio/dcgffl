@@ -1,6 +1,6 @@
 ---
 title: S24 - Tropic Blue
-name: ''
+name: Dom Trops
 color: Tropic Blue
 season: 24
 photo: "/img/team-tropic-blue.jpg"

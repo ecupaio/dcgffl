@@ -1,6 +1,6 @@
 ---
 title: S24 - Silver
-name: ''
+name: Tight-anium
 color: Silver
 season: 24
 photo: "/img/team-silver.jpg"
