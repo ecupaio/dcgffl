@@ -1,6 +1,6 @@
 ---
 title: S24 - Olive
-name: ''
+name: Pit Crew
 color: Olive
 season: 24
 photo: "/img/olive-team-pic.jpg"

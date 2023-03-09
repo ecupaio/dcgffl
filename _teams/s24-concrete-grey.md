@@ -1,6 +1,6 @@
 ---
 title: S24 - Concrete Grey
-name: ''
+name: These Grays, They're Trying to Murder Me
 color: Concrete Grey
 season: 24
 photo: "/img/concrete-grey-team-pic.jpg"
