@@ -1,6 +1,6 @@
 ---
 title: S24 - Maroon
-name: ''
+name: Diva Cups
 color: Maroon
 season: 24
 photo: "/img/maroon-team-pic.jpg"

@@ -1,6 +1,6 @@
 ---
 title: S24 - Forest Green
-name: ''
+name: Deep in the Bush
 color: Forest Green
 season: 24
 photo: "/img/forest-green-team-pic.jpg"

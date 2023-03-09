@@ -1,6 +1,6 @@
 ---
 title: S24 - White
-name: ''
+name: Daddy, Chill
 color: White
 season: 24
 photo: "/img/white-team-pic.jpg"
