@@ -1,6 +1,6 @@
 ---
 title: S24 - Navy
-name: ''
+name: Boat Stuff
 color: Navy
 season: 24
 photo: "/img/team-navy.jpg"

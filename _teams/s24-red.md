@@ -1,6 +1,6 @@
 ---
 title: S24 - Red
-name: ''
+name: Papa Cherries
 color: Red
 season: 24
 photo: "/img/red-team-pic.jpg"
