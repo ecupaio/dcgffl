@@ -1,6 +1,6 @@
 ---
 title: S24 - Neon Orange
-name: ''
+name: "Fanta-sies \U0001F351"
 color: Neon Orange
 season: 24
 photo: "/img/team-orange.jpg"
