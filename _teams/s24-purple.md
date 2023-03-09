@@ -1,6 +1,6 @@
 ---
 title: S24 - Purple
-name: ''
+name: Plumshots
 color: Purple
 season: 24
 photo: "/img/purple-team-pic.jpg"

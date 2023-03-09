@@ -1,6 +1,6 @@
 ---
 title: S24 - Gold
-name: ''
+name: Daffodilfs
 color: Gold
 season: 24
 photo: "/img/team-gold.jpg"
