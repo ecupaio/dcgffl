@@ -5,7 +5,7 @@ teams-score:
 - team: _teams/s24-neon-orange.md
   score: 13
 - team: _teams/s24-neon-pink.md
-  score: 
+  score: 20
 field: "3"
 date: 2023-03-12 12:30:00 -0400
 season: 24
