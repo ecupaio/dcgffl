@@ -3,7 +3,7 @@ location: _locations/carter-baron.md
 title: S24 Week 2 - Neon Orange vs Neon Pink
 teams-score:
 - team: _teams/s24-neon-orange.md
-  score: 
+  score: 13
 - team: _teams/s24-neon-pink.md
   score: 
 field: "3"
