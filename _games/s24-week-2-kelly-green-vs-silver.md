@@ -10,8 +10,8 @@ field: "3"
 date: 2023-03-12 10:45:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Nick W., Marvin W.
+game-ball: Luis C., Tevin M.
+sportsperson: Joshua C., Garrett S.
 
 ---
