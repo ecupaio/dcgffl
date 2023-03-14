@@ -7,7 +7,7 @@ teams-score:
 - team: _teams/s24-kelly-green.md
   score: 35
 field: "2"
-date: 2023-03-01 12:30:00 -0500
+date: 2023-03-05 12:30:00 -0500
 season: 24
 week: 1
 mvp: Adam M., Joe O.
