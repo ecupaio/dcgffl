@@ -10,8 +10,8 @@ field: "2"
 date: 2023-03-12 12:30:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Ivan T., Kevin H.
+game-ball: Derrick H., Dan K.
+sportsperson: Obie M., Kyle O.
 
 ---
