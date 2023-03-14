@@ -10,8 +10,8 @@ field: "1"
 date: 2023-03-12 10:45:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Thomas C., Jared L.
+game-ball: Ancil C., Darryl P.
+sportsperson: Wyatt E., Kevin P.
 
 ---
