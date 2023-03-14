@@ -10,8 +10,8 @@ field: "2"
 date: 2023-03-12 09:00:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Aaron B., Patrick M.
+game-ball: Andrew H., Paul G.
+sportsperson: Andy S., Malcolm W.
 
 ---
