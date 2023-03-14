@@ -10,8 +10,8 @@ field: "3"
 date: 2023-03-12 12:30:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Quinn M., Derrick J.
+game-ball: Dwaylan A., Nikki K.
+sportsperson: Kat R., Luke B.
 
 ---
