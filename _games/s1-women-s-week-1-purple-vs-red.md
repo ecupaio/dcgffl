@@ -1,5 +1,5 @@
 ---
-location: _locations/randall-field.md
+location: _locations/brentwood.md
 title: S01 Women's+ Week 1 - Purple vs Red
 teams-score:
 - team: _teams/s1-women-s-purple.md
@@ -7,9 +7,9 @@ teams-score:
 - team: _teams/s1-women-s-red.md
   score: 
 field: "2"
-date: 2023-03-10 19:00:00 -0500
+date: 2023-03-24 20:30:00 -0400
 season: 24
-week: 2
+week: 4
 mvp: ''
 game-ball: ''
 sportsperson: ''
