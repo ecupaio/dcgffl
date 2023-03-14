@@ -10,8 +10,8 @@ field: "2"
 date: 2023-03-12 10:45:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Paul W., Charles D.
+game-ball: Gino B., Sean K.
+sportsperson: Joel H., Ja'Bree H.
 
 ---
