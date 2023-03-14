@@ -1,5 +1,5 @@
 ---
-location: _locations/randall-field.md
+location: _locations/brentwood.md
 title: S01 Women's+ Week 3 - Black vs Purple
 teams-score:
 - team: _teams/s1-women-s-black.md
