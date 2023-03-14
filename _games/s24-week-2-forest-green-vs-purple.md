@@ -10,8 +10,8 @@ field: "3"
 date: 2023-03-12 09:00:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Camille T., Josh E.
+game-ball: Ed J., Ryan W.
+sportsperson: Austin P., Pat S.
 
 ---
