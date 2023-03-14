@@ -10,8 +10,8 @@ field: "1"
 date: 2023-03-12 12:30:00 -0400
 season: 24
 week: 2
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Lindsey H., Munroe B.
+game-ball: Cam B., Tom H.
+sportsperson: Kenny J., Noah M.
 
 ---
