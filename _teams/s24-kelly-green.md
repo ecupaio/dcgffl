@@ -1,5 +1,5 @@
 ---
-title: S24 - Kelly Green
+title: S24 - Kelly Green (Mean Green Kelly Machine)
 name: Mean Green Kelly Machine
 color: Kelly Green
 season: 24
