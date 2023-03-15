@@ -1,5 +1,5 @@
 ---
-title: S24 - Neon Orange
+title: "S24 - Neon Orange (Fanta-sies \U0001F351)"
 name: "Fanta-sies \U0001F351"
 color: Neon Orange
 season: 24

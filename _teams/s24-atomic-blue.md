@@ -1,5 +1,5 @@
 ---
-title: S24 - Atomic Blue
+title: S24 - Atomic Blue (Atomic Blue Villains)
 name: Atomic Blue Villains
 color: Atomic Blue
 season: 24
