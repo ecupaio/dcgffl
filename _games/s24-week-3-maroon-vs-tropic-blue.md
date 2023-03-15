@@ -6,13 +6,12 @@ teams-score:
   score: 
 - team: _teams/s24-tropic-blue.md
   score: 
-field: ''
+field: "4"
 date: 2023-03-19 12:30:00 -0400
 season: 24
 week: 3
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
