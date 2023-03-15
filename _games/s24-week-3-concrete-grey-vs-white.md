@@ -6,13 +6,12 @@ teams-score:
   score: 
 - team: _teams/s24-white.md
   score: 
-field: "3"
+field: "2"
 date: 2023-03-19 12:30:00 -0400
 season: 24
 week: 3
 mvp: ''
 game-ball: ''
 sportsperson: ''
-published: false
 
 ---
