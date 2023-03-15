@@ -1,5 +1,5 @@
 ---
-title: S24 - Gold
+title: S24 - Gold (Daffodilfs)
 name: Daffodilfs
 color: Gold
 season: 24

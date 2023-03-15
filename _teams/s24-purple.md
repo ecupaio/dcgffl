@@ -1,5 +1,5 @@
 ---
-title: S24 - Purple
+title: S24 - Purple (Plumshots)
 name: Plumshots
 color: Purple
 season: 24
