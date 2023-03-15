@@ -1,5 +1,5 @@
 ---
-title: S24 - Navy
+title: S24 - Navy (Boat Stuff)
 name: Boat Stuff
 color: Navy
 season: 24

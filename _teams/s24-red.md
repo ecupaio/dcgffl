@@ -1,5 +1,5 @@
 ---
-title: S24 - Red
+title: S24 - Red (Papa Cherries)
 name: Papa Cherries
 color: Red
 season: 24

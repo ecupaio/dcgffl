@@ -1,5 +1,5 @@
 ---
-title: S24 - Olive
+title: S24 - Olive (Pit Crew)
 name: Pit Crew
 color: Olive
 season: 24
