@@ -1,7 +1,7 @@
 ---
-title: S24 - Concrete Gray
+title: S24 - Concrete Gray (These Grays, They're Trying to Murder Me)
 name: These Grays, They're Trying to Murder Me
-color: Concrete Gray
+color: Concrete Grey
 season: 24
 photo: "/img/concrete-grey-team-pic.jpg"
 captain: Tom L.
