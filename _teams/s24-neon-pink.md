@@ -1,5 +1,5 @@
 ---
-title: S24 - Neon Pink
+title: S24 - Neon Pink (Pink-182)
 name: Pink-182
 color: Neon Pink
 season: 24

@@ -1,5 +1,5 @@
 ---
-title: S24 - Neon Yellow
+title: S24 - Neon Yellow (Mellow Yellow)
 name: Mellow Yellow
 color: Neon Yellow
 season: 24

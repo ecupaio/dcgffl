@@ -1,5 +1,5 @@
 ---
-title: S24 - Carolina Blue
+title: S24 - Carolina Blue (Blue-ty Callers)
 name: Blue-ty Callers
 color: Carolina Blue
 season: 24
