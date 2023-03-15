@@ -1,5 +1,5 @@
 ---
-title: S24 - Forest Green
+title: S24 - Forest Green (Deep in the Bush)
 name: Deep in the Bush
 color: Forest Green
 season: 24

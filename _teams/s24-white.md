@@ -1,5 +1,5 @@
 ---
-title: S24 - White
+title: S24 - White (Daddy, Chill)
 name: Daddy, Chill
 color: White
 season: 24

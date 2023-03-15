@@ -1,5 +1,5 @@
 ---
-title: S24 - Maroon
+title: S24 - Maroon (Diva Cups)
 name: Diva Cups
 color: Maroon
 season: 24
