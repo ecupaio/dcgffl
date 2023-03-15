@@ -1,5 +1,5 @@
 ---
-title: S24 - Silver
+title: S24 - Silver (Tight-anium)
 name: Tight-anium
 color: Silver
 season: 24

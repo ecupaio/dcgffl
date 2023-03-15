@@ -1,5 +1,5 @@
 ---
-title: S24 - Tropic Blue
+title: S24 - Tropic Blue (Dom Trops)
 name: Dom Trops
 color: Tropic Blue
 season: 24

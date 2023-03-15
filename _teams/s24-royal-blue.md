@@ -1,5 +1,5 @@
 ---
-title: S24 - Royal Blue
+title: S24 - Royal Blue (Royal Tenenbottoms)
 name: Royal Tenenbottoms
 color: Royal Blue
 season: 24
