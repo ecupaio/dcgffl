@@ -15,12 +15,12 @@ The DCGFFL Travel Program offers the opportunity for the league's wealth of tale
 
 [**Women's+ Division (Senators) Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSdXW6WmKRwAjuXEyFZjodNtGf-oCgasQz8lB1fvT8jVdzwafA/viewform "https://docs.google.com/forms/d/e/1FAIpQLSdXW6WmKRwAjuXEyFZjodNtGf-oCgasQz8lB1fvT8jVdzwafA/viewform")
 
-Registration for the Washington Senators travel teams is now OPEN. All interested players are encouraged to sign up and attend the Senators' tryout on April 2nd.
+Registration for the Washington Senators travel teams is now OPEN. All interested players are encouraged to sign up and attend the [Senators' tryout on April 2nd](/senators-tryout2023 "/senators-tryout2023").
 
 ##### Open Division Information:
 
 [**Open Division Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLSfky9QJYTfLn7LjwEZczqmIuViZHGsjrMrN-MNIwYeCnou52g/viewform?vc=0&c=0&w=1&flr=0 "https://docs.google.com/forms/d/e/1FAIpQLSfky9QJYTfLn7LjwEZczqmIuViZHGsjrMrN-MNIwYeCnou52g/viewform?vc=0&c=0&w=1&flr=0")
 
-Registration for all Open Division teams is now OPEN. All interested Open Division players are encouraged to sign up and attend one (1) of two Scouting Combines.
+Registration for all Open Division teams is now OPEN. All interested Open Division players are encouraged to sign up and attend one (1) of two Scouting Combines on [March 19](/travel-combine2023-open-1 "/travel-combine2023-open-1") and [March 26](/travel-combine2023-open-2 "/travel-combine2023-open-2").
 
 **Contact** [**DCGFFLTravel@gmail.com**](mailto:DCGFFLTravel@gmail.com) **for any questions about the Travel Program, including registration and tryouts.**
