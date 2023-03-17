@@ -13,7 +13,6 @@ location:
   city: Washington
   state: DC
   zip: 20011
-published: false
 
 ---
 **The Washington Senators Women's+ Travel team is holding tryouts for the 2023 travel season.** The women's+ travel team will compete in three national tournaments this year — Philly Special (May 27-28, 2023 in Philadelphia), Pride Bowl (June 23-25, 2023 in Chicago) and Gay Bowl (October 5-8, 2023 in Seattle).
