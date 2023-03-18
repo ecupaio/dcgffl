@@ -10,8 +10,8 @@ field: "1"
 date: 2023-03-17 19:00:00 -0400
 season: 24
 week: 3
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Megan L., Lindsey H.
+game-ball: Bre, Nour Nadri
+sportsperson: Sam C., Ashley Hollander
 
 ---
