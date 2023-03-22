@@ -1,18 +1,18 @@
 ---
 button:
-  visible: true
-  text: JOIN ZOOM CALL HERE
-  link: https://us02web.zoom.us/j/81522848534?pwd=S3UvcHZJc0p2SEwvbUhSL2ZLOXNhdz09
+  visible: false
+  text: ''
+  link: ''
 title: 'Home Buying 101: RMC Workshop! - Spring 2023'
-date: 2022-04-04T18:30:00.000-04:00
-time: 6:30 to 7:30 PM
+date: 2023-03-29 18:00:00 -0400
+time: 6 PM
 location:
-  name: Virtual
-  address: ''
-  city: ''
-  state: ''
-  zip: 
-permalink: "/RMC-101-S22/"
+  name: ''
+  address: 1010 Half St SE
+  city: Washington
+  state: DC
+  zip: 20003
+permalink: "/RMC-101-S24/"
 published: false
 
 ---
