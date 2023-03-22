@@ -66,10 +66,5 @@ footer:
 - title: Past Seasons
   link: "/past-seasons/"
 announcement:
-  text: |-
-    Rec Registration is now open until 7 PM on Sunday, March 19th!
-
-    Player Registration: Click [HERE](https://forms.gle/GhYKhkFAiwbShTSDA "https://forms.gle/GhYKhkFAiwbShTSDA").
-
-    Forever Family Registration: Click [HERE](https://forms.gle/xPjN7Yn6charvk9p7).
-  show: false
+  text: Rec League registration will be opening soon!
+  show: true
