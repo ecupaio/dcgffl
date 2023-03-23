@@ -6,14 +6,11 @@ season: 24
 week: 3
 rankings:
 - team: _teams/s24-neon-pink.md
-  record: 3-0
-  text: "hese are the meanest nice people on the field, after a crushing two win doubleheader
-    this group certainly showed that nice is different than good as they continued
-    to run trick plays and rush three on a team without a QB their first game, and
-    cheer at the mental collapse of the QB of their second game. Meanwhile, catch
-    me *HI* offering Advil to literally everyone on both sides of the field that so
-    much as says the word “ouch” as I sport yet ANOTHER cast. Y’all can break my bones
-    but can’t break my spirit.\n\n  \n![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3YTdkYmMzYzFhY2QwNjc3NjA1MTJjNTE0ZWRlMjRhZjIzNTJiOCZjdD1n/V9I5j1rZJNq6Y/giphy.gif)"
+  record: 4-0
+  text: |-
+    These are the meanest nice people on the field, after a crushing two win doubleheader this group certainly showed that nice is different than good as they continued to run trick plays and rush three on a team without a QB their first game, and cheer at the mental collapse of the QB of their second game. Meanwhile, catch me _HI_ offering Advil to literally everyone on both sides of the field that so much as says the word “ouch” as I sport yet ANOTHER cast. Y’all can break my bones but can’t break my spirit.
+
+    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3YTdkYmMzYzFhY2QwNjc3NjA1MTJjNTE0ZWRlMjRhZjIzNTJiOCZjdD1n/V9I5j1rZJNq6Y/giphy.gif)
 - team: _teams/s24-white.md
   record: 3-0
   text: |-
