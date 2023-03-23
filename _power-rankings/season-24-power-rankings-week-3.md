@@ -1,7 +1,7 @@
 ---
 date: 2023-03-23 12:23:37 -0400
 title: 'Season 24 Power Rankings: Week 3'
-author: Eric Green, Tiger Ricchetti, Harry Suchyta
+author: Eric Green, Tiger Ricchetti, and Harry Suchyta
 season: 24
 week: 3
 rankings:
