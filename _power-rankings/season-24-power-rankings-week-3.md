@@ -12,7 +12,7 @@ rankings:
 
     ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3YTdkYmMzYzFhY2QwNjc3NjA1MTJjNTE0ZWRlMjRhZjIzNTJiOCZjdD1n/V9I5j1rZJNq6Y/giphy.gif)
 - team: _teams/s24-white.md
-  record: 3-0
+  record: 4-0
   text: |-
     We are all reminded weekly of JC’s incredible athleticism. From turning scrambles into touchdowns and throwing dimes. He’s an incredibly versatile player with a lot of talented players to back him up. And he’s gonna get a big head about it no doubt.
 
