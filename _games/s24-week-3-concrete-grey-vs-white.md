@@ -10,8 +10,8 @@ field: "2"
 date: 2023-03-19 12:30:00 -0400
 season: 24
 week: 3
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: JC Adams, Kevin P
+game-ball: Diego U, Joey P
+sportsperson: Noah M, Scott C
 
 ---
