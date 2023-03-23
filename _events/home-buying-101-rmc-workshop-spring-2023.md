@@ -22,3 +22,5 @@ DCGFFL has had the privilege of working with dedicated sponsor Residential Mortg
 ##### **Please feel free to share this event with friends!**
 
 Please join Residential Mortgage Center, Inc. and Margie Hofberg on Wednesday, March 29th at 6 PM
+
+![](/img/seminar.JPEG)
