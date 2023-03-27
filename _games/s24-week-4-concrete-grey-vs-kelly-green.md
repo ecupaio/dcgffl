@@ -12,6 +12,6 @@ season: 24
 week: 4
 mvp: Linda Pratt, Nick W.
 game-ball: Kevin Penny, Jim Connolly
-sportsperson: Jared L.,
+sportsperson: Jared L., Brendan M.
 
 ---
