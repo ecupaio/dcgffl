@@ -10,8 +10,8 @@ field: "4"
 date: 2023-03-26 12:30:00 -0400
 season: 24
 week: 4
-mvp: ''
-game-ball: ''
-sportsperson: ''
+mvp: Munroe Bell-Rose, Alex Kizer
+game-ball: Tom Hassett, Charles D.
+sportsperson: Noah M., JC Chiuco
 
 ---
