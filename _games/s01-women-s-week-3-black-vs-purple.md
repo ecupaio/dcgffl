@@ -7,9 +7,9 @@ teams-score:
 - team: _teams/s1-women-s-purple.md
   score: 
 field: "1"
-date: 2023-03-24 18:45:00 -0400
+date: 2023-03-31 18:45:00 -0400
 season: 24
-week: 4
+week: 5
 mvp: ''
 game-ball: ''
 sportsperson: ''
