@@ -13,6 +13,7 @@ members:
 - JJ J.
 - Adam Maisel
 - Jeff M.
+- Brendan McFarland
 - Joe Platte
 - Nick W.
 - Larry W.
