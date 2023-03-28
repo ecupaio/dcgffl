@@ -11,6 +11,7 @@ members:
 - Scott Cuviello
 - Matt Devino
 - Mike Hess
+- Jamar J.
 - Jared L.
 - Jose P.
 - Alex P.
