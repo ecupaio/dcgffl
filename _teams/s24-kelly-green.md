@@ -15,6 +15,7 @@ members:
 - Jeff M.
 - Brendan McFarland
 - Joe Platte
+- Jag Singh
 - Nick W.
 - Larry W.
 - Chris Wooley
