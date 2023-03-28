@@ -7,17 +7,18 @@ photo: "/img/olive-team-pic.jpg"
 captain: Tony Britford
 quarterback: Malcolm Warbrick
 members:
-- Will Coughlin
+- Ashley S.
 - Grant DuVall
-- Paul Guequierre
+- Joe Owens
+- Lamar Riotta-Rogers
+- Nolan L.
+- Patrick Mulford
 - Paul Haakenson
+- Paul Guequierre
 - Robert K.
 - Travis Meuwissen
-- Patrick Mulford
-- Joe Owens
 - Trey P.
-- Lamar Riotta-Rogers
-- Ashley S.
+- Will Coughlin
 division: Kiki
 
 ---
