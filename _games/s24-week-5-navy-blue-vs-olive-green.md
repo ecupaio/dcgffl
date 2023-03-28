@@ -2,11 +2,11 @@
 location: _locations/carter-baron.md
 title: S24 Week 5 - Navy Blue vs Olive Green
 teams-score:
-- team: _teams/s24-royal-blue.md
+- team: _teams/s24-navy.md
   score: 
-- team: _teams/s24-neon-yellow.md
+- team: _teams/s24-olive.md
   score: 
-field: "2"
+field: "3"
 date: 2023-04-02 09:00:00 -0400
 season: 24
 week: 5
