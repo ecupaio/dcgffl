@@ -8,6 +8,7 @@ captain: Oliver J.
 quarterback: Andy Pratt
 members:
 - Richard Cash
+- Brett Chambers
 - Chris Gillyard
 - Fernando H.
 - Derrick Holt
