@@ -13,6 +13,7 @@ members:
 - Dylan Dellisanti
 - Brian Donohoe
 - Andrew Hoyler
+- Jeff K.
 - Leo Lutz
 - Andy S.
 - Alex V.
