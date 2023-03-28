@@ -14,6 +14,7 @@ members:
 - Gabe Hernandez
 - Tevin McDonald
 - Mariam Mehter
+- Stacey Robinson
 - Anthony Sacco
 - Dawit T.
 - Everett W.
