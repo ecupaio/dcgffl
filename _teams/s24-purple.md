@@ -13,6 +13,7 @@ members:
 - Jordan Fraser
 - Leah Garofalo
 - Alonzo M.
+- Baxter O'Brien
 - Daniel Ponce
 - Del'Vaunté Scott
 - Harry Suchtya
