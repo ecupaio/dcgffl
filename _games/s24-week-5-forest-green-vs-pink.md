@@ -1,13 +1,13 @@
 ---
 location: _locations/carter-baron.md
-title: S24 Week 5 - Forest Green vs Pink
+title: S24 Week 5 - Forest Green vs Neon Pink
 teams-score:
-- team: _teams/s24-purple.md
+- team: _teams/s24-forest-green.md
   score: 
-- team: _teams/s24-silver.md
+- team: _teams/s24-neon-pink.md
   score: 
 field: "1"
-date: 2023-04-02 10:45:00 -0400
+date: 2023-04-02 09:00:00 -0400
 season: 24
 week: 5
 mvp: ''
