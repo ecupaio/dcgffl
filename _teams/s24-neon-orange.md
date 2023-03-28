@@ -9,6 +9,7 @@ quarterback: Ben McEvoy
 members:
 - Dwaylan Applewhite
 - Nicole Battaglia
+- Tracy C.
 - Oriya Cohen
 - Jean-Francois Hould
 - Jordan J.
