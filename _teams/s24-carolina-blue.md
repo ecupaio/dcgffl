@@ -11,6 +11,7 @@ members:
 - Samuel Brown
 - Thomas Cassini
 - Ancil Crayton
+- BJ K.
 - Josh Kickenson
 - Jacob M.
 - Zachary McRae
