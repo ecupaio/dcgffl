@@ -18,6 +18,7 @@ members:
 - Andy Reed
 - Aaron Ross
 - Diego Urena
+- Kirk Y.
 - Ben Behrmann (Forever Family)
 division: Kiki
 
