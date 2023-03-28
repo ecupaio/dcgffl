@@ -10,6 +10,7 @@ members:
 - Andy Allen
 - Chris B.
 - Cam Burrell
+- Sam Cline
 - Alex E.
 - Lindsey H.
 - Kenny J.
@@ -18,6 +19,7 @@ members:
 - Andrew Packey
 - Bradley S.
 - Randy Snight
+- Zach Webber
 division: Kiki
 
 ---
