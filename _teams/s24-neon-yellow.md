@@ -16,6 +16,7 @@ members:
 - Mark Japinga
 - Dan King
 - Tyler Lewis
+- Douglas Nmagu
 - Kyle Oliver
 - Jeff R.
 - Pedro S. (Forever Family)
