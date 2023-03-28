@@ -14,12 +14,12 @@ members:
 - Robert K.
 - Nolan L.
 - Travis Meuwissen
-- Justin Mezetin (Forever Family)
 - Patrick Mulford
 - Joe Owens
 - Trey P.
 - Lamar Riotta-Rogers
 - Ashley S.
+- Justin Mezetin (Forever Family)
 division: Kiki
 
 ---

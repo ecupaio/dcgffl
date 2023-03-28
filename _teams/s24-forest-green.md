@@ -18,6 +18,7 @@ members:
 - Alex Santos
 - Aaron S.
 - Camille Thompson
+- Jane V.
 - Blake Whetzel
 - Eric Green (Forever Family)
 division: Dirty Goose
