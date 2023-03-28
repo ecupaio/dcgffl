@@ -16,6 +16,7 @@ members:
 - Zach M.
 - Johnny Moseman
 - Tiger Ricchetti
+- Andrew Strahan
 - Chuck Roth
 - Ryan Veissman
 - Larry W.
