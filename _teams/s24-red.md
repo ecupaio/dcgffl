@@ -18,6 +18,7 @@ members:
 - Alex Kizer
 - Marek Malysa
 - Stephen S.
+- Nick V.
 division: Kiki
 
 ---
