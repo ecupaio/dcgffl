@@ -6,8 +6,8 @@ teams-score:
   score: 
 - team: _teams/s24-neon-pink.md
   score: 
-field: "1"
-date: 2023-04-02 09:00:00 -0400
+field: "3"
+date: 2023-04-02 12:30:00 -0400
 season: 24
 week: 5
 mvp: ''
