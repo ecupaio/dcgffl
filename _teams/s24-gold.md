@@ -16,6 +16,7 @@ members:
 - Joel Horton
 - Jack J.
 - Michael K.
+- Cedric R.
 - Sherrie R.
 - Paul Whitney
 - Alexander Houck (Forever Family)
