@@ -14,6 +14,7 @@ members:
 - Justin Pendleton
 - Matthew Perez
 - John Riley
+- Evan Ryan
 - Kevin Smiffy
 - Adam Strasberg
 - Adam Vavrek
