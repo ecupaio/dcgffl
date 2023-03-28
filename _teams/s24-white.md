@@ -20,6 +20,7 @@ members:
 - Diego Urena
 - Kirk Y.
 - Ben Behrmann (Forever Family)
+- Jordan A. (Forever Family)
 division: Kiki
 
 ---

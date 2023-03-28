@@ -8,6 +8,7 @@ captain: Mark Hofberg
 quarterback: Ben Hunt
 members:
 - Daniel B.
+- Megan Barbieri
 - Divante Brown
 - Joe Glover
 - Kevin Hooker
