@@ -8,6 +8,7 @@ captain: Evan Binder
 quarterback: Austin Plier
 members:
 - Emily Binnicker
+- Drew C.
 - John C.
 - Dwayne D.
 - Edward J.
