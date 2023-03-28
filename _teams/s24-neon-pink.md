@@ -7,8 +7,9 @@ photo: "/img/team-pink.jpg"
 captain: Derrick Johnson
 quarterback: Cameron M.
 members:
-- Luke B.
 - Elizabeth B.
+- Kristin B.
+- Luke B.
 - Noah Cosimano
 - Nikki Kasparek
 - Guyton M.
