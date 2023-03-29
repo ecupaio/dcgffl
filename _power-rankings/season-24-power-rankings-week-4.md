@@ -28,9 +28,8 @@ rankings:
   record: 5-0
   text: "Fernando: Compared to other writers, I don’t have and will not spend time
     talking about JC. Plus, me and last season’s Purple teammates know Twon **loved**
-    this win.\n\n![](https://lh6.googleusercontent.com/ZGt9BsYtuWJTnz0deRYtwgEL3UPzjIC7laW_AUHQp9mb3mrTUzHhZLvF5l3ZO8rBOr_tVIPyqQCfN2QRElfMkiYG5Ize_gPSGba1gz6N-mVVm_d0l5Vsg-y2EOWbZlin4FS_wtwvVshEKVHOo-oFDg
-    =443x378)  \nBut also, you know you shouldn’t have given them hope. This win was
-    not amusing."
+    this win.\n\n![](/img/screen-shot-2023-03-29-at-11-21-08-am.png)  \nBut also,
+    you know you shouldn’t have given them hope. This win was not amusing."
 - team: _teams/s24-silver.md
   record: 3-1
   text: |-
