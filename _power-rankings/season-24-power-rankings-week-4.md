@@ -114,7 +114,7 @@ rankings:
   text: |-
     Fernando: If you are in Concrete Grey and you are reading this, you need to mind your own business and start wondering who’s going to be your QB next week because y’all need to get something going.
 
-    ![](https://lh5.googleusercontent.com/aGBPvq2NhWX_SeBboY81giOSFymMtBW5QCjqkvi6M5tBlodb_6or7EdP4FXFgaJ9_0XZKVF5Cs8a_zCzqI88D_hDARYg5UQ1Nfyp6N4sI8hHNF8vJnMEjaJb_MPyBCko1U3an4mqFRo8e1WmrNlEIX0 =624x341)
+    ![](/img/screen-shot-2023-03-29-at-11-23-15-am.png)
 - team: _teams/s24-neon-yellow.md
   record: 1-3
   text: |-
