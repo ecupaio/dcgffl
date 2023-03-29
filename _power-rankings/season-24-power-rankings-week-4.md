@@ -1,119 +1,140 @@
 ---
 date: 2023-03-23 12:23:37 -0400
 title: 'Season 24 Power Rankings: Week 4'
-author: Eric Green, Tiger Ricchetti, and Harry Suchyta
+author: Derrick Holt and Fernando H.
 season: 24
-week: 3
+week: 4
 rankings:
-- team: _teams/s24-neon-pink.md
-  record: 4-0
-  text: |-
-    These are the meanest nice people on the field, after a crushing two win doubleheader this group certainly showed that nice is different than good as they continued to run trick plays and rush three on a team without a QB their first game, and cheer at the mental collapse of the QB of their second game. Meanwhile, catch me _HI_ offering Advil to literally everyone on both sides of the field that so much as says the word “ouch” as I sport yet ANOTHER cast. Y’all can break my bones but can’t break my spirit.
-
-    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3YTdkYmMzYzFhY2QwNjc3NjA1MTJjNTE0ZWRlMjRhZjIzNTJiOCZjdD1n/V9I5j1rZJNq6Y/giphy.gif)
-- team: _teams/s24-white.md
-  record: 4-0
-  text: |-
-    We are all reminded weekly of JC’s incredible athleticism. From turning scrambles into touchdowns and throwing dimes. He’s an incredibly versatile player with a lot of talented players to back him up. And he’s gonna get a big head about it no doubt.
-
-    ![](https://media.giphy.com/media/Ox5Vi218KUWRaYKdw1/giphy.gif)
 - team: _teams/s24-tropic-blue.md
-  record: 3-0
-  text: Maroon was able to answer each Tropic Blue touchdown with one of their own
-    early in the game, leading us all to question if the Dom Trops are a little more
-    sub than they let on. However, the momentum really started to swing in their favor
-    when Jeremy was able to intercept a maroon ball. Mark, as always, had some deep
-    and effortless endzone catches, and the rush game was on point as well, as Tony
-    was able to consistently sashay into the pocket
-- team: _teams/s24-navy.md
-  record: 2-1
+  record: 3-1
+  text: "Fernando: To save Derrick H from attacks, yes I’m the anti-hero. But facts
+    are facts, America! They kept it close without Mark and J Bear and only lost by
+    2 touchdowns. Ben and Danny connecting on some long passes. Daniel blocking and
+    catching. PLUS they added a threat from the supplemental. Have everyone together
+    and they will continue winning. But as I said, facts are facts. Barely any pressure
+    on Cam like last week. The constant fear that Danny will get an interference call
+    when he can’t block a good receiver. If you need your more experienced (\U0001F618)
+    players to win, then yea. You will lose.\n\nBut yes, I just did this. Was good
+    bbz? Pull up.\n\n![](https://lh3.googleusercontent.com/v1j8-Kd48lSBu3J1bbqqR72vj-TiXhZmQoYINpyMWfkoLyEILSALgTxdUvkVxsWcx_PbN8UDxYMUtAxATgn6LI0F-mMZAJZ3B0IH3XfrEYncX6RO91dkt2ibm8c7ZIkKiR0hFcNGQWfsimiuSmR1J74
+    =270x239)"
+- team: _teams/s24-neon-pink.md
+  record: 5-0
   text: |-
-    Navy is a lesson to never judge a book by its cover because you would think the odds were stacked against them. They nearly did not have enough players to start the game. In spite of it all, what this team lacks in numbers they make up in talent.
+    Fernando: You did what needed to be done, but it shouldn’t have been this close at all. They were without key players. Like no sacks, really? Baby, when you match up with Dom Trops in the playoff, it’s going to be a mess like a shirtless Derrick Johnson at Kiki dancing in the new second-floor patio on the Sunday Funday that just passed.
 
-    ![](https://media.giphy.com/media/50rJushu3URtS/giphy.gif)
-- team: _teams/s24-maroon.md
-  record: 2-1
-  text: |-
-    Maroon played a solid first half and was able to hold an undefeated Tropic Blue team to a tie… until the second half. Some small mistakes and penalties dictated a less than desirable outcome for our lovely Diva Cups, though they just might be able to get their bloody revenge in the playoffs.
+    ![](https://media.giphy.com/media/XIse2rqf1RlToHmpCu/giphy.gif)
 
-    ![](https://media.giphy.com/media/KIroJlGnmrODu/giphy.gif)
-- team: _teams/s24-carolina-blue.md
-  record: 2-1
-  text: It looks like asking all your friends to vote for your team in the Game of
-    the Week Instagram poll played in this team’s favor. Rigga Morris aside this team
-    put on quite the circus act with a juggling pick-6 performance by Matt H. and
-    a stunning display of acrobatics by Wyatt E.
+    (Live your best life, baby!)
+- team: _teams/s24-white.md
+  record: 5-0
+  text: "Fernando: Compared to other writers, I don’t have and will not spend time
+    talking about JC. Plus, me and last season’s Purple teammates know Twon **loved**
+    this win.\n\n![](https://lh6.googleusercontent.com/ZGt9BsYtuWJTnz0deRYtwgEL3UPzjIC7laW_AUHQp9mb3mrTUzHhZLvF5l3ZO8rBOr_tVIPyqQCfN2QRElfMkiYG5Ize_gPSGba1gz6N-mVVm_d0l5Vsg-y2EOWbZlin4FS_wtwvVshEKVHOo-oFDg
+    =443x378)  \nBut also, you know you shouldn’t have given them hope. This win was
+    not amusing."
 - team: _teams/s24-silver.md
-  record: 2-1
+  record: 3-1
   text: |-
-    How many picks can one QB throw in a half? Well Marvin W. is sure to find out.
+    He’s back. The Jedi master has returned. I only imagine they are saying “thank Yeezus!” because I don’t think they could survive another game with Marv being QB.
 
-    ![](https://media.giphy.com/media/U0D6GeR0OPaJG/giphy.gif)
+    ![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+- team: _teams/s24-carolina-blue.md
+  record: 3-1
+  text: |-
+    Fernando: While I was cussing up a storm for giving Tony Stuart a high five, I saw that y’all were having a cute little game against Daffodilfs and won in overtime. But let’s be honest: you only won in overtime when they had an injured Hotchkiss??? It should have gone more like this:
+
+    ![](https://media.giphy.com/media/TPe1Tey5tX0li/giphy.gif)
+- team: _teams/s24-maroon.md
+  record: 2-2
+  text: "Fernando: You get a mistake. And you get a mistake. We all get mistakes.
+    But seriously, we need to stop having these mistakes. Derrick is becoming good
+    on both sides of the ball and will be a threat. No one can touch Andy because
+    of Obie and Kozak. We have the best sidelines. We need to get it together. That
+    being said, being the league leader in roughing the quarterback ain’t it \U0001FAE1.\n\nP.S.
+    Derrick: I think my favorite moment of the weekend was like an hour after our
+    game and someone asked me if we had a second one. When I said no they responded
+    “Then why are so many of you still here??” We were hydrating, snacking, and being
+    jovial. PERIOD!\n\n![](https://media.giphy.com/media/MF12HtlamewVic5j16/giphy.gif)"
 - team: _teams/s24-atomic-blue.md
+  record: 3-2
+  text: |-
+    Derrick: This team’s two losses have come against the teams leading their respective divisions at 5-0 (White, Super Pink). This team is good, but time will tell if they can find one more gear and become great.
+
+    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc0MTY4OWNmMzhkMjIyZDFhZDQ1Njk3ODUxYjUyMDA2YjE4NDc4ZiZjdD1n/l1J9O9elEvuRjMyXu/giphy.gif)
+- team: _teams/s24-navy.md
   record: 2-2
   text: |-
-    Team Villain broke even this week with one win and one loss. Their first game showed they’re willing to play dirty to win and will wave away numerous flag throws with a hearty maniacal laugh. Though they might want to pack an extra vape pen for AJ to make sure their dastardly plans work the second game.
+    Derrick: This team is wildly inconsistent. We’re reaching the point of the season where teams are starting to cement their identity but I really don’t know which side of this team we’ll get moving forward. Is it the one that looked unstoppable and scored 71 points in week one, or the team that lost to a formidable Atomic Blue three weeks later?
 
-    ![](https://media.giphy.com/media/JeKLoVq2KzdpS/giphy.gif)
-- team: _teams/s24-forest-green.md
-  record: 1-1-1
-  text: An on field collision left one of Forest Green’s players severely hurt. First
-    and foremost, we are a community and we’re here to support each other on and off
-    the field. Let us keep Alex S. in our thoughts and wish him well as he recovers.
+    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAyMmRhYTM5MWNmMjk3ZGY3NmIxYzJjMTEzOTQyYWRlNDA4YTI4ZiZjdD1n/qhoABJOROS9kQ/giphy.gif)
 - team: _teams/s24-red.md
-  record: 1-1-1
+  record: 1-2-1
   text: |-
-    What is the penalty for a pass interference? Well if you ask Sean K, it’s your team’s lead.
+    Fernando: Oh, I know Aldrian **hated** this loss. I mean yea, they fought back, which was shocking and cute. I’m surprised Tracy hasn’t ejected Aldrian out of a game like Twon almost did last season. Poor Gordito was the only one ejected.
 
-    ![](https://media.giphy.com/media/3oriOaivTEk4PotVEQ/giphy.gif)
-- team: _teams/s24-neon-orange.md
-  record: 1-2
+    ![](https://media.giphy.com/media/hritWRtJ9FuFr38Z0b/giphy.gif)
+- team: _teams/s24-forest-green.md
+  record: 1-2-1
   text: |-
-    In all my time in the league I have never seen a team tear into their own QB as much as this team has. But this tough love paid off big! Congratulations to QB Ben M’s first win against Brandon W.
+    Fernando: Man, they are fighting. After everything that has played out, I know they are going to have a glow-up. I know Binder will make sure of it.
 
-    ![](https://media.giphy.com/media/tLRifcvQNJIic/giphy.gif)
+    ![](https://media.giphy.com/media/oqwsns7qHCEi4/giphy.gif)
 - team: _teams/s24-kelly-green.md
-  record: 1-2
+  record: 2-2
   text: |-
-    It’s a shame that for most of the game, QB Jim did not see a wide open Luis to his right. Luis had all the time in the world to file his taxes and recreate Rihanna’s entire superbowl half-time performance. It’s even more of a shame when Luis finally gets the ball thrown his way, it fumbles out of his hands and into Matt H’s for the shortest-distance pick-6 I have ever seen.
+    Fernando: Based on what I saw, things are moving on up. I read the other writer’s comments and I think I’m starting to see things clicking. I mean how could they not? I mean Jim is a good QB. He only tells you who he’s planning to throw to with his eyes.
 
-    ![](https://media.giphy.com/media/1SB5xJ4KfB0B6Xj40P/giphy.gif)
+    ![](https://media.giphy.com/media/BPHyldtsHgT4VxOLJG/giphy.gif)
 - team: _teams/s24-gold.md
-  record: 1-2
+  record: 1-3
   text: |-
-    Shoutout to Judy for finally finding her stride as a receiver to watch out for. It only took 4 seasons, but she’s throwing her whole bussy into it.
+    Hotchkiss! Tell Zach Brown that we said hey. We also hope he takes you to go get your injury checked because it shouldn’t be multiple colors.
 
-    ![](https://media.giphy.com/media/l41m5nQVvTslsRQGc/giphy.gif)
-- team: _teams/s24-neon-yellow.md
-  record: 1-2
-  text: |-
-    Nearly all of Neon Yellow’s touchdowns this game were defensive. Their MVP, the QB on the other team Marvin W. Despite all the help from Silver, Neon Yellow still BARELY won their game.
-
-    ![](https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif)
-- team: _teams/s24-concrete-grey.md
-  record: 1-2
-  text: |-
-    This team had it rough. Despite some impressive throws and deep catches, this team couldn’t pull out a W in either of their back-to-back games. At least they’re good at yodeling.
-
-    ![](https://media.giphy.com/media/xT1Ra5rAP01VCHEbXq/giphy.gif)
+    ![](https://media.giphy.com/media/3orieRD38kWpq422UU/giphy.gif)
 - team: _teams/s24-royal-blue.md
-  record: 0-3
+  record: 1-3
   text: |-
-    It is only 3 weeks into the season and this team is missing nearly all of their starting players. Brandon better shake the rust off those joints and learn how to scramble; he doesn't have anyone blocking for him. Here’s to hoping they get a better start in the playoffs.
+    Derrick: Getting that first win is always such a good feeling. You’re a bit looser going into the next week. Some of the pressure is gone. And, with a matchup against a currently-middling Yellow next week, there is a real chance they could start a little streak here.
 
-    ![](https://media.giphy.com/media/fUMfINp06Dayzzya8h/giphy.gif)
-- team: _teams/s24-olive.md
-  record: 0-3
+    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxODNmMjdlMWY5YjA4NTFjZTcxMWE2M2Y2NGJkYzMwN2ZkZDllMiZjdD1n/mq750zqfwZFYPP0PfW/giphy.gif)
+- team: _teams/s24-neon-orange.md
+  record: 3-2
   text: |-
-    Someone get this team some defense, stat! It was 4th and 80, a good number of flags thrown your team’s way, and yet your d-line had more exposed holes than a Thursday at Green Lantern.
+    Derrick: Fernando, what are you doing? Putting this team all the way down here and then leaving their power ranking blank? This is a personal attack against me.
 
-    ![](https://media.giphy.com/media/cPNyuNbufL046afvTc/giphy.gif)
+    Anyway, the throwback Fanta logo patches on the jerseys were a nice little touch and ca-yute! Chris vs Lamar was fun to watch and Oriya had some wild catches, thriving in his first season not playing QB. Chris did get everyone the aforementioned patches and they went 2-0 on the day. That’s a solid Sunday.
+
+    The gif below is dedicated to Fernando:
+
+    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkwMjg0NWIxNGJjYTJjNDU1ZGZlY2ViNzA2ODZlZDI5ZWI3ODAwMCZjdD1n/8YvpBXtbbsdpcfcIvy/giphy.gif)
+
+    Fernando: I mean let’s look at the teams they beat. I will say Ben was looking good out there and Oriya was showing why he was their first pick (even when he won’t be here for playoffs). But I guess this is what they wanted:
+
+    ![](https://lh6.googleusercontent.com/zkTs4ob8nFYLgRig4sXHn4adDGJRBnlhXlVNHu-mu1v5jMrQRimBkQ1w1yG7R2iSdS7r-Gug_xe5wy1nnSY4dpAuN2yLoCFpuPTBtIcSGCrAzorJR4M3c0rb02_2WsXPfwG9-GKHIOCf-xs-sBy1ng =624x347)
+- team: _teams/s24-concrete-grey.md
+  record: 1-3
+  text: |-
+    Fernando: If you are in Concrete Grey and you are reading this, you need to mind your own business and start wondering who’s going to be your QB next week because y’all need to get something going.
+
+    ![](https://lh5.googleusercontent.com/aGBPvq2NhWX_SeBboY81giOSFymMtBW5QCjqkvi6M5tBlodb_6or7EdP4FXFgaJ9_0XZKVF5Cs8a_zCzqI88D_hDARYg5UQ1Nfyp6N4sI8hHNF8vJnMEjaJb_MPyBCko1U3an4mqFRo8e1WmrNlEIX0 =624x341)
+- team: _teams/s24-neon-yellow.md
+  record: 1-3
+  text: |-
+    Fernando: Alright Dorsey, you said no twink jokes so let’s have an honest conversation. You have little Mike, Dan King, Kev, Tyler, Chris, and the rest of the DCGBL. Your team shouldn’t be struggling like this. Focus on your throwing accuracy because you’re making Uncle Rico look like an elite quarterback.
+
+    ![](https://media.giphy.com/media/MrptWgpDxWaWI/giphy.gif)
 - team: _teams/s24-purple.md
-  record: 0-3
+  record: 0-5
   text: |-
-    Purple showed a lot of heart this week with their QB on vacation. They probably deserve one too after the beating they got from Pink. Hopefully Pat’s vacation brings him back rested and ready to turn their fortunes around. Purple IS the color of royalty after all.
+    Derrick: A one-possession loss against Fanta-sies stings. Three of their five losses on the season have been by one possession. Gather yourselves soon so this season doesn’t become a big ole stain!
 
-    ![](https://media.tenor.com/XSzZ9DkaMlUAAAAC/nicki-minaj-queen.gif)
+    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc0NjlkMzRkMTE5ZWI0ZWY0ZTVmNzlmYTI1NzI3OWI2MTgzMmZiNCZjdD1n/5u0l0wgfsxxnniwuff/giphy.gif)
+- team: _teams/s24-olive.md
+  record: 0-5
+  text: |-
+    Derrick: This team has too much talent to be winless. I saw some flashes on Sunday, and while this ranking is fair for now, I’m keeping an eye on what the Pit Crew is building moving forward.
+
+    ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI1NWZmNjYxNjdlZjVhYjE3Yjc2NjcyZGY0MDQ4ZDBjMWIwYmIxMiZjdD1n/l46CyJmS9KUbokzsI/giphy.gif)Fernando: Here’s some advice for you. Paul is not “just” a rusher. Have both Lamar and Paul on both sides of the game.
 published: false
 
 ---
