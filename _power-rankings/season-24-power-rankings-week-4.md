@@ -124,7 +124,7 @@ rankings:
 
     ![](https://media.giphy.com/media/MrptWgpDxWaWI/giphy.gif)
 - team: _teams/s24-purple.md
-  record: 0-5
+  record: 1-4
   text: |-
     Derrick: A one-possession loss against Fanta-sies stings. Three of their five losses on the season have been by one possession. Gather yourselves soon so this season doesn’t become a big ole stain!
 
