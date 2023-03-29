@@ -3,7 +3,7 @@ date: 2023-03-29 10:30:37 -0400
 title: 'Season 24 Power Rankings: Week 4'
 author: Derrick Holt and Fernando H.
 season: 24
-week: 4
+week: 5
 rankings:
 - team: _teams/s24-tropic-blue.md
   record: 3-1
