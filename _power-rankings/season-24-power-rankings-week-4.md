@@ -15,8 +15,7 @@ rankings:
     on Cam like last week. The constant fear that Danny will get an interference call
     when he can’t block a good receiver. If you need your more experienced (\U0001F618)
     players to win, then yea. You will lose.\n\nBut yes, I just did this. Was good
-    bbz? Pull up.\n\n![](https://lh3.googleusercontent.com/v1j8-Kd48lSBu3J1bbqqR72vj-TiXhZmQoYINpyMWfkoLyEILSALgTxdUvkVxsWcx_PbN8UDxYMUtAxATgn6LI0F-mMZAJZ3B0IH3XfrEYncX6RO91dkt2ibm8c7ZIkKiR0hFcNGQWfsimiuSmR1J74
-    =270x239)"
+    bbz? Pull up.\n\n![](/img/screen-shot-2023-03-29-at-11-20-52-am.png)"
 - team: _teams/s24-neon-pink.md
   record: 5-0
   text: |-
