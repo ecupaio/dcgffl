@@ -118,7 +118,7 @@ rankings:
 - team: _teams/s24-neon-yellow.md
   record: 1-3
   text: |-
-    Fernando: Alright Daniel D. , you said no twink jokes so let’s have an honest conversation. You have little Mike, Dan King, Kev, Tyler, Chris, and the rest of the DCGBL. Your team shouldn’t be struggling like this. Focus on your throwing accuracy because you’re making Uncle Rico look like an elite quarterback.
+    Fernando: Alright Daniel D., you said no twink jokes so let’s have an honest conversation. You have little Mike, Dan King, Kev, Tyler, Chris, and the rest of the DCGBL. Your team shouldn’t be struggling like this. Focus on your throwing accuracy because you’re making Uncle Rico look like an elite quarterback.
 
     ![](https://media.giphy.com/media/MrptWgpDxWaWI/giphy.gif)
 - team: _teams/s24-purple.md
