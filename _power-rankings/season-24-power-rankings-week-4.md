@@ -1,5 +1,5 @@
 ---
-date: 2023-03-23 12:23:37 -0400
+date: 2023-03-29 10:30:37 -0400
 title: 'Season 24 Power Rankings: Week 4'
 author: Derrick Holt and Fernando H.
 season: 24
