@@ -108,7 +108,7 @@ rankings:
 
     Fernando: I mean let’s look at the teams they beat. I will say Ben was looking good out there and Oriya was showing why he was one of their top pick (even when he won’t be here for playoffs). But I guess this is what they wanted:
 
-    ![](https://lh6.googleusercontent.com/zkTs4ob8nFYLgRig4sXHn4adDGJRBnlhXlVNHu-mu1v5jMrQRimBkQ1w1yG7R2iSdS7r-Gug_xe5wy1nnSY4dpAuN2yLoCFpuPTBtIcSGCrAzorJR4M3c0rb02_2WsXPfwG9-GKHIOCf-xs-sBy1ng =624x347)
+    ![](/img/screen-shot-2023-03-29-at-11-22-15-am.png)
 - team: _teams/s24-concrete-grey.md
   record: 1-3
   text: |-
