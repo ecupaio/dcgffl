@@ -5,7 +5,7 @@ color: Silver
 season: 24
 photo: "/img/team-silver.jpg"
 captain: Jens Piferoen
-quarterback: Garrett Schiponi
+quarterback: Garrett Schiponi / Tony Stewart
 members:
 - Charlie Bruno
 - Bill Cammas
