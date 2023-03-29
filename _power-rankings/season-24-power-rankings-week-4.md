@@ -1,5 +1,5 @@
 ---
-date: 2023-03-29 10:30:37 -0400
+date: 2023-03-29 10:40:37 -0400
 title: 'Season 24 Power Rankings: Week 4'
 author: Derrick Holt and Fernando H.
 season: 24
@@ -135,6 +135,5 @@ rankings:
     Derrick: This team has too much talent to be winless. I saw some flashes on Sunday, and while this ranking is fair for now, I’m keeping an eye on what the Pit Crew is building moving forward.
 
     ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI1NWZmNjYxNjdlZjVhYjE3Yjc2NjcyZGY0MDQ4ZDBjMWIwYmIxMiZjdD1n/l46CyJmS9KUbokzsI/giphy.gif)
-published: false
 
 ---
