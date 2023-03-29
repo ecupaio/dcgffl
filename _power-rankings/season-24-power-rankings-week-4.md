@@ -134,7 +134,7 @@ rankings:
   text: |-
     Derrick: This team has too much talent to be winless. I saw some flashes on Sunday, and while this ranking is fair for now, I’m keeping an eye on what the Pit Crew is building moving forward.
 
-    ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI1NWZmNjYxNjdlZjVhYjE3Yjc2NjcyZGY0MDQ4ZDBjMWIwYmIxMiZjdD1n/l46CyJmS9KUbokzsI/giphy.gif)Fernando: Here’s some advice for you. Paul is not “just” a rusher. Have both Lamar and Paul on both sides of the game.
+    ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI1NWZmNjYxNjdlZjVhYjE3Yjc2NjcyZGY0MDQ4ZDBjMWIwYmIxMiZjdD1n/l46CyJmS9KUbokzsI/giphy.gif)
 published: false
 
 ---
