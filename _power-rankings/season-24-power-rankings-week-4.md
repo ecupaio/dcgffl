@@ -43,7 +43,7 @@ rankings:
   text: |-
     Fernando: While I was cussing up a storm for giving Tony Stuart a high five, I saw that y’all were having a cute little game against Daffodilfs and won in overtime. But let’s be honest: you only won in overtime when they had an injured Hotchkiss??? It should have gone more like this:
 
-    ![](https://media.giphy.com/media/TPe1Tey5tX0li/giphy.gif)
+    ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ0ZmRjMmM0MTVmYjI5NzM5YmMwNmI0NWZlYmNmODJmNzRiMGQ3OCZjdD1n/26n6Mr1bkvZNAJup2/giphy.gif)
 - team: _teams/s24-maroon.md
   record: 2-2
   text: "Fernando: You get a mistake. And you get a mistake. We all get mistakes.
