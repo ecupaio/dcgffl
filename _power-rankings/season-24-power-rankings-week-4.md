@@ -41,7 +41,7 @@ rankings:
 - team: _teams/s24-carolina-blue.md
   record: 3-1
   text: |-
-    Fernando: While I was cussing up a storm for giving Tony Stuart a high five, I saw that y’all were having a cute little game against Daffodilfs and won in overtime. But let’s be honest: you only won in overtime when they had an injured Hotchkiss??? It should have gone more like this:
+    Fernando: While I was cussing up a storm for giving Tony Stewart a high five, I saw that y’all were having a cute little game against Daffodilfs and won in overtime. But let’s be honest: you only won in overtime when they had an injured Hotchkiss??? It should have gone more like this:
 
     ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ0ZmRjMmM0MTVmYjI5NzM5YmMwNmI0NWZlYmNmODJmNzRiMGQ3OCZjdD1n/26n6Mr1bkvZNAJup2/giphy.gif)
 - team: _teams/s24-maroon.md
@@ -108,7 +108,7 @@ rankings:
 
     ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkwMjg0NWIxNGJjYTJjNDU1ZGZlY2ViNzA2ODZlZDI5ZWI3ODAwMCZjdD1n/8YvpBXtbbsdpcfcIvy/giphy.gif)
 
-    Fernando: I mean let’s look at the teams they beat. I will say Ben was looking good out there and Oriya was showing why he was their first pick (even when he won’t be here for playoffs). But I guess this is what they wanted:
+    Fernando: I mean let’s look at the teams they beat. I will say Ben was looking good out there and Oriya was showing why he was one of their top pick (even when he won’t be here for playoffs). But I guess this is what they wanted:
 
     ![](https://lh6.googleusercontent.com/zkTs4ob8nFYLgRig4sXHn4adDGJRBnlhXlVNHu-mu1v5jMrQRimBkQ1w1yG7R2iSdS7r-Gug_xe5wy1nnSY4dpAuN2yLoCFpuPTBtIcSGCrAzorJR4M3c0rb02_2WsXPfwG9-GKHIOCf-xs-sBy1ng =624x347)
 - team: _teams/s24-concrete-grey.md
