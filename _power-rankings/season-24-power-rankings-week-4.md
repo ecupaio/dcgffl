@@ -35,7 +35,7 @@ rankings:
 - team: _teams/s24-silver.md
   record: 3-1
   text: |-
-    He’s back. The Jedi master has returned. I only imagine they are saying “thank Yeezus!” because I don’t think they could survive another game with Marv being QB.
+    He’s back. The Jedi master has returned. I only imagine they are saying “thank goodness!” because I don’t think they could survive another game with Marv being QB.
 
     ![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 - team: _teams/s24-carolina-blue.md
