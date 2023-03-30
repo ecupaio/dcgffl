@@ -40,8 +40,8 @@ The Travel Program is managed by the Travel Management Committee (TMC) with over
 
 The 2023 Travel Committee is represented by the captains:
 
-* Senators Black - Nikki Kasparek
-* Senators Red - Nik Battaglia
+* Women's+ Senators Black - Nikki Kasparek
+* Women's+ Senators Red - Nik Battaglia
 * Open Division A - Jordan A.
 * Open Division A - Bryan Sanders
 * Open Divison B - Trey P.
