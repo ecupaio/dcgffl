@@ -42,9 +42,9 @@ The 2023 Travel Committee is represented by the captains:
 
 * Women's+ Senators Black - Nikki Kasparek
 * Women's+ Senators Red - Nik Battaglia
-* Open Division A - Jordan A.
-* Open Division A - Bryan Sanders
-* Open Divison B - Trey P.
+* DC Elite - Open Division A - Jordan A.
+* DC Admirals - Open Division A - Bryan Sanders
+* DC Commanders - Open Divison B - Trey P.
 * Open Division C - Vacant
 
 Independent Member and Committee Chair – Kevin Smiffy  
