@@ -1,6 +1,6 @@
 ---
 location: _locations/carter-baron.md
-title: S24 Week 6- Navy vs Tropic Blue
+title: S24 Week 6- Navy Blue vs Tropic Blue
 teams-score:
 - team: _teams/s24-navy.md
   score: 
