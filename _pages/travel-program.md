@@ -38,12 +38,16 @@ In 2019 we fielded 1 women’s team (Senators in A division) and 4 Open Division
 
 The Travel Program is managed by the Travel Management Committee (TMC) with oversight by the DCGFFL Board. The TMC is made up of one representatives from each active team, an independent administrator, and a liaison to the DCGFFL Board. Team representatives are chosen annually by the teams after the teams have been drafted, and the independent member is selected by a popular vote by anyone that registered for the current Travel season.
 
-In the transitional COVID-19 period, the Travel Committee is represented by the captains:
+The Travel Committee is represented by the captains:
 
-Senators – Nikki Kasparek  
-Generals – Marvin Washington  
-Admirals – Bryan Sanders  
-Commanders – Clay Arnold
+Senators Black - Nikki Kasparek
+
+Senators Red - Nik Battaglia  
+Open Division A – Jordan A.  
+Open Division A – Bryan Sanders  
+Open Division B – Trey P.
+
+Open Division C - Vacant
 
 Independent Member and Committee Chair – Kevin Smiffy  
 DCGFFL Liaison – Patrick Barboun
