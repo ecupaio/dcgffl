@@ -11,7 +11,7 @@ date: 2023-04-02 09:00:00 -0400
 season: 24
 week: 5
 mvp: Bryan Sanders, Tyler Lewis
-game-ball: Brandon Benjamin, Christopher Daniel
+game-ball: Matthew Perez, Christopher Daniel
 sportsperson: Adam Strasberg, Douglas Nmagu
 
 ---
