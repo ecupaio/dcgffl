@@ -1,7 +1,11 @@
 ---
 date: 2023-03-29 10:40:37 -0400
 title: 'Season 24 Power Rankings: Week 5'
-author: Aaron S.
+author: Aaron S. - Well, fam, we’ve reached the midpoint of spring season, and the
+  cream has risen to the top. Rather than a staid ranking list, let’s turn toward
+  Sunday and take a peek at what’s in each team’s Easter basket! Enjoy your bye weekend,
+  footballers, and we’ll see everyone at the midseason party at Salazar on Thursday,
+  April 13, and back on the fields Sunday, April 16th at 9am.
 season: 24
 week: 5
 rankings:
