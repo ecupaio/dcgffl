@@ -1,138 +1,118 @@
 ---
 date: 2023-03-29 10:40:37 -0400
 title: 'Season 24 Power Rankings: Week 5'
-author: Derrick Holt and Fernando H.
+author: Aaron S.
 season: 24
-week: 4
+week: 5
 rankings:
-- team: _teams/s24-tropic-blue.md
-  record: 3-1
-  text: "Fernando: To save Derrick H from attacks, yes I’m the anti-hero. But facts
-    are facts, America! They kept it close without Mark and J Bear and only lost by
-    2 touchdowns. Ben and Danny connecting on some long passes. Daniel blocking and
-    catching. PLUS they added a threat from the supplemental. Have everyone together
-    and they will continue winning. But as I said, facts are facts. Barely any pressure
-    on Cam like last week. The constant fear that Danny will get an interference call
-    when he can’t block a good receiver. If you need your more experienced (\U0001F618)
-    players to win, then yea. You will lose.\n\nBut yes, I just did this. Was good
-    bbz? Pull up."
-- team: _teams/s24-neon-pink.md
-  record: 5-0
-  text: |-
-    Fernando: You did what needed to be done, but it shouldn’t have been this close at all. They were without key players. Like no sacks, really? Baby, when you match up with Dom Trops in the playoff, it’s going to be a mess like a shirtless Derrick Johnson at Kiki dancing in the new second-floor patio on the Sunday Funday that just passed.
-
-    ![](https://media.giphy.com/media/XIse2rqf1RlToHmpCu/giphy.gif)
-
-    (Live your best life, baby!)
 - team: _teams/s24-white.md
-  record: 5-0
-  text: "Fernando: Compared to other writers, I don’t have and will not spend time
-    talking about JC. Plus, me and last season’s Purple teammates know Twon **loved**
-    this win.\n\n![](/img/screen-shot-2023-03-29-at-11-21-08-am.png)  \nBut also,
-    you know you shouldn’t have given them hope. This win was not amusing."
-- team: _teams/s24-silver.md
-  record: 3-1
+  record: 6-0
   text: |-
-    He’s back. The Jedi master has returned. I only imagine they are saying “thank goodness!” because I don’t think they could survive another game with Marv being QB.
+    3 TDs and a sack by Twon; a TD from last week’s Player-of-the-Week, Munroe; an extra point and a sack by Noah; 2 INTs and an extra point from shirt-always-in-tatters Kirk. This undefeated team is clearly more than its QB and his jawline. I suspect the Easter bunny will be particularly kind to them this weekend bringing sunshine, a short Sunday service, and a very lit and celebratory Easter brunch
 
-    ![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
-- team: _teams/s24-carolina-blue.md
-  record: 3-1
+    ![](https://media.giphy.com/media/lYevwCwCSlfIA/giphy.gif)
+- team: _teams/s24-neon-pink.md
+  record: 6-0
   text: |-
-    Fernando: While I was cussing up a storm for giving Tony Stewart a high five, I saw that y’all were having a cute little game against Daffodilfs and won in overtime. But let’s be honest: you only won in overtime when they had an injured Hotchkiss??? It should have gone more like this:
+    I will say that Derrick knows how to coach and Cam knows how to spread the ball around. Making sure all of your players get on the stat sheet is a goal other teams should consider adopting. (Keep scrolling for further info.) But, I can’t let it go unsaid that “strength of schedule” is an important point to keep in mind, as this team hasn’t faced an opponent that was firing on all cylinders. As for their Easter basket, well, with custom t-shirts featuring PrEPpa Pig, membership cards with the schedule listed on it, and a revolving door of hype supporters, I’m not sure what more they could possibly want. TSwift Eras tickets? Renaissance tickets? An upcoming stay at the White Lotus in Thailand where they have to reconcile their privilege while ensconced in a five star resort and embroiled in psychosexual drama with the other guests, perhaps? Let’s manifest that for our 2nd undefeated team this season.
 
-    ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ0ZmRjMmM0MTVmYjI5NzM5YmMwNmI0NWZlYmNmODJmNzRiMGQ3OCZjdD1n/26n6Mr1bkvZNAJup2/giphy.gif)
-- team: _teams/s24-maroon.md
-  record: 2-2
-  text: "Fernando: You get a mistake. And you get a mistake. We all get mistakes.
-    But seriously, we need to stop having these mistakes. Derrick is becoming good
-    on both sides of the ball and will be a threat. No one can touch Andy because
-    of Obie and Kozak. We have the best sidelines. We need to get it together. That
-    being said, being the league leader in roughing the quarterback ain’t it \U0001FAE1.\n\nP.S.
-    Derrick: I think my favorite moment of the weekend was like an hour after our
-    game and someone asked me if we had a second one. When I said no they responded
-    “Then why are so many of you still here??” We were hydrating, snacking, and being
-    jovial. PERIOD!\n\n![](https://media.giphy.com/media/MF12HtlamewVic5j16/giphy.gif)"
+    ![](https://coconuts.co/wp-content/uploads/2017/04/lindsay2-800x540.jpg)
+- team: _teams/s24-tropic-blue.md
+  record: 5-1
+  text: |-
+    Their double-header this weekend was a pretty dominant showing, making it look easy against Orange and Silver. If they continue on this streak, we’re definitely looking at another Final Four appearance for Mark and Ben. With Hofberg as the captain, this team probably doesn’t get an “Easter Basket” this weekend; it’s more along the lines of a “Seder Sack.” And I’d wager they’re getting some excellent matzo ball soup, kugel, and brisket, and, if they eke out a championship, Steslicki will host a seder in his new house (read: condo) in PTown. Live look at the team arriving:
+
+    ![](http://i.imgur.com/d0rhNTN.jpg)
 - team: _teams/s24-atomic-blue.md
-  record: 3-2
+  record: 4-2
   text: |-
-    Derrick: This team’s two losses have come against the teams leading their respective divisions at 5-0 (White, Super Pink). This team is good, but time will tell if they can find one more gear and become great.
+    I honestly thought this game against Red would look like Republicans melting down at the mere mention of a social welfare program at the State of the Union, but it was surprisingly calm and cool headed. I hope their Easter basket is full of fun little treats. They earned it!
 
-    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc0MTY4OWNmMzhkMjIyZDFhZDQ1Njk3ODUxYjUyMDA2YjE4NDc4ZiZjdD1n/l1J9O9elEvuRjMyXu/giphy.gif)
-- team: _teams/s24-navy.md
-  record: 2-2
+    ![](https://media.tenor.com/ogR3K7syYKoAAAAC/have-a-little-treat-choyce-brown.gif)
+- team: _teams/s24-silver.md
+  record: 4-2
   text: |-
-    Derrick: This team is wildly inconsistent. We’re reaching the point of the season where teams are starting to cement their identity but I really don’t know which side of this team we’ll get moving forward. Is it the one that looked unstoppable and scored 71 points in week one, or the team that lost to a formidable Atomic Blue three weeks later?
+    After being gifted a new (old) QB things are certainly looking up for this team. Though, I’m not sure he’s the one who has made all the difference as Everett and Cammas seem to be the ones all over the stat sheet. Maybe in this team’s Easter basket will be some wristbands with plays for their receiving corps so they’re not all scattering like dogs at the dog park at 5pm when the ball is in the air. And maybe something else besides a hazy IPA in the team cooler.
 
-    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzAyMmRhYTM5MWNmMjk3ZGY3NmIxYzJjMTEzOTQyYWRlNDA4YTI4ZiZjdD1n/qhoABJOROS9kQ/giphy.gif)
-- team: _teams/s24-red.md
-  record: 1-2-1
+    ![](https://media.giphy.com/media/b1iLVclGwy2fZReVbX/giphy.gif)
+- team: _teams/s24-carolina-blue.md
+  record: 3-3
   text: |-
-    Fernando: Oh, I know Aldrian **hated** this loss. I mean yea, they fought back, which was shocking and cute. I’m surprised Tracy hasn’t ejected Aldrian out of a game like Twon almost did last season. Poor Gordito was the only one ejected.
+    Truth be told, Matt was better at captaining his own birthday boat cruise this weekend than his team’s double-header on Sunday. 0-2 is tough, but they kept White on the ropes until the end. This team is coming to the back-half of the season battle-tested and ready. Their Easter basket will be full of determination, Shaq’s screams, and shots of Deep Eddy’s Grapefruit vodka.
 
-    ![](https://media.giphy.com/media/hritWRtJ9FuFr38Z0b/giphy.gif)
-- team: _teams/s24-forest-green.md
-  record: 1-2-1
-  text: |-
-    Fernando: Man, they are fighting. After everything that has played out, I know they are going to have a glow-up. I know Binder will make sure of it.
-
-    ![](https://media.giphy.com/media/oqwsns7qHCEi4/giphy.gif)
-- team: _teams/s24-kelly-green.md
-  record: 2-2
-  text: |-
-    Fernando: Based on what I saw, things are moving on up. I read the other writer’s comments and I think I’m starting to see things clicking. I mean how could they not? I mean Jim is a good QB. He only tells you who he’s planning to throw to with his eyes.
-
-    ![](https://media.giphy.com/media/BPHyldtsHgT4VxOLJG/giphy.gif)
-- team: _teams/s24-gold.md
-  record: 1-3
-  text: |-
-    Hotchkiss! Tell Zach Brown that we said hey. We also hope he takes you to go get your injury checked because it shouldn’t be multiple colors.
-
-    ![](https://media.giphy.com/media/3orieRD38kWpq422UU/giphy.gif)
-- team: _teams/s24-royal-blue.md
-  record: 1-3
-  text: |-
-    Derrick: Getting that first win is always such a good feeling. You’re a bit looser going into the next week. Some of the pressure is gone. And, with a matchup against a currently-middling Yellow next week, there is a real chance they could start a little streak here.
-
-    ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxODNmMjdlMWY5YjA4NTFjZTcxMWE2M2Y2NGJkYzMwN2ZkZDllMiZjdD1n/mq750zqfwZFYPP0PfW/giphy.gif)
+    ![](https://media.tenor.com/wq8WsEKqgDUAAAAC/boat-im-on-a-boat.gif)
 - team: _teams/s24-neon-orange.md
+  record: 3-3
+  text: |-
+    I’m not sure this team really wants me talking about their game against Tropic, so I won’t. I will, however, discuss Chris’ tear-away moment on the field, and Lamar’s glower from the sidelines, signaling that he should put some clothes on. This team has certainly exceeded expectations, but you wouldn’t know that if you talked to many of its members–such a chip on their shoulders! Hopefully, their Easter basket is full of chill, but it will likely just be full of McEvoy’s passive aggressive IG comments on DCGFFL posts.
+
+    ![](https://media.giphy.com/media/l0Iy9QDknmI6b8V5S/giphy.gif)
+- team: _teams/s24-maroon.md
   record: 3-2
   text: |-
-    Derrick: Fernando, what are you doing? Putting this team all the way down here and then leaving their power ranking blank? This is a personal attack against me.
+    I imagine spring is THEE season for the Diva Cups–what with it being a time for renewal, growth, vitality, and fertility. Their Easter basket will be full of more eco-friendly sanitary products and a copy of the Elements of Style by Strunk and White for Fernando and Derrick.
 
-    Anyway, the throwback Fanta logo patches on the jerseys were a nice little touch and ca-yute! Chris vs Lamar was fun to watch and Oriya had some wild catches, thriving in his first season not playing QB. Chris did get everyone the aforementioned patches and they went 2-0 on the day. That’s a solid Sunday.
-
-    The gif below is dedicated to Fernando:
-
-    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkwMjg0NWIxNGJjYTJjNDU1ZGZlY2ViNzA2ODZlZDI5ZWI3ODAwMCZjdD1n/8YvpBXtbbsdpcfcIvy/giphy.gif)
-
-    Fernando: I mean let’s look at the teams they beat. I will say Ben was looking good out there and Oriya was showing why he was one of their top pick (even when he won’t be here for playoffs). But I guess this is what they wanted:
-
-    ![](/img/screen-shot-2023-03-29-at-11-22-15-am.png)
-- team: _teams/s24-concrete-grey.md
-  record: 1-3
+    ![](https://media.giphy.com/media/Okjf5JzjxIj1WQsSMU/giphy.gif)
+- team: _teams/s24-navy.md
+  record: 3-2
   text: |-
-    Fernando: If you are in Concrete Grey and you are reading this, you need to mind your own business and start wondering who’s going to be your QB next week because y’all need to get something going.
+    In this team’s Easter basket is, hopefully, their captain who has returned from his luxurious vacation home in Nantucket and some better sideline music than TikTok sea shanties and Flogging Molly cover songs. Besides, if it’s going to be any Irish bop, it should be B*Witched’s C’est la Vie.
 
-    ![](/img/screen-shot-2023-03-29-at-11-23-15-am.png)
-- team: _teams/s24-neon-yellow.md
-  record: 1-3
+    ![](https://media.tenor.com/tBmZO3qAooEAAAAd/bwitched-cest-la-vie.gif)
+- team: _teams/s24-kelly-green.md
+  record: 3-2
   text: |-
-    Fernando: Alright Daniel D., you said no twink jokes so let’s have an honest conversation. You have little Mike, Dan King, Kev, Tyler, Chris, and the rest of the DCGBL. Your team shouldn’t be struggling like this. Focus on your throwing accuracy because you’re making Uncle Rico look like an elite quarterback.
+    I, like Gwyneth in Park City, lost half a day skiing thinking about this team. I really want there to be something of flavor in their Easter basket.
 
-    ![](https://media.giphy.com/media/MrptWgpDxWaWI/giphy.gif)
-- team: _teams/s24-purple.md
+    ![](https://media.tenor.com/J4hPaF6S4gUAAAAC/flavor-yum.gif)
+- team: _teams/s24-royal-blue.md
+  record: 2-3
+  text: |-
+    Every time I saw Evan R run out or catch a deep pass, all I could think about is how that’s one of the best slow moving, injured cones and linebackers I think I’ve seen in this League. I bet there’s going to be a calculator in their Easter basket.
+
+    ![](https://media.tenor.com/a9o9qWME69IAAAAM/it-just-doesnt-add-up-mon%C3%A9t-x-change.gif)
+- team: _teams/s24-red.md
+  record: 2-3-1
+  text: |-
+    This team is looking forward to an Easter basket full of competent in-the-pocket decision making by Aldrian, fun defensive plays like rushing 7, and bouquets of apology flowers for the wives of this team of straight dads because otherwise there’s no way they’re playing on Mother’s Day.
+
+    ![](https://i.gifer.com/CL1P.gif)
+- team: _teams/s24-forest-green.md
+  record: 1-3-1
+  text: |-
+    Much like Hofberg’s team, Binder will make sure his team’s Seder sack is full of vitamins, Austin’s positivity, and a Michelle Obama motivational speech because we are in desperate need of some inspiration.
+
+    ![](https://media3.giphy.com/media/3oriNZqiGSEZN5dMSA/source.gif)
+- team: _teams/s24-gold.md
   record: 1-4
   text: |-
-    Derrick: A one-possession loss against Fanta-sies stings. Three of their five losses on the season have been by one possession. Gather yourselves soon so this season doesn’t become a big ole stain!
+    A truancy notice for this team’s QB awaits him in their Easter basket along with a subscription to _Defector_ and a copy of Feldman’s _The Making of Modern Quarterbacks_ for Chico. Paul W also deserves something nice from the Easter bunny as this is 2 seasons in a row he’s had a QB abandon him. It’s not you, Paul; it’s them!
 
-    ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc0NjlkMzRkMTE5ZWI0ZWY0ZTVmNzlmYTI1NzI3OWI2MTgzMmZiNCZjdD1n/5u0l0wgfsxxnniwuff/giphy.gif)
+    ![](https://media.tenor.com/vn55AMUM6MkAAAAC/you-cant-leave-sam.gif)
+- team: _teams/s24-purple.md
+  record: 1-5
+  text: |-
+    Jim talked for so long during a defensive huddle that the plums were not set when Silver snapped the ball, and Marvin was already sprinting for the endzone. This team’s Easter basket should be filled with active listening skills and a pithier defensive lead.
+
+    ![](https://media3.giphy.com/media/3o7btPYdF4ZHHgMfGU/giphy.gif)
+- team: _teams/s24-concrete-grey.md
+  record: 1-5
+  text: |-
+    Will this team’s QB even be playoff eligible? Do they have any other receivers besides Alex P? Will Miss Jazzmin St. James ever make it to the game on time? This team’s Easter basket should be filled with answers and some introspection.
+
+    ![](https://media.tenor.com/ab4EUraWGE8AAAAM/i-just-want-answers-cardi-b.gif)
+- team: _teams/s24-neon-yellow.md
+  record: 1-4
+  text: |-
+    Kevin, Tyler, and Jeff played like the rent was due against Royal. Their Easter basket will be filled with eviction notices for the rest of the team.
+
+    ![](https://media.tenor.com/cfpOreGcbVYAAAAM/i-need-you-to-vacate-the-premises-maurice.gif)
 - team: _teams/s24-olive.md
   record: 0-5
   text: |-
-    Derrick: This team has too much talent to be winless. I saw some flashes on Sunday, and while this ranking is fair for now, I’m keeping an eye on what the Pit Crew is building moving forward.
+    This team’s Easter basket will have marshmallow peeps (derogatory).
 
-    ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI1NWZmNjYxNjdlZjVhYjE3Yjc2NjcyZGY0MDQ4ZDBjMWIwYmIxMiZjdD1n/l46CyJmS9KUbokzsI/giphy.gif)
+    ![](https://media.giphy.com/media/3o7btRdYBlXbv7Lt0Q/giphy.gif)
 published: false
 
 ---
