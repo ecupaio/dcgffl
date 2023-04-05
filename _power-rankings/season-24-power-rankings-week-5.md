@@ -113,6 +113,5 @@ rankings:
     This team’s Easter basket will have marshmallow peeps (derogatory).
 
     ![](https://media.giphy.com/media/3o7btRdYBlXbv7Lt0Q/giphy.gif)
-published: false
 
 ---
