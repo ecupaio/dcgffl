@@ -1,6 +1,6 @@
 ---
 location: _locations/brentwood.md
-title: S01 Women's+ Semifinals - Red vs Blue
+title: S01 Women's+ Semifinals - Black vs Purple
 teams-score:
 - team: _teams/s1-women-s-red.md
   score: 
