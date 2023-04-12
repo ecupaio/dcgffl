@@ -1,5 +1,5 @@
 ---
-title: 'S01 Women''s+ - Red '
+title: S01 Women's+ - Red (Periodt)
 name: ''
 color: Red
 season: 24
