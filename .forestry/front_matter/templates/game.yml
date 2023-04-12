@@ -71,6 +71,7 @@ fields:
   name: sportsperson
   label: Sportsperson
 pages:
+- _games/s01-women-s-championship-black-vs-red.md
 - _games/s01-women-s-semifinals-black-vs-purple.md
 - _games/s01-women-s-semifinals-red-vs-blue.md
 - _games/s01-women-s-week-2-black-vs-red.md
