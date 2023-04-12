@@ -1,5 +1,5 @@
 ---
-title: S01 Women's+ - Purple
+title: S01 Women's+ - Purple (Purple Reign)
 name: ''
 color: Purple
 season: 24

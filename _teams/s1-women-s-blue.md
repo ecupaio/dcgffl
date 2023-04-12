@@ -1,5 +1,5 @@
 ---
-title: S01 Women's+ - Blue
+title: S01 Women's+ - Blue (Blue-Ty-Licious)
 name: ''
 color: Blue
 season: 24

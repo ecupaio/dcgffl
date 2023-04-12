@@ -1,5 +1,5 @@
 ---
-title: S01 Women's+ - Black
+title: S01 Women's+ - Black (Dark Side of the Boob)
 name: ''
 color: Black
 season: 24
