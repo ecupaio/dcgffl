@@ -1,24 +1,24 @@
 ---
 title: S24 Rec Mint
 name: ''
-color: Yellow
+color: Mint
 season: 24
 photo: ''
-captain: Tony Britford
-quarterback: Drew C.
+captain: Chris Riotta-Rogers
+quarterback: Lamar Riotta-Rogers
 members:
-- Dwaylan Applewhite
-- Tony Bliss
-- "Britt\tC."
-- JC Chiuco
-- JP Hooth
-- Zach Huete
-- Toya J.
-- Michael LaMarco
-- Eddie M.
-- Daniel P.
-- Ashley S.
-- Harry Suchyta
+- Christine Hohl
+- Adam Maisel
+- Aubrie Odell
+- Nicole Battaglia
+- Randy Snight
+- Ramsey Rodriguez Vergara
+- Kendrick Daniel
+- Alberto Gonzalez
+- Seaton C.
+- Samuel Brown
+- Hannah B.
+- "Ruthanne\tB."
 division: ''
 published: false
 
