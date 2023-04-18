@@ -1,5 +1,5 @@
 ---
-title: S24 Rec Baby Blue
+title: S24 Rec Yellow
 name: ''
 color: Baby Blue
 season: 24
