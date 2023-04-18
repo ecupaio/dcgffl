@@ -19,6 +19,5 @@ members:
 - Travis Winston
 - Kirk Y.
 division: ''
-published: false
 
 ---

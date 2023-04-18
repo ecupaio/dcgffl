@@ -20,6 +20,5 @@ members:
 - Ashley S.
 - Harry Suchyta
 division: ''
-published: false
 
 ---

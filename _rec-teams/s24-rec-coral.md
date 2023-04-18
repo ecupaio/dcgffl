@@ -19,6 +19,5 @@ members:
 - David T.
 - Sophie Y.
 division: ''
-published: false
 
 ---

@@ -20,6 +20,5 @@ members:
 - Anthony Sacco
 - Meghanne T.
 division: ''
-published: false
 
 ---

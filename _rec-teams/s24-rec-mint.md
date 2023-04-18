@@ -20,6 +20,5 @@ members:
 - Hannah B.
 - "Ruthanne\tB."
 division: ''
-published: false
 
 ---
