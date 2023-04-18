@@ -12,6 +12,6 @@ season: 24
 week: 6
 mvp: Brian Hotchkiss, Joe Owens
 game-ball: Francisco H., Ashley S.
-sportsperson: Jack Backers, Travis Meuwissen
+sportsperson: Jake Backers, Travis Meuwissen
 
 ---
