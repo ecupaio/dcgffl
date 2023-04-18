@@ -1,24 +1,24 @@
 ---
 title: S24 Rec Yellow
 name: ''
-color: Baby Blue
+color: Yellow
 season: 24
 photo: ''
-captain: Aaron Sayama
-quarterback: Sean Karson
+captain: Tony Britford
+quarterback: Drew C.
 members:
-- Austin A.
-- Brandon C.
-- Christopher Goodale
-- Dinora H.
-- Joseph Heron
-- Dominique Lee
-- Obie McNair
-- Joey P.
-- "Cameron\tRhode"
-- John Riley
-- Anthony Sacco
-- Meghanne T.
+- Dwaylan Applewhite
+- Tony Bliss
+- "Britt\tC."
+- JC Chiuco
+- JP Hooth
+- Zach Huete
+- Toya J.
+- Michael LaMarco
+- Eddie M.
+- Daniel P.
+- Ashley S.
+- Harry Suchyta
 division: ''
 published: false
 
