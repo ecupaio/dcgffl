@@ -1,5 +1,5 @@
 ---
-title: S24 Rec Pink
+title: S24 Rec Baby Blue
 name: ''
 color: Pink
 season: 24
