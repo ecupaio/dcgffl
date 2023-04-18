@@ -7,7 +7,7 @@ photo: "/img/team-gold.jpg"
 captain: Jorge Membreño
 quarterback: Brian Hotchkiss
 members:
-- Jack Backers
+- Jake Backers
 - Gino B.
 - Ramsey R.
 - Francisco H.
