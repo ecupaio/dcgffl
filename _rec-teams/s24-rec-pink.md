@@ -1,5 +1,5 @@
 ---
-title: S24 Rec Coral
+title: S24 Rec Pink
 name: ''
 color: Coral
 season: 24
