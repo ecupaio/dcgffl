@@ -117,7 +117,7 @@ rankings:
   text: |-
     **Pete:** These Grays started out high end, showing a really strong D, with a try INT by Linda and a relentless rush by Tom + Bradley. But while their O came out guns blazing in the first half, in Act 2 they slipped, hit their head unceremoniously on the rail, and sank to the depths of a Royal Blue sea.
 
-    [tanya-take-the-stairs-v0-5rf4lmi3xz5a1.png?width=640&crop=smart&auto=webp&s=990901afc1a40bca52a7bab8e938278f6dcd06bc](https://preview.redd.it/tanya-take-the-stairs-v0-5rf4lmi3xz5a1.png?width=640&crop=smart&auto=webp&s=990901afc1a40bca52a7bab8e938278f6dcd06bc "tanya-take-the-stairs-v0-5rf4lmi3xz5a1.png?width=640&crop=smart&auto=webp&s=990901afc1a40bca52a7bab8e938278f6dcd06bc")
+    ![](/img/tanya-take-the-stairs-v0-5rf4lmi3xz5a1.png)
 - team: _teams/s24-gold.md
   record: 1-6
   text: |-
