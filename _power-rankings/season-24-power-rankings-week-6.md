@@ -135,6 +135,5 @@ rankings:
     us to become this league’s top power couple. I cannot have one-half of this relationship
     in the bottom of the rankings week after week. I can only single-handedly carry
     _this_ team on my back for so long, so do your part and carry _your_ team on yours.\n\n![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFmZGI5ZjAzMzdhMzRiMGUwMmM2YjlkNmYxYjI1MGJiNmRmZTA0ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QajnsRHmCKqjWjr37z/giphy.gif)"
-published: false
 
 ---
