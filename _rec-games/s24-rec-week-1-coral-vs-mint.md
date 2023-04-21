@@ -3,7 +3,7 @@ location: _locations/brentwood.md
 title: S24 Rec Week 1 - Coral vs Mint
 week: 1
 season: 24
-date: 2022-04-29 20:00:00 -0400
+date: 2023-04-21 20:00:00 -0400
 mvp: ''
 game-ball: ''
 sportsperson: ''
