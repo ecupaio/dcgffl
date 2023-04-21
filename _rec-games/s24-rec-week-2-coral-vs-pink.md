@@ -12,6 +12,6 @@ teams-score:
   score: 
 - team: _rec-teams/s24-rec-pink.md
   score: 
-field: 2
+field: 1
 
 ---
