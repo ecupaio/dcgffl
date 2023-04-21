@@ -13,6 +13,5 @@ teams-score:
 - team: _rec-teams/s24-rec-yellow.md
   score: 
 field: 1
-published: false
 
 ---
