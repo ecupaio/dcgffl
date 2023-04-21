@@ -8,7 +8,7 @@ author: 'Pete D. and Chris RR. - DCGFFL is in her Reunion Era.  We’re all back
   the Lotus after their bye week, and which teams stayed flat and unleavened? Which
   teams best tolerate mixed metaphors and religious holidays? Let’s dive right in. '
 season: 24
-week: 6
+week: 7
 rankings:
 - team: _teams/s24-white.md
   record: 7-0
