@@ -8,11 +8,10 @@ mvp: ''
 game-ball: ''
 sportsperson: ''
 teams-score:
-- team: _rec-teams/s24-rec-coral.md
+- team: _rec-teams/s24-rec-baby-blue.md
   score: 
-- team: _rec-teams/s24-rec-yellow.md
+- team: _rec-teams/s24-rec-pink.md
   score: 
 field: 2
-published: false
 
 ---
