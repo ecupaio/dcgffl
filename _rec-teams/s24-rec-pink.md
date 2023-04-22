@@ -3,7 +3,7 @@ title: S24 Rec Pink
 name: ''
 color: Pink
 season: 24
-photo: ''
+photo: "/img/img_7820.jpeg"
 captain: "Pete\tD."
 quarterback: "Paul\tWhitney"
 members:
