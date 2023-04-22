@@ -3,7 +3,7 @@ title: S24 Rec Coral
 name: ''
 color: Coral
 season: 24
-photo: ''
+photo: "/img/img_0051.jpeg"
 captain: Patrick Barboun
 quarterback: Francisco H.
 members:

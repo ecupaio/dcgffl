@@ -3,7 +3,7 @@ title: S24 Rec Baby Blue
 name: ''
 color: Baby Blue
 season: 24
-photo: ''
+photo: "/img/img_0054.jpeg"
 captain: Aaron Sayama
 quarterback: Sean Karson
 members:
