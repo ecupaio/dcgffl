@@ -3,7 +3,7 @@ title: S24 Rec Mint
 name: ''
 color: Mint
 season: 24
-photo: ''
+photo: "/img/img_0048.jpeg"
 captain: Chris Riotta-Rogers
 quarterback: Lamar Riotta-Rogers
 members:
