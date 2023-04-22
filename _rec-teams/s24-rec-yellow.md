@@ -3,7 +3,7 @@ title: S24 Rec Yellow
 name: ''
 color: Yellow
 season: 24
-photo: ''
+photo: "/img/img_0057.jpeg"
 captain: Tony Britford
 quarterback: Drew C.
 members:
