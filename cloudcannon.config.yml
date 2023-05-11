@@ -461,7 +461,7 @@ collections_config:
     name: Teams
     path: _teams
     schemas:
-      default: *ref_1
+      default: .cloudcannon/schemas/team.md
 collection_groups:
   - heading: Content
     collections:
