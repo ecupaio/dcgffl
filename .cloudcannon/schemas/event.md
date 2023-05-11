@@ -6,7 +6,7 @@ time:
 button:
   text: ''
   link: ''
-  visible: true
+  visible: false
 location:
   name: ''
   address: ''
