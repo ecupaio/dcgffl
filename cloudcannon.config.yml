@@ -461,7 +461,12 @@ collections_config:
     name: Teams
     path: _teams
     schemas:
-      default: .cloudcannon/schemas/team.md
+      default: 
+        path: .cloudcannon/schemas/team.md
+        name: Team
+        _inputs: 
+          color: 
+            type: text
 collection_groups:
   - heading: League
     collections: 
