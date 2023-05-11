@@ -1,7 +1,7 @@
 ---
 title: ''
 teams-score: []
-location: ''
+location: []
 field: ''
 date:
 season:
