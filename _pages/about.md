@@ -1,4 +1,5 @@
 ---
+_schema: about
 title: About
 permalink: "/about/"
 content-id: about-page

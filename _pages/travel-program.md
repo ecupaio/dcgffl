@@ -1,4 +1,5 @@
 ---
+_schema: travel-program-page
 title: Travel Program
 layout: travel-program
 permalink: "/travel-program/"

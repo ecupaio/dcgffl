@@ -1,0 +1,654 @@
+collections_config:
+  events:
+    name: Events
+    path: _events
+    schemas:
+      default:
+        path: .cloudcannon/schemas/event.md
+        name: Event
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.time:
+            type: text
+          $.location.zip:
+            type: number
+  games:
+    name: Games
+    path: _games
+    schemas:
+      default:
+        path: .cloudcannon/schemas/game.md
+        name: Game
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.teams-score
+          $.location:
+            type: multiselect
+            options:
+              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              value_key: content_path
+          $.date:
+            label: Date/Time
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.game-ball:
+            label: Gameball
+  locations:
+    name: Locations
+    path: _locations
+    schemas:
+      default:
+        path: .cloudcannon/schemas/location.md
+        name: Location
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.zip:
+            type: number
+  news:
+    name: News
+    path: _posts
+    schemas:
+      default:
+        path: .cloudcannon/schemas/news.md
+        name: News
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.date:
+            instance_value: NOW
+            comment: ''
+          $.attachments:
+            type: array
+            options:
+              structures: _structures.attachments
+  pages:
+    name: Pages
+    path: _pages
+    schemas:
+      default:
+        path: .cloudcannon/schemas/basic-page.md
+        name: Basic Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.permalink:
+            comment: >-
+              Just add the path with slashes at the beginning and end. Ex:
+              /about/
+          $.layout:
+            hidden: true
+      home-page:
+        path: .cloudcannon/schemas/home-page.md
+        name: Home page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.hero.placeholder:
+            type: file
+          $.play-options:
+            type: array
+            label: Play section
+            options:
+              structures: _structures.play-options
+      league-page:
+        path: .cloudcannon/schemas/league-page.md
+        name: League Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.schedule.no-games:
+            type: markdown
+            label: No games text
+      awards-page:
+        path: .cloudcannon/schemas/awards-page.md
+        name: Awards Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.awards:
+            type: array
+            options:
+              structures: _structures.awards
+      board-page:
+        path: .cloudcannon/schemas/board-page.md
+        name: Board Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.hero.text:
+            type: markdown
+          $.members.list:
+            type: array
+            options:
+              structures: _structures.list
+          $.elections.open:
+            comment: >-
+              election status toggle. On to display display this section, Off to
+              hide
+          $.bylaws-minutes.bylaws.text:
+            type: markdown
+          $.bylaws-minutes.minutes.seasons:
+            type: array
+            options:
+              structures: _structures.seasons
+      about:
+        path: .cloudcannon/schemas/about.md
+        name: About Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.locations.items:
+            type: multiselect
+            label: Locations List
+            options:
+              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              value_key: content_path
+          $.faq.items:
+            type: array
+            label: Questions/Answers
+            options:
+              structures: _structures.items
+      events-page:
+        path: .cloudcannon/schemas/events-page.md
+        name: Events page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+      news-page:
+        path: .cloudcannon/schemas/news-page.md
+        name: News Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+      past-seasons-page:
+        path: .cloudcannon/schemas/past-seasons-page.md
+        name: Past Seasons Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+      schedule-page:
+        path: .cloudcannon/schemas/schedule-page.md
+        name: Schedule Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+      travel-program-page:
+        path: .cloudcannon/schemas/travel-program-page.md
+        name: Travel Program Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.hero.images[*]:
+            type: image
+          $.hero.images:
+            type: array
+      playoffs-page:
+        path: .cloudcannon/schemas/playoffs-page.md
+        name: Playoffs Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+      sponsors-page:
+        path: .cloudcannon/schemas/sponsors-page.md
+        name: Sponsors Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.form-success:
+            label: Form Success Text
+          $.sponsors:
+            type: array
+            options:
+              structures: _structures.sponsors
+          $.reasons.items:
+            type: array
+            label: Reasons
+      rec-league-page:
+        path: .cloudcannon/schemas/rec-league-page.md
+        name: Rec League Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.rules.items:
+            type: array
+            options:
+              structures: _structures.items-1
+      scoreboard-page:
+        path: .cloudcannon/schemas/scoreboard-page.md
+        name: Scoreboard Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+      rules-page:
+        path: .cloudcannon/schemas/rules-page.md
+        name: Rules Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.intro.text:
+            type: markdown
+          $.rules:
+            type: array
+            options:
+              structures: _structures.items-1
+          $.resources.items:
+            type: array
+            label: Resources
+            options:
+              structures: _structures.items-2
+      power-rankings-page:
+        path: .cloudcannon/schemas/power-rankings-page.md
+        name: Power Rankings Page
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+  past-seasons:
+    name: Past Seasons
+    path: _past-seasons
+    schemas:
+      default:
+        path: .cloudcannon/schemas/past-season.md
+        name: Past Season
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - content
+        _inputs:
+          $.date:
+            instance_value: NOW
+        text_key: title
+  playoffs:
+    name: Playoffs
+    path: _playoffs
+    schemas:
+      default: &ref_0
+        path: .cloudcannon/schemas/playoff.md
+        name: Playoff
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.champion:
+            type: multiselect
+            options:
+              values: collections.teams
+              value_key: content_path
+          $.rounds:
+            type: array
+            options:
+              structures: _structures.rounds
+  power-rankings:
+    name: Power Rankings
+    path: _power-rankings
+    schemas:
+      default:
+        path: .cloudcannon/schemas/power-ranking.md
+        name: Power Ranking
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.date:
+            instance_value: NOW
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.rankings:
+            type: array
+            options:
+              structures: _structures.rankings
+  rec-games:
+    name: Rec Games
+    path: _rec-games
+    schemas:
+      default:
+        path: .cloudcannon/schemas/rec-game.md
+        name: Rec Game
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.week:
+            type: number
+          $.season:
+            type: number
+          $.game-ball:
+            label: Gameball
+          $.teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.teams-score
+          $.location:
+            type: multiselect
+            options:
+              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              value_key: content_path
+          $.field:
+            type: number
+  rec-playoffs:
+    name: Rec Playoffs
+    path: _rec-playoffs
+    schemas:
+      default: *ref_0
+      rec-playoff:
+        path: .cloudcannon/schemas/rec-playoff.md
+        name: Rec Playoff
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.champion:
+            type: multiselect
+            options:
+              values: collections.rec-teams
+              value_key: content_path
+          $.rounds:
+            type: array
+            options:
+              structures: _structures.rounds
+  rec-teams:
+    name: Rec Teams
+    path: _rec-teams
+    schemas:
+      default: &ref_1
+        path: .cloudcannon/schemas/team.md
+        name: Team
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.color:
+            type: text
+          $.season:
+            type: number
+          $.photo:
+            type: file
+            label: Team Photo
+          $.members:
+            type: array
+  redirects:
+    name: Redirects
+    path: _redirects
+    schemas:
+      default:
+        path: .cloudcannon/schemas/redirect.md
+        name: Redirect
+        remove_extra_inputs: false
+        hide_extra_inputs: true
+        _enabled_editors:
+          - data
+        _inputs:
+          $.title:
+            comment: >-
+              Administrative title for the redirect. It won't have any impact on
+              the link. Just makes it easy for you to find. 
+          $.permalink:
+            comment: >-
+              The path you want the redirect to live on. For example if you want
+              dcgffl.org/signup to redirect to a google form, add
+              <strong>/signup/</strong> for the permalink.
+          $.redirect_url:
+            comment: >-
+              Where the redirect should point to. If you want /national-org/ to
+              point to https://ngffl.org/, then add
+              <strong>https://ngffl.org/</strong> here.
+  teams:
+    name: Teams
+    path: _teams
+    schemas:
+      default: *ref_1
+collection_groups:
+  - heading: Content
+    collections:
+      - events
+      - games
+      - locations
+      - news
+      - pages
+      - past-seasons
+      - playoffs
+      - power-rankings
+      - rec-games
+      - rec-playoffs
+      - rec-teams
+      - redirects
+      - teams
+paths:
+  static: ''
+  uploads: img
+_structures:
+  teams-score:
+    values:
+      - value:
+          team: []
+          score: null
+        _inputs:
+          team:
+            type: multiselect
+            options:
+              values: collections.teams
+              value_key: content_path
+          score:
+            type: number
+            comment: ''
+  attachments:
+    values:
+      - value:
+          title: ''
+          file: null
+        _inputs:
+          file:
+            type: file
+  rounds:
+    values:
+      - value:
+          title: ''
+          games: []
+        _inputs:
+          games:
+            type: array
+            options:
+              structures: _structures.games
+  games:
+    values:
+      - value:
+          title: ''
+          division: ''
+          teams-score: []
+          date: null
+          location: []
+        _inputs:
+          teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.teams-score
+          location:
+            type: multiselect
+            options:
+              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              value_key: content_path
+  rankings:
+    values:
+      - value:
+          team: []
+          record: ''
+          text: ''
+        _inputs:
+          team:
+            type: multiselect
+            options:
+              values: collections.teams
+              value_key: content_path
+          text:
+            type: markdown
+  play-options:
+    values:
+      - value:
+          title: ''
+          text: ''
+          image: null
+          button:
+            text: ''
+            link: ''
+  awards:
+    values:
+      - value:
+          title: ''
+          text: ''
+          winners: []
+        _inputs:
+          winners:
+            type: array
+            label: Recipients
+            options:
+              structures: _structures.winners
+  winners:
+    values:
+      - value:
+          name: ''
+          year: ''
+  list:
+    values:
+      - value:
+          title: ''
+          description: ''
+          name: ''
+          image: null
+          candidates: []
+        _inputs:
+          title:
+            label: Position Title
+          candidates:
+            type: array
+            options:
+              structures: _structures.candidates
+  candidates:
+    values:
+      - value:
+          name: ''
+          image: null
+          statement: ''
+        _inputs:
+          statement:
+            label: Position statement
+  seasons:
+    values:
+      - value:
+          title: ''
+          minutes: []
+        _inputs:
+          minutes:
+            type: array
+            options:
+              structures: _structures.minutes
+  minutes:
+    values:
+      - value:
+          title: ''
+          link: ''
+  items:
+    values:
+      - value:
+          q: ''
+          a: ''
+        _inputs:
+          q:
+            label: Question
+          a:
+            label: Answer
+  sponsors:
+    values:
+      - value:
+          title: ''
+          image: null
+          website: ''
+          description: ''
+          featured: false
+        _inputs:
+          title:
+            label: Name
+          image:
+            label: Logo
+  social:
+    values:
+      - value:
+          title: ''
+          link: ''
+          icon: ''
+  items-1:
+    values:
+      - value:
+          title: ''
+          text: ''
+  items-2:
+    values:
+      - value:
+          text: ''
+          link: ''
+_inputs:
+  template:
+    hidden: true

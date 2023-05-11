@@ -1,4 +1,5 @@
 ---
+_schema: rec-playoff
 champion: _rec-teams/s-21-rec-olive.md
 title: S21 Rec - Play Offs
 season: 21
