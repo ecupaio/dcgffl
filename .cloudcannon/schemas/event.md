@@ -2,7 +2,7 @@
 title: ''
 permalink: ''
 date:
-time: ''
+time: 
 button:
   text: ''
   link: ''

@@ -11,8 +11,10 @@ collections_config:
         _enabled_editors:
           - content
         _inputs:
+          $.date: 
+            type: date
           $.time:
-            type: text
+            type: time
           $.location.zip:
             type: number
   games:
