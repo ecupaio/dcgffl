@@ -38,7 +38,7 @@ collections_config:
             type: select
             options:
               values: collections.locations
-              value_key: content_path
+              value_key: path
           $.date:
             label: Date/Time
           $.season:
@@ -177,7 +177,7 @@ collections_config:
             label: Locations List
             options:
               values: collections.locations
-              value_key: content_path
+              value_key: path
           $.faq.items:
             type: array
             label: Questions/Answers
@@ -303,8 +303,6 @@ collections_config:
       default:
         path: .cloudcannon/schemas/past-season.md
         name: Past Season
-        remove_extra_inputs: false
-        hide_extra_inputs: true
         _enabled_editors:
           - content
         _inputs:
@@ -329,7 +327,7 @@ collections_config:
             type: multiselect
             options:
               values: collections.teams
-              value_key: content_path
+              value_key: path
           $.rounds:
             type: array
             options:
@@ -383,7 +381,7 @@ collections_config:
             type: multiselect
             options:
               values: collections.locations
-              value_key: content_path
+              value_key: path
           $.field:
             type: number
   rec-playoffs:
@@ -405,7 +403,7 @@ collections_config:
             type: multiselect
             options:
               values: collections.rec-teams
-              value_key: content_path
+              value_key: path
           $.rounds:
             type: array
             options:
@@ -501,7 +499,7 @@ _structures:
             type: select
             options:
               values: collections.teams
-              value_key: content_path
+              value_key: path
               preview: 
                 text: 
                   - key: title
@@ -546,22 +544,23 @@ _structures:
             type: select
             options:
               values: collections.locations
-              value_key: content_path
+              value_key: path
           mvp: 
             type: text
             label: 'MVP'    
   rankings:
     values:
       - value:
-          team: []
+          team: ''
           record: ''
           text: ''
         _inputs:
           team:
-            type: multiselect
+            type: select
             options:
               values: collections.teams
-              value_key: content_path
+              value_key: path
+
           text:
             type: markdown
   play-options:
