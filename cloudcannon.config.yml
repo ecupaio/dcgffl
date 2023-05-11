@@ -485,11 +485,11 @@ _structures:
   teams-score:
     values:
       - value:
-          team: []
+          team: ''
           score: null
         _inputs:
           team:
-            type: multiselect
+            type: select
             options:
               values: collections.teams
               value_key: content_path
@@ -521,7 +521,7 @@ _structures:
           division: ''
           teams-score: []
           date: null
-          location: []
+          location: ''
         _inputs:
           teams-score:
             type: array
@@ -529,10 +529,13 @@ _structures:
             options:
               structures: _structures.teams-score
           location:
-            type: multiselect
+            type: select
             options:
-              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              values: collections.locations
               value_key: content_path
+          mvp: 
+            type: text
+            label: 'MVP'    
   rankings:
     values:
       - value:
