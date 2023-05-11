@@ -390,7 +390,7 @@ collections_config:
     name: Rec Playoffs
     path: _rec-playoffs
     schemas:
-      default: *ref_0
+      default: 
       rec-playoff:
         path: .cloudcannon/schemas/rec-playoff.md
         name: Rec Playoff
