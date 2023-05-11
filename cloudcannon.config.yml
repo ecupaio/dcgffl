@@ -494,7 +494,7 @@ _structures:
   teams-score:
     values:
       - value:
-          team: 
+          team: ''
           score: null
         _inputs:
           team:
@@ -504,7 +504,6 @@ _structures:
               value_key: content_path
           score:
             type: number
-            comment: ''
   attachments:
     values:
       - value:
