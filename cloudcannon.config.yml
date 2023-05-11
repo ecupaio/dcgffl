@@ -35,9 +35,9 @@ collections_config:
             options:
               structures: _structures.teams-score
           $.location:
-            type: multiselect
+            type: select
             options:
-              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              values: collections.locations
               value_key: content_path
           $.date:
             label: Date/Time
@@ -176,7 +176,7 @@ collections_config:
             type: multiselect
             label: Locations List
             options:
-              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              values: collections.locations
               value_key: content_path
           $.faq.items:
             type: array
@@ -382,7 +382,7 @@ collections_config:
           $.location:
             type: multiselect
             options:
-              values: collections.locations-2d5f31ce-c5fa-4d2c-b910-ee9e728a5e86
+              values: collections.locations
               value_key: content_path
           $.field:
             type: number
