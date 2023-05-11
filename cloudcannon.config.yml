@@ -671,3 +671,5 @@ _structures:
 _inputs:
   template:
     hidden: true
+  permalink: 
+    hidden: true  
