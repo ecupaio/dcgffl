@@ -315,7 +315,7 @@ collections_config:
     name: Playoffs
     path: _playoffs
     schemas:
-      default: &ref_0
+      default: 
         path: .cloudcannon/schemas/playoff.md
         name: Playoff
         remove_extra_inputs: false
@@ -414,7 +414,7 @@ collections_config:
     name: Rec Teams
     path: _rec-teams
     schemas:
-      default: &ref_1
+      default: 
         path: .cloudcannon/schemas/team.md
         name: Team
         remove_extra_inputs: false
