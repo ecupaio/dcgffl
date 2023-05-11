@@ -494,7 +494,7 @@ _structures:
   teams-score:
     values:
       - value:
-          team: ''
+          team: 
           score: null
         _inputs:
           team:
