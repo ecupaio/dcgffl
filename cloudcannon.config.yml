@@ -463,21 +463,25 @@ collections_config:
     schemas:
       default: .cloudcannon/schemas/team.md
 collection_groups:
+  - heading: League
+    collections: 
+    - teams
+    - games
+    - playoffs
+    - power-rankings
+    - past-seasons
+  - heading: Recreation League
+    collections: 
+    - rec-teams
+    - rec-games
+    - rec-playoffs
   - heading: Content
     collections:
       - events
-      - games
       - locations
       - news
       - pages
-      - past-seasons
-      - playoffs
-      - power-rankings
-      - rec-games
-      - rec-playoffs
-      - rec-teams
       - redirects
-      - teams
 paths:
   static: ''
   uploads: img
