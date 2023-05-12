@@ -1,0 +1,214 @@
+#Home
+home-page:
+  path: .cloudcannon/schemas/home-page.md
+  name: Home page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.hero.placeholder:
+      type: file
+    $.play-options:
+      type: array
+      label: Play section
+      options:
+        structures: _structures.play-options
+#League        
+league-page:
+  path: .cloudcannon/schemas/league-page.md
+  name: League Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.season:
+      type: number
+    $.week:
+      type: number
+    $.schedule.no-games:
+      type: markdown
+      label: No games text
+#Awards      
+awards-page:
+  path: .cloudcannon/schemas/awards-page.md
+  name: Awards Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.awards:
+      type: array
+      options:
+        structures: _structures.awards
+#Board        
+board-page:
+  path: .cloudcannon/schemas/board-page.md
+  name: Board Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.hero.text:
+      type: markdown
+    $.members.list:
+      type: array
+      options:
+        structures: _structures.list
+    $.elections.open:
+      comment: >-
+        election status toggle. On to display display this section, Off to
+        hide
+    $.bylaws-minutes.bylaws.text:
+      type: markdown
+    $.bylaws-minutes.minutes.seasons:
+      type: array
+      options:
+        structures: _structures.seasons
+#About        
+about:
+  path: .cloudcannon/schemas/about.md
+  name: About Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - content
+  _inputs:
+    $.locations.items:
+      type: multiselect
+      label: Locations List
+      options:
+        values: collections.locations
+        value_key: path
+    $.faq.items:
+      type: array
+      label: Questions/Answers
+      options:
+        structures: _structures.items
+#Events        
+events-page:
+  path: .cloudcannon/schemas/events-page.md
+  name: Events page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+#News     
+news-page:
+  path: .cloudcannon/schemas/news-page.md
+  name: News Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+#Past Seaons    
+past-seasons-page:
+  path: .cloudcannon/schemas/past-seasons-page.md
+  name: Past Seasons Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+#Schedule     
+schedule-page:
+  path: .cloudcannon/schemas/schedule-page.md
+  name: Schedule Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+#Travel Program     
+travel-program-page:
+  path: .cloudcannon/schemas/travel-program-page.md
+  name: Travel Program Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - content
+  _inputs:
+    $.hero.images[*]:
+      type: image
+    $.hero.images:
+      type: array
+#Playoffs page      
+playoffs-page:
+  path: .cloudcannon/schemas/playoffs-page.md
+  name: Playoffs Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+#Sponsors    
+sponsors-page:
+  path: .cloudcannon/schemas/sponsors-page.md
+  name: Sponsors Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.form-success:
+      label: Form Success Text
+    $.sponsors:
+      type: array
+      options:
+        structures: _structures.sponsors
+    $.reasons.items:
+      type: array
+      label: Reasons
+#Rec League Page      
+rec-league-page:
+  path: .cloudcannon/schemas/rec-league-page.md
+  name: Rec League Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.season:
+      type: number
+    $.week:
+      type: number
+    $.rules.items:
+      type: array
+      options:
+        structures: _structures.items-1
+#Scoreboard Page        
+scoreboard-page:
+  path: .cloudcannon/schemas/scoreboard-page.md
+  name: Scoreboard Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+#Rules    
+rules-page:
+  path: .cloudcannon/schemas/rules-page.md
+  name: Rules Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
+  _inputs:
+    $.intro.text:
+      type: markdown
+    $.rules:
+      type: array
+      options:
+        structures: _structures.items-1
+    $.resources.items:
+      type: array
+      label: Resources
+      options:
+        structures: _structures.items-2
+#power rankings        
+power-rankings-page:
+  path: .cloudcannon/schemas/power-rankings-page.md
+  name: Power Rankings Page
+  remove_extra_inputs: false
+  hide_extra_inputs: true
+  _enabled_editors:
+    - data
