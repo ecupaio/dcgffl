@@ -2,6 +2,6 @@
 title: ''
 permalink: ''
 season:
-champion: []
+champion: ''
 rounds: []
 ---

@@ -184,7 +184,7 @@ collections_config:
           $.season:
             type: number
           $.champion:
-            type: multiselect
+            type: select
             options:
               values: collections.rec-teams
               value_key: path
