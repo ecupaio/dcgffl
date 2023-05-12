@@ -7,6 +7,6 @@ mvp: ''
 game-ball: ''
 sportsperson: ''
 teams-score: []
-location: []
+location: ''
 field:
 ---

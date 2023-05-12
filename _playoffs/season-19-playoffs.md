@@ -13,7 +13,7 @@ rounds:
     - team: _teams/neon-pink.html
       score: 
     date: 2019-11-24 14:00:00 -0500
-    location: []
+    location: ''
 - title: Semifinals
   games:
   - title: S19 Playoffs 4 Neon Pink vs Maroon
@@ -24,7 +24,7 @@ rounds:
     - team: _teams/neon-pink.html
       score: 
     date: 2019-11-24 12:00:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 4 Atomic vs Deep Orange
     division: Division 2
     teams-score:
@@ -33,7 +33,7 @@ rounds:
     - team: _teams/neon-pink.html
       score: ''
     date: 2019-11-24 12:00:00 -0500
-    location: []
+    location: ''
 - title: Third Round
   games:
   - title: S19 Playoffs 3 Deep Orange vs Navy
@@ -44,7 +44,7 @@ rounds:
     - team: _teams/navy-2.html
       score: 14
     date: 2019-11-17 12:00:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 3 Black vs Atomic
     division: Division 2
     teams-score:
@@ -53,7 +53,7 @@ rounds:
     - team: _teams/black-2.html
       score: 21
     date: 2019-11-17 14:00:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 3 Pink vs Concrete
     division: Division 1
     teams-score:
@@ -62,8 +62,8 @@ rounds:
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
       score: 37
     date: 2019-11-17 14:00:00 -0500
-    location: []
-  - location: []
+    location: ''
+  - location: ''
     title: S19 Playoffs 3 - Silver vs Maroon
     division: Division 1
     teams-score:
@@ -82,7 +82,7 @@ rounds:
     - team: _teams/s19-tropic-like-it-s-hot.md
       score: ''
     date: 2019-11-17 10:15:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 - Navy vs Royal Blue
     division: Division 2
     teams-score:
@@ -91,7 +91,7 @@ rounds:
     - team: _teams/royal.html
       score: ''
     date: 2019-11-17 10:15:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 Black vs White
     division: Division 2
     teams-score:
@@ -100,7 +100,7 @@ rounds:
     - team: _teams/white.html
       score: 6
     date: 2019-11-17 12:00:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 Concrete vs Red
     division: Division 1
     teams-score:
@@ -109,7 +109,7 @@ rounds:
     - team: _teams/s19-slab-on-my-knab-concrete-grey.md
       score: 39
     date: 2019-11-17 10:15:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 Silver vs Gold
     division: Division 1
     teams-score:
@@ -118,7 +118,7 @@ rounds:
     - team: _teams/silver.html
       score: 28
     date: 2019-11-17 10:15:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 Texas Orange vs Atomic Blue
     division: Division 2
     teams-score:
@@ -127,7 +127,7 @@ rounds:
     - team: _teams/atomic.html
       score: 33
     date: 2019-11-17 10:15:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 Maroon vs Yellow
     division: Division 1
     teams-score:
@@ -136,9 +136,9 @@ rounds:
     - team: _teams/maroon-2.html
       score: 40
     date: 2019-11-17 08:30:00 -0500
-    location: []
+    location: ''
   - title: S19 Playoffs 2 Neon Pink vs Lime
-    location: []
+    location: ''
     teams-score:
     - team: _teams/s19-sour-pass-kids-lime.md
       score: 26
@@ -156,8 +156,8 @@ rounds:
     - team: _teams/s19-fancy-gay-pirates.md
       score: 20
     date: 2019-11-17 08:30:00 -0500
-    location: []
-  - location: []
+    location: ''
+  - location: ''
     title: S19 Playoffs 1 Kelly vs White
     division: Division 2
     teams-score:

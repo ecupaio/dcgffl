@@ -324,7 +324,7 @@ collections_config:
           $.season:
             type: number
           $.champion:
-            type: multiselect
+            type: select
             options:
               values: collections.teams
               value_key: path
@@ -376,9 +376,9 @@ collections_config:
             type: array
             label: Teams/Score
             options:
-              structures: _structures.teams-score
+              structures: _structures.rec-teams-score
           $.location:
-            type: multiselect
+            type: select
             options:
               values: collections.locations
               value_key: path
@@ -505,9 +505,22 @@ _structures:
                   - key: title
           score:
             type: number
-  rec-teams-score: 
-    values: 
-    -           
+  rec-teams-score:
+    values:
+      - value:
+          team: ''
+          score: null
+        _inputs:
+          team:
+            type: select
+            options:
+              values: collections.rec-teams
+              value_key: path
+              preview: 
+                text: 
+                  - key: title
+          score:
+            type: number         
   attachments:
     values:
       - value:
