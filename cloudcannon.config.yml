@@ -6,8 +6,6 @@ collections_config:
       default:
         path: .cloudcannon/schemas/event.md
         name: Event
-        
-        
         _enabled_editors:
           - content
         _inputs:
@@ -24,8 +22,6 @@ collections_config:
       default:
         path: .cloudcannon/schemas/game.md
         name: Game
-        
-        
         _enabled_editors:
           - data
         _inputs:
@@ -54,8 +50,6 @@ collections_config:
       default:
         path: .cloudcannon/schemas/location.md
         name: Location
-        
-        
         _enabled_editors:
           - data
         _inputs:
@@ -68,8 +62,6 @@ collections_config:
       default:
         path: .cloudcannon/schemas/news.md
         name: News
-        
-        
         _enabled_editors:
           - content
         _inputs:
@@ -226,8 +218,6 @@ collections_config:
       default:
         path: .cloudcannon/schemas/redirect.md
         name: Redirect
-        
-        
         _enabled_editors:
           - data
         _inputs:
@@ -329,6 +319,16 @@ _structures:
             type: array
             options:
               structures: _structures.games
+  rec-rounds:
+    values:
+      - value:
+          title: ''
+          games: []
+        _inputs:
+          games:
+            type: array
+            options:
+              structures: _structures.rec-games            
   games:
     values:
       - value:
@@ -350,7 +350,29 @@ _structures:
               value_key: path
           mvp: 
             type: text
-            label: 'MVP'    
+            label: 'MVP' 
+  rec-games:
+    values:
+      - value:
+          title: ''
+          division: ''
+          teams-score: []
+          date: null
+          location: ''
+        _inputs:
+          teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.rec-teams-score
+          location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          mvp: 
+            type: text
+            label: 'MVP'              
   rankings:
     values:
       - value:
