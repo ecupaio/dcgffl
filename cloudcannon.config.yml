@@ -1,6 +1,6 @@
 collections_config:
   data: 
-    name: Site Data
+    name: Menus
     path: _data
 
   events:

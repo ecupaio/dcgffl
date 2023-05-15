@@ -1,5 +1,9 @@
 ---
-title: Menus, Social Links, Logo, and Announcement Bar
+_inputs:
+  $.announcement.text: 
+    type: markdown
+  $.logo:
+    type: image  
 nav:
 - title: Awards
   link: "/awards/"
