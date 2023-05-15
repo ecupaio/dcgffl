@@ -55,6 +55,8 @@ collections_config:
         _inputs:
           $.zip:
             type: number
+          $.info: 
+            type: textarea  
   news:
     name: News
     path: _posts
@@ -175,7 +177,6 @@ collections_config:
     path: _rec-playoffs
     schemas:
       default: 
-      rec-playoff:
         path: .cloudcannon/schemas/rec-playoff.md
         name: Rec Playoff
         _enabled_editors:
@@ -265,6 +266,7 @@ collection_groups:
       - news
       - pages
       - redirects
+      - sponsors
 paths:
   static: ''
   uploads: img
