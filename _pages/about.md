@@ -1,5 +1,18 @@
 ---
-_schema: about
+_enabled_editors:
+  - content
+_inputs:
+  $.locations.items:
+    type: multiselect
+    label: Locations List
+    options:
+      values: collections.locations
+      value_key: path
+  $.faq.items:
+    type: array
+    label: Questions/Answers
+    options:
+      structures: _structures.items
 title: About
 permalink: "/about/"
 content-id: about-page

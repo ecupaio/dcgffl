@@ -266,7 +266,6 @@ collection_groups:
       - news
       - pages
       - redirects
-      - sponsors
 paths:
   static: ''
   uploads: img

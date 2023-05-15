@@ -104,7 +104,7 @@ news-page:
   hide_extra_inputs: true
   _enabled_editors:
     - data
-#Past Seaons    
+#Past Seasons    
 past-seasons-page:
   path: .cloudcannon/schemas/past-seasons-page.md
   name: Past Seasons Page

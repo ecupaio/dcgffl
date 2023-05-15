@@ -1,5 +1,11 @@
 ---
-_schema: travel-program-page
+_enabled_editors:
+  - content
+_inputs:
+  $.hero.images[*]:
+    type: image
+  $.hero.images:
+    type: array
 title: Travel Program
 layout: travel-program
 permalink: "/travel-program/"

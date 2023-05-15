@@ -1,4 +1,23 @@
 ---
+_enabled_editors:
+  - data
+_inputs:
+  $.hero.text:
+    type: markdown
+  $.members.list:
+    type: array
+    options:
+      structures: _structures.list
+  $.elections.open:
+    comment: >-
+      election status toggle. On to display display this section, Off to
+      hide
+  $.bylaws-minutes.bylaws.text:
+    type: markdown
+  $.bylaws-minutes.minutes.seasons:
+    type: array
+    options:
+      structures: _structures.seasons
 title: Board
 permalink: "/board/"
 css: board
