@@ -78,7 +78,7 @@ collections_config:
     name: Pages
     path: _pages
     schemas:
-      default:
+      basic-page:
         path: .cloudcannon/schemas/basic-page.md
         name: Basic Page
         _enabled_editors:
