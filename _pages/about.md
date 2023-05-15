@@ -12,7 +12,7 @@ _inputs:
     type: array
     label: Questions/Answers
     options:
-      structures: _structures.items
+      structures: _structures.faqs
 title: About
 permalink: "/about/"
 content-id: about-page

@@ -458,7 +458,7 @@ _structures:
       - value:
           title: ''
           link: ''
-  items:
+  faqs:
     values:
       - value:
           q: ''
@@ -468,6 +468,7 @@ _structures:
             label: Question
           a:
             label: Answer
+            type: textarea
   sponsors:
     values:
       - value:
@@ -508,6 +509,10 @@ _structures:
             text: ''
             attachment: ''
             link: ''
+        _inputs: 
+          button.attachment:
+            type: file
+
 _inputs:
   template:
     hidden: true
@@ -524,7 +529,9 @@ _inputs:
   social-share: 
     hidden: true  
   permalink: 
-    hidden: true 
+    comment: >-
+      Custom URL path for the page. Just add the path with slashes at the beginning and end. Ex:
+      /about/. All pages will automatically use the title when the page is published for the path.
   text:
     type: textarea   
     
