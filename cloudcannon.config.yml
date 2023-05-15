@@ -1,4 +1,8 @@
 collections_config:
+  data: 
+    name: Site Data
+    path: _data
+
   events:
     name: Events
     path: _events
@@ -266,6 +270,9 @@ collection_groups:
       - news
       - pages
       - redirects
+  - heading: Site Data
+    collections: 
+    - data     
 paths:
   static: ''
   uploads: img
@@ -531,7 +538,7 @@ _inputs:
   permalink: 
     comment: >-
       Custom URL path for the page. Just add the path with slashes at the beginning and end. Ex:
-      /about/. All pages will automatically use the title when the page is published for the path.
+      /about/. All pages will automatically use the title for the path when the page is published initially.
   text:
     type: textarea   
     
