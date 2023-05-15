@@ -191,7 +191,7 @@ collections_config:
           $.rounds:
             type: array
             options:
-              structures: _structures.rounds
+              structures: _structures.rec-rounds
   rec-teams:
     name: Rec Teams
     path: _rec-teams
