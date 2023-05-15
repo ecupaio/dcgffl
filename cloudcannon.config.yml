@@ -398,6 +398,10 @@ _structures:
           button:
             text: ''
             link: ''
+        _inputs:
+          text: 
+            type: textarea        
+
   awards:
     values:
       - value:
@@ -488,11 +492,22 @@ _structures:
       - value:
           title: ''
           text: ''
+        _inputs: 
+          text: 
+            type: textarea  
   items-2:
     values:
       - value:
           text: ''
           link: ''
+  travel-resources: 
+    values:
+      - value:
+          text: ''
+          button:
+            text: ''
+            attachment: ''
+            link: ''
 _inputs:
   template:
     hidden: true
@@ -509,5 +524,7 @@ _inputs:
   social-share: 
     hidden: true  
   permalink: 
-    hidden: true  
+    hidden: true 
+  text:
+    type: textarea   
     

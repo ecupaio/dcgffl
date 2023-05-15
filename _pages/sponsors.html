@@ -4,6 +4,7 @@ _enabled_editors:
 _inputs:
   $.form-success:
     label: Form Success Text
+    type: textarea
   $.sponsors:
     type: array
     options:
@@ -11,6 +12,8 @@ _inputs:
   $.reasons.items:
     type: array
     label: Reasons
+  $.reasons.items[*]:
+    type: textarea
 title: Sponsors
 permalink: "/sponsors/"
 content-id: sponsors-page
