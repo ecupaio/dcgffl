@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Season XXV Anniversary Party
-permalink: ''
+permalink: /season-25-anniversary-party
 date: 2023-09-23 00:00:00 -0400
 time:
 button:
@@ -19,7 +19,7 @@ Join us on September 23rd as we celebrate our community, its accomplishments, an
 
 $ 1 from each ticket sold, and all proceeds from the silent auction, will be donated to support LGBTQ+ charities in Washington, DC.
 
-[Buy your tickets today!](https://www.eventbrite.com/e/dcgffl-season-xxv-anniversary-party-tickets-611480674157?aff=ebdssbdestsearch){: target="_blank" rel="noopener"}
+[Buy your tickets today!](https://www.eventbrite.com/e/dcgffl-season-xxv-anniversary-party-tickets-611480674157?aff=ebdssbdestsearch){: target="_blank"}
 
 **General Admission Tickets -**&nbsp;Timed open bar consisting of beer/rail drinks (details to be announced soon) and appetizers.
 
