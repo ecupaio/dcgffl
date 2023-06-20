@@ -15,12 +15,14 @@ location:
   state: DC
   zip: 20004
 ---
-J oin us on September 23rd as we celebrate our community, its accomplishments, and get ready to groove like never before as DJ DJ takes us on a nostalgic journey through the greatest hits of the DCGFFL!
+Join us on September 23rd as we celebrate our community, its accomplishments, and get ready to groove like never before as DJ DJ takes us on a nostalgic journey through the greatest hits of the DCGFFL!
 
 $ 1 from each ticket sold, and all proceeds from the silent auction, will be donated to support LGBTQ+ charities in Washington, DC.
 
+[Buy your tickets today!](https://www.eventbrite.com/e/dcgffl-season-xxv-anniversary-party-tickets-611480674157?aff=ebdssbdestsearch){: target="_blank" rel="noopener"}
+
 **General Admission Tickets -**&nbsp;Timed open bar consisting of beer/rail drinks (details to be announced soon) and appetizers.
 
-**V IP Tickets -**&nbsp;Top shelf open bar for the duration of the party, appetizers, and a private section with access to the bar.
+**VIP Tickets -**&nbsp;Top shelf open bar for the duration of the party, appetizers, and a private section with access to the bar.
 
-A fter years of informally gathering to play flag football, the DC Gay Flag Football League launched its inaugural season in the Fall of 2010 - seven teams were created with 102 players. Today, the league is eighteen teams with over 230 players, and over the course of 24 seasons, more than 2,000 players have participated in the DC Gay Flag Football League.
+After years of informally gathering to play flag football, the DC Gay Flag Football League launched its inaugural season in the Fall of 2010 - seven teams were created with 102 players. Today, the league is eighteen teams with over 230 players, and over the course of 24 seasons, more than 2,000 players have participated in the DC Gay Flag Football League.
