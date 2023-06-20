@@ -1,71 +1,77 @@
----
+_inputs:
+  $.announcement.text:
+    type: markdown
+  $.logo:
+    type: image
 nav:
-- title: Awards
-  link: "/awards/"
-- title: Home
-  link: "/"
-- title: About
-  link: "/about/"
-- title: League Teams
-  link: "/league/"
-- title: Game Schedule
-  link: "/schedule/"
-- title: Scoreboard
-  link: "/score-board/"
-- title: Playoffs
-  link: "/playoffs/"
-- title: Power Rankings
-  link: "/power-rankings/"
-- title: Recreation League
-  link: "/recreation-league/"
-- title: Travel Program
-  link: "/travel-program/"
-- title: News
-  link: "/news/"
-- title: Events
-  link: "/events/"
-- title: Gallery
-  link: https://www.flickr.com/photos/55392288@N03/sets/
-- title: Sponsor
-  link: "/sponsors/"
+  - title: Awards
+    link: /awards/
+  - title: Home
+    link: /
+  - title: About
+    link: /about/
+  - title: League Teams
+    link: /league/
+  - title: Game Schedule
+    link: /schedule/
+  - title: Scoreboard
+    link: /score-board/
+  - title: Playoffs
+    link: /playoffs/
+  - title: Power Rankings
+    link: /power-rankings/
+  - title: Recreation League
+    link: /recreation-league/
+  - title: Travel Program
+    link: /travel-program/
+  - title: News
+    link: /news/
+  - title: Events
+    link: /events/
+  - title: Gallery
+    link: https://www.flickr.com/photos/55392288@N03/sets/
+  - title: Sponsor
+    link: /sponsors/
 nav-button:
   text: Donate
-  link: "/donate/"
+  link: /donate/
   visible: true
-logo: "/img/dcgffl-logo.png"
+logo: /img/dcgffl-logo.png
 social:
-- title: Facebook
-  link: https://www.facebook.com/dcgayflagfootball
-  icon: <i class="fab fa-facebook"></i>
-- title: Twitter
-  link: https://twitter.com/DCGFFL
-  icon: <i class="fab fa-twitter"></i>
-- title: YouTube
-  link: https://www.youtube.com/channel/UCyM-7PnEmHUm3kLRTB5cUHw
-  icon: <i class="fab fa-youtube"></i>
-- title: Instagram
-  link: https://www.instagram.com/dcgffl/
-  icon: <i class="fab fa-instagram"></i>
-- title: Flickr
-  link: https://www.flickr.com/photos/55392288@N03/sets/
-  icon: <i class="fab fa-flickr"></i>
-- title: Email
-  link: mailto:dcgayflagfootball@gmail.com
-  icon: <i class="fa fa-envelope"></i>
+  - title: Facebook
+    link: https://www.facebook.com/dcgayflagfootball
+    icon: <i class="fab fa-facebook"></i>
+  - title: Instagram
+    link: https://www.instagram.com/dcgffl/
+    icon: <i class="fab fa-instagram"></i>
+  - title: Flickr
+    link: https://www.flickr.com/photos/55392288@N03/sets/
+    icon: <i class="fab fa-flickr"></i>
+  - title: Email
+    link: mailto:dcgayflagfootball@gmail.com
+    icon: <i class="fa fa-envelope"></i>
+  - title: Twitter
+    link: https://twitter.com/DCGFFL
+    icon: <i class="fab fa-twitter"></i>
+  - title: YouTube
+    link: https://www.youtube.com/channel/UCyM-7PnEmHUm3kLRTB5cUHw
+    icon: <i class="fab fa-youtube"></i>
 footer:
-- title: About
-  link: "/about/"
-- title: Board
-  link: "/board/"
-- title: Awards
-  link: "/awards/"
-- title: Rules & Policies
-  link: "/rules/"
-- title: COVID-19
-  link: "/covid-19/"
-- title: Past Seasons
-  link: "/past-seasons/"
+  - title: About
+    link: /about/
+  - title: Board
+    link: /board/
+  - title: Awards
+    link: /awards/
+  - title: Rules & Policies
+    link: /rules/
+  - title: COVID-19
+    link: /covid-19/
+  - title: Past Seasons
+    link: /past-seasons/
 announcement:
-  text: Registration for Rec League is now open! Register [Here](https://forms.gle/RxeNMizN7Gt9tcyZ8
+  text: >-
+    Registration for Rec League is now open! Register
+    [Here](https://forms.gle/RxeNMizN7Gt9tcyZ8
     "https://forms.gle/RxeNMizN7Gt9tcyZ8")!
   show: false

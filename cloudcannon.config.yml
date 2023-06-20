@@ -1,0 +1,544 @@
+collections_config:
+  data: 
+    name: Menus
+    path: _data
+
+  events:
+    name: Events
+    path: _events
+    schemas:
+      default:
+        path: .cloudcannon/schemas/event.md
+        name: Event
+        _enabled_editors:
+          - content
+        _inputs:
+          $.date: 
+            type: date
+          $.time:
+            type: time
+          $.location.zip:
+            type: number
+  games:
+    name: Games
+    path: _games
+    schemas:
+      default:
+        path: .cloudcannon/schemas/game.md
+        name: Game
+        _enabled_editors:
+          - data
+        _inputs:
+          $.teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.teams-score
+          $.location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          $.date:
+            label: Date/Time
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.game-ball:
+            label: Gameball
+  locations:
+    name: Locations
+    path: _locations
+    schemas:
+      default:
+        path: .cloudcannon/schemas/location.md
+        name: Location
+        _enabled_editors:
+          - data
+        _inputs:
+          $.zip:
+            type: number
+          $.info: 
+            type: textarea  
+  news:
+    name: News
+    path: _posts
+    schemas:
+      default:
+        path: .cloudcannon/schemas/news.md
+        name: News
+        _enabled_editors:
+          - content
+        _inputs:
+          $.date:
+            instance_value: NOW
+            comment: ''
+          $.attachments:
+            type: array
+            options:
+              structures: _structures.attachments
+  pages:
+    name: Pages
+    path: _pages
+    schemas:
+      basic-page:
+        path: .cloudcannon/schemas/basic-page.md
+        name: Basic Page
+        _enabled_editors:
+          - content
+        _inputs:
+          $.permalink:
+            comment: >-
+              Just add the path with slashes at the beginning and end. Ex:
+              /about/
+          $.layout:
+            hidden: true
+  past-seasons:
+    name: Past Seasons
+    path: _past-seasons
+    schemas:
+      default:
+        path: .cloudcannon/schemas/past-season.md
+        name: Past Season
+        _enabled_editors:
+          - content
+        _inputs:
+          $.date:
+            instance_value: NOW
+        text_key: title
+  playoffs:
+    name: Playoffs
+    path: _playoffs
+    schemas:
+      default: 
+        path: .cloudcannon/schemas/playoff.md
+        name: Playoff
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.champion:
+            type: select
+            options:
+              values: collections.teams
+              value_key: path
+          $.rounds:
+            type: array
+            options:
+              structures: _structures.rounds
+  power-rankings:
+    name: Power Rankings
+    path: _power-rankings
+    schemas:
+      default:
+        path: .cloudcannon/schemas/power-ranking.md
+        name: Power Ranking
+        _enabled_editors:
+          - data
+        _inputs:
+          $.date:
+            instance_value: NOW
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.rankings:
+            type: array
+            options:
+              structures: _structures.rankings
+  rec-games:
+    name: Rec Games
+    path: _rec-games
+    schemas:
+      default:
+        path: .cloudcannon/schemas/rec-game.md
+        name: Rec Game
+        _enabled_editors:
+          - data
+        _inputs:
+          $.week:
+            type: number
+          $.season:
+            type: number
+          $.game-ball:
+            label: Gameball
+          $.teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.rec-teams-score
+          $.location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          $.field:
+            type: number
+  rec-playoffs:
+    name: Rec Playoffs
+    path: _rec-playoffs
+    schemas:
+      default: 
+        path: .cloudcannon/schemas/rec-playoff.md
+        name: Rec Playoff
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.champion:
+            type: select
+            options:
+              values: collections.rec-teams
+              value_key: path
+          $.rounds:
+            type: array
+            options:
+              structures: _structures.rec-rounds
+  rec-teams:
+    name: Rec Teams
+    path: _rec-teams
+    schemas:
+      default: 
+        path: .cloudcannon/schemas/team.md
+        name: Team
+        _enabled_editors:
+          - data
+        _inputs:
+          $.color:
+            type: text
+          $.season:
+            type: number
+          $.photo:
+            type: file
+            label: Team Photo
+          $.members:
+            type: array
+  redirects:
+    name: Redirects
+    path: _redirects
+    schemas:
+      default:
+        path: .cloudcannon/schemas/redirect.md
+        name: Redirect
+        _enabled_editors:
+          - data
+        _inputs:
+          $.title:
+            comment: >-
+              Administrative title for the redirect. It won't have any impact on
+              the link. Just makes it easy for you to find. 
+          $.permalink:
+            comment: >-
+              The path you want the redirect to live on. For example if you want
+              dcgffl.org/signup to redirect to a google form, add
+              <strong>/signup/</strong> for the permalink.
+          $.redirect_url:
+            comment: >-
+              Where the redirect should point to. If you want /national-org/ to
+              point to https://ngffl.org/, then add
+              <strong>https://ngffl.org/</strong> here.
+  teams:
+    name: Teams
+    path: _teams
+    schemas:
+      default: 
+        path: .cloudcannon/schemas/team.md
+        name: Team
+        _inputs: 
+          color: 
+            type: text
+collection_groups:
+  - heading: League
+    collections: 
+    - teams
+    - games
+    - playoffs
+    - power-rankings
+    - past-seasons
+  - heading: Recreation League
+    collections: 
+    - rec-teams
+    - rec-games
+    - rec-playoffs
+  - heading: Content
+    collections:
+      - events
+      - locations
+      - news
+      - pages
+      - redirects
+  - heading: Site Data
+    collections: 
+    - data     
+paths:
+  static: ''
+  uploads: img
+_structures:
+  teams-score:
+    values:
+      - value:
+          team: ''
+          score: null
+        _inputs:
+          team:
+            type: select
+            options:
+              values: collections.teams
+              value_key: path
+              preview: 
+                text: 
+                  - key: title
+          score:
+            type: number
+  rec-teams-score:
+    values:
+      - value:
+          team: ''
+          score: null
+        _inputs:
+          team:
+            type: select
+            options:
+              values: collections.rec-teams
+              value_key: path
+              preview: 
+                text: 
+                  - key: title
+          score:
+            type: number         
+  attachments:
+    values:
+      - value:
+          title: ''
+          file: null
+        _inputs:
+          file:
+            type: file
+  rounds:
+    values:
+      - value:
+          title: ''
+          games: []
+        _inputs:
+          games:
+            type: array
+            options:
+              structures: _structures.games
+  rec-rounds:
+    values:
+      - value:
+          title: ''
+          games: []
+        _inputs:
+          games:
+            type: array
+            options:
+              structures: _structures.rec-games            
+  games:
+    values:
+      - value:
+          title: ''
+          division: ''
+          teams-score: []
+          date: null
+          location: ''
+        _inputs:
+          teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.teams-score
+          location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          mvp: 
+            type: text
+            label: 'MVP' 
+  rec-games:
+    values:
+      - value:
+          title: ''
+          division: ''
+          teams-score: []
+          date: null
+          location: ''
+        _inputs:
+          teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.rec-teams-score
+          location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          mvp: 
+            type: text
+            label: 'MVP'              
+  rankings:
+    values:
+      - value:
+          team: ''
+          record: ''
+          text: ''
+        _inputs:
+          team:
+            type: select
+            options:
+              values: collections.teams
+              value_key: path
+
+          text:
+            type: markdown
+  play-options:
+    values:
+      - value:
+          title: ''
+          text: ''
+          image: null
+          button:
+            text: ''
+            link: ''
+        _inputs:
+          text: 
+            type: textarea        
+
+  awards:
+    values:
+      - value:
+          title: ''
+          text: ''
+          winners: []
+        _inputs:
+          winners:
+            type: array
+            label: Recipients
+            options:
+              structures: _structures.winners
+  winners:
+    values:
+      - value:
+          name: ''
+          year: ''
+  list:
+    values:
+      - value:
+          title: ''
+          description: ''
+          name: ''
+          image: null
+          candidates: []
+        _inputs:
+          title:
+            label: Position Title
+          candidates:
+            type: array
+            options:
+              structures: _structures.candidates
+  candidates:
+    values:
+      - value:
+          name: ''
+          image: null
+          statement: ''
+        _inputs:
+          statement:
+            label: Position statement
+  seasons:
+    values:
+      - value:
+          title: ''
+          minutes: []
+        _inputs:
+          minutes:
+            type: array
+            options:
+              structures: _structures.minutes
+  minutes:
+    values:
+      - value:
+          title: ''
+          link: ''
+  faqs:
+    values:
+      - value:
+          q: ''
+          a: ''
+        _inputs:
+          q:
+            label: Question
+          a:
+            label: Answer
+            type: textarea
+  sponsors:
+    values:
+      - value:
+          title: ''
+          image: null
+          website: ''
+          description: ''
+          featured: false
+        _inputs:
+          title:
+            label: Name
+          image:
+            label: Logo
+  social:
+    values:
+      - value:
+          title: ''
+          link: ''
+          icon: ''
+  items-1:
+    values:
+      - value:
+          title: ''
+          text: ''
+        _inputs: 
+          text: 
+            type: textarea  
+  items-2:
+    values:
+      - value:
+          text: ''
+          link: ''
+  travel-resources: 
+    values:
+      - value:
+          text: ''
+          button:
+            text: ''
+            attachment: ''
+            link: ''
+        _inputs: 
+          button.attachment:
+            type: file
+
+_inputs:
+  template:
+    hidden: true
+  css: 
+    hidden: true
+  content-id: 
+    hidden: true
+  layout: 
+    hidden: true
+  scripts:
+    hidden: true
+  slick: 
+    hidden: true
+  social-share: 
+    hidden: true  
+  permalink: 
+    comment: >-
+      Custom URL path for the page. Just add the path with slashes at the beginning and end. Ex:
+      /about/. All pages will automatically use the title for the path when the page is published initially.
+  text:
+    type: textarea   
+    

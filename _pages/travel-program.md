@@ -1,4 +1,15 @@
 ---
+_enabled_editors:
+  - content
+_inputs:
+  $.hero.images[*]:
+    type: image
+  $.hero.images:
+    type: array
+  $.resources.items:
+    type: array
+    options:
+      structures: _structures.travel-resources
 title: Travel Program
 layout: travel-program
 permalink: "/travel-program/"
