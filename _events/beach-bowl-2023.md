@@ -15,9 +15,11 @@ location:
   state: DE
   zip: 19958
 ---
-#### SAVE THE DATE for BEACH BOWL!
+#### Register for BEACH BOWL 2023!
 
 The DCGFFL's annual casual summer tournament, Beach Bowl, will be held Saturday, July 29th in Rehoboth Beach, Delaware. The tournament structure is dependent on the number of teams playing and the number of players who register. Generally, 2-3 short games are played on a grass field in the morning to afternoon, followed by social events and a night out in Rehoboth!
+
+[Registration Link](https://forms.gle/4bG9RT3ZvHc38UXz7){: target="_blank" rel="noopener"}
 
 Accommodation and travel is not provided to Rehoboth DE, but email dcgayflagfootball@gmail.com if you need assistance and we can put you in touch with others going!
 
@@ -25,6 +27,6 @@ Accommodation and travel is not provided to Rehoboth DE, but email dcgayflagfoot
 
 Come to play football, hit the beach, and party with your DCGFFL league mates during what is sure to be the best Beach Bowl weekend yet!
 
-* Player registration ($40) will close on July 19th
-* Guest registration ($35) for social events will be open until July 26th.&nbsp;
+* Player registration ($40) will close on July 15th
+* Guest registration ($35) for social events will be open until July 15th.&nbsp;
 * Team assignments and weekend itinerary will be shared one week prior to the tournament
