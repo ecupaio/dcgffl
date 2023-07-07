@@ -40,6 +40,7 @@ nav {
       transform: translateX(0);
       z-index: 5;
       opacity: 1;
+      overflow-y: scroll;
     }  
   }
   .nav-body {
