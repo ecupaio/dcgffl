@@ -14,45 +14,50 @@ _inputs:
     options:
       structures: _structures.faqs
 title: About
-permalink: "/about/"
+permalink: /about/
 content-id: about-page
 css: about
 layout: about
 scripts:
-- about
+  - about
 locations:
   title: Where we play
   items:
-  - _locations/rfk-fields.md
-  - _locations/carter-baron.md
-  - _locations/brentwood.md
+    - _locations/carter-baron.md
+    - _locations/brentwood.md
+    - _locations/randall-field.md
 faq:
   title: Frequently Asked Questions
   items:
-  - q: Do I have to identify as LGBTQ+ to play?
-    a: No! We welcome all participants, allies and LBGTQ+ community members alike,
-      and we do not ask players to self-identify.
-  - q: Do I need to have flag football experience to play?
-    a: No!  We welcome all levels, from brand new to veteran footballer.  If you're
-      a rookie, your captain and quarterback will work with you to learn the rules
-      and develop your skills.  If you're a football all star, you'll find a competitive
-      atmosphere with a lot of other talented players that will challenge you to play
-      your best.
-  - q: What equipment do I need to play?
-    a: To avoid player injury from hands getting caught on pockets, players are required
-      to wear pocketless shorts.  We also strongly recommend cleats (no metal studs)
-      and football gloves.  Oh, and don't forget sunscreen and water!  The DCGFFL
-      will provide you with jerseys and flag belts.  Quarterbacks must supply their
-      own footballs.
-  - q: How are teams picked?
-    a: In order to ensure equitable teams, players are drafted onto new teams every
-      season by the team captain and quarterback.  This means you get to meet and
-      play with new people every season!
-  - q: Is this more of a social or more of a competitive league?
-    a: We strive to be both!  The experience is what you make of it - our players
-      work hard and play hard.  A wide range of athletic talent is coupled with a
-      wide range of social fun.  Join up and experience it yourself!
-
+    - q: Do I have to identify as LGBTQ+ to play?
+      a: >-
+        No! We welcome all participants, allies and LBGTQ+ community members
+        alike, and we do not ask players to self-identify.
+    - q: Do I need to have flag football experience to play?
+      a: >-
+        No!  We welcome all levels, from brand new to veteran footballer.  If
+        you're a rookie, your captain and quarterback will work with you to
+        learn the rules and develop your skills.  If you're a football all star,
+        you'll find a competitive atmosphere with a lot of other talented
+        players that will challenge you to play your best.
+    - q: What equipment do I need to play?
+      a: >-
+        To avoid player injury from hands getting caught on pockets, players are
+        required to wear pocketless shorts.  We also strongly recommend cleats
+        (no metal studs) and football gloves.  Oh, and don't forget sunscreen
+        and water!  The DCGFFL will provide you with jerseys and flag belts. 
+        Quarterbacks must supply their own footballs.
+    - q: How are teams picked?
+      a: >-
+        In order to ensure equitable teams, players are drafted onto new teams
+        every season by the team captain and quarterback.  This means you get to
+        meet and play with new people every season!
+    - q: Is this more of a social or more of a competitive league?
+      a: >-
+        We strive to be both!  The experience is what you make of it - our
+        players work hard and play hard.  A wide range of athletic talent is
+        coupled with a wide range of social fun.  Join up and experience it
+        yourself!
 ---
 ##### Questions? Contact us at [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com)
 
