@@ -12,7 +12,7 @@ Congratulations to [Royal Tenenbottoms](/teams/s24-royal-blue/)&nbsp;(Royal Blue
 
 Congratulations to captain, Bryan Sanders, and quarterback, Brandon Waggoner, on leading their team to victory! See more photos from the championship game&nbsp;[here](https://www.flickr.com/photos/55392288@N03/sets/72177720308482366/){: target="_blank"}! Thank you to ALL our players, refs, and supporters for a fantastic DCGFFL season!
 
-**Award Winners**
+##### <u><strong>Award Winners</strong></u>
 
 Congratulations to all our Season XXIV award winners for their fantastic seasons and overall contributions to the league:
 
@@ -28,7 +28,7 @@ Congratulations to all our Season XXIV award winners for their fantastic seasons
 
 **Best Fan:** Scott Graham & Lucas
 
-**Women's+ Division Awards**
+<u><strong>Women's+ Division Awards</strong></u>
 
 **Women's+ Division MVP:** Nikki Kasparek
 
@@ -36,7 +36,7 @@ Congratulations to all our Season XXIV award winners for their fantastic seasons
 
 **Women's+ Division Final Teams:** Periodt and Purple Reign
 
-**Open Division Awards**&nbsp;
+<u><strong>Open Division Awards</strong>&nbsp;</u>
 
 **Women's+ MVP**\: Camille Thompson
 
@@ -64,4 +64,4 @@ Congratulations to all our Season XXIV award winners for their fantastic seasons
 
 Check out the end-of-season video&nbsp;[here](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&amp;id=4b6c8d9da7&amp;e=829ae97fea){: target="_blank"}, courtesy of Matt H!
 
-####
+\####
