@@ -16,52 +16,20 @@ Congratulations to captain, Bryan Sanders, and quarterback, Brandon Waggoner, on
 
 Congratulations to all our Season XXIV award winners for their fantastic seasons and overall contributions to the league:
 
-**DCGFFL Legend Award:** Brian Donohoe, Sean Karson, Jared L, Peter Pham, Mike Z'Goda
-
-**John Boyd Ally Award:** Garrett Schiponi
-
-**Michael "Snowy" Snowden Sportsperson Award:** Dwaylan Applewhite
-
-**Golden Whistle:** Joe Heron
-
-**Best Boo:** Pedro S.
-
-**Best Fan:** Scott Graham & Lucas
+<br>**DCGFFL Legend Award:** Brian Donohoe, Sean Karson, Jared L, Peter Pham, Mike Z'Goda<br>**John Boyd Ally Award:**&nbsp;Camille Thompson<br>**Michael "Snowy" Snowden Sportsperson Award:** Dwaylan Applewhite<br>**Golden Whistle**\: Joe Heron<br>**Best Boo**\: Pedro S.<br>**Best Fan**\: Scott Graham & Lucas
 
 <u><strong>Women's+ Division Awards</strong></u>
 
-**Women's+ Division MVP:** Nikki Kasparek
-
-**Women's+ Division Sportsperson:** Linda Pratt
-
-**Women's+ Division Final Teams:** Periodt and Purple Reign
+**Women's+ Division MVP**\: Nikki Kasparek<br>**Women's+ Division Sportsperson:** Linda Pratt<br>**Women's+ Division Final Teams:** Periodt and Purple Reign
 
 <u><strong>Open Division Awards</strong>&nbsp;</u>
 
-**Women's+ MVP**\: Camille Thompson
+**Women's+ MVP**\: Camille Thompson<br>**Men's+ MVP**\: Cam M.<br>**Offensive MVP**\: Jim Connolly<br>**Defensive MVP**\: Derrick Johnson<br>**Women's+ Rookie of the Season**\: Lindsey H.<br>**Men's+ Rookie of the Season**\: Andrew Hoyler<br>**Blocker of the Season:**&nbsp;Obie McNair
 
-**Men's+ MVP:** Cam M.
+<u><strong>Rec. Division Awards</strong></u>
 
-**Offensive MVP:** Jim Connolly
-
-**Defensive MVP:** Derrick Johnson
-
-**Blocker of the Season:** Obie McNair
-
-**Women's+ Rookie of the Season:** Lindsey H.
-
-**Men's+ Rookie of the Season:** Andrew Hoyler
-
-**Rec. Division Awards**
-
-**Rec. Division MVP**\: Eric Green
-
-**Rec. Division Sportsperson**\: Aubrie Odell
-
-**Rec. Division Champions:** Coral
+**Rec. Division MVP**\: Eric Green<br>**Rec. Division Sportsperson**\: Aubrie Odell<br>**Rec. Division Champions**\: Coral
 
 #### End-of-Season Video
 
 Check out the end-of-season video&nbsp;[here](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&amp;id=4b6c8d9da7&amp;e=829ae97fea){: target="_blank"}, courtesy of Matt H!
-
-\####
