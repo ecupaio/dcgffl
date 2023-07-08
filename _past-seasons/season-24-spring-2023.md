@@ -14,8 +14,6 @@ Congratulations to captain, Bryan Sanders, and quarterback, Brandon Waggoner, on
 
 ##### <u><strong>Award Winners</strong></u>
 
-Congratulations to all our Season XXIV award winners for their fantastic seasons and overall contributions to the league:
-
 <br>**DCGFFL Legend Award:** Brian Donohoe, Sean Karson, Jared L, Peter Pham, Mike Z'Goda<br>**John Boyd Ally Award:**&nbsp;Garrett Schiponi<br>**Michael "Snowy" Snowden Sportsperson Award:** Dwaylan Applewhite<br>**Golden Whistle**\: Joe Heron<br>**Best Boo**\: Pedro S.<br>**Best Fan**\: Scott Graham & Lucas
 
 <u><strong>Women's+ Division Awards</strong></u>
