@@ -8,7 +8,7 @@ date: 2023-07-08 14:35:45 -0400
 
 Congratulations to [Royal Tenenbottoms](/teams/s24-royal-blue/)&nbsp;(Royal Blue) on beating [Daddy Chill](/teams/s24-white/) (White) and winning the Season XXIV championship trophy
 
-![](/img/commanders-addies-1.jpg){: width="3024" height="2424"}
+![](/img/b5132845-145e-161e-3e03-e644a2c751b3.jpg){: width="799" height="533"}
 
 Congratulations to captain, Bryan Sanders, and quarterback, Brandon Waggoner, on leading their team to victory! See more photos from the championship game&nbsp;[here](https://www.flickr.com/photos/55392288@N03/sets/72177720308482366/){: target="_blank"}! Thank you to ALL our players, refs, and supporters for a fantastic DCGFFL season!
 
