@@ -4,8 +4,6 @@ _inputs:
   $.logo:
     type: image
 nav:
-  - title: Awards
-    link: /awards/
   - title: Home
     link: /
   - title: About
@@ -32,6 +30,8 @@ nav:
     link: https://www.flickr.com/photos/55392288@N03/sets/
   - title: Sponsor
     link: /sponsors/
+  - title: Awards
+    link: /awards/
 nav-button:
   text: Donate
   link: /donate/
