@@ -10,24 +10,24 @@ nav:
     link: /about/
   - title: League Teams
     link: /league/
+  - title: Travel Program
+    link: /travel-program/
   - title: Game Schedule
     link: /schedule/
+  - title: Gallery
+    link: https://www.flickr.com/photos/55392288@N03/sets/
   - title: Scoreboard
     link: /score-board/
   - title: Playoffs
     link: /playoffs/
-  - title: Power Rankings
-    link: /power-rankings/
   - title: Recreation League
     link: /recreation-league/
-  - title: Travel Program
-    link: /travel-program/
-  - title: News
-    link: /news/
+  - title: Power Rankings
+    link: /power-rankings/
   - title: Events
     link: /events/
-  - title: Gallery
-    link: https://www.flickr.com/photos/55392288@N03/sets/
+  - title: News
+    link: /news/
   - title: Sponsor
     link: /sponsors/
   - title: Awards
