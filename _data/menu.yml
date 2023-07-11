@@ -18,18 +18,18 @@ nav:
     link: https://www.flickr.com/photos/55392288@N03/sets/
   - title: Scoreboard
     link: /score-board/
+  - title: Sponsors
+    link: /sponsors/
+  - title: Events
+    link: /events/
+  - title: News
+    link: /news/
   - title: Playoffs
     link: /playoffs/
   - title: Recreation League
     link: /recreation-league/
   - title: Power Rankings
     link: /power-rankings/
-  - title: Events
-    link: /events/
-  - title: News
-    link: /news/
-  - title: Sponsors
-    link: /sponsors/
   - title: Awards
     link: /awards/
 nav-button:
