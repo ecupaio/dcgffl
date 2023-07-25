@@ -7,7 +7,7 @@ attachments: []
 
 Season XXV (Fall 2023) of the DCGFFL will run from September to November, and registration will occur over the next few weeks!
 
-**Open Division Registration Form**<br>[**Women's+ Division Registration Form**](https://forms.gle/tuSJY512jv4bRHzg8 "https://forms.gle/tuSJY512jv4bRHzg8")<br>[**Forever Family Registration Form**](https://forms.gle/q8QmktnS1Pcya4A37 "https://forms.gle/q8QmktnS1Pcya4A37")
+**Open Division Registration Form**<br>**Women's+ Division Registration Form**<br>**Forever Family Registration Form**
 
 ![](/img/image-1-14-23-at-6-17-pm.jpeg)
 
