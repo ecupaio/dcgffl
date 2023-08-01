@@ -26,3 +26,5 @@ $ 1 from each ticket sold, and all proceeds from the silent auction, will be don
 **V IP Tickets -**&nbsp;Top shelf open bar for the duration of the party, appetizers, a commemorative anniversary party item, and VIP access to a private bartender.
 
 A fter years of informally gathering to play flag football, the DC Gay Flag Football League launched its inaugural season in the Fall of 2010 - seven teams were created with 102 players. Today, the league is eighteen teams with over 230 players, and over the course of 24 seasons, more than 2,000 players have participated in the DC Gay Flag Football League.
+
+![](/img/season-xxv-anniversary-party-flyer.png){: width="1545" height="2000"}
