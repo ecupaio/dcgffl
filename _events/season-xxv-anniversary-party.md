@@ -15,7 +15,7 @@ location:
   state: DC
   zip: 20004
 ---
-J oin us on September 23rd as we celebrate our community, its accomplishments, and get ready to groove like never before as DJ DJ takes us on a nostalgic journey through the greatest hits of the DCGFFL!
+Join us on September 23rd as we celebrate our community, its accomplishments, and get ready to groove like never before as DJ DJ takes us on a nostalgic journey through the greatest hits of the DCGFFL!
 
 $ 1 from each ticket sold, and all proceeds from the silent auction, will be donated to support SMYAL and The DC Center for the LGBT Community.
 
