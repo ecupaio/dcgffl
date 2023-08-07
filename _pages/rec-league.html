@@ -10,38 +10,45 @@ _inputs:
     type: array
     options:
       structures: _structures.items-1
-  $.schedule.no-games: 
+  $.schedule.no-games:
     type: markdown
 title: Recreation League
-permalink: "/recreation-league/"
+permalink: /recreation-league/
 css: rec-league
 content-id: rec-league-home
 season: 24
 week: 1
 scripts:
-- rules
+  - rules
 scoreboard:
   no-scores: There are no scores for this season at the moment.
 schedule:
   title: This week's games
   no-games: No games scheduled.
 hero:
-  title: Recreation League
-  text: "The Recreation League is a supplemental league that runs in tandem to the
-    regular league and is primarily for those who want to develop their skills, try
-    new positions, or try out the DCGFFL for the first time.  The Recreation League
-    is open to everyone, even those not playing in the regular season.\n\nThis season’s
-    game dates are Fridays April 21, April 28, Sunday April 30 (regular games),  Fridays
-    May 5 (playoffs), and May12 (championship game). Games begin at 8:00 PM, and warm-ups
-    may begin as early as 7:30 PM. This season’s games and playoffs will be played
-    at [Brentwood Hamilton Park](https://goo.gl/maps/3tps8c8qwxPQfKuY9), located at
-    1300 6th St NE, Washington, DC 20002. \n\nHistorically, games have also been played
-    on Fridays in mid-April and mid-October at other fields such as Trinidad Recreation
-    Center and Harry Thomas Recreational Center."
-  image: "/img/rec-league-hero.jpg"
+  title: Recreation Division
+  text: >-
+    The Recreation division is a supplemental league that runs in tandem to the
+    regular league and is primarily for those who want to develop their skills,
+    try new positions, or try out the DCGFFL for the first time.  The Recreation
+    division is open to everyone, even those not playing in the regular season.
+
+
+    This season’s game dates are Fridays April 21, April 28, Sunday April 30
+    (regular games),  Fridays May 5 (playoffs), and May12 (championship game).
+    Games begin at 8:00 PM, and warm-ups may begin as early as 7:30 PM. This
+    season’s games and playoffs will be played at [Brentwood Hamilton
+    Park](https://goo.gl/maps/3tps8c8qwxPQfKuY9), located at 1300 6th St NE,
+    Washington, DC 20002. 
+
+
+    Historically, games have also been played on Fridays in mid-April and
+    mid-October at other fields such as Trinidad Recreation Center and Harry
+    Thomas Recreational Center.
+  image: /img/rec-league-hero.jpg
   button:
     text: Register
-    link: "#register-section"
+    link: '#register-section'
     visible: false
 register:
   title: Register
@@ -53,29 +60,47 @@ register:
 rules:
   title: Rules & Policies
   items:
-  - title: Captains and QBs
-    text: |-
-      Captains are selected from veterans of the regular league. Previous captaining experience is not required.
+    - title: Captains and QBs
+      text: >-
+        Captains are selected from veterans of the regular league. Previous
+        captaining experience is not required.
 
-      Each team has one or two QBs.  One QB may be a veteran QB who is or has QB’d in the regular league. This gives Rec players more consistent throws and play calling. The second QB is one who would like to QB for the regular league or would just like to try his or her hand at running an offense. Quarterbacks will switch every offensive series or half or as decided by the captains and QBs. However, secondary QBs must play at least one half if present.
-  - title: Restricted Players
-    text: "Highly skilled players (e.g. travel team players or consistent MVP recipients)
-      may be restricted at the captains’ discretion. These players will be denoted
-      on the team rosters with bold and are limited in the following ways:\n\n1. They
-      cannot play their normal offensive and/or defensive position.\n2. They may catch
-      or intercept the ball, but they cannot advance it.\n\nGenerally, these are players
-      on a travel team or those who consistently obtain MVPs in the regular season.\n\nThe
-      mission is to make the Recreation League a place where everyone has the chance
-      to participate on both offense and defense.    "
+
+        Each team has one or two QBs.  One QB may be a veteran QB who is or has
+        QB’d in the regular league. This gives Rec players more consistent
+        throws and play calling. The second QB is one who would like to QB for
+        the regular league or would just like to try his or her hand at running
+        an offense. Quarterbacks will switch every offensive series or half or
+        as decided by the captains and QBs. However, secondary QBs must play at
+        least one half if present.
+    - title: Restricted Players
+      text: >-
+        Highly skilled players (e.g. travel team players or consistent MVP
+        recipients) may be restricted at the captains’ discretion. These players
+        will be denoted on the team rosters with bold and are limited in the
+        following ways:
+
+
+        1. They cannot play their normal offensive and/or defensive position.
+
+        2. They may catch or intercept the ball, but they cannot advance it.
+
+
+        Generally, these are players on a travel team or those who consistently
+        obtain MVPs in the regular season.
+
+
+        The mission is to make the Recreation League a place where everyone has
+        the chance to participate on both offense and defense.    
 playoffs:
   title: Playoffs
-  text: Rec League Season 23 Playoffs are Friday, November 4th, 2022 at Harry Thomas
+  text: >-
+    Rec League Season 23 Playoffs are Friday, November 4th, 2022 at Harry Thomas
     Recreational Center
   button:
     text: View bracket
-    link: "/recreation-league/playoffs/"
+    link: /recreation-league/playoffs/
   visible: false
-
 ---
 {% include hero.html %}
 {% include scoreboard-feed.html games=site.rec-games teams=site.rec-teams scoreboard='/recreation-league/score-board/' %}
