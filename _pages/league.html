@@ -10,34 +10,39 @@ _inputs:
     type: markdown
     label: No games text
   $.register.text:
-    type: textarea  
-title: League Teams
-permalink: "/league/"
-season: 24
-week: 7
+    type: textarea
+title: Open Division Teams
+permalink: /league/
+season: 25
+week: 0
 scoreboard:
   no-scores: There are no scores for this week at the moment.
 schedule:
   title: ''
-  no-games: The schedule for Season 24 (Spring 2023) will be uploaded to the website
-    around March 1st!
+  no-games: >-
+    The schedule for Season 25 (Fall 2023) will be uploaded to the website
+    around September 1st!
 hero:
-  title: The League
-  text: The league is open to all skill levels, from those who have played for years
-    to those who have never been on a football field. Additionally, is it a fellowship
-    for both LGBTQ+ individuals and straight allies. Come check out our games, meet
-    some amazing people, and consider joining us as a player!
-  image: "/img/league-hero.jpg"
+  title: The Open Division
+  text: >-
+    The league is open to all skill levels, from those who have played for years
+    to those who have never been on a football field. Additionally, is it a
+    fellowship for both LGBTQ+ individuals and straight allies. Come check out
+    our games, meet some amazing people, and consider joining us as a player!
+  image: /img/league-hero.jpg
   button:
     text: Register
-    link: "#register-section"
-    visible: true
+    link: '#register-section'
+    visible: false
 register:
   title: Get in the game!
-  text: |-
-    Registration for Season XXIV (Spring 2023) is now closed!
+  text: >-
+    Registration for Season XXV (Fall 2023 2023) is now closed!
 
-    Didn't register in time? Don't fret! Check back in mid-March for our  Recreation League Registration period for an additional opportunity to play with us this spring.
+
+    Didn't register in time? Don't fret! Check back in mid-March for our 
+    Recreation League Registration period for an additional opportunity to play
+    with us this fall
   button:
     text: SIGN UP FOR MAILING LIST
     link: http://eepurl.com/c9JkQz
@@ -49,7 +54,6 @@ playoffs:
     text: View bracket
     link: https://dcgffl.org/season-21-playoffs/
   visible: false
-
 ---
 {% include hero.html %}
 {% include scoreboard-feed.html teams=site.teams games=site.games scoreboard='/score-board/' %}
