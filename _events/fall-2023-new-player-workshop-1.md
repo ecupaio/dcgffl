@@ -25,4 +25,4 @@ Please note that if you have not played in the DCGFFL before, you **MUST** atten
 
 This is **NOT** a tryout, just a way for us to make sure teams are picked fairly! If you registered on time, paid the registration fee, and show up to a workshop, you’ll get on a team. We’ll also try to get as many people off the waitlist as possible, so if you are a waitlisted new player, be sure to come!
 
-**As another option,** **New Player Workshop \#2**&nbsp;**will be held on Thursday, August 24 at 7 - 8:30 PM (Location TBA).**
+**As another option,** [**New Player Workshop \#2**](/s25-npw-2)&nbsp;**will be held on Thursday, August 24 at 7 - 8:30 PM (Fields at RFK (Field 2A)).**
