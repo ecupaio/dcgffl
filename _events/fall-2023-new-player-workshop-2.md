@@ -2,8 +2,8 @@
 _schema: default
 title: 'Fall 2023 New Player Workshop #2'
 permalink: /s25-npw-2
-date: 2023-08-20 00:00:00 -0400
-time: 11:00 am
+date: 2023-08-23 00:00:00 -0400
+time: 8:00 pm
 button:
   text: ''
   link: ''
