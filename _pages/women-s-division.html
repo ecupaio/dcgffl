@@ -1,0 +1,113 @@
+---
+_enabled_editors:
+  - data
+_inputs:
+  $.season:
+    type: number
+  $.week:
+    type: number
+  $.rules.items:
+    type: array
+    options:
+      structures: _structures.items-1
+  $.schedule.no-games:
+    type: markdown
+title: Women's+ Division
+permalink: /womensplus-division/
+css: rec-league
+content-id: rec-league-home
+season: 2
+week: 1
+scripts:
+  - rules
+scoreboard:
+  no-scores: There are no scores for this season at the moment.
+schedule:
+  title: This week's games
+  no-games: No games scheduled.
+hero:
+  title: Women's+ Division
+  text:
+  image: /img/52762629292-5a508f25a3-c.jpg
+  button:
+    text: Register
+    link: '#register-section'
+    visible: false
+register:
+  title: Register
+  text: 'Registration for Fall 2023 Women''s+ Division is now CLOSED! '
+  button:
+    text: REGISTER HERE!
+    link: https://forms.gle/rPfWqTBwVTBfm6Yn7
+    visible: false
+rules:
+  title: Rules & Policies
+  items:
+    - title: Captains and QBs
+      text: >-
+        Captains are selected from veterans of the regular league. Previous
+        captaining experience is not required.
+
+
+        Each team has one or two QBs.  One QB may be a veteran QB who is or has
+        QB’d in the regular league. This gives Rec players more consistent
+        throws and play calling. The second QB is one who would like to QB for
+        the regular league or would just like to try his or her hand at running
+        an offense. Quarterbacks will switch every offensive series or half or
+        as decided by the captains and QBs. However, secondary QBs must play at
+        least one half if present.
+    - title: Restricted Players
+      text: >-
+        Highly skilled players (e.g. travel team players or consistent MVP
+        recipients) may be restricted at the captains’ discretion. These players
+        will be denoted on the team rosters with bold and are limited in the
+        following ways:
+
+
+        1. They cannot play their normal offensive and/or defensive position.
+
+        2. They may catch or intercept the ball, but they cannot advance it.
+
+
+        Generally, these are players on a travel team or those who consistently
+        obtain MVPs in the regular season.
+
+
+        The mission is to make the Recreation League a place where everyone has
+        the chance to participate on both offense and defense.    
+playoffs:
+  title: Playoffs
+  text: >-
+    Rec League Season 23 Playoffs are Friday, November 4th, 2022 at Harry Thomas
+    Recreational Center
+  button:
+    text: View bracket
+    link: /recreation-league/playoffs/
+  visible: false
+---
+{% include hero.html %}
+{% include scoreboard-feed.html games=site.rec-games teams=site.rec-teams scoreboard='/recreation-league/score-board/' %}
+{% include playoffs.html %}
+{% include schedule-feed.html games=site.rec-games teams=site.rec-teams schedule-link="/recreation-league/schedule/" %}
+{% include teams.html teams=site.rec-teams %}
+{% include registration.html %}
+<section id="rules-section">
+  <div class="inner-section">
+    <h2>{{ page.rules.title }}</h2>
+    <div class="rules-list">
+      {% for rule in page.rules.items %}
+      <div class="rule">
+        <div class="rule-title">
+          <h4 class="title-text">{{ rule.title }}</h4>
+          <div class="rule-toggle">
+            <i class="fa fa-chevron-down"></i>
+          </div>
+        </div>
+        <div class="rule-text">
+          {{ rule.text | markdownify }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
