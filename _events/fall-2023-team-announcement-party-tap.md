@@ -9,11 +9,11 @@ button:
   link: ''
   visible: false
 location:
-  name: TBA
-  address: ''
-  city: ''
-  state: ''
-  zip:
+  name: Shakers
+  address: 2014 9th St NW
+  city: Washington
+  state: DC
+  zip: 20001
 ---
 Every season, the DCGFFL brings players, family, and friends from all across the area to come together and celebrate the beginning of a new season at the Team Announcement Party (TAP).
 
