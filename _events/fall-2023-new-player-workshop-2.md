@@ -9,11 +9,11 @@ button:
   link: ''
   visible: false
 location:
-  name: Carter Barron Soccer Fields
-  address: 1698 Kennedy St NW
+  name: Fields at RFK (Field 2A)
+  address: 401 Oklahoma Ave NE
   city: Washington
   state: DC
-  zip: 20011
+  zip: 20002
 ---
 New Player Workshops are opportunities for new players to develop and demonstrate their flag football skills, which helps ensure that fair teams are selected.
 
