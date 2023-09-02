@@ -12,13 +12,13 @@ members:
   - Sam Bieg
   - Robert Casey
   - Antwon Chavis
-  - Brandon Garner
+  - Brandon G.
   - Ken Green
-  - Kenny Jefferson
-  - Ocho Khalil
-  - Latreese Lovence
+  - Kenny J.
+  - Ocho K.
+  - Latreese L.
   - Shayne Madella
-  - Jaylan Monroe
+  - Jaylan M.
   - Ryan Winter
 division: ''
 ---
