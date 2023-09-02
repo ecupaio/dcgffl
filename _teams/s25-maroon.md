@@ -6,20 +6,20 @@ name: Maroon
 color: Maroon
 season: 25
 photo:
-captain: Darryl Pilate
-quarterback: Darryl Pilate
+captain: Darryl P.
+quarterback: "Patrick\tShilo"
 members:
-  - "Jordan\tAnderson"
-  - "Fatima\tAnwar"
-  - Kevin Balsbaugh
-  - Drew Crane
-  - Alex Englesbe
+  - "Jordan\tA."
+  - "Fatima\tA."
+  - Kevin B.
+  - Drew C.
+  - Alex E.
   - 'Jean Henry '
   - Mark Hofberg
   - Mariam Mehter
   - Stephen Sonon
-  - Mike Weiss
-  - Bradley Williams
+  - Mike W
+  - Bradley W.
   - Randy Snight (Forever Family)
 division:
 ---
