@@ -1,0 +1,24 @@
+---
+_schema: default
+title: 'S25 - Purple '
+permalink: /teams/s25-purple/
+name: Purple
+color: Purple
+season: 25
+photo:
+captain: Jens Piferoen
+quarterback: Matt Cline
+members:
+  - Sam Bieg
+  - Robert Casey
+  - Antwon Chavis
+  - Brandon Garner
+  - Ken Green
+  - Kenny Jefferson
+  - Ocho Khalil
+  - Latreese Lovence
+  - Shayne Madella
+  - Jaylan Monroe
+  - Ryan Winter
+division: ''
+---
