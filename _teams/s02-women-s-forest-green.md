@@ -15,13 +15,13 @@ members:
   - DyTiesha D.
   - Taylor H.
   - Christine Hohl
-  - Chantell Karikari
+  - Chantell K.
   - Nikki Kasparek
-  - Latreese Lovence
+  - Latreese L.
   - Desiree (Des) McCormick
   - Mariam Mehter
-  - Erin Miller
-  - Nour Nadri
+  - Erin M.
+  - Nour N.
   - Keely Norris
 division: Women's+
 ---
