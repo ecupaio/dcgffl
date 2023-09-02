@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: S25 - Coral
-permalink: /teams/s25-coral/
-name: Coral
+permalink: /womensplus-division/s25-coral/
+name: Corall
 color: Coral
 season: 25
 photo:
