@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'S25 - Maroon '
-permalink: ''
+permalink: /teams/maroon/
 name: Maroon
 color: Maroon
 season: 25
