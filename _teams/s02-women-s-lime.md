@@ -9,19 +9,19 @@ photo: ''
 captain: Linda Pratt
 quarterback: Meredith B.
 members:
-  - Mix Thomas
-  - Sherrie Rhodes
-  - Emily Binnicker
-  - Maria Crossman
-  - Veronica Heredia
-  - Courtney Hart
-  - Ashley Strong
-  - Mallory King
-  - Aubrie Odell
-  - Lindsey Walton
-  - Elle Carne
+  - Emily B.
+  - Elle C.
+  - Maria C.
   - Jacqueline Fulgham
-  - Sara Gordon
   - Leah Garofalo
+  - Sara Gordon
+  - Courtney H.
+  - Veronica H.
+  - Mallory K.
+  - Aubrie Odell
+  - Sherrie Rhodes
+  - Ashley S.
+  - Mix T.
+  - Lindsey Walton
 division: Women's+
 ---
