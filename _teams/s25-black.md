@@ -10,14 +10,14 @@ captain: Patrick Kozak
 quarterback: Matt Pearce
 members:
   - 'Brandon Benjamin '
-  - Triada Cross
-  - James Ferencsik
-  - Jordan Fraser
-  - Veronica Heredia
+  - Triada C.
+  - James F.
+  - Jordan F.
+  - Veronica H.
   - James Martinez
   - Taber Midgley
   - Jack Miles
-  - Tracy Smith
+  - Tracy S.
   - Ivan Torres
   - Malcolm Warbrick
 division: ''
