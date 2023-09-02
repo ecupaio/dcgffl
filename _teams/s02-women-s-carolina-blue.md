@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: S02 Women's+ - Carolina Blue
-permalink: /team/
+permalink: /teams/s2-womensplus-carolina-blue/
 name: Carolina Blue
 color: Carolina Blue
 season: 24
