@@ -6,22 +6,22 @@ name: Neon Pink
 color: Neon Pink
 season: 2
 photo: ''
-captain: Lauren/ Amanda
+captain: Lauren | Amanda Dafonte
 quarterback: Emily Lefler
 members:
-  - Alley Brown
+  - Alley B.
+  - Rachel B.
   - Austyn Creighton
-  - Bre Markenson- Bussel
-  - Dana Kyle
   - Gabriela DeAnda
-  - Jillian Joyce
-  - Katie Pawlowski
-  - Leni Dworkis
-  - Lex Pulice- Farrow
-  - Mecha Santos
-  - Pam Mazzarella
-  - Rachel Browning
+  - Leni D.
+  - Toya J.
+  - Jillian J.
+  - Dana Kyle
+  - Bre M.
+  - Pam M.
   - Stephanie McDaniel
-  - Toya Jones
+  - Katie Pawlowski
+  - Lex Pulice-Farrow
+  - Mecha Santos
 division: Women's+
 ---
