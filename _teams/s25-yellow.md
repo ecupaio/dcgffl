@@ -9,16 +9,16 @@ photo:
 captain: Derrick Johnson
 quarterback: Austin Plier
 members:
-  - Liam Davis
-  - Judy Hasty
+  - Liam D.
+  - Judy H.
   - Daniel Honeycutt
   - Mark Japinga
-  - Okan Koc
+  - Okan K.
   - Matt Magyar
-  - Zachariah Melgar
-  - Noah Minnie
-  - 'Marvin Washington '
-  - Merrill Wheeler
+  - Zachariah M.
+  - Noah M.
+  - Marvin W.
+  - Merrill W.
   - Blake Whetzel
   - Pedro Suarez (Forever Family)
 division: ''
