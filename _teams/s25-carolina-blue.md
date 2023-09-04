@@ -7,16 +7,16 @@ color: Carolina Blue
 season: 25
 photo:
 captain: Connor Wilson
-quarterback: Oriya Cohen
+quarterback: Oriya C.
 members:
   - Patrick Barboun
-  - Liz Bloom
+  - Liz B.
   - Andrew Hoyler
   - Scott Kelly
   - Nicholas Lewis
-  - Jacob Marx
+  - Jacob M.
   - Aubrie Odell
-  - William Radcliff
+  - William R.
   - Jacob Robertson
   - Christopher Taste
   - Paul Whitney
