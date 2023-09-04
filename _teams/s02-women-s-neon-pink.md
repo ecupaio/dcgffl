@@ -6,7 +6,7 @@ name: Neon Pink
 color: Neon Pink
 season: 25
 photo: ''
-captain: Lauren | Amanda Dafonte
+captain: Lauren Pruitt | Amanda Dafonte
 quarterback: Emily Lefler
 members:
   - Alley B.
