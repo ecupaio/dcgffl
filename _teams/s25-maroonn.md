@@ -1,10 +1,10 @@
 ---
 _schema: default
 title: S25 - Coral
-permalink: /womensplus-division/teams/s25-coral/
+permalink: /teams/s25-coral/
 name: Corall
 color: Coral
-season: 2
+season: 25
 photo:
 captain: Michael Bromell
 quarterback: Andrew Aldrian
