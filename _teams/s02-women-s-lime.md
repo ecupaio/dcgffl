@@ -10,7 +10,7 @@ captain: Linda Pratt
 quarterback: Meredith B.
 members:
   - Emily B.
-  - Elle C.
+  - Elle
   - Maria C.
   - Jacqueline Fulgham
   - Leah Garofalo
