@@ -4,7 +4,7 @@ title: S02 Women's+ - Lime
 permalink: /teams/s2-womensplus-lime/
 name: Lime
 color: Lime
-season: 2
+season: 25
 photo: ''
 captain: Linda Pratt
 quarterback: Meredith B.

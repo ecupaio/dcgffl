@@ -4,7 +4,7 @@ title: S02 Women's+ - Forest Green
 permalink: /teams/s2-womensplus-forest-green/
 name: Forest Green
 color: Forest Green
-season: 2
+season: 25
 photo: ''
 captain: Sam Cline
 quarterback: Lizzie Becker

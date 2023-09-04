@@ -4,7 +4,7 @@ title: S02 Women's+ - Carolina Blue
 permalink: /teams/s2-womensplus-carolina-blue/
 name: Carolina Blue
 color: Carolina Blue
-season: 24
+season: 25
 photo: ''
 captain: Nik Battaglia
 quarterback: Meg Lukacs

@@ -4,7 +4,7 @@ title: S02 Women's+ - Neon Pink
 permalink: /teams/s2-womensplus-neon-pink/
 name: Neon Pink
 color: Neon Pink
-season: 2
+season: 25
 photo: ''
 captain: Lauren | Amanda Dafonte
 quarterback: Emily Lefler
