@@ -2,7 +2,7 @@
 _schema: default
 title: S25 - Coral
 permalink: /teams/s25-coral/
-name: Corall
+name: Coral
 color: Coral
 season: 25
 photo:
