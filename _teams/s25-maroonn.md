@@ -21,5 +21,5 @@ members:
   - Jorge Membreño
   - Evan Ryan
   - Kevin Comerford (Forever Family)
-division: ''
+division: Open
 ---

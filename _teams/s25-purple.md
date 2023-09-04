@@ -20,5 +20,5 @@ members:
   - Shayne Madella
   - Jaylan M.
   - Ryan Winter
-division: ''
+division: Open
 ---

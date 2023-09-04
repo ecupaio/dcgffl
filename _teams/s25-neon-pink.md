@@ -20,5 +20,5 @@ members:
   - Matt Nix
   - Justin Parker
   - Adam Vavrek
-division: ''
+division: Open
 ---

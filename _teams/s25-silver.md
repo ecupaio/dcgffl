@@ -21,5 +21,5 @@ members:
   - Larry W.
   - Kirk Y.
   - Harry Suchyta (Forever Family)
-division: ''
+division: Open
 ---

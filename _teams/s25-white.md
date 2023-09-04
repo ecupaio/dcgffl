@@ -20,5 +20,5 @@ members:
   - Justin Pendleton
   - John Riley
   - Charles Roth
-division: ''
+division: Open
 ---

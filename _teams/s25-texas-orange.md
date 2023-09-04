@@ -21,5 +21,5 @@ members:
   - 'Lamar Riotta-Rogers '
   - Everett W.
   - Mark Summerside (Forever Family)
-division: ''
+division: Open
 ---

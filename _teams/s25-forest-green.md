@@ -20,5 +20,5 @@ members:
   - Daniel Ponce
   - Shakka P.
   - Andy S.
-division: ''
+division: Open
 ---

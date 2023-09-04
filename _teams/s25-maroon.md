@@ -21,5 +21,5 @@ members:
   - Mike W
   - Bradley W.
   - Randy Snight (Forever Family)
-division:
+division: Open
 ---

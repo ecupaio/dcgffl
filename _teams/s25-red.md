@@ -20,5 +20,5 @@ members:
   - Sam Smallwood
   - Adam Strasberg
   - Ryan Viessman
-division: ''
+division: Open
 ---

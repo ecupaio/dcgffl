@@ -20,5 +20,5 @@ members:
   - Tracy S.
   - Ivan Torres
   - Malcolm Warbrick
-division: ''
+division: Open
 ---
