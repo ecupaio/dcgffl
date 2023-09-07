@@ -1,14 +1,14 @@
 ---
 _schema: default
-title: S25 Week 1 - Silver vs Carolina Blue
+title: S25 Week 1 - Yellow vs Navy
 teams-score:
-  - team: _teams/s25-silver.md
+  - team: _teams/s25-yellow.md
     score:
-  - team: _teams/s25-carolina-blue.md
+  - team: _teams/s25-navy.md
     score:
 location: _locations/carter-baron.md
-field: '1'
-date: 2023-09-10 09:00:00 -0400
+field: '3'
+date: 2023-09-10 10:45:00 -0400
 season: 25
 week: 1
 mvp: ''
