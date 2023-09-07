@@ -19,11 +19,7 @@ rankings:
       flame out (again), my money’s here
 
 
-      &lt;iframe src="https://giphy.com/embed/exfxNyoKaS6tZTsP0S" width="480"
-      height="270" frameBorder="0" class="giphy-embed"
-      allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a
-      href="https://giphy.com/gifs/comedycentral-broad-city-reduce-reuse-recycle-rihanna-exfxNyoKaS6tZTsP0S"&gt;via
-      GIPHY&lt;/a&gt;&lt;/p&gt;
+      https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZ3ZDBvaWFqMWFzNDVyYTRva3U5a3psdmoyczFsOXV2dzQ1bzFxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exfxNyoKaS6tZTsP0S/giphy.gif
     record: Larry/Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
