@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Season 25 Power Rankings: Preseasonnnn'
-permalink: ''
+permalink: /power-rankings/
 date: 2023-03-02 16:07:44 -0500
 author: >-
   Aaron S. - Well, footballers, the long wait is over and we’re set to meet on
@@ -32,7 +32,7 @@ rankings:
       and Tony Smith, among others, the sky’s the limit, I’m afraid.
 
 
-      ![](https://media.tenor.com/RE19_sZDd38AAAAC/i-hate-this-so-much-frustrated.gif)
+      ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JhY2ZlMTc0Njk4NjA4ZGZmNGY2MWExNmE3YTJjMDRhOGJkMmExZCZjdD1n/RCK0Pr4zSc63e/giphy.gif)
     record: Mark Hofberg and Ben Hunt
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
