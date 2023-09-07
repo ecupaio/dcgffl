@@ -19,21 +19,16 @@ rankings:
       flame out (again), my money’s here.
 
 
-      &lt;iframe src="https://giphy.com/embed/exfxNyoKaS6tZTsP0S" width="480"
-      height="270" frameBorder="0" class="giphy-embed"
-      allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a
-      href="https://giphy.com/gifs/comedycentral-broad-city-reduce-reuse-recycle-rihanna-exfxNyoKaS6tZTsP0S"&gt;via
-      GIPHY&lt;/a&gt;&lt;/p&gt;
-
-
-      &lt;img src="https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif"
-      alt="Flowers in Chania" width="460" height="345"&gt;
-
-
       https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif
 
 
-      <br><br><br><br><br>
+      [...](https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif)
+
+
+      https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV0ZTlwOTRuOGxtNmQ0NGsxcGZudWp0MGM2eTgwZ3NhejhxNnB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exfxNyoKaS6tZTsP0S/giphy.gif
+
+
+      https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV0ZTlwOTRuOGxtNmQ0NGsxcGZudWp0MGM2eTgwZ3NhejhxNnB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exfxNyoKaS6tZTsP0S/giphy.gif
     record: Larry and Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
