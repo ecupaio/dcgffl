@@ -8,7 +8,7 @@ author: >-
   you all back. In honor of this momentous occasion, welcome to the DCGFFL
   Preseason Eras tour! Let’s visit each team as we all prepare for Sunday. See
   y’all at Carter Barron at 9am sharp!
-season: 25
+season: 24
 week: 0
 rankings:
   - team: _teams/s25-texas-orange.md
