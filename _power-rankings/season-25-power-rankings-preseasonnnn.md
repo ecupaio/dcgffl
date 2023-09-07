@@ -19,10 +19,13 @@ rankings:
       flame out (again), my money’s here.
 
 
-      https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV0ZTlwOTRuOGxtNmQ0NGsxcGZudWp0MGM2eTgwZ3NhejhxNnB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exfxNyoKaS6tZTsP0S/giphy.gif
+      [https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV0ZTlwOTRuOGxtNmQ0NGsxcGZudWp0MGM2eTgwZ3NhejhxNnB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exfxNyoKaS6tZTsP0S/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWV0ZTlwOTRuOGxtNmQ0NGsxcGZudWp0MGM2eTgwZ3NhejhxNnB6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/exfxNyoKaS6tZTsP0S/giphy.gif)
 
 
-      https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif
+      [https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif](https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif)
+
+
+      [...](https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif)
     record: Larry and Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
