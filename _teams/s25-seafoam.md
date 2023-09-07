@@ -20,5 +20,5 @@ members:
   - Aaron S.
   - Matt Showalter
   - Matan Showstack
-division: Open
+division: Pitchers
 ---

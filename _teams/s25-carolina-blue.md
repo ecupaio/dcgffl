@@ -20,5 +20,5 @@ members:
   - Jacob Robertson
   - Christopher Taste
   - Paul Whitney
-division: Open
+division: Shakers
 ---
