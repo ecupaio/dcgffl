@@ -396,6 +396,14 @@ _structures:
           text:
             type: markdown
             options:
+              format: p h1 h2 h3 h4 h5 h6 
+              bold: true
+              italic: true
+              link: true
+              underline: true
+              numberedlist: true
+              bulletedlist: true
+              removeformat: true
               image: true
   play-options:
     values:
