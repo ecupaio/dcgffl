@@ -393,9 +393,10 @@ _structures:
             options:
               values: collections.teams
               value_key: path
-
           text:
             type: markdown
+            options:
+              image: true
   play-options:
     values:
       - value:
