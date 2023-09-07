@@ -8,7 +8,7 @@ author: >-
   you all back. In honor of this momentous occasion, welcome to the DCGFFL
   Preseason Eras tour! Let’s visit each team as we all prepare for Sunday. See
   y’all at Carter Barron at 9am sharp!
-season: 24
+season: 25
 week: 0
 rankings:
   - team: _teams/s25-texas-orange.md
@@ -19,7 +19,11 @@ rankings:
       flame out (again), my money’s here
 
 
-      [...](https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif)
+      &lt;iframe src="https://giphy.com/embed/exfxNyoKaS6tZTsP0S" width="480"
+      height="270" frameBorder="0" class="giphy-embed"
+      allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a
+      href="https://giphy.com/gifs/comedycentral-broad-city-reduce-reuse-recycle-rihanna-exfxNyoKaS6tZTsP0S"&gt;via
+      GIPHY&lt;/a&gt;&lt;/p&gt;
     record: Larry/Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
