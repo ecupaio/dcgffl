@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Season 25 Power Rankings: Preseason'
-permalink: ''
+permalink: /power-rankings/season-25-preseason-power-rankings/
 date: 2023-03-02 16:07:44 -0500
 author: >-
   Aaron S. - Well, footballers, the long wait is over and we’re set to meet on

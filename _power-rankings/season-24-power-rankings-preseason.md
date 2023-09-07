@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Season 24 Power Rankings: Preseason'
-permalink: ''
+permalink: /power-rankings/season-25-preseason-power-rankings/
 date: 2023-09-06 22:00:00 -0400
 author: >-
   Aaron S. - Season 25 is upon us Leaguers, and we’re very excited to welcome
