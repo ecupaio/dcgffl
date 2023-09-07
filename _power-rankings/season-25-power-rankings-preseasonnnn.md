@@ -19,7 +19,7 @@ rankings:
       flame out (again), my money’s here.
 
 
-      ![](blob:https://app.cloudcannon.com/57b35ad4-f9fc-4f85-9c3c-6b6b5fbf7791)
+      ![](blob:https://app.cloudcannon.com/2fc4c860-ad84-4374-a40f-0aa0c2f65a95)
     record: Larry and Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
