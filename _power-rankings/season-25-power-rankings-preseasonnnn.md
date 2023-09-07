@@ -4,36 +4,23 @@ title: 'Season 25 Power Rankings: Preseasonnnn'
 permalink: /power-rankings/
 date: 2023-03-02 16:07:44 -0500
 author: >-
-  Aaron S. - Well, footballers, the long wait is over and we’re set to meet on
-  Sunday! First games are on at 9am! But a lot has happened since we last met: 
-  For the straights—Avatar came back into theaters.   But for us
-  queer-identified folks? Well, M3GAN became the gay icon and on-screen
-  representation we so desperately needed; Ariana DeBose delivered HIGH camp at
-  the BAFTAs; Anetra on Drag Race taught us that we need to spell our names
-  using the number of letters and vowels; it became clear that (fictional)
-  lesbian icon Lydia Tár should be in jail; and, Rihanna gave us nothing and
-  everything during the Super Bowl while confirming that we are most definitely
-  not getting the album.   At this point, you’ve been to TAP, you’ve met your
-  teammates, you’ve maybe practiced with them, and you’ve gotten the sense that
-  the GroupMe is either going to be super fun or a snooze. As you get ready for
-  Sunday, you take a look at your schedule and begin to wonder about the
-  competition. Well, let’s look at these preseason rankings!
+  Aaron S. - Season 25 is upon us Leaguers, and we’re very excited to welcome
+  you all back. In honor of this momentous occasion, welcome to the DCGFFL
+  Preseason Eras tour! Let’s visit each team as we all prepare for Sunday. See
+  y’all at Carter Barron at 9am sharp!
 season: 25
 week: 0
 rankings:
-  - team: _teams/s24-tropic-blue.md
+  - team: _teams/s25-texas-orange.md
     text: >-
-      Listen, I’m not happy about this either. No one is excited to start
-      another season with Ben H. atop the rankings, but this is a strong
-      pairing. Neither is new to this league and both are championship winners.
-      In fact, Ben has been in the League for 7(?) seasons and has only not made
-      it to the Final Four once. Now that he has a strong captain who can pretty
-      much score from anywhere and a roster that includes Steslicki, Bertram,
-      and Tony Smith, among others, the sky’s the limit, I’m afraid.
+      Larry and Cam play together in travel, and they drafted some familiar
+      receivers to this team. They’re in their “recycle era” for sure. It’s
+      going to be plug and play for them this season and, barring a playoff
+      flame out (again), my money’s here.
 
 
       ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JhY2ZlMTc0Njk4NjA4ZGZmNGY2MWExNmE3YTJjMDRhOGJkMmExZCZjdD1n/RCK0Pr4zSc63e/giphy.gif)
-    record: Mark Hofberg and Ben Hunt
+    record: Larry and Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
     text: >-
