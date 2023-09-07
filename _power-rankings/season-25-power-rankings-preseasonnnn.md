@@ -31,6 +31,9 @@ rankings:
 
 
       https://media.giphy.com/media/exfxNyoKaS6tZTsP0S/giphy.gif
+
+
+      <br><br><br><br><br>
     record: Larry and Cam
   - team: _teams/s24-white.md
     record: Twon H. and JC Adams
