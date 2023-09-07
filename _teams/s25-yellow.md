@@ -21,5 +21,5 @@ members:
   - Merrill W.
   - Blake Whetzel
   - Pedro Suarez (Forever Family)
-division: Open
+division: Pitchers
 ---

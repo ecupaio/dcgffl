@@ -20,5 +20,5 @@ members:
   - Cedric R.
   - Kirt Smith
   - Gideon Yeager
-division: Open
+division: Shakers
 ---

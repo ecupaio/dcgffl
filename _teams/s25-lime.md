@@ -20,5 +20,5 @@ members:
   - 'Travis Meuwissen '
   - Michael Springfield
   - Joe Zanoni
-division: Open
+division: Shakers
 ---

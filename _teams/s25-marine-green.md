@@ -20,5 +20,5 @@ members:
   - 'Sherrie Rhodes '
   - Andrew Strahan
   - Brandon T.
-division: Open
+division: Shakers
 ---

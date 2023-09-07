@@ -20,5 +20,5 @@ members:
   - Brandon Recto
   - Jeff Ruben
   - Camille Thompson
-division: Open
+division: Pitchers
 ---

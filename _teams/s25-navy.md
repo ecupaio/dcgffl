@@ -20,5 +20,5 @@ members:
   - Aaron Ross
   - Diego Urena
   - Juan V.
-division: Open
+division: Pitchers
 ---

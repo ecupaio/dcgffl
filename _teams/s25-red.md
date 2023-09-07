@@ -20,5 +20,5 @@ members:
   - Sam Smallwood
   - Adam Strasberg
   - Ryan Viessman
-division: Open
+division: Shakers
 ---
