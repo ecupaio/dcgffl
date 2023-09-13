@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Silver '
+title: S25 - Silver (Disco Cowboys)
 permalink: /teams/s25-silver/
-name: Silver
+name: Disco Cowboys
 color: Silver
 season: 25
 photo:

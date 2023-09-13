@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Navy '
+title: S25 - Navy (PLAYBUOYS)
 permalink: /teams/s25-navy/
-name: Navy
+name: PLAYBUOYS
 color: Navy
 season: 25
 photo:

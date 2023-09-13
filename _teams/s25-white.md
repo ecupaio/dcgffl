@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S25 - White
+title: S25 - White (Glazed and Confused)
 permalink: /teams/s25-white/
-name: White
+name: Glazed and Confused
 color: White
 season: 25
 photo:

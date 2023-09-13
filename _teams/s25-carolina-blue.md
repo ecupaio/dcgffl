@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Carolina Blue '
+title: S25 - Carolina Blue (Tar👠s)
 permalink: /teams/s25-carolina-blue/
-name: Carolina Blue
+name: Tar👠s
 color: Carolina Blue
 season: 25
 photo:

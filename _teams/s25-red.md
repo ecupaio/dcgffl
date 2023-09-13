@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Red '
+title: S25 - Red (Left You On Red)
 permalink: /teams/s25-red/
-name: Red
+name: Left You On Red
 color: Red
 season: 25
 photo:

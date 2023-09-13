@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Forest Green '
+title: S25 - Forest Green (Hardwood Forest)
 permalink: /teams/s25-forest-green/
-name: Forest Green
+name: Hardwood Forest
 color: Forest Green
 season: 25
 photo:

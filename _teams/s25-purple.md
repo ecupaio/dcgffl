@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Purple '
+title: S25 - Purple (Choose Violets)
 permalink: /teams/s25-purple/
-name: Purple
+name: Choose Violets
 color: Purple
 season: 25
 photo:

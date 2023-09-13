@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Sapphire '
+title: S25 - Sapphire (The Icebergs)
 permalink: /teams/s25-sapphire/
-name: Sapphire
+name: The Icebergs
 color: Sapphire
 season: 25
 photo:

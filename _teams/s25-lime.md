@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Lime '
+title: S25 - Lime (The Boy is Lime)
 permalink: /teams/s25-lime/
-name: Lime
+name: The Boy is Lime
 color: Lime
 season: 25
 photo:

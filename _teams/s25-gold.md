@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S25 - Gold
+title: S25 - Gold (Magnum)
 permalink: /teams/s25-gold/
-name: Gold
+name: Magnum
 color: Gold
 season: 25
 photo:

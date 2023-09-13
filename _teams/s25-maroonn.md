@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S25 - Coral
+title: S25 - Coral (Coralingus)
 permalink: /teams/s25-coral/
-name: Coral
+name: Coralingus
 color: Coral
 season: 25
 photo:

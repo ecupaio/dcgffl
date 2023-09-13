@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Maroon '
+title: S25 - Maroon (Beet It)
 permalink: /teams/s25-maroon/
-name: Maroon
+name: Beet It
 color: Maroon
 season: 25
 photo:

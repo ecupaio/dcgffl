@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Yellow '
+title: S25 - Yellow (Plan Bees)
 permalink: /teams/s25-yellow/
-name: Yellow
+name: Plan Bees
 color: Yellow
 season: 25
 photo:

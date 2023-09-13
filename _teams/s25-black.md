@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S25 - Black
+title: S25 - Black (Black Holes)
 permalink: /teams/s25-black/
-name: Black
+name: Black Holes
 color: Black
 season: 25
 photo:

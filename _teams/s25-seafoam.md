@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Seafoam '
+title: S25 - Seafoam (No Foamo)
 permalink: /teams/s25-seafoam/
-name: Seafoam
+name: No Foamo
 color: Seafoam
 season: 25
 photo:

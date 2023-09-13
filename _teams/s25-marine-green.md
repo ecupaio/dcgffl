@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: 'S25 - Marine Green '
+title: S25 - Marine Green (It’s Giving Jarhead)
 permalink: /teams/s25-marine-green/
-name: Marine Green
+name: It’s Giving Jarhead
 color: Marine Green
 season: 25
 photo:
