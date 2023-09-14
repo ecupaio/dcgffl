@@ -5,7 +5,7 @@ permalink: /teams/s25-navy/
 name: PLAYBUOYS
 color: Navy
 season: 25
-photo:
+photo: /img/navy.jpg
 captain: Kevin Smiffy
 quarterback: JC Adams
 members:
@@ -22,3 +22,4 @@ members:
   - Juan V.
 division: Pitchers
 ---
+![](/img/navy.jpg){: width="5112" height="3761"}

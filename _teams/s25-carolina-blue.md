@@ -5,7 +5,7 @@ permalink: /teams/s25-carolina-blue/
 name: Tar👠s
 color: Carolina Blue
 season: 25
-photo:
+photo: /img/carolinabluee.jpg
 captain: Connor Wilson
 quarterback: Oriya C.
 members:
@@ -22,3 +22,4 @@ members:
   - Paul Whitney
 division: Shakers
 ---
+![](/img/carolinabluee.jpg){: width="5297" height="4013"}

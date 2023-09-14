@@ -5,7 +5,7 @@ permalink: /teams/s25-maroon/
 name: Beet It
 color: Maroon
 season: 25
-photo:
+photo: /img/maroon.jpg
 captain: Darryl P.
 quarterback: "Patrick\tShilo"
 members:
@@ -23,3 +23,4 @@ members:
   - Randy Snight (Forever Family)
 division: Pitchers
 ---
+![](/img/maroon.jpg){: width="4463" height="3170"}

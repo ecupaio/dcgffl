@@ -5,7 +5,7 @@ permalink: /teams/s25-silver/
 name: Disco Cowboys
 color: Silver
 season: 25
-photo:
+photo: /img/silver.jpg
 captain: Brandon M.
 quarterback: AJ Reust
 members:
@@ -23,3 +23,4 @@ members:
   - Harry Suchyta (Forever Family)
 division: Shakers
 ---
+![](/img/silver.jpg){: width="5190" height="3747"}

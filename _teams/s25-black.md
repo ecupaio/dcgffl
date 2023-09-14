@@ -5,7 +5,7 @@ permalink: /teams/s25-black/
 name: Black Holes
 color: Black
 season: 25
-photo:
+photo: /img/black.jpg
 captain: Patrick Kozak
 quarterback: Matt Pearce
 members:

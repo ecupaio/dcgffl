@@ -5,7 +5,7 @@ permalink: /teams/s25-neon-pink/
 name: Neon’s Messi
 color: Neon Pink
 season: 25
-photo:
+photo: /img/neonpink.jpg
 captain: Demitrian Cook
 quarterback: Brandon Waggoner
 members:
@@ -22,3 +22,4 @@ members:
   - Adam Vavrek
 division: Shakers
 ---
+![](/img/neonpink.jpg){: width="5046" height="3794"}

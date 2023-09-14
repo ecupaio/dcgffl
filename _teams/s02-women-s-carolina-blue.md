@@ -5,7 +5,7 @@ permalink: /teams/s2-womensplus-carolina-blue/
 name: Carolina Blue
 color: Carolina Blue
 season: 25
-photo: ''
+photo: /img/carolina-blue-w.jpg
 captain: Nik Battaglia
 quarterback: Meg Lukacs
 members:
@@ -24,3 +24,4 @@ members:
   - Marla Woodarek
 division: Women's+
 ---
+![](/img/carolina-blue-w.jpg){: width="5280" height="3925"}

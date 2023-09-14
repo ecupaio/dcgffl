@@ -5,7 +5,7 @@ permalink: /teams/s25-gold/
 name: Magnum
 color: Gold
 season: 25
-photo:
+photo: /img/gold.jpg
 captain: Trey Phillips
 quarterback: Nick Perovich
 members:
@@ -22,3 +22,4 @@ members:
   - Gideon Yeager
 division: Shakers
 ---
+![](/img/gold.jpg){: width="4669" height="3758"}

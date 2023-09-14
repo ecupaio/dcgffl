@@ -5,7 +5,7 @@ permalink: /teams/s2-womensplus-lime/
 name: Lime
 color: Lime
 season: 25
-photo: ''
+photo: /img/lime.jpg
 captain: Linda Pratt
 quarterback: Meredith B.
 members:
@@ -25,3 +25,4 @@ members:
   - Lindsey Walton
 division: Women's+
 ---
+![](/img/lime.jpg){: width="4864" height="3744"}

@@ -5,7 +5,7 @@ permalink: /teams/s25-coral/
 name: Coralingus
 color: Coral
 season: 25
-photo:
+photo: /img/coral.jpg
 captain: Michael Bromell
 quarterback: Andrew Aldrian
 members:
@@ -23,3 +23,4 @@ members:
   - Kevin Comerford (Forever Family)
 division: Pitchers
 ---
+![](/img/coral.jpg){: width="6135" height="4137"}

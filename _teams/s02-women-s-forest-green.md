@@ -5,7 +5,7 @@ permalink: /teams/s2-womensplus-forest-green/
 name: Forest Green
 color: Forest Green
 season: 25
-photo: ''
+photo: /img/forestw.jpg
 captain: Sam Cline
 quarterback: Lizzie Becker
 members:
@@ -25,3 +25,4 @@ members:
   - Keely Norris
 division: Women's+
 ---
+![](/img/forestw.jpg){: width="6240" height="4160"}

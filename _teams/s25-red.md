@@ -5,7 +5,7 @@ permalink: /teams/s25-red/
 name: Left You On Red
 color: Red
 season: 25
-photo:
+photo: /img/red.jpg
 captain: Mike Osorio
 quarterback: Jim Connolly
 members:
@@ -22,3 +22,4 @@ members:
   - Ryan Viessman
 division: Shakers
 ---
+![](/img/red.jpg){: width="5588" height="4055"}

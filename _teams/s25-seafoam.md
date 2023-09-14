@@ -5,7 +5,7 @@ permalink: /teams/s25-seafoam/
 name: No Foamo
 color: Seafoam
 season: 25
-photo:
+photo: /img/seafoam.jpg
 captain: Matt H.
 quarterback: Ben Hunt
 members:
@@ -22,3 +22,4 @@ members:
   - Matan Showstack
 division: Pitchers
 ---
+![](/img/seafoam.jpg){: width="4543" height="3705"}

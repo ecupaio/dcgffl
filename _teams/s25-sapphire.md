@@ -5,7 +5,7 @@ permalink: /teams/s25-sapphire/
 name: The Icebergs
 color: Sapphire
 season: 25
-photo:
+photo: /img/sapphire.jpg
 captain: Evan Binder
 quarterback: Garrett Schiponi
 members:
@@ -22,3 +22,4 @@ members:
   - Camille Thompson
 division: Pitchers
 ---
+![](/img/sapphire.jpg){: width="5276" height="4001"}

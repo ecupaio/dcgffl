@@ -5,7 +5,7 @@ permalink: /teams/s25-marine-green/
 name: It’s Giving Jarhead
 color: Marine Green
 season: 25
-photo:
+photo: /img/marine.jpg
 captain: Luis Cotto
 quarterback: Brian Hotchkiss
 members:
@@ -22,3 +22,4 @@ members:
   - Brandon T.
 division: Shakers
 ---
+![](/img/marine.jpg){: width="4954" height="3803"}

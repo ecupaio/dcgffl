@@ -5,7 +5,7 @@ permalink: /teams/s2-womensplus-neon-pink/
 name: Neon Pink
 color: Neon Pink
 season: 25
-photo: ''
+photo: /img/pink-w.jpg
 captain: Lauren Pruitt | Amanda Dafonte
 quarterback: Emily Lefler
 members:
@@ -25,3 +25,4 @@ members:
   - Mecha Santos
 division: Women's+
 ---
+![](/img/pink-w.jpg){: width="4333" height="3530"}

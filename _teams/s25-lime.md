@@ -5,7 +5,7 @@ permalink: /teams/s25-lime/
 name: The Boy is Lime
 color: Lime
 season: 25
-photo:
+photo: /img/limegreen.jpg
 captain: Jim Roll
 quarterback: Wyatt Eck
 members:
@@ -22,3 +22,4 @@ members:
   - Joe Zanoni
 division: Shakers
 ---
+![](/img/limegreen.jpg){: width="5396" height="4086"}

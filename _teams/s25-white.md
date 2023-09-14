@@ -5,7 +5,7 @@ permalink: /teams/s25-white/
 name: Glazed and Confused
 color: White
 season: 25
-photo:
+photo: /img/white.jpg
 captain: Joe Owens
 quarterback: Bryan Sanders
 members:
@@ -22,3 +22,4 @@ members:
   - Charles Roth
 division: Pitchers
 ---
+![](/img/white.jpg){: width="4691" height="3616"}

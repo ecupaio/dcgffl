@@ -5,7 +5,7 @@ permalink: /teams/s25-purple/
 name: Choose Violets
 color: Purple
 season: 25
-photo:
+photo: /img/purple.jpg
 captain: Jens Piferoen
 quarterback: Matt Cline
 members:
@@ -22,3 +22,4 @@ members:
   - Ryan Winter
 division: Pitchers
 ---
+![](/img/purple.jpg){: width="4050" height="3150"}

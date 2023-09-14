@@ -5,7 +5,7 @@ permalink: /teams/s25-forest-green/
 name: Hardwood Forest
 color: Forest Green
 season: 25
-photo:
+photo: /img/forrest.jpg
 captain: Levert James
 quarterback: John C.
 members:
@@ -22,3 +22,4 @@ members:
   - Andy S.
 division: Pitchers
 ---
+![](/img/forrest.jpg){: width="5366" height="3870"}
