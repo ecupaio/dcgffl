@@ -5,7 +5,7 @@ permalink: /teams/s25-yellow/
 name: Plan Bees
 color: Yellow
 season: 25
-photo:
+photo: /img/yellow.jpg
 captain: Derrick Johnson
 quarterback: Austin Plier
 members:
@@ -23,3 +23,4 @@ members:
   - Pedro Suarez (Forever Family)
 division: Pitchers
 ---
+![](/img/yellow.jpg){: width="3958" height="3892"}
