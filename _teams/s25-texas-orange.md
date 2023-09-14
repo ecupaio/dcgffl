@@ -5,7 +5,7 @@ permalink: /teams/s25-texas-orange/
 name: Hay Gurl Hay
 color: Texas Orange
 season: 25
-photo:
+photo: /img/img-2446.jpg
 captain: Larry Womack
 quarterback: Cam M.
 members:
