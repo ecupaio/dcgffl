@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S25 - Texas Orange (Hey Gurl Hey)
+title: S25 - Texas Orange (Hay Gurl Hay)
 permalink: /teams/s25-texas-orange/
-name: Hey Gurl Hey
+name: Hay Gurl Hay
 color: Texas Orange
 season: 25
 photo:
@@ -23,3 +23,4 @@ members:
   - Mark Summerside (Forever Family)
 division: Shakers
 ---
+![](/img/img-2446.jpg){: width="4472" height="3571"}
