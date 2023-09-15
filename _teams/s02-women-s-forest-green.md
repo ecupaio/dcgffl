@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S02 Women's+ - Forest Green
+title: S02 Women's+ - Forest Green (Green Eggs Gone Ham)
 permalink: /teams/s2-womensplus-forest-green/
-name: Forest Green
+name: Green Eggs Gone Ham
 color: Forest Green
 season: 25
 photo: /img/forestw.jpg

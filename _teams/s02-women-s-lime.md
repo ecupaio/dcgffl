@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S02 Women's+ - Lime
+title: S02 Women's+ - Lime (Squirters)
 permalink: /teams/s2-womensplus-lime/
-name: Lime
+name: Squirters
 color: Lime
 season: 25
 photo: /img/lime.jpg

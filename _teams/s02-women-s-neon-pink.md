@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S02 Women's+ - Neon Pink
+title: S02 Women's+ - Neon Pink (Weird Barbies)
 permalink: /teams/s2-womensplus-neon-pink/
-name: Neon Pink
+name: Weird barbies
 color: Neon Pink
 season: 25
 photo: /img/pink-w.jpg

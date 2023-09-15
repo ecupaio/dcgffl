@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S02 Women's+ - Carolina Blue
+title: S02 Women's+ - Carolina Blue (Blue Baracooters)
 permalink: /teams/s2-womensplus-carolina-blue/
-name: Carolina Blue
+name: Blue Baracooters
 color: Carolina Blue
 season: 25
 photo: /img/carolina-blue-w.jpg
