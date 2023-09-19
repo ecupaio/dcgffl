@@ -11,7 +11,7 @@ field: '1'
 date: 2023-09-17 09:00:00 -0400
 season: 25
 week: 2
-mvp: Patrick Kozak, Kevin Smiffy
+mvp: Patrick Kozak, Kevin Penny
 game-ball: James F., Edward A.
 sportsperson: Jordan F., Aaron Ross
 ---
