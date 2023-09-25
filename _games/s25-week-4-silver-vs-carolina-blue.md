@@ -1,13 +1,13 @@
 ---
 _schema: default
-title: S25 Week 4 - Purple vs Coral
+title: S25 Week 4 - Silver vs Carolina Blue
 teams-score:
-  - team: _teams/s25-purple.md
+  - team: _teams/s25-silver.md
     score:
-  - team: _teams/s25-maroonn.md
+  - team: _teams/s25-carolina-blue.md
     score:
 location: _locations/carter-baron.md
-field: '3'
+field: '1'
 date: 2023-10-01 09:00:00 -0400
 season: 25
 week: 4
