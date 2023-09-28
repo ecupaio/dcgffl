@@ -69,15 +69,6 @@ rankings:
       more Existential Crisis than Malibu Dream House.
 
 
-
-
-      Mecha got a pick6 and Bre didn’t spare the blockers. Also, New QB-who dis?
-      Maybe she’s the Pope with the amount of Hail Marys she was throwing.
-      Offense was supported by Rookies Lex, Pam, and Dana and the team managed
-      to score 3TDs, even if they were accidental. Let’s see how long Pink’s
-      defense can carry the team as new QB Emily gets adjusted.
-
-
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx2OWwwcjYwZnRzcnczZzA2N3dhcG91MjNhaTZxdjRhanBnMmQ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rLNRhImy407URFIDnX/giphy.gif)
   - team: _teams/s02-women-s-lime.md
     record: 0-2
