@@ -11,6 +11,7 @@ quarterback: Jim Connolly
 members:
   - Tim Adams
   - "Charlie\tBruno"
+  - Brian Carter
   - Kevin Hooker
   - Jordan Johnson
   - Sean Karson

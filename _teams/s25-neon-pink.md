@@ -12,6 +12,7 @@ members:
   - Shaq Brooks
   - Cameron Burrell
   - Ancil Crayton
+  - Sean Holihan
   - Paul Holland
   - Tyler Lewis
   - Adam Maisel

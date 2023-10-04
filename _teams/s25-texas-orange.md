@@ -10,6 +10,7 @@ captain: Larry Womack
 quarterback: Cam M.
 members:
   - Luke B.
+  - Matt Devino
   - Liam Fitzgerald
   - Mike Hess
   - Christine Hohl

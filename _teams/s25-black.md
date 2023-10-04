@@ -13,6 +13,7 @@ members:
   - Triada C.
   - James F.
   - Jordan F.
+  - Kevin H.
   - Veronica H.
   - James Martinez
   - Taber Midgley

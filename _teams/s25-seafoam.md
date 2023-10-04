@@ -11,6 +11,7 @@ quarterback: Ben Hunt
 members:
   - Blake Brittain
   - 'Christopher Daniel '
+  - Keyur D.
   - Jared Gee
   - Matthew Itzkowitz
   - Dan King

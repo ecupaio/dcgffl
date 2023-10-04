@@ -15,6 +15,7 @@ members:
   - Jonathan D.
   - Leah Garofalo
   - J J.
+  - Tom L.
   - Alonzo Mable
   - Alex P.
   - Cedric R.

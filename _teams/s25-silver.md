@@ -17,6 +17,7 @@ members:
   - Patrick M.
   - Eddie M.
   - Kevin Morris
+  - Joe Platte
   - Anthony Sacco
   - Larry W.
   - Kirk Y.

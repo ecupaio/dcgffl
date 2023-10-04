@@ -13,9 +13,10 @@ members:
   - Michael Armesto
   - 'Munroe Bell Rose '
   - 'Aaron B. '
+  - Janae H.
   - Joel Horton
   - Thomas L.
-  - Douglas Nmagu
+  - Benjamin M.
   - Matthew Perez
   - 'Sherrie Rhodes '
   - Andrew Strahan

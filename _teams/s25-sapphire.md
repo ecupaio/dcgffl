@@ -20,6 +20,7 @@ members:
   - Brandon Recto
   - Jeff Ruben
   - Camille Thompson
+  - Graham W.
 division: Pitchers
 ---
 ![](/img/sapphire.jpg){: width="5276" height="4001"}

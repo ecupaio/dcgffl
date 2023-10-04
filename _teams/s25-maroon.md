@@ -17,7 +17,9 @@ members:
   - 'Jean Henry '
   - Mark Hofberg
   - Mariam Mehter
+  - Lauren Selle
   - Stephen Sonon
+  - Adam S.
   - Mike W
   - Bradley W.
   - Randy Snight (Forever Family)

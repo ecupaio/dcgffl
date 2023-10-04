@@ -19,6 +19,7 @@ members:
   - Stephanie McDaniel
   - Obie McNair
   - Jorge Membreño
+  - PJ Morgan
   - Evan Ryan
   - Kevin Comerford (Forever Family)
 division: Pitchers

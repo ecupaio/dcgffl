@@ -17,6 +17,7 @@ members:
   - Andrew Gordon
   - 'Paul Guequierre '
   - Art H.
+  - Nolan L.
   - 'Travis Meuwissen '
   - Michael Springfield
   - Joe Zanoni

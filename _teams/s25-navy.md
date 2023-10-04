@@ -10,6 +10,7 @@ captain: Kevin Smiffy
 quarterback: JC Adams
 members:
   - Edward A.
+  - Sam Brown
   - Andrew Grafton
   - Jp Hooth
   - Robert Kirian

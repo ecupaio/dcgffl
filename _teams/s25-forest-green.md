@@ -13,6 +13,7 @@ members:
   - Andrew Allen
   - TJ Callan
   - Dwayne D.
+  - Francisco H.
   - Zach Huete
   - Marcus Lewis
   - Leo Lutz

@@ -14,6 +14,7 @@ members:
   - Antwon Chavis
   - Brandon G.
   - Ken Green
+  - Oliver J.
   - Kenny J.
   - Ocho K.
   - Latreese L.

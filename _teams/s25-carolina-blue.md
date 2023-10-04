@@ -11,6 +11,7 @@ quarterback: Oriya C.
 members:
   - Patrick Barboun
   - Liz B.
+  - Chris Boccia
   - Andrew Hoyler
   - Scott Kelly
   - Nicholas Lewis

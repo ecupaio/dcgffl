@@ -20,6 +20,7 @@ members:
   - Justin Pendleton
   - John Riley
   - Charles Roth
+  - Vinny Varvaro
 division: Pitchers
 ---
 ![](/img/white.jpg){: width="4691" height="3616"}

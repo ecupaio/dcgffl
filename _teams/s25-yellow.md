@@ -9,7 +9,9 @@ photo: /img/yellow.jpg
 captain: Derrick Johnson
 quarterback: Austin Plier
 members:
+  - Dan Cipullo
   - Liam D.
+  - Ken Goff
   - Judy H.
   - Daniel Honeycutt
   - Mark Japinga
