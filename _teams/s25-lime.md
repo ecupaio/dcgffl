@@ -10,7 +10,7 @@ captain: Jim Roll
 quarterback: Wyatt Eck
 members:
   - Dwaylan Applewhite
-  - 'Emily Binnicker '
+  - Emily B.
   - Logan Dawson
   - Pete D.
   - Joshua Estryn

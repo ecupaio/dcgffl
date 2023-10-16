@@ -4,7 +4,7 @@ title: S25 Week 6 - Marine vs Red
 teams-score:
   - team: _teams/s25-marine-green.md
     score:
-  - team: _teams/s24-red.md
+  - team: _teams/s25-red.md
     score:
 location: _locations/carter-baron.md
 field: '1'
