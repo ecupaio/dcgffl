@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S25 Week 5 - Seafoam vs Lime
+title: S25 Week 6 - Seafoam vs Lime
 teams-score:
   - team: _teams/s25-seafoam.md
     score:
