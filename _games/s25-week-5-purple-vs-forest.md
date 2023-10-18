@@ -3,9 +3,9 @@ _schema: default
 title: S25 Week 5 - Purple vs Forest
 teams-score:
   - team: _teams/s25-purple.md
-    score:
+    score: 28
   - team: _teams/s25-forest-green.md
-    score:
+    score: 25
 location: _locations/carter-baron.md
 field: '2'
 date: 2023-10-15 10:45:00 -0400

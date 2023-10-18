@@ -3,7 +3,7 @@ _schema: default
 title: S02 Week 5 - Forest Green vs Neon Pink
 teams-score:
   - team: _teams/s02-women-s-forest-green.md
-    score: 25
+    score: 0
   - team: _teams/s02-women-s-neon-pink.md
     score: 0
 location: _locations/brentwood.md
@@ -11,7 +11,7 @@ field: '2'
 date: 2023-10-27 20:30:00 -0400
 season: 25
 week: 5
-mvp: Lindsey Walton, Austyn Creighton
-game-ball: Jacqueline Fulgham, Gabriela DeAnda
-sportsperson: Courtney H.,  Amanda Dafonte
+mvp:
+game-ball:
+sportsperson:
 ---
