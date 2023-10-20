@@ -2,7 +2,7 @@
 _schema: default
 title: Women's+ Midseason Party
 permalink: /events/s02-womensplus-midseason/
-date: 2022-10-22 00:00:00 -0400
+date: 2023-10-21 00:00:00 -0400
 time: 4:00 pm
 button:
   text: ''
