@@ -25,4 +25,4 @@ BOO!! Our Halloween party is one week from today at KIKI! The teams with the bes
 * *2nd Place:* **$50 gift card to Yard House.**
 * *3rd Place:* **$50 gift card to Yard House.**
 
-![](/img/season-25-halloween-party-1.jpeg){: width="1294" height="2000"}
+![](blob:https://app.cloudcannon.com/49dcf084-0825-4ad3-9458-9369210b2a73){: width="1294" height="2000"}
