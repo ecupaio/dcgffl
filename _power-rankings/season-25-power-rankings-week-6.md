@@ -4,10 +4,11 @@ title: 'Season 25 Power Rankings: Week 6'
 permalink: /power-rankings/season-25-power-rankings-week-six/
 date: 2023-10-24 22:15:00 -0400
 author: >-
-  Thanks to a fantastic group of writers, I haven’t had to weigh in on our
-  rankings since pre-season. So as our playoff picture comes into clearer focus,
-  I decided to make my way around the fields on Sunday to see what I could glean
-  from each of our teams. Here are the things I learned (TIL). 
+  Aaron Sayama - Thanks to a fantastic group of writers, I haven’t had to weigh
+  in on our rankings since pre-season. So as our playoff picture comes into
+  clearer focus, I decided to make my way around the fields on Sunday to see
+  what I could glean from each of our teams. Here are the things I learned
+  (TIL). 
 season: 25
 week: 6
 rankings:
