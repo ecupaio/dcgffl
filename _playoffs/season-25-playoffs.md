@@ -43,11 +43,6 @@ rounds:
             score:
         date: 2023-11-12 12:00:00 -0500
         location: _locations/carter-baron.md
-      - title: ''
-        division: ''
-        teams-score: []
-        date:
-        location: ''
   - title: S25 Playoff Round 1 - West-North Bracket
     games:
       - title: S25 Playoff Round 1 - 8A Black vs 9B Yellow
