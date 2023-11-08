@@ -24,12 +24,15 @@ rankings:
       Jayme also got to live out her long awaited slot-receiver dreams and took
       full advantage. Camille attempted to dress up like Zeke Elliot for
       Halloween, sporting her jersey as a crop-top all game. There was a lot of
-      trash talking on Friday......but if you listen closely, it sounded more
-      like whining with angry undertones. There were on-field debates on flag
-      guarding and bull rushing.....if only we had a ref to get things under
+      trash talking on Friday……but if you listen closely, it sounded more like
+      whining with angry undertones. There were on-field debates on flag
+      guarding and bull rushing…..if only we had a ref to get things under
       control.\*cough Ashley cough\* Overall, the Cooters played well, however,
       lime green was only a couple points away from stealing the W from them. Is
       this a sign of Blue running out of steam?
+
+
+      ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZtbGZzbW5oa3dpa3E1NmVuYnYzeWEyNG5mNnFvd3d4NG5kMjV1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dSeUba1BTKmRCIcaXO/giphy.gif)
   - team: _teams/s02-women-s-forest-green.md
     record: 4-1
     text: >-
