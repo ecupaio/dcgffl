@@ -2,7 +2,7 @@
 _schema: default
 title: Women's+ Season 02 Playoffs
 permalink: /womnesplus-season-2-playoffs/
-season: 0
+season: 25
 champion: ''
 rounds:
   - title: S02 Playoff Semifinals
