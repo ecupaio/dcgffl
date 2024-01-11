@@ -1,1 +1,20 @@
-@charset "UTF-8";#sponsors-page #reasons-section{text-align:center;padding-bottom:0}#sponsors-page #reasons-section .inner-section{max-width:768px}#sponsors-page #reasons-section .reasons-list{text-align:left}#sponsors-page #reasons-section .reasons-list .reason{padding-left:1.5rem;position:relative;margin-bottom:1rem}#sponsors-page #reasons-section .reasons-list .reason:before{position:absolute;left:0;top:.25rem;content:"";font-family:"Font Awesome 5 Free";font-weight:700}#sponsors-page #reasons-section .cta{margin-top:1rem}
+#sponsors-page #reasons-section {
+  text-align: center;
+  padding-bottom: 0; }
+  #sponsors-page #reasons-section .inner-section {
+    max-width: 768px; }
+  #sponsors-page #reasons-section .reasons-list {
+    text-align: left; }
+    #sponsors-page #reasons-section .reasons-list .reason {
+      padding-left: 1.5rem;
+      position: relative;
+      margin-bottom: 1rem; }
+      #sponsors-page #reasons-section .reasons-list .reason:before {
+        position: absolute;
+        left: 0;
+        top: 0.25rem;
+        content: '\f067';
+        font-family: 'Font Awesome 5 Free';
+        font-weight: 700; }
+  #sponsors-page #reasons-section .cta {
+    margin-top: 1rem; }

@@ -1,1 +1,74 @@
-#about-page .section-title{text-align:center}#about-page #about-section .inner-section{max-width:1024px}#about-page #locations-section .locations-list{display:-webkit-box;display:-ms-flexbox;display:flex;background-color:#f0f1f1}@media only screen and (max-width:768px){#about-page #locations-section .locations-list{display:block}}#about-page #locations-section .locations-list .location-col{padding:1rem;-webkit-box-flex:1;-ms-flex:1;flex:1}#about-page #locations-section .locations-list .location{padding:1rem;background-color:#fff;border-radius:4px;height:100%;-webkit-box-shadow:0 3px 5px rgba(100,100,100,.5);box-shadow:0 3px 5px rgba(100,100,100,.5)}#about-page #locations-section .locations-list .location .location-title{text-align:center}#about-page #locations-section .locations-list .location .location-image{text-align:center;overflow:hidden}#about-page #locations-section .locations-list .location .location-image img{margin:auto;height:300px}#about-page #faq-section .section-title{text-align:center}#about-page #faq-section .inner-section{max-width:768px}#about-page #faq-section .faq-list .faq-item{padding:1rem 0;border-bottom:2px solid #f0f1f1}#about-page #faq-section .faq-list .faq-item .faq-q{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-transition-property:color;transition-property:color;-webkit-transition-duration:.5s;transition-duration:.5s;-webkit-transition-timing-function:ease;transition-timing-function:ease}#about-page #faq-section .faq-list .faq-item .faq-q:hover{color:#ae0d29;cursor:pointer}#about-page #faq-section .faq-list .faq-item .faq-q .q-text{padding-right:.5rem}#about-page #faq-section .faq-list .faq-item .faq-q i{-webkit-transition-property:transform;-webkit-transition-property:-webkit-transform;transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;-webkit-transition-duration:.5s;transition-duration:.5s;-webkit-transition-timing-function:ease;transition-timing-function:ease}#about-page #faq-section .faq-list .faq-item .faq-q.active i{-webkit-transform:rotate(180deg);transform:rotate(180deg)}#about-page #faq-section .faq-list .faq-item .faq-a{display:none}
+#about-page .section-title {
+  text-align: center; }
+#about-page #about-section .inner-section {
+  max-width: 1024px; }
+#about-page #locations-section .locations-list {
+  display: flex;
+  background-color: #f0f1f1; }
+  @media only screen and (max-width: 768px) {
+    #about-page #locations-section .locations-list {
+      display: block; } }
+  #about-page #locations-section .locations-list .location-col {
+    padding: 1rem;
+    flex: 1; }
+  #about-page #locations-section .locations-list .location {
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 4px;
+    height: 100%;
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.5);
+    -moz-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.5);
+    box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.5); }
+    #about-page #locations-section .locations-list .location .location-title {
+      text-align: center; }
+    #about-page #locations-section .locations-list .location .location-image {
+      text-align: center;
+      overflow: hidden; }
+      #about-page #locations-section .locations-list .location .location-image img {
+        margin: auto;
+        height: 300px; }
+#about-page #faq-section .section-title {
+  text-align: center; }
+#about-page #faq-section .inner-section {
+  max-width: 768px; }
+#about-page #faq-section .faq-list .faq-item {
+  padding: 1rem 0;
+  border-bottom: 2px solid #f0f1f1; }
+  #about-page #faq-section .faq-list .faq-item .faq-q {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    -webkit-transition-property: color;
+    -moz-transition-property: color;
+    -o-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-timing-function: ease;
+    -o-transition-timing-function: ease;
+    transition-timing-function: ease; }
+    #about-page #faq-section .faq-list .faq-item .faq-q:hover {
+      color: #AE0D29;
+      cursor: pointer; }
+    #about-page #faq-section .faq-list .faq-item .faq-q .q-text {
+      padding-right: 0.5rem; }
+    #about-page #faq-section .faq-list .faq-item .faq-q i {
+      -webkit-transition-property: transform;
+      -moz-transition-property: transform;
+      -o-transition-property: transform;
+      transition-property: transform;
+      -webkit-transition-duration: 0.5s;
+      -moz-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+      transition-duration: 0.5s;
+      -webkit-transition-timing-function: ease;
+      -moz-transition-timing-function: ease;
+      -o-transition-timing-function: ease;
+      transition-timing-function: ease; }
+    #about-page #faq-section .faq-list .faq-item .faq-q.active i {
+      transform: rotate(180deg); }
+  #about-page #faq-section .faq-list .faq-item .faq-a {
+    display: none; }

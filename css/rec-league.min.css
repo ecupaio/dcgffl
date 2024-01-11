@@ -1,1 +1,31 @@
-#rec-league-home #rules-section .rules-list{max-width:1024px}#rec-league-home #rules-section .rules-list .rule.active .rule-toggle{-webkit-transform:rotate(180deg);transform:rotate(180deg)}#rec-league-home #rules-section .rules-list .rule .rule-title{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;padding:1rem 0;border-bottom:2px solid #f0f1f1}#rec-league-home #rules-section .rules-list .rule .rule-title .title-text{margin-bottom:0}#rec-league-home #rules-section .rules-list .rule .rule-title:hover{cursor:pointer}#rec-league-home #rules-section .rules-list .rule .rule-title .rule-toggle{-webkit-transition-property:transform;-webkit-transition-property:-webkit-transform;transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;-webkit-transition-duration:.5s;transition-duration:.5s;-webkit-transition-timing-function:ease;transition-timing-function:ease}#rec-league-home #rules-section .rules-list .rule .rule-text{display:none;background-color:#f0f1f1;padding:.5rem 1rem}
+#rec-league-home #rules-section .rules-list {
+  max-width: 1024px; }
+  #rec-league-home #rules-section .rules-list .rule.active .rule-toggle {
+    transform: rotate(180deg); }
+  #rec-league-home #rules-section .rules-list .rule .rule-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+    border-bottom: 2px solid #f0f1f1; }
+    #rec-league-home #rules-section .rules-list .rule .rule-title .title-text {
+      margin-bottom: 0; }
+    #rec-league-home #rules-section .rules-list .rule .rule-title:hover {
+      cursor: pointer; }
+    #rec-league-home #rules-section .rules-list .rule .rule-title .rule-toggle {
+      -webkit-transition-property: transform;
+      -moz-transition-property: transform;
+      -o-transition-property: transform;
+      transition-property: transform;
+      -webkit-transition-duration: 0.5s;
+      -moz-transition-duration: 0.5s;
+      -o-transition-duration: 0.5s;
+      transition-duration: 0.5s;
+      -webkit-transition-timing-function: ease;
+      -moz-transition-timing-function: ease;
+      -o-transition-timing-function: ease;
+      transition-timing-function: ease; }
+  #rec-league-home #rules-section .rules-list .rule .rule-text {
+    display: none;
+    background-color: #f0f1f1;
+    padding: 0.5rem 1rem; }
