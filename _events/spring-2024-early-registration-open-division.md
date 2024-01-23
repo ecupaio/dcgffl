@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Spring 2024 Early Registration - Open Division
-permalink: ''
+permalink: /events/spring-2024-early-registration/
 date: 2024-01-24 00:00:00 -0500
 time: 7:00 pm
 button:
