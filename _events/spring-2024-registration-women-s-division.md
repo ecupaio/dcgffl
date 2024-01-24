@@ -19,6 +19,6 @@ location:
 
 Registration for new and returning players opens on **Wednesday, January 24, at 7pm** for the Spring 2024 season (Season III), which runs from mid-March to late May.&nbsp;
 
-**Note: Women's+ Division games will be playing alongside Open Division on Sundays @ Carter Barron Soccer Fields (698 Kennedy St NW, Washington DC)**&nbsp;**his season!**&nbsp;
+**Note: Women's+ Division games will be playing alongside Open Division on Sundays @ Carter Barron Soccer Fields (698 Kennedy St NW, Washington DC)**&nbsp;**this season!**&nbsp;
 
 Don't miss out - [sign up for our mailing list to get notified](http://eepurl.com/c9JkQz) when registration opens!
