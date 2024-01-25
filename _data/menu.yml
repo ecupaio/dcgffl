@@ -68,10 +68,14 @@ footer:
   - title: Past Seasons
     link: /past-seasons/
 announcement:
-  text: |-
+  text: >-
     Spring 2024 Registration is now Open!&nbsp;
 
-    [Open Division Registration](https://forms.gle/8XvxBJcAW5ooYafv8)
 
     [Women's+ Division Registration](https://forms.gle/3vEc7kpmZXQn9qd56)
+
+
+    [Open Division Registration](https://forms.gle/8XvxBJcAW5ooYafv8)&nbsp;-
+    Early bird is CLOSED, check back on Jan 31 @ 7PM when regular registration
+    opens
   show: true
