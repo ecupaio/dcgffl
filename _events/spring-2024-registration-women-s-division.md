@@ -2,7 +2,7 @@
 _schema: default
 title: Spring 2024 Registration - Women's+ Division
 permalink: /events/spring-2024-womensplus-registration/
-date: 2024-01-24 00:00:00 -0500
+date: 2024-02-01 00:00:00 -0500
 time: 7:00 pm
 button:
   text: REGISTER HERE
