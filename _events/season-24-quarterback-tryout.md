@@ -3,7 +3,7 @@ _schema: default
 title: Season 24 Quarterback Tryout
 permalink: s26-qb-tryout
 date: 2024-02-10 00:00:00 -0500
-time:
+time: 1:00 pm
 button:
   text: ''
   link: ''
