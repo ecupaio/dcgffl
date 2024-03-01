@@ -1,25 +1,25 @@
 ---
 _schema: default
-title: S25 - Black (Black Holes)
-permalink: /teams/s25-black/
-name: Black Holes
-color: Black
-season: 25
-photo: /img/black.jpg
-captain: Patrick Kozak
+title: S26 - Atomic Blue
+permalink: /teams/s26-atomicbluee/
+name:
+color: Atomic Blue
+season: 26
+photo:
+captain: Tiger Ricchetti
 quarterback: Matt Pearce
 members:
-  - 'Brandon Benjamin '
-  - Triada C.
-  - James F.
-  - Jordan F.
-  - Kevin H.
-  - Veronica H.
-  - James Martinez
-  - Taber Midgley
-  - Jack Miles
-  - Tracy S.
-  - Ivan Torres
-  - Malcolm Warbrick
-division: Shakers
+  - "Liz\tB."
+  - "Demetrian\tCook"
+  - Alex E.
+  - Christopher Gillyard
+  - Adam H. (Forever Family)
+  - Mark Japinga
+  - Shalin J.
+  - Joshua L.
+  - 'Benjamin M. '
+  - Alex P.
+  - Anthony Sacco
+  - Daniel Turner
+division:
 ---
