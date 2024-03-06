@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S02 Women's+ - Red
+title: S03 Women's+ - Red
 permalink: /teams/s3-womensplus-red/
 name:
 color: Red
@@ -21,4 +21,3 @@ members:
   - "Sophie\tY."
 division: Women's+
 ---
-![](/img/carolina-blue-w.jpg){: width="5280" height="3925"}
