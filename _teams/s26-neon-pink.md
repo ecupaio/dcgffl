@@ -3,7 +3,7 @@ _schema: default
 title: S26 - Neon Pink
 permalink: /teams/s26-neonpink/
 name:
-color: Marine Green
+color: Neon Pink
 season: 26
 photo:
 captain: Justin Parker
