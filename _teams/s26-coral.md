@@ -17,9 +17,7 @@ members:
   - "Ian\tM."
   - Zachariah Melgar
   - 'Andy Packey '
-  - Chris Riotta-Rogers
   - Alex Rosenfeld
   - 'Blake Whetzel '
-  - Daniel Turner
-division: Pitchers Division (Open)
+division: Pitchers Open
 ---

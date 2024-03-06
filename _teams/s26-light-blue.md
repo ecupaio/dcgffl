@@ -20,5 +20,5 @@ members:
   - Marvin Washington
   - Bryan W.
   - Andrew Welter-Frost (Forever Family)
-division: Pitchers Division (Open)
+division: Pitchers Open
 ---

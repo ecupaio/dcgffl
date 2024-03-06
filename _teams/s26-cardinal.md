@@ -20,6 +20,5 @@ members:
   - Chris Riotta-Rogers
   - "Hector\tR."
   - Jeff V.
-  - Daniel Turner
-division:
+division: Pitchers Open
 ---

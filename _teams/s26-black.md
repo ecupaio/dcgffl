@@ -13,12 +13,11 @@ members:
   - Michael A.
   - Charles D.
   - "Patrick\tKozak"
-  - Thomas L.
   - Matt M.
   - "Jay\tM."
   - Jaylan M.
   - "Shakka\tP."
   - Paul Whitney
   - Graham W.
-division: Pitchers Division (Open)
+division: Pitchers Open
 ---

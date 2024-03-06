@@ -19,5 +19,5 @@ members:
   - Travis Meuwissen
   - Aaron S.
   - Lindsey W.
-division: Pitchers Division (Open)
+division: Pitchers Open
 ---

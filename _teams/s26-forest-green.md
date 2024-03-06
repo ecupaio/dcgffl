@@ -19,5 +19,5 @@ members:
   - Kyle Oliver
   - Jim Roll
   - Kevin Smiffy
-division: Shakers Division (Open)
+division: Shakers Open
 ---

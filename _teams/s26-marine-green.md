@@ -20,5 +20,5 @@ members:
   - Vinny Varvaro
   - Ryan Winter
   - Joe Zanoni
-division: Pitchers Division (Open)
+division: Pitchers Open
 ---

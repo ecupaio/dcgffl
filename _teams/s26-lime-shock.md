@@ -20,5 +20,5 @@ members:
   - Basile Nkeng
   - Mark Summerside (Forever Family)
   - Nick Ward
-division:
+division: Shakers Open
 ---
