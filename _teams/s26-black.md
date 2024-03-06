@@ -20,5 +20,5 @@ members:
   - "Shakka\tP."
   - Paul Whitney
   - Graham W.
-division:
+division: Pitchers Division (Open)
 ---
