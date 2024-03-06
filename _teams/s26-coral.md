@@ -3,7 +3,7 @@ _schema: default
 title: S26 - Coral
 permalink: /teams/s26-coral/
 name:
-color: Cardinal
+color: Coral
 season: 26
 photo:
 captain: Derrick Johnson

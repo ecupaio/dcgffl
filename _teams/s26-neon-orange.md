@@ -3,7 +3,7 @@ _schema: default
 title: S26 - Neon Orange
 permalink: /teams/s26-neonorange/
 name:
-color: Marine Green
+color: Neon Orange
 season: 26
 photo:
 captain: Sean Holihan
