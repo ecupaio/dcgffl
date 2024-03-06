@@ -1,19 +1,19 @@
 ---
 _schema: default
-title: 'Senators Women''s+ Travel Team Tryout #1'
+title: 'Senators Women''s+ Travel Team Tryout #2'
 permalink: /senators-tryout-one-2024
-date: 2024-04-04 00:00:00 -0400
-time: 7:00 pm
+date: 2024-04-07 00:00:00 -0400
+time: 2:00 pm
 button:
   text: 2024 Senators Registration
   link: https://forms.gle/ezr64TQwf2YLpGGV6
   visible: true
 location:
-  name: Trinidad Rec Center
-  address: '1310 Childress St NE '
+  name: Carter Barron Fields
+  address: 1698 Kennedy St NW
   city: Washington
   state: DC
-  zip: 20002
+  zip: 20011
 ---
 The DCGFFL Travel Program offers the opportunity for the league's wealth of talent to represent DC and compete against the players from other leagues across the country and Canada.&nbsp;
 
