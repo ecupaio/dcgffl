@@ -24,6 +24,9 @@ rankings:
       title. With a good mix of vets and rookies, this team looks primed to have
       a strong first game. If they do come up short, all is not lost, at least
       Em isn’t on a lime green team.
+
+
+      ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljaHIwMDZ1ZzRmYWYyaTJtZm1qMjJyZnJ4NmNsOXJxN3V0dWxnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2K2I2vCZqvaqoE/giphy.gif)
   - team: _teams/s03-women-s-gold.md
     record: Kristin Lynch / Shayne Madella
     text: >-
@@ -33,6 +36,9 @@ rankings:
       lot of time teaching. Her time would be better spent convincing her team
       to play defense. This team is also most likely to have the best
       inspirational speeches by a QB.
+
+
+      ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xxczE4YThqM2p4am1kdmlmd3oxd252eXNrZnpreHAwOHpkeTIxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4F1SR0QbZFvi0/giphy.gif)
   - team: _teams/s03-women-s-kelly-green.md
     record: Megan Lukacs / Amy Smith
     text: >-
@@ -41,6 +47,9 @@ rankings:
       hard time remembering who were vets and who were rookies. Other teams
       shouldn’t get comfortable though because these authors have no doubt that
       Meg and Amy will quickly start climbing the ranks.
+
+
+      ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhodjhicWFzYTUzZHFwaGExdnpvcjVjbWg2Y3g3NW9tdjZ6azJ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqoaO5rMWsjk0uI/giphy.gif)
   - team: _teams/s03-women-s-texas-orange.md
     record: Lizzie Becker / Lex Pfearsen & Camille Thompson
     text: >-
@@ -52,6 +61,9 @@ rankings:
       department.Texas Orange will need to giddy up and start grooming for their
       playoff run earlier, as their QB is moonlighting as a marathon runner
       during championship weekend.
+
+
+      ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2syeng5dHlldDV1dXUyNHoxNTV3cjVqdjg0OTZ0eWtoM3Vmc2lvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VWFJcsjj8Jcr2f9Qq1/giphy.gif)
   - team: _teams/s02-women-s-red.md
     record: Meredith Morgan / Judy H.
     text: >-
@@ -62,6 +74,9 @@ rankings:
       players confused with many drink tickets and no direction. Rumor has it
       Judy was recruiting new talent in PR, just working on registering them for
       supplemental.
+
+
+      ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1hcTdldWVvdzR4bXJ4ZmZlM2hrdXB1aDgwazdmZGt2aW44eDM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCCgw63c7vBq8Ehnv1/giphy.gif)
   - team: _teams/s03-women-s-sapphire.md
     record: Kori S. / Steph McDaniel
     text: >-
@@ -74,4 +89,7 @@ rankings:
       Steph will have a lot of coaching with the defense, getting some receivers
       to play 2-3-2 and not run routes. We will get back to you after Kori
       reviews this weekend’s film.
+
+
+      ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Fzc3h1djQ5M2N4bTFqMGk0dG0waThwYWgwdDF5bnNvcjFlYnZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3wGWO6qeIpVt1p0h5/giphy.gif)
 ---
