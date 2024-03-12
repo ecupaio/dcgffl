@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Purple
+title: S26 - Purple (Grape Sexpectations 🍇)
 permalink: /teams/s26-purple/
-name:
+name: Grape Sexpectations 🍇
 color: Purple
 season: 26
 photo:
@@ -22,3 +22,4 @@ members:
   - Brandon T.
 division: Shakers Open
 ---
+![](/img/da2-7023.jpg){: width="4896" height="3497"}

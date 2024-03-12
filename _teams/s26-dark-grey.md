@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Dark Grey
+title: S26 - Dark Grey (Grey 4 Pay)
 permalink: /teams/s26-darkgrey/
-name:
+name: Grey 4 Pay
 color: Dark Grey
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Lindsey W.
 division: Pitchers Open
 ---
+![](/img/da2-7090.jpg){: width="5056" height="3611"}

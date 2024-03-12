@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S03 Women's+ - Sapphire
+title: S03 Women's+ - Sapphire (SapphicFire)
 permalink: /teams/s3-womensplus-sapphire/
-name:
+name: SapphicFire
 color: Sapphire
 season: 26
 photo:
@@ -18,5 +18,6 @@ members:
   - Catherine Schwing
   - "Ashley\tS."
   - Mix Thomas
-division: Women's+
+division: Trade Women's+
 ---
+![](/img/da2-7021.jpg){: width="4985" height="3561"}

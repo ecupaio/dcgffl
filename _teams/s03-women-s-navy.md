@@ -18,5 +18,6 @@ members:
   - Merrill Wheeler
   - Marla W.
   - Lisa Zanchi
-division: Women's+
+division: Kiki Women's+
 ---
+![](/img/da2-7044.jpg){: width="4507" height="3219"}

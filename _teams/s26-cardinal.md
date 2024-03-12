@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Cardinal
+title: S26 - Cardinal (The Hot Ones)
 permalink: /teams/s26-cardinal/
-name:
+name: The Hot Ones
 color: Cardinal
 season: 26
 photo:
@@ -22,3 +22,4 @@ members:
   - Jeff V.
 division: Pitchers Open
 ---
+![](/img/da2-7011.jpg){: width="4974" height="3553"}

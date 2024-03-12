@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S03 Women's+ - Kelly Green
+title: S03 Women's+ - Kelly Green (Green Beans)
 permalink: /teams/s3-womensplus-kelly-green/
-name:
+name: Green Beans
 color: Kelly Green
 season: 26
 photo:
@@ -18,5 +18,5 @@ members:
   - Toya J.
   - Erin Miller
   - Cam N.
-division: Women's+
+division: Trade Women's+
 ---

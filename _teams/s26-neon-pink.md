@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Neon Pink
+title: S26 - Neon Pink (Pink Pony Club 🐴💗)
 permalink: /teams/s26-neonpink/
-name:
+name: Pink Pony Club 🐴💗
 color: Neon Pink
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Ben Tow
 division: Shakers Open
 ---
+![](/img/da2-7048.jpg){: width="4962" height="3544"}

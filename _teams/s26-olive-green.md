@@ -21,3 +21,4 @@ members:
   - Gideon Y.
 division: Pitchers Open
 ---
+![](/img/da2-7004.jpg){: width="4765" height="3404"}

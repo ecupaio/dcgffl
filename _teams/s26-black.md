@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Black
+title: S26 - Black (Blacked-Out Barbies)
 permalink: /teams/s26-black/
-name:
+name: Blacked-Out Barbies
 color: Black
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Graham W.
 division: Pitchers Open
 ---
+![](/img/da2-7001.jpg){: width="5363" height="3831"}

@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Marine Green
+title: S26 - Marine Green (Green Peen Queens)
 permalink: /teams/s26-marinegreen/
-name:
+name: Green Peen Queens
 color: Marine Green
 season: 26
 photo:
@@ -22,3 +22,4 @@ members:
   - Joe Zanoni
 division: Pitchers Open
 ---
+![](/img/da2-7052.jpg){: width="4209" height="3006"}

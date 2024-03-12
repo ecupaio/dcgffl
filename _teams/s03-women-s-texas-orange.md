@@ -18,5 +18,6 @@ members:
   - Keely Norris
   - Jamilah W.
   - Tiffany Y.
-division: Women's+
+division: Trade Women's+
 ---
+![](/img/da2-6998.jpg){: width="4733" height="3381"}

@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Royal Blue
+title: S26 - Royal Blue (Royal Tightness 💙)
 permalink: /teams/s26-royalblue/
-name:
+name: Royal Tightness 💙
 color: Royal Blue
 season: 26
 photo:
@@ -22,3 +22,4 @@ members:
   - Diego Urena Salas
 division: Shakers Open
 ---
+![](/img/da2-7080.jpg){: width="5300" height="3786"}

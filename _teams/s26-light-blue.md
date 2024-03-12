@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Light Blue
+title: S26 - Light Blue (Blue Bombers💊)
 permalink: /teams/s26-lightblue/
-name:
+name: Blue Bombers💊
 color: Light Blue
 season: 26
 photo:
@@ -22,3 +22,4 @@ members:
   - Andrew Welter-Frost (Forever Family)
 division: Pitchers Open
 ---
+![](/img/da2-7038-1.jpg){: width="4657" height="3326"}

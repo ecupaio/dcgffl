@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Vegas Gold
+title: S26 - Vegas Gold (Bellagi-Hos)
 permalink: /teams/s26-vegasgold/
-name:
+name: Bellagi-Hos
 color: Vegas Gold
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Bradley Williams
 division: Shakers Open
 ---
+![](/img/da2-7057.jpg){: width="4818" height="3441"}

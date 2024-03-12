@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Coral
+title: S26 - Coral (Whoral)
 permalink: /teams/s26-coral/
-name:
+name: Whoral
 color: Coral
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - 'Blake Whetzel '
 division: Pitchers Open
 ---
+![](/img/da2-7087.jpg){: width="4953" height="3538"}

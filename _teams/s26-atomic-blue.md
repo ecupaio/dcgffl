@@ -1,9 +1,9 @@
 ---
 _schema: default
-title: S26 - Atomic Blue
+title: S26 - Atomic Blue (The Atoms Family 🫰🫰)
 permalink: /teams/s26-atomicblue/
-name:
-color: Atomic Blue
+name: The Atoms Family 🫰🫰
+color: 'Atomic Blue '
 season: 26
 photo:
 captain: Tiger Ricchetti
@@ -23,3 +23,4 @@ members:
   - Daniel Turner (Forever Family)
 division: Pitchers Open
 ---
+![](/img/da2-7066.jpg){: width="4657" height="3326"}

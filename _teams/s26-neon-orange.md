@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Neon Orange
+title: S26 - Neon Orange (Neon My Face)
 permalink: /teams/s26-neonorange/
-name:
+name: Neon My Face
 color: Neon Orange
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Morgan Warfield
 division: Shakers Open
 ---
+![](/img/da2-7069.jpg){: width="5416" height="3615"}

@@ -18,6 +18,6 @@ members:
   - Melissa Malguy
   - Mariam Mehter
   - Angel V.
-division: Women's+
+division: Kiki Women's+
 ---
-![](/img/carolina-blue-w.jpg){: width="5280" height="3925"}
+![](/img/da2-7095.jpg){: width="4899" height="3499"}

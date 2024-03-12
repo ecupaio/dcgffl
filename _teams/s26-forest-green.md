@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Forest Green
+title: S26 - Forest Green (You Got Moss'd)
 permalink: /teams/s26-forestgreen/
-name:
+name: You Got Moss'd
 color: Forest Green
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Kevin Smiffy
 division: Shakers Open
 ---
+![](/img/da2-7033.jpg){: width="4888" height="3491"}

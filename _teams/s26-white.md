@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - White
+title: S26 - White (Field of Creams)
 permalink: /teams/s26-white/
-name:
+name: Field of Creams
 color: White
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Graham W.
 division: Pitchers Open
 ---
+![](/img/da2-7028.jpg){: width="4896" height="3497"}

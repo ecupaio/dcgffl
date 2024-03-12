@@ -19,5 +19,6 @@ members:
   - Stacey Tiamfook
   - Michelle Wang
   - "Sophie\tY."
-division: Women's+
+division: Kiki Women's+
 ---
+![](/img/da2-7061.jpg){: width="5693" height="3800"}

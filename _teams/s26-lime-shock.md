@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Lime Shock
+title: S26 - Lime Shock (3-6-9, Damn Good Lime)
 permalink: /teams/s26-limeshock/
-name:
+name: 3-6-9, Damn Good Lime
 color: Lime Shock
 season: 26
 photo:
@@ -22,3 +22,4 @@ members:
   - Nick Ward
 division: Shakers Open
 ---
+![](/img/da2-7075.jpg){: width="4953" height="3538"}

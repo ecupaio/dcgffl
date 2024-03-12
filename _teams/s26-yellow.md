@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S26 - Yellow
+title: S26 - Yellow (Urine Trouble)
 permalink: /teams/s26-yellow/
-name:
+name: Urine Trouble
 color: Yellow
 season: 26
 photo:
@@ -21,3 +21,4 @@ members:
   - Everett W.
 division: Shakers Open
 ---
+![](/img/da2-7083.jpg){: width="4953" height="3538"}
