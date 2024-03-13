@@ -2,10 +2,10 @@
 _schema: default
 title: S03 Women's+ - Red
 permalink: /teams/s3-womensplus-red/
-name:
+name: Red
 color: Red
 season: 26
-photo:
+photo: /img/da2-7061.jpg
 captain: Judy H.
 quarterback: Meredith Morgan
 members:

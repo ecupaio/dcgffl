@@ -2,10 +2,10 @@
 _schema: default
 title: S03 Women's+ - Navy
 permalink: /teams/s3-womensplus-navy/
-name:
+name: Navy
 color: Navy
 season: 26
-photo:
+photo: /img/da2-7044.jpg
 captain: Emily B.
 quarterback: Jaimee S.
 members:

@@ -2,10 +2,10 @@
 _schema: default
 title: S03 Women's+ - Gold
 permalink: /teams/s3-womensplus-gold/
-name:
+name: Gold
 color: Gold
 season: 26
-photo:
+photo: /img/da2-7095.jpg
 captain: Shayne Madella
 quarterback: Kristin Lynch
 members:

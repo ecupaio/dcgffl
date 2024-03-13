@@ -2,10 +2,10 @@
 _schema: default
 title: S03 Women's+ - Texas Orange
 permalink: /teams/s3-womensplus-texas-orange/
-name:
+name: Texas Orange
 color: Texas Orange
 season: 26
-photo:
+photo: /img/da2-6998.jpg
 captain: Lex Pfearsen / Camille Thompson
 quarterback: Lizzie Becker
 members:
