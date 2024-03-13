@@ -5,7 +5,7 @@ permalink: /teams/s26-purple/
 name: Grape Sexpectations 🍇
 color: Purple
 season: 26
-photo:
+photo: /img/da2-7023.jpg
 captain: Connor Wilson
 quarterback: Andrew Aldrian
 members:
