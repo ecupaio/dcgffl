@@ -5,7 +5,7 @@ permalink: /teams/s26-neonpink/
 name: Pink Pony Club 🐴💗
 color: Neon Pink
 season: 26
-photo:
+photo: /img/da2-7048.jpg
 captain: Justin Parker
 quarterback: Jim Connolly
 members:

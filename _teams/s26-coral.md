@@ -5,7 +5,7 @@ permalink: /teams/s26-coral/
 name: Whoral
 color: Coral
 season: 26
-photo:
+photo: /img/da2-7087.jpg
 captain: Derrick Johnson
 quarterback: Garrett Schiponi
 members:

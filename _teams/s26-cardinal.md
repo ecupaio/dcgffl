@@ -5,7 +5,7 @@ permalink: /teams/s26-cardinal/
 name: The Hot Ones
 color: Cardinal
 season: 26
-photo:
+photo: /img/da2-7011.jpg
 captain: Lamar Riotta-Rogers
 quarterback: Cameron M.
 members:

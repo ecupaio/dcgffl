@@ -5,7 +5,7 @@ permalink: /teams/s26-black/
 name: Blacked-Out Barbies
 color: Black
 season: 26
-photo:
+photo: /img/da2-7001.jpg
 captain: Thomas L.
 quarterback: Austin Plier
 members:

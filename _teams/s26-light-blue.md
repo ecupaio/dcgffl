@@ -5,7 +5,7 @@ permalink: /teams/s26-lightblue/
 name: Blue Bombers💊
 color: Light Blue
 season: 26
-photo:
+photo: /img/da2-7038-1.jpg
 captain: Luis Cotto
 quarterback: Brandon Waggoner
 members:

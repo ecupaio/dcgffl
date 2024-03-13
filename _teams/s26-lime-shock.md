@@ -5,7 +5,7 @@ permalink: /teams/s26-limeshock/
 name: 3-6-9, Damn Good Lime
 color: Lime Shock
 season: 26
-photo:
+photo: /img/da2-7075.jpg
 captain: Jorge Membreño
 quarterback: Ben Hunt
 members:

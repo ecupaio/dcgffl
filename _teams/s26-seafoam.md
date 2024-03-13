@@ -5,7 +5,7 @@ permalink: /teams/s26-seafoam/
 name: My Little Foamies
 color: Seafoam
 season: 26
-photo:
+photo: /img/da2-7015.jpg
 captain: Kevin Penny
 quarterback: Patrick Shilo
 members:

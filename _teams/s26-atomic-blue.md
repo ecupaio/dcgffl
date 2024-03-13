@@ -5,7 +5,7 @@ permalink: /teams/s26-atomicblue/
 name: The Atoms Family 🫰🫰
 color: 'Atomic Blue '
 season: 26
-photo:
+photo: /img/da2-7066.jpg
 captain: Tiger Ricchetti
 quarterback: Aaron Billingsley
 members:
@@ -23,4 +23,4 @@ members:
   - Daniel Turner (Forever Family)
 division: Pitchers Open
 ---
-![](/img/da2-7066.jpg){: width="4657" height="3326"}
+![](/img/da2-7066.jpg){: width="4953" height="3538"}

@@ -5,7 +5,7 @@ permalink: /teams/s26-marinegreen/
 name: Green Peen Queens
 color: Marine Green
 season: 26
-photo:
+photo: /img/da2-7052.jpg
 captain: Brandon M.
 quarterback: Nick Perovich
 members:

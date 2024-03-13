@@ -5,7 +5,7 @@ permalink: /teams/s26-neonorange/
 name: Neon My Face
 color: Neon Orange
 season: 26
-photo:
+photo: /img/da2-7069.jpg
 captain: Sean Holihan
 quarterback: Bryan Sanders
 members:

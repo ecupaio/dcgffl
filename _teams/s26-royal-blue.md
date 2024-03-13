@@ -5,7 +5,7 @@ permalink: /teams/s26-royalblue/
 name: Royal Tightness 💙
 color: Royal Blue
 season: 26
-photo:
+photo: /img/da2-7080.jpg
 captain: Oliver J.
 quarterback: JC Adams
 members:

@@ -5,7 +5,7 @@ permalink: /teams/s26-forestgreen/
 name: You Got Moss'd
 color: Forest Green
 season: 26
-photo:
+photo: /img/da2-7033.jpg
 captain: Levert James
 quarterback: AJ Reust
 members:

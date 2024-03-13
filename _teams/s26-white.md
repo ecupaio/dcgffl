@@ -5,7 +5,7 @@ permalink: /teams/s26-white/
 name: Field of Creams
 color: White
 season: 26
-photo:
+photo: /img/da2-7028.jpg
 captain: Michael Bromell
 quarterback: Oriya C.
 members:

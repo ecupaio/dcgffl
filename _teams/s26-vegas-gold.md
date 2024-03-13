@@ -5,7 +5,7 @@ permalink: /teams/s26-vegasgold/
 name: Bellagi-Hos
 color: Vegas Gold
 season: 26
-photo:
+photo: /img/da2-7057.jpg
 captain: Trey P.
 quarterback: John C.
 members:

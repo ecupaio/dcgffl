@@ -5,7 +5,7 @@ permalink: /teams/s26-darkgrey/
 name: Grey 4 Pay
 color: Dark Grey
 season: 26
-photo:
+photo: /img/da2-7090.jpg
 captain: Matt H.
 quarterback: Matthew C.
 members:

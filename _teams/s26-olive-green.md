@@ -2,10 +2,10 @@
 _schema: default
 title: S26 - Olive Green
 permalink: /teams/s26-olivegreen/
-name:
+name: The Extra Virgins
 color: Olive Green
 season: 26
-photo:
+photo: /img/da2-7004.jpg
 captain: Juan V.
 quarterback: Brian Hotchkiss
 members:
