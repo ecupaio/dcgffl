@@ -7,7 +7,7 @@ teams-score:
   - team: _teams/s26-lime-shock.md
     score:
 location: _locations/carter-baron.md
-field: '5'
+field: '3'
 date: 2024-03-17 12:30:00 -0400
 season: 26
 week: 2
