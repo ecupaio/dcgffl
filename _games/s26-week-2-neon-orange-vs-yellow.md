@@ -1,10 +1,10 @@
 ---
 _schema: default
-title: 'S26 Week 2 - Neon Orange vs Lime '
+title: 'S26 Week 2 - Neon Orange vs Yellow '
 teams-score:
   - team: _teams/s26-neon-orange.md
     score:
-  - team: _teams/s26-lime-shock.md
+  - team: _teams/s26-yellow.md
     score:
 location: _locations/carter-baron.md
 field: '4'

@@ -1,10 +1,10 @@
 ---
 _schema: default
-title: 'S26 Week 2 - Dark Grey vs Atomic '
+title: 'S26 Week 2 - Purple vs Lime '
 teams-score:
-  - team: _teams/s26-dark-grey.md
+  - team: _teams/s26-purple.md
     score:
-  - team: _teams/s26-atomic-blue.md
+  - team: _teams/s26-lime-shock.md
     score:
 location: _locations/carter-baron.md
 field: '5'
