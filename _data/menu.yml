@@ -68,5 +68,16 @@ footer:
   - title: Past Seasons
     link: /past-seasons/
 announcement:
-  text: Spring 2024 Registration is now closed!&nbsp;
-  show: false
+  text: >-
+    **Spring 2024 Supplemental Registration is now Open!**&nbsp;
+
+
+    [Women's+ Division Supplemental
+    Registration](https://forms.gle/t2bcJPkUmTogfkbD6){: target="_blank"
+    rel="noopener"}
+
+
+    [Open Division Supplemental
+    Registration](https://forms.gle/JfLzUC6bmtPgDPML7){: target="_blank"
+    rel="noopener"}
+  show: true

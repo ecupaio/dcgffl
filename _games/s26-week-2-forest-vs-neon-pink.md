@@ -1,10 +1,10 @@
 ---
 _schema: default
-title: S26 Week 2 - Forest vs Neon Pink
+title: S26 Week 2 - Neon Orange vs Lime
 teams-score:
-  - team: _teams/s26-forest-green.md
+  - team: _teams/s26-neon-orange.md
     score:
-  - team: _teams/s26-neon-pink.md
+  - team: _teams/s26-lime-shock.md
     score:
 location: _locations/carter-baron.md
 field: '4'
