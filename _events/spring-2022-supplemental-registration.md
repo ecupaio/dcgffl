@@ -1,5 +1,7 @@
 ---
+_schema: default
 title: Spring 2022 Supplemental Registration
+permalink: /s22-supp-reg/
 date: 2022-03-15 19:00:00 -0400
 time: 7pm
 button:
@@ -12,8 +14,6 @@ location:
   city: ''
   state: ''
   zip: ''
-permalink: "/s22-supp-reg/"
-
 ---
 Mark your calendars: Supplemental Registration for any players who missed out on joining in the regular registration period, but still want to play in Spring 2022 flag football, is coming up!
 
