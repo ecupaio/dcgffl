@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^9.7.0",
     "csswring": "^7.0.0",
     "grunt-concurrent": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
