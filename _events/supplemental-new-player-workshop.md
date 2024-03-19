@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Supplemental New Player Workshop
-permalink: ''
+permalink: /events/s20-supp-npw
 date: 2021-09-26 14:00:00 -0400
 time: 2pm
 button:
