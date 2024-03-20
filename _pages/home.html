@@ -58,8 +58,8 @@ play-options:
       joining us as a player!
     image: /img/52763662298-a2c73024e8-c.jpg
     button:
-      text:
-      link:
+      text: Learn More
+      link: /womensplus-league/
   - title: Recreation Division
     text: >-
       The Recreation division is a supplemental league that runs in tandem to
@@ -110,7 +110,7 @@ sponsors-section:
       <div class="option">
         <div class="option-grid {% cycle 'odd','even' %}">
           <div class="option-col image-col">
-            <img src="{{ option.image }}" />
+            <img src="{{ option.image | resize: '512x>' }}" />
           </div>
           <div class="option-col text-col">
             <div class="option-content">

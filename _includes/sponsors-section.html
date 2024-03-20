@@ -60,7 +60,7 @@
           <div class="slide-content">
             <div class="image-col">
               <a href="{{ sponsor.website }}">
-                <img class="supporter-logo" src="{{ sponsor.image }}"/>
+                <img class="supporter-logo" src="{{ sponsor.image | resize: '250x>' }}"/>
               </a>
             </div>
             <div class="content-col">
@@ -81,7 +81,7 @@
       {%- for sponsor in other-sponsors -%}
         <div class="supporter-col">
           <a class="supporter-link" href="{{ sponsor.website }}?utm_source=dcgffl&utm_medium=website">
-            <img class="supporter-logo"  src="{{ sponsor.image }}"/>
+            <img class="supporter-logo"  src="{{ sponsor.image | resize: '250x>' }}"/>
             <div class="link-overlay">
               <h4 class="supporter-name">{{ sponsor.title }}</h4>
             </div>

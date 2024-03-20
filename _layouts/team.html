@@ -33,10 +33,9 @@ content-id: team
       </div>
       <div class="team-photo">
       {% if page.photo and page.photo != '' %}
-      <img src="{{ page.photo }}" class="team-photo-img" alt="{{ page.color }} team photo" />
+      <img src="{{ page.photo | resize: '800x>' }}" class="team-photo-img" alt="{{ page.color }} team photo" />
       {% else %}
       <img src="{{ site.data.menu.logo }}" class="no-team-photo" alt="DCGFFL Logo" />
-      
       {% endif %}
       </div>
       
