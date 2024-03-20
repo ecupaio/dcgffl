@@ -9,10 +9,10 @@ author: >-
   bored and left before the half…..and even the field lights were uninterested
   and decided to shut off at 9pm. #FridayNightNoLights  Ain’t much to recap for
   week 4 but I will do my best🤷🏾‍♀️
-season: 25
+season: 2
 week: 5
 rankings:
-  - team: _teams/s02-women-s-forest-green.md
+  - team: _womensplus-teams/s02-women-s-forest-green.md
     record: 3-1
     text: >-
       Forest green came back from the bye week ready to hand Blue over their
@@ -22,7 +22,7 @@ rankings:
 
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGszNDFyazZwMHZndW52cTQ5Z2hpaGszanl5dzZ6OTZvcXpmZG5mMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EoYYXO2eo6Rbz9e/giphy.gif)
-  - team: _teams/s02-women-s-carolina-blue.md
+  - team: _womensplus-teams/s02-women-s-carolina-blue.md
     record: 3-1
     text: >-
       A game of the week with no game, how dreadful!&nbsp;
@@ -36,7 +36,7 @@ rankings:
 
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F4Z3J2ZWM4b3RiZ3hoOGRjcW55MnNnc2NsaGJxM3h5Zno0YW9sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/was551PdB1gCE73hcA/giphy.gif)
-  - team: _teams/s02-women-s-lime.md
+  - team: _womensplus-teams/s02-women-s-lime.md
     record: 1-3
     text: >-
       “Started from the bottom now we’re….one spot away from the bottom” Lime
@@ -51,7 +51,7 @@ rankings:
 
 
       ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUzMHUwZmhvejBzb3liaTViZGtmaDFxdTU2d2Z1MjJuOWtnZHRzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Nq9NNTuIlMnm/giphy.gif)
-  - team: _teams/s02-women-s-neon-pink.md
+  - team: _womensplus-teams/s02-women-s-neon-pink.md
     record: 1-3
     text: >-
       Oh how the mighty have fallen. This week Pink had just enough to field a

@@ -70,7 +70,7 @@ nav {
             height: 3px; 
             background-color: $red;
             width: 30px;
-            @include transition(transform);
+            @include transition(transform,background-color);
             transform-origin: center;
             &.middle {
               margin: 8px 0;

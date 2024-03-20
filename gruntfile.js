@@ -57,6 +57,7 @@ module.exports = function(grunt) {
     },
     postcss: {
       options: {
+        map: false,
         processors: [
           require('autoprefixer')({overrideBrowserslist: ['last 2 versions']}),
           require('csswring')()

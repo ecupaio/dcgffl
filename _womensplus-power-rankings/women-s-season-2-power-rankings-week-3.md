@@ -9,10 +9,10 @@ author: >-
   and a battle of the salad greens! Come get your tea with T. Let’s get into the
   recap of week 3!  Before we start, let’s wish a speedy recovery to Pink’s
   captain Laurn Pruitt!
-season: 25
+season: 2
 week: 3
 rankings:
-  - team: _teams/s02-women-s-carolina-blue.md
+  - team: _womensplus-teams/s02-women-s-carolina-blue.md
     record: 3-0
     text: >-
       We get it we get it, y’all are the best and your roster is stacked, bleh
@@ -25,7 +25,7 @@ rankings:
 
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI2Y3RwcXk3YjZsNHE4bmZlcDJraXpzaXg1MWFzOXp6Z280bm01MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iW8tsoJWcfPc4/giphy.gif)
-  - team: _teams/s02-women-s-forest-green.md
+  - team: _womensplus-teams/s02-women-s-forest-green.md
     record: 2-1
     text: >-
       The only shutdown that happened Friday was Forest Green shutting down Lime
@@ -46,7 +46,7 @@ rankings:
 
 
       ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0d3IwdnptbG1mYXdhMWJsaTBxZndzMm55em9vMnN0bDhsbTk5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5t27HWeQCaTayhj5In/giphy.gif)
-  - team: _teams/s02-women-s-neon-pink.md
+  - team: _womensplus-teams/s02-women-s-neon-pink.md
     record: 1-2
     text: >-
       “P - panic, I - interceptions, N - not their week, K - still not their
@@ -71,7 +71,7 @@ rankings:
 
 
       ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZramVic250aXNxbmx5NXByanBmaWVjNXZhdG1lZXdsMG1jcWNtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EuTUF0Xw9YpG0/giphy.gif)
-  - team: _teams/s02-women-s-lime.md
+  - team: _womensplus-teams/s02-women-s-lime.md
     record: 0-3
     text: >-
       Another team that may have to consider a mid-season name change. Maybe

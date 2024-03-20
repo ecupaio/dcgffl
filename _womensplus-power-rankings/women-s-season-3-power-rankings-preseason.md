@@ -12,10 +12,10 @@ author: >-
   human cheerleaders and their white claw/wine consuming guardians on the side
   lines. Let’s get going with these preseason rankings; May the odds be ever in
   your favor:
-season: 26
+season: 3
 week: 0
 rankings:
-  - team: _teams/s03-women-s-navy.md
+  - team: _womensplus-teams/s03-women-s-navy.md
     record: Jaimee S. / Emily B.
     text: >-
       Move over Lynch, we have a new Denver QB in the DCGFFL and she’s ready to
@@ -27,7 +27,7 @@ rankings:
 
 
       ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljaHIwMDZ1ZzRmYWYyaTJtZm1qMjJyZnJ4NmNsOXJxN3V0dWxnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2K2I2vCZqvaqoE/giphy.gif)
-  - team: _teams/s03-women-s-gold.md
+  - team: _womensplus-teams/s03-women-s-gold.md
     record: Kristin Lynch / Shayne Madella
     text: >-
       New captain Shayne and returning QB Lynch have a lot to be excited about
@@ -39,7 +39,7 @@ rankings:
 
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xxczE4YThqM2p4am1kdmlmd3oxd252eXNrZnpreHAwOHpkeTIxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4F1SR0QbZFvi0/giphy.gif)
-  - team: _teams/s03-women-s-kelly-green.md
+  - team: _womensplus-teams/s03-women-s-kelly-green.md
     record: Megan Lukacs / Amy Smith
     text: >-
       In a surprising turn, the returning champion Meg is coming in as 3rd seed.
@@ -50,7 +50,7 @@ rankings:
 
 
       ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhodjhicWFzYTUzZHFwaGExdnpvcjVjbWg2Y3g3NW9tdjZ6azJ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqoaO5rMWsjk0uI/giphy.gif)
-  - team: _teams/s03-women-s-texas-orange.md
+  - team: _womensplus-teams/s03-women-s-texas-orange.md
     record: Lizzie Becker / Lex Pfearsen & Camille Thompson
     text: >-
       New Captain Lex and Returning QB Lizzie have the veteran knowledge of
@@ -64,7 +64,7 @@ rankings:
 
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2syeng5dHlldDV1dXUyNHoxNTV3cjVqdjg0OTZ0eWtoM3Vmc2lvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VWFJcsjj8Jcr2f9Qq1/giphy.gif)
-  - team: _teams/s02-women-s-red.md
+  - team: _womensplus-teams/s02-women-s-red.md
     record: Meredith Morgan / Judy H.
     text: >-
       New Captain Judy and Veteran QB Mere look to take the league by storm
@@ -77,7 +77,7 @@ rankings:
 
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1hcTdldWVvdzR4bXJ4ZmZlM2hrdXB1aDgwazdmZGt2aW44eDM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCCgw63c7vBq8Ehnv1/giphy.gif)
-  - team: _teams/s03-women-s-sapphire.md
+  - team: _womensplus-teams/s03-women-s-sapphire.md
     record: Kori S. / Steph McDaniel
     text: >-
       &nbsp;Returning Captain Steph and Veteran Player, new QB Kori are in

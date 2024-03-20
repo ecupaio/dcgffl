@@ -13,8 +13,8 @@ _inputs:
     type: textarea
 title: Womens+ Division
 permalink: /womensplus-league/
-season: 1
-week: 1
+season: 3
+week: 3
 scoreboard:
   no-scores: There are no scores for this week at the moment.
 schedule:
@@ -55,7 +55,7 @@ playoffs:
   visible: false
 ---
 {% include hero.html %}
-{% include scoreboard-feed.html teams=site.womensplus-teams games=site.games scoreboard='/score-board/' %}
+{% include scoreboard-feed.html teams=site.womensplus-teams games=site.womensplus-games scoreboard='/womensplus-league/score-board/' %}
 {% include playoffs.html %}
 {% include schedule-feed.html games=site.womensplus-games teams=site.womensplus-teams schedule-link='/schedule/' %}
 {% include teams.html teams=site.womensplus-teams %}

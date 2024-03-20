@@ -92,7 +92,9 @@ collections:
     output: true
     permalink: /past-seasons/:title/  
   power-rankings: 
-    output: true  
+    output: true
+  womensplus-power-rankings: 
+    output: true    
 defaults:
 - scope:
     type: 'pages'
@@ -138,6 +140,12 @@ defaults:
     type: 'power-rankings'
   values: 
     layout: power-rankings
+    league: 'open'
+- scope: 
+    type: 'womensplus-power-rankings'
+  values: 
+    layout: power-rankings
+    league: 'womensplus'    
 - scope: 
     type: 'redirects'
   values: 

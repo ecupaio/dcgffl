@@ -8,10 +8,10 @@ author: >-
   time flies. Who am I kidding, this has been the longest, 7, 8 or 9 weeks I’ve
   experienced in a long time. This week teams ensured their roster was fully
   present to show up and hopefully showout. Let’s rank some teams!
-season: 25
+season: 2
 week: 8
 rankings:
-  - team: _teams/s02-women-s-forest-green.md
+  - team: _womensplus-teams/s02-women-s-forest-green.md
     record: 5-1
     text: >-
       Mariam returned for another game, albeit late (or just in time) and good
@@ -31,7 +31,7 @@ rankings:
 
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZtbGZzbW5oa3dpa3E1NmVuYnYzeWEyNG5mNnFvd3d4NG5kMjV1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dSeUba1BTKmRCIcaXO/giphy.gif)
-  - team: _teams/s02-women-s-carolina-blue.md
+  - team: _womensplus-teams/s02-women-s-carolina-blue.md
     record: 5-1
     text: >-
       Last week, I thought Blue was showing signs of losing steam, but after
@@ -52,7 +52,7 @@ rankings:
 
 
       ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG12eWU3dDM2MzdybmppcDZ3aWJ0ZGxqNTdjdjlseW00bW4wdGE5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12IoE2FzUZjHsk/giphy.gif)
-  - team: _teams/s02-women-s-lime.md
+  - team: _womensplus-teams/s02-women-s-lime.md
     record: 1-5
     text: >-
       Deja vu much? Yet again, lime green goes up against a top seeded team and
@@ -69,7 +69,7 @@ rankings:
 
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlhcGk4YTF1eDM0aHVqeHBmaTV1bXZqZWlzeGE2amc0aWZwaHhxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BeZZ7SJ1Tphd2DfuE/giphy.gif)
-  - team: _teams/s02-women-s-neon-pink.md
+  - team: _womensplus-teams/s02-women-s-neon-pink.md
     record: 1-5
     text: >-
       The Barbies called in reinforcements this week…but somehow having more

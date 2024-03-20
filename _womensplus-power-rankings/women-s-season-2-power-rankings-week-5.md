@@ -13,10 +13,10 @@ author: >-
   understands the concept. Yes you are supposed to watch the game, but you also
   have to officiate! The ONE time she used her flag turned out to be moot
   because Binder waived it off. 
-season: 25
+season: 2
 week: 6
 rankings:
-  - team: _teams/s02-women-s-carolina-blue.md
+  - team: _womensplus-teams/s02-women-s-carolina-blue.md
     record: 4-1
     text: >-
       I don't know if they don't get out enough, or if there's such a thing as
@@ -33,7 +33,7 @@ rankings:
 
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZtbGZzbW5oa3dpa3E1NmVuYnYzeWEyNG5mNnFvd3d4NG5kMjV1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dSeUba1BTKmRCIcaXO/giphy.gif)
-  - team: _teams/s02-women-s-forest-green.md
+  - team: _womensplus-teams/s02-women-s-forest-green.md
     record: 4-1
     text: >-
       This week forest green had to play lean! Captain Sam Cline prioritized
@@ -49,7 +49,7 @@ rankings:
 
 
       ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY3YzFleDNuc3ptNzE3ZjR5ZXdlNnUzM3MwemIxbGQ3ZjQyOGk2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xLAu4F6hypfPpe/giphy.gif)
-  - team: _teams/s02-women-s-lime.md
+  - team: _womensplus-teams/s02-women-s-lime.md
     record: 1-4
     text: >-
       Okay Lime! We see you, stepping it up and coming two points from clenching
@@ -70,7 +70,7 @@ rankings:
 
 
       ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JrdDd3eHV4b3ByaThiZDltOWd3djN1eWFkdmV0aWdoMWdzMzZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xnsFqNS2g4NIzKbM58/giphy.gif)
-  - team: _teams/s02-women-s-neon-pink.md
+  - team: _womensplus-teams/s02-women-s-neon-pink.md
     record: 1-4
     text: >-
       BarbieLand was as empty as a case of Truly’s on a Sunday Funday. The

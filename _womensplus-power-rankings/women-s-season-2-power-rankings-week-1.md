@@ -10,10 +10,10 @@ author: >-
   and more participants than the previous season.  Here’s to taking out our
   workday frustrations out on each other, fighting soccer parents for parking,
   and some good ol-fashion flag football. Let’s get in to some Week 1 rankings:
-season: 25
+season: 1
 week: 1
 rankings:
-  - team: _teams/s02-women-s-carolina-blue.md
+  - team: _womensplus-teams/s02-women-s-carolina-blue.md
     record: 1-0
     text: >-
       No sleep looks good on QB Meg. Out here throwing TDs like she’s slinging
@@ -33,7 +33,7 @@ rankings:
 
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVoNmJrYml6YzV4bWg5bHMyNHlyZHE3OG5hNnppOXZwMHdwcW5qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nV2ndbrxuXwBRfi/giphy.gif)
-  - team: _teams/s02-women-s-neon-pink.md
+  - team: _womensplus-teams/s02-women-s-neon-pink.md
     record: 1-0
     text: >-
       “Their in the splits, they have a funky haircut, and they rely on their
@@ -49,7 +49,7 @@ rankings:
       Offense was supported by Rookies Lex, Pam, and Dana and the team managed
       to score 3TDs, even if they were accidental. Let’s see how long Pink’s
       defense can carry the team as new QB Emily gets adjusted.
-  - team: _teams/s02-women-s-forest-green.md
+  - team: _womensplus-teams/s02-women-s-forest-green.md
     record: 0-1
     text: >-
       Green eggs gone ham, it’s giving more like turkey bacon. With a team full
@@ -66,7 +66,7 @@ rankings:
 
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFubm0yZjdmNWFoYjYwcWh6OWVidHZleDVldnE0ZXZ0MHppMTcwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b5Wo64Jw53UI/giphy.gif)
-  - team: _teams/s02-women-s-lime.md
+  - team: _womensplus-teams/s02-women-s-lime.md
     record: 0-1
     text: >-
       Twas a pretty dry scene for a team named squirters. There were dropped

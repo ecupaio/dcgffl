@@ -8,10 +8,10 @@ author: >-
   of the way, we got to see what each team is truly made of. Wind and weather
   were none too kind to the QBs this week but that didn’t stop a ton of points
   from getting scored Friday night!
-season: 25
+season: 2
 week: 2
 rankings:
-  - team: _teams/s02-women-s-carolina-blue.md
+  - team: _womensplus-teams/s02-women-s-carolina-blue.md
     record: 2-0
     text: >-
       No Meg? No Problem. The Barracooters won again this week, 27-18 against
@@ -41,7 +41,7 @@ rankings:
 
 
       Live look at Nik’s special teams skills
-  - team: _teams/s02-women-s-forest-green.md
+  - team: _womensplus-teams/s02-women-s-forest-green.md
     record: 1-1
     text: >-
       Turkey bacon no longer! We got full-flavored, cholesterol-raising bacon
@@ -57,7 +57,7 @@ rankings:
 
 
       ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoxODBoNHJzcGZqZTJ6ZHdybWs3M284Y2xoNmlpMHg1NmUxZ3E4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHy3oajUgi4Ga0rAEY/giphy.gif)
-  - team: _teams/s02-women-s-neon-pink.md
+  - team: _womensplus-teams/s02-women-s-neon-pink.md
     record: 1-1
     text: >-
       Friday was a tough one for our plasticky friends, the Weird Barbies.
@@ -70,7 +70,7 @@ rankings:
 
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx2OWwwcjYwZnRzcnczZzA2N3dhcG91MjNhaTZxdjRhanBnMmQ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rLNRhImy407URFIDnX/giphy.gif)
-  - team: _teams/s02-women-s-lime.md
+  - team: _womensplus-teams/s02-women-s-lime.md
     record: 0-2
     text: >-
       Despite being 0-2, Lime Green had a much juicier performance this week.
