@@ -1,0 +1,33 @@
+---
+_enabled_editors:
+  - data
+_inputs:
+  $.intro.text:
+    type: textarea
+title: Playoffs
+permalink: /womensplus-playoffs/
+css: playoffs
+content-id: playoff-lp
+intro:
+  title: Season 25 Playoffs
+  text:
+  button:
+    text: View Results
+    link: /season-25-playoffs/
+    visible: true
+results:
+  title: Playoff Records
+---
+<section id="playoff-intro">
+  <div class="inner-section">
+    <h1 class="page-title">{{ page.title }}</h1>
+    <div class="intro">
+      <h2 class="intro-title">{{ page.intro.title }}</h2>
+      <div class="intro-text">
+        {{ page.intro.text | markdownify }}
+      </div>
+      <a class="btn {% if page.intro.button.visible == false %}hidden{% endif %}" href="{{ page.intro.button.link }}">{{ page.intro.button.text }}</a>
+    </div>
+  </div>
+</section>
+{% include playoff-results.html playoffs=site.womensplus-playoffs teams=site.womensplus-teams %}

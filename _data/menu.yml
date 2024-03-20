@@ -8,8 +8,11 @@ nav:
     link: /
   - title: About
     link: /about/
-  - title: League Teams
-    link: /league/
+  - title: Open League
+    link: '#'
+    sublinks: 
+      - title: Home
+        link: /league/
   - title: Travel Program
     link: /travel-program/
   - title: Game Schedule

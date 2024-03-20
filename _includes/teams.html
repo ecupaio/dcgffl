@@ -17,7 +17,7 @@
           <a class="team-link" href="{{ team.url }}">
             <div class="team-image">
               {% if team.photo and team.photo !='' %}
-              <img src="{{ team.photo }}" class="team-image-src" alt="photo of {{ team-name }}"/> 
+              <img src="{{ team.photo | resize: '300'}}" class="team-image-src" alt="photo of {{ team-name }}"/> 
               {% else %}
               <img src="{{ site.data.menu.logo }}" class="no-photo" alt="DCGFFL Logo" /> 
               {% endif %}

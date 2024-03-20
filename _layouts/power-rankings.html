@@ -8,29 +8,39 @@ layout: default
     <h1 class="page-title">Power Rankings</h1>
     <div class="post-content">
       {% if page.id == '/power-rankings' %}
-      {% assign power-ranking = site.power-rankings | sort: 'date' | reverse | first %}
+        {% assign power-ranking = site.power-rankings | sort: 'date' | reverse | first %}
+      {% elsif page.id == '/womensplus-power-rankings' %}
+        {% assign power-ranking = site.womensplus-power-rankings | sort: 'date' | reverse | first %}
       {% else %}
-      {% assign power-ranking = page %}
+        {% assign power-ranking = page %}
       {% endif %}
-      
       <h3 class="post-title">{{ power-ranking.title }}</h3>
       {% if power-ranking.author and power-ranking.author !='' %}
       <div class="post-author">By {{ power-ranking.author }}</div>
       {% endif %}
       <div class="ranking-list">
+        {% if page.league == "open" %}
+          {% assign teams = site.teams %}
+        {% elsif page.league == "womensplus" %}
+          {% assign teams = site.womensplus-teams %}  
+        {% endif %}
+        
         {% for ranking in power-ranking.rankings %}
-        {% assign team = site.teams | where: "path", ranking.team | first %}
+
+        {% assign team = teams | where: "path", ranking.team | first %}
+        
         {% if team.name != '' %}
         {% assign team-name = team.name %}
         {% else %}
         {% assign team-name = team.color %}
         {% endif %}
+        
         <div class="ranking">
           <h4 class="team-rank-record">
             <span class="rank">{{ forloop.index }}</span>
             <a class="team" href="{{ team.url }}">
               <span class="team-name">{{ team-name }}</span>
-              {% if team.name !=''%}
+              {% if team.name and team.color !='' %}
               <span class="team-color">({{ team.color }})</span>
               {% endif %}
             </a>
@@ -46,6 +56,9 @@ layout: default
     <div class="posts-nav">
       {% if page.id == '/power-rankings' %}
         {% assign rankings = site.power-rankings  | sort: 'date' | reverse  %}
+        {% assign prev = rankings[1] %}
+      {% elsif page.id == '/womensplus-power-rankings' %}  
+        {% assign rankings = site.womensplus-power-rankings  | sort: 'date' | reverse  %}
         {% assign prev = rankings[1] %}
       {% else %}
         {% assign next = page.next %}

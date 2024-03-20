@@ -1,0 +1,19 @@
+---
+_enabled_editors:
+  - data
+title: Recreation League Schedule
+permalink: "/womensplus-league/schedule/"
+content-id: schedule
+css: schedule
+scripts:
+- schedule
+playoffs:
+  title: Playoffs
+  text: Playoffs are here! Follow the link below for information on games.
+  button:
+    text: View bracket
+    link: "/s22-rec-playoffs/"
+  visible: false
+
+---
+{% include full-schedule.html games=site.womensplus-games teams=site.womensplus-teams path="_pages/womensplus-league.html" %}
