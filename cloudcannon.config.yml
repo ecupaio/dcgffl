@@ -549,5 +549,4 @@ _inputs:
       Custom URL path for the page. Just add the path with slashes at the beginning and end. Ex:
       /about/. All pages will automatically use the title for the path when the page is published initially.
   text:
-    type: textarea   
-    
+    type: textarea

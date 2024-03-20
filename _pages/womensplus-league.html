@@ -1,0 +1,62 @@
+---
+_enabled_editors:
+  - data
+_inputs:
+  $.season:
+    type: number
+  $.week:
+    type: number
+  $.schedule.no-games:
+    type: markdown
+    label: No games text
+  $.register.text:
+    type: textarea
+title: Womens+ Division
+permalink: /womensplus-league/
+season: 1
+week: 1
+scoreboard:
+  no-scores: There are no scores for this week at the moment.
+schedule:
+  title: ''
+  no-games: >-
+    [DCGFFL Season XXVI Full Schedule - Spring
+    2024](https://drive.google.com/file/d/1vT4W003pL5TLTrDhCN3qB04aAT1Uu-VD/view?usp=sharing){:
+    target="_blank" rel="noopener"}
+hero:
+  title: Womens+ Division
+  text: >-
+    The DCGFFL features two divisions: The Open Division and the Women's+
+    Division. Both divisions are welcoming to individuals of all skill levels,
+    from seasoned players to those new to football. Furthermore, it provides a
+    fellowship for both LGBTQ+ individuals and straight allies alike. We invite
+    you to attend our games, meet incredible individuals, and contemplate
+    becoming a part of our team as a player!
+  image: /img/league-hero.jpg
+  button:
+    text: Register
+    link: '#register-section'
+    visible: false
+register:
+  title: Get in the game!
+  text: >-
+    Season XXVI (Spring 2024) registration has concluded. Join our mailing list
+    to receive notifications about future registration openings.
+  button:
+    text: SIGN UP FOR MAILING LIST
+    link: http://eepurl.com/c9JkQz
+    visible: true
+playoffs:
+  title: Playoffs
+  text: 'Playoffs '
+  button:
+    text: View bracket
+    link: https://dcgffl.org/season-21-playoffs/
+  visible: false
+---
+{% include hero.html %}
+{% include scoreboard-feed.html teams=site.womensplus-teams games=site.games scoreboard='/score-board/' %}
+{% include playoffs.html %}
+{% include schedule-feed.html games=site.womensplus-games teams=site.womensplus-teams schedule-link='/schedule/' %}
+{% include teams.html teams=site.womensplus-teams %}
+{% include registration.html %}

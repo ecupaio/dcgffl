@@ -72,6 +72,17 @@ collections:
     output: true
     sitemap: false
     permalink: /recreation-league/playoffs/:title/
+  womensplus-games: 
+    output: true
+    sitemap: false
+  womensplus-teams: 
+    output: true
+    sitemap: false    
+    permalink: /womensplus/teams/:title/
+  womensplus-playoffs:
+    output: true
+    sitemap: false
+    permalink: /womensplus/playoffs/:title/
   posts: 
     output: true
     sitemap: true
@@ -101,7 +112,15 @@ defaults:
 - scope: 
     type: 'rec-playoffs'
   values: 
-    layout: playoff       
+    layout: playoff
+- scope: 
+    type: 'womensplus-teams'
+  values: 
+    layout: team
+- scope: 
+    type: 'womensplus-playoffs'
+  values:
+    layout: playoffs
 - scope: 
     type: 'posts'
   values:

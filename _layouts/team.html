@@ -49,14 +49,14 @@ content-id: team
       <h3>Schedule</h3>
       <div class="games-list">
       {% if page.collection == "teams" %}
-      {% assign games = site.games %}
+        {% assign games = site.games %}
+        {% assign teams = site.teams %}
       {% elsif page.collection == "rec-teams" %}
-      {% assign games = site.rec-games %}
-      {% endif %}
-      {% if page.collection == "teams" %}
-      {% assign teams = site.teams %}
-      {% elsif page.collection == "rec-teams" %}
-      {% assign teams = site.rec-teams %}
+        {% assign games = site.rec-games %}
+        {% assign teams = site.rec-teams %}
+      {% elsif page.collection == "womensplus-teams" %}  
+        {% assign games = site.womensplus-games %}
+        {% assign teams = site.womensplus-teams %}
       {% endif %}
       {% for game in games %}
       {% if game.teams-score[0].team contains page.path or game.teams-score[1].team contains page.path %}
