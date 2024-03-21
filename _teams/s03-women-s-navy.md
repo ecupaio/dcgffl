@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S03 Women's+ - Navy
+title: S03 Women's+ - Navy (Bluebies)
 permalink: /teams/s3-womensplus-navy/
-name: Navy
+name: Bluebies
 color: Navy
 season: 26
 photo: /img/da2-7044.jpg

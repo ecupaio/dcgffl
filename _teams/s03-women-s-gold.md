@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S03 Women's+ - Gold
+title: S03 Women's+ - Gold (First and Gold)
 permalink: /teams/s3-womensplus-gold/
-name: Gold
+name: First and Gold
 color: Gold
 season: 26
 photo: /img/da2-7095.jpg

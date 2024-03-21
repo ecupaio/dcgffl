@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S03 Women's+ - Red
+title: S03 Women's+ - Red (Red-y or Not)
 permalink: /teams/s3-womensplus-red/
-name: Red
+name: Red-y or Not
 color: Red
 season: 26
 photo: /img/da2-7061.jpg

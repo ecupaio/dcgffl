@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S03 Women's+ - Texas Orange
+title: S03 Women's+ - Texas Orange (Orange is the New Flag)
 permalink: /teams/s3-womensplus-texas-orange/
-name: Texas Orange
+name: Orange is the New Flag
 color: Texas Orange
 season: 26
 photo: /img/da2-6998.jpg
