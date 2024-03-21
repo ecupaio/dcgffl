@@ -4,11 +4,11 @@ title: 'Open Division Season 26 Power Rankings: Week 2'
 permalink: /power-rankings/season-26-week-2-power-rankings/
 date: 2024-03-21 17:00:00 -0400
 author: >-
-  Welcome to Week Two! The unofficial kickoff of the season saw clear skies,
-  full hearts, and lots of injuries. I missed dragging you alleged athletes on
-  the field and with my extra fine ballpoint Swarovski pen. This week, Ed is
-  joining the dark side to help throw some extra shade. Let’s get into it.   By:
-  Chris Riotta-Rogers and Ed Abel
+  Chris Riotta-Rogers and Ed Abel - Welcome to Week Two! The unofficial kickoff
+  of the season saw clear skies, full hearts, and lots of injuries. I missed
+  dragging you alleged athletes on the field and with my extra fine ballpoint
+  Swarovski pen. This week, Ed is joining the dark side to help throw some extra
+  shade. Let’s get into it.
 season: 26
 week: 2
 rankings:
