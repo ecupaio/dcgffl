@@ -25,9 +25,6 @@ rankings:
 
       Will the Cardinals continue soaring to the championships, or will bad
       knees and stolen spotlights clip our wings?
-
-
-      <br>
   - team: _teams/s26-neon-orange.md
     record: '2 - 0 '
     text: >-
@@ -41,9 +38,6 @@ rankings:
 
       ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2aGI5bDBnb2QwN2JnbDQyMGxhbHJsdDM5bnRlcHd4OWs4bTFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lg2wQfrqBii4Zu4jbP/giphy.gif){:
       width="480" height="400"}
-
-
-      &nbsp;
   - team: _teams/s26-white.md
     record: 1 - 0
     text: >-
@@ -103,16 +97,13 @@ rankings:
   - team: _teams/s26-lime-shock.md
     record: 1 - 1
     text: >-
-      <br>Lime Green had a hell of a week, losing by just a single point to one
-      of the top-ranking teams at the 9am time slot. Despite starting out slow,
+      Lime Green had a hell of a week, losing by just a single point to one of
+      the top-ranking teams at the 9am time slot. Despite starting out slow,
       lime shocked everyone by clinching a decisive victory over the equally
       competitive purple team in the afternoon game. We know with the right
       amount of teamwork, and maybe a little bit of luck, this citrus team might
       just find themselves chasing celebratory shots of salt and tequila next
       Sunday.
-
-
-      <br>
   - team: _teams/s26-purple.md
     record: 1 - 1
     text: >-
