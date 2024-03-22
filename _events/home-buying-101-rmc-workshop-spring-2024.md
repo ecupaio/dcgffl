@@ -9,7 +9,7 @@ button:
   link: ''
   visible: false
 location:
-  name: ''
+  name: Rooftop
   address: 1010 Half St SE
   city: Washington
   state: DC
