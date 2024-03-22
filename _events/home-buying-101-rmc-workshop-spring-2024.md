@@ -2,7 +2,7 @@
 _schema: default
 title: 'Home Buying 101: RMC Workshop! - Spring 2024'
 permalink: /events/RMC-101-S26/
-date: 2024-04-01 00:00:00 -0400
+date: 2024-04-02 00:00:00 -0400
 time: 6:00 pm
 button:
   text: ''
@@ -23,4 +23,4 @@ DCGFFL has had the privilege of working with dedicated sponsor Residential Mortg
 
 Please join Residential Mortgage Center, Inc. and Margie Hofberg on Tuesday, April 1st at 6 PM
 
-&nbsp;
+![](/img/home-buying-101-seminar.png){: width="940" height="788"}
