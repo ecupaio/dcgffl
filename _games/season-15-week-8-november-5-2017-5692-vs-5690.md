@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - 5692 vs 5690
-teams_score:
-- team: 5692
+title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - S15 Purple vs S15 Power Blue
+teams-score:
+- team: _teams/s15-purple.md
   score: 32
-- team: 5690
+- team: _teams/s15-power-blue.md
   score: 28
 mvp: Matt Pesesky, Aaron Beck
 game-ball: Marlon, Kristin Lynch

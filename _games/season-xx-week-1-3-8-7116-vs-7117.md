@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7116 vs 7117
-teams_score:
-- team: 7116
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Neon Orange vs S20 Purple
+teams-score:
+- team: _teams/neon-orange.md
   score: 21
-- team: 7117
+- team: _teams/purple-2.md
   score: 25
 mvp: Andrew, Andrew
 game-ball: Mike, Pete

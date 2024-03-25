@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5093 vs 5104
-teams_score:
-- team: 5093
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Charcoal vs S14 Royal Blue
+teams-score:
+- team: _teams/s14-charcoal.md
   score: 22
-- team: 5104
+- team: _teams/s14-royal.md
   score: 38
 mvp: Alex Payne, Adam Robbins
 game-ball: Scott Kelly

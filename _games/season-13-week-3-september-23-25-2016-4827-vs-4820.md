@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4827 vs 4820
-teams_score:
-- team: 4827
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Royal Blue vs S13
+  Midnight Blue
+teams-score:
+- team: _teams/s13-royal-blue.md
   score:
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 6
 mvp: D. Alexander (Royal); B. McFarland (Midnight)
 game-ball: C. Hohl (Royal); J. Juffras (Midnight)

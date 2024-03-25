@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6689 vs 6701
-teams_score:
-- team: 6689
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Grill on Grill Action
+  vs S17 The Shock Tops
+teams-score:
+- team: _teams/s17-charcoal.md
   score:
-- team: 6701
+- team: _teams/s17-power-orange.md
   score: 21
 mvp: J. Lucas (Charcoal), A. Payne (Power Orange)
 game-ball: J. Membreno (Charcoal), E. Taylor (Power Orange)

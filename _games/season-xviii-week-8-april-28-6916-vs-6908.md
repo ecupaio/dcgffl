@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6916 vs 6908
-teams_score:
-- team: 6916
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 Gettin Piggy With It vs S18
+  Disrespectful Wit It
+teams-score:
+- team: _teams/pink.md
   score:
-- team: 6908
+- team: _teams/s18-gold.md
   score: 38
 mvp: Jim Roll (Pink), Jack Blaney (Gold)
 game-ball: ''

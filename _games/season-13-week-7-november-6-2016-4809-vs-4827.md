@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4809 vs 4827
-teams_score:
-- team: 4809
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Baby Blue vs S13 Royal
+  Blue
+teams-score:
+- team: _teams/s13-baby-blue.md
   score:
-- team: 4827
+- team: _teams/s13-royal-blue.md
   score: 18
 mvp: J. Blaney (Baby Blue); R. LeCounte (Royal)
 game-ball: A. Troy (Baby Blue); R. Coffer (Royal)

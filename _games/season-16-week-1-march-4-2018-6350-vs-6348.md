@@ -1,9 +1,9 @@
 ---
-title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - 6350 vs 6348
-teams_score:
-- team: 6350
+title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - S16 Hunter Green vs S16 Charcoal
+teams-score:
+- team: _teams/s16-forest.md
   score: 34
-- team: 6348
+- team: _teams/s16-charcoal.md
   score: 24
 mvp: Demitrian Cook, Antonio Campanelli
 game-ball: Tom Loughern, OJ

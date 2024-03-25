@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 3 (March 17) - DCGFFL - 6908 vs 6909
-teams_score:
-- team: 6908
+title: Season XVIII - Week 3 (March 17) - DCGFFL - S18 Disrespectful Wit It vs S18
+  Rust and Bust
+teams-score:
+- team: _teams/s18-gold.md
   score: 14
-- team: 6909
+- team: _teams/maroon.md
   score: 6
 mvp: Dan Vladimir (Gold), Sean Karson (Maroon)
 game-ball: ''

@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6706 vs 6703
-teams_score:
-- team: 6706
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Silver Fox Holes vs S17
+  Purple Parrots
+teams-score:
+- team: _teams/s17-silver.md
   score:
-- team: 6703
+- team: _teams/s17-purple.md
   score: 25
 mvp: J. McKinney (Silver), D. Mitchell (Purple)
 game-ball: B. Waggoner (Silver), H. Nisar (Purple)

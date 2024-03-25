@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5091 vs 5107
-teams_score:
-- team: 5091
+title: Season XX Canceled - DCGFFL - S14 Black vs S14 Violet
+teams-score:
+- team: _teams/s14-black.md
   score:
-- team: 5107
+- team: _teams/s14-violet.md
   score: 0
 mvp: L. Diep (Black), B. Bosfield (Violet)
 game-ball: K. Mitchell (Black), S. Brown (Violet)

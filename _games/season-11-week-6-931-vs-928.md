@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 931 vs 928
-teams_score:
-- team: 931
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 Baby Blue vs S11
+  Lime
+teams-score:
+- team: _teams/s11-baby-blue.md
   score: 40
-- team: 928
+- team: _teams/s11-lime.md
   score: 28
 mvp: Bobbie (Baby Blue), Jayme Fugelstein (Lime)
 game-ball: ''

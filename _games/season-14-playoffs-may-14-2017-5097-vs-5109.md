@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5097 vs 5109
-teams_score:
-- team: 5097
+title: Season XX Canceled - DCGFFL - S14 Kelly Green vs S14 Yellow
+teams-score:
+- team: _teams/s14-kelly.md
   score: 20
-- team: 5109
+- team: _teams/s14-yellow.md
   score: 26
 mvp: Kurt, Clemons
 game-ball: Tackney, Rachel

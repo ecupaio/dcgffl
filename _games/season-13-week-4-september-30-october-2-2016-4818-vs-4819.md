@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4818 vs 4819
-teams_score:
-- team: 4818
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Lime Green
+  vs S13 Maroon
+teams-score:
+- team: _teams/s13-lime.md
   score:
-- team: 4819
+- team: _teams/s13-maroon.md
   score: 25
 mvp: J. Richards (Lime); A. Plier (Maroon)
 game-ball: A. Livingstone (Lime); E. Binder (Maroon)

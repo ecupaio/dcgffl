@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6696 vs 6695
-teams_score:
-- team: 6696
+title: Season XX Canceled - DCGFFL - S17 Biscuits & Navy vs S17 L.I.M.E.
+teams-score:
+- team: _teams/s17-navy.md
   score:
-- team: 6695
+- team: _teams/s17-neon-green.md
   score: 6
 mvp: E. Guerra (Navy); L. Womack (Neon Green)
 game-ball: C. Ferreira (Navy); D. Shaver (Neon Green)

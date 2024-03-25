@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 929 vs 940
-teams_score:
-- team: 929
+title: Season XX Canceled - DCGFFL - S11 Orange vs S11 Power Blue
+teams-score:
+- team: _teams/s11-orange.md
   score:
-- team: 940
+- team: _teams/s11-power-blue.md
   score:
 mvp: ''
 game-ball: ''

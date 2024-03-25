@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4822 vs 4826
-teams_score:
-- team: 4822
+title: Season XX Canceled - DCGFFL - S13 Orange vs S13 Red (RED HOTS)
+teams-score:
+- team: _teams/s13-orange.md
   score:
-- team: 4826
+- team: _teams/s13-red.md
   score: 20
 mvp: P. Mabray (Orange); N. Lazarus (Red)
 game-ball: R. Snight (Orange); M. Simpson (Red)

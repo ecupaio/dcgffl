@@ -1,9 +1,10 @@
 ---
-title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - 4422 vs 4435
-teams_score:
-- team: 4422
+title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - S10 Burnt Orange vs S10 Power
+  Yellow
+teams-score:
+- team: _teams/s10-burnt-orange.md
   score: 32
-- team: 4435
+- team: _teams/s10-power-yellow.md
   score: 28
 mvp: John Burton (Burnt), Matt Simeon (Power Yellow)
 game-ball: N/A

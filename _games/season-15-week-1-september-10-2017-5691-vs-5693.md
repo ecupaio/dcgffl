@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5691 vs 5693
-teams_score:
-- team: 5691
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Power Yellow vs S15
+  Red
+teams-score:
+- team: _teams/s15-power-yellow.md
   score: 26
-- team: 5693
+- team: _teams/s15-red.md
   score: 12
 mvp: Kyle Miller, Ken Mitchell
 game-ball: Patrick Smith, Ethan Gramstad

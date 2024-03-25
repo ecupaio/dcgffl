@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 924 vs 931
-teams_score:
-- team: 924
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Black vs S11 Baby
+  Blue
+teams-score:
+- team: _teams/s11-black.md
   score: 25
-- team: 931
+- team: _teams/s11-baby-blue.md
   score: 22
 mvp: Daniel Honeycutt (Black), Staci Pugh (Baby Blue)
 game-ball: ''

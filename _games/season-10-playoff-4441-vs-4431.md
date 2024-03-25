@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4441 vs 4431
-teams_score:
-- team: 4441
+title: Season XX Canceled - DCGFFL - S10 Silver vs S10 Maroon
+teams-score:
+- team: _teams/s10-silver.md
   score:
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 6
 mvp: John B. (Silver), Adam R. (Maroon)
 game-ball: N/A

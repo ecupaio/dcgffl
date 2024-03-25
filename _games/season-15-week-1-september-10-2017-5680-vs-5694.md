@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5680 vs 5694
-teams_score:
-- team: 5680
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Baby Blue vs S15 Royal
+  Blue
+teams-score:
+- team: _teams/s15-baby-blue.md
   score: 39
-- team: 5694
+- team: _teams/s15-royal-blue.md
   score: 13
 mvp: Jared Lucas, Justin Parker
 game-ball: Adam Robbins, John Jimenez

@@ -1,9 +1,9 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6918 vs 6913
-teams_score:
-- team: 6918
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 Grab My Graphite vs S18 ClapBlacks
+teams-score:
+- team: _teams/graphite.md
   score:
-- team: 6913
+- team: _teams/black.md
   score: 19
 mvp: Bre Markenson-Bussel (Black), Daniel Allen (Graphite)
 game-ball: ''

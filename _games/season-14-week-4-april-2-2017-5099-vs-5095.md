@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5099 vs 5095
-teams_score:
-- team: 5099
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Navy vs S14 Forest
+teams-score:
+- team: _teams/s14-navy.md
   score:
-- team: 5095
+- team: _teams/s14-forest.md
   score: 48
 mvp: Andy H. & Craig
 game-ball: Randy & Dylan

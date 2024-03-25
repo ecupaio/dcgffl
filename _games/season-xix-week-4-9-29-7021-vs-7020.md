@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 7021 vs 7020
-teams_score:
-- team: 7021
+title: Season XX Canceled - DCGFFL - S19 Yellow D*ck Road vs S19 Fancy Gay Pirates
+teams-score:
+- team: _teams/neon-yellow.md
   score: 39
-- team: 7020
+- team: _teams/carolina-blue.md
   score: 13
 mvp: Derrick, Trey
 game-ball: Zack, Amanda

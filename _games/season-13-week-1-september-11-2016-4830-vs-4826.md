@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4830 vs 4826
-teams_score:
-- team: 4830
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 White vs S13 Red (RED
+  HOTS)
+teams-score:
+- team: _teams/s13-white.md
   score:
-- team: 4826
+- team: _teams/s13-red.md
   score: 0
 mvp: E. Armstrong (White); D. Johnson (Red)
 game-ball: M. Pesesky (White); L. Pratt (Red)

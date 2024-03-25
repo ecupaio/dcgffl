@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 4 (March 24) - DCGFFL - 6918 vs 6915
-teams_score:
-- team: 6918
+title: Season XVIII - Week 4 (March 24) - DCGFFL - S18 Grab My Graphite vs S18 Limey
+  Wankers
+teams-score:
+- team: _teams/graphite.md
   score: 42
-- team: 6915
+- team: _teams/lime.md
   score: 6
 mvp: Cam Burrell (Graphite), Nick Ward (Lime)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 939 vs 940
-teams_score:
-- team: 939
+title: Season XX Canceled - DCGFFL - S11 White vs S11 Power Blue
+teams-score:
+- team: _teams/s11-white.md
   score: 34
-- team: 940
+- team: _teams/s11-power-blue.md
   score: 20
 mvp: Nolan Lazarus (White), Matt Murtaugh (Power Blue)
 game-ball: ''

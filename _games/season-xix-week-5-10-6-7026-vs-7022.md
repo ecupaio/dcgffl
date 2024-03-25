@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7026 vs 7022
-teams_score:
-- team: 7026
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Tropic Like Its Hot vs S19 RED for
+  Filth
+teams-score:
+- team: _teams/tropic.md
   score: 40
-- team: 7022
+- team: _teams/red-2.md
   score: 12
 mvp: Donald, John
 game-ball: Udochi, Delvonte

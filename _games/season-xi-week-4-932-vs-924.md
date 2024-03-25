@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 932 vs 924
-teams_score:
-- team: 932
+title: Season XX Canceled - DCGFFL - S11 Purple vs S11 Black
+teams-score:
+- team: _teams/s11-purple.md
   score: 38
-- team: 924
+- team: _teams/s11-black.md
   score: 13
 mvp: Cody G. (Purple), Jim R. (Black)
 game-ball: ''

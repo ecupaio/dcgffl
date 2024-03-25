@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 6 (April 7) - DCGFFL - 6914 vs 6907
-teams_score:
-- team: 6914
+title: Season XVIII – Week 6 (April 7) - DCGFFL - S18 A Team Has No Name vs S18 Sexual
+  Tealing
+teams-score:
+- team: _teams/forest-green.md
   score:
-- team: 6907
+- team: _teams/s18-teal.md
   score: 13
 mvp: Manny Montes de Oca (Forest), Chris Rybicki (Teal)
 game-ball: ''

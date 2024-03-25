@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5688 vs 5685
-teams_score:
-- team: 5688
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Orange vs S15 Kelly
+  Green
+teams-score:
+- team: _teams/s15-orange.md
   score: 37
-- team: 5685
+- team: _teams/s15-kelly-green.md
   score: 12
 mvp: RJ Martin, Daniel Erkenbrack
 game-ball: CJ Babb, Chase Hoye

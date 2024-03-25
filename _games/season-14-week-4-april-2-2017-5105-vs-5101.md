@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5105 vs 5101
-teams_score:
-- team: 5105
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Sky Blue vs S14 Orange
+teams-score:
+- team: _teams/s14-sky.md
   score:
-- team: 5101
+- team: _teams/s14-orange.md
   score: 31
 mvp: James R. & Kristin
 game-ball: Matt & Brad

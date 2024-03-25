@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 937 vs 935
-teams_score:
-- team: 937
+title: Season XX Canceled - DCGFFL - S11 Gold vs S11 Power Yellow
+teams-score:
+- team: _teams/s11-gold.md
   score: 40
-- team: 935
+- team: _teams/s11-power-yellow.md
   score: 13
 mvp: O.J. (Gold), Jacob Willis (Power Yellow)
 game-ball: ''

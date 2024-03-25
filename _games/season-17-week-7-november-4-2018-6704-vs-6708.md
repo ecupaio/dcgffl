@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6704 vs 6708
-teams_score:
-- team: 6704
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Reddy, Ready, Red vs S17
+  White
+teams-score:
+- team: _teams/s17-red.md
   score:
-- team: 6708
+- team: _teams/s17-white.md
   score: 6
 mvp: E. Green (Red), J. Moseman (White)
 game-ball: D. Hughes (Red), Not Attributed (White)

@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6700 vs 6694
-teams_score:
-- team: 6700
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - undefined vs S17 Green Eggs
+  and Cammas
+teams-score:
+- team: ''
   score:
-- team: 6694
+- team: _teams/s17-kelly-green.md
   score: 39
 mvp: Not Attributed
 game-ball: Not Attributed

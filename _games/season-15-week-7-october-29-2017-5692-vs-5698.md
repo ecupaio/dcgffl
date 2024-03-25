@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5692 vs 5698
-teams_score:
-- team: 5692
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Purple vs S15 Teal
+teams-score:
+- team: _teams/s15-purple.md
   score: 34
-- team: 5698
+- team: _teams/s15-teal.md
   score: 26
 mvp: Mark Japinga, Sean Karson
 game-ball: Jason Deters, Randy Snight

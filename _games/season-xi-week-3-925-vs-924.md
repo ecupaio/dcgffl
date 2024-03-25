@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 925 vs 924
-teams_score:
-- team: 925
+title: Season XX Canceled - DCGFFL - S11 Leaf vs S11 Black
+teams-score:
+- team: _teams/s11-leaf.md
   score: 26
-- team: 924
+- team: _teams/s11-black.md
   score: 12
 mvp: Brian Donohoe (Leaf), Butters (Black)
 game-ball: ''

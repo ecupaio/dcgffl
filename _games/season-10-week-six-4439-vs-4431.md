@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4439 vs 4431
-teams_score:
-- team: 4439
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Royal vs S10 Maroon
+teams-score:
+- team: _teams/s10-royal.md
   score:
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 6
 mvp: Jason C. (Royal), Josh S. (Maroon)
 game-ball: N/A

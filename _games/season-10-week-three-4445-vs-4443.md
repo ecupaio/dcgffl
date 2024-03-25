@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4445 vs 4443
-teams_score:
-- team: 4445
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Slate vs S10 Sky Blue
+teams-score:
+- team: _teams/s10-slate.md
   score: 14
-- team: 4443
+- team: _teams/s10-sky-blue.md
   score: 13
 mvp: Kyle M. (Slate); Matt G. (Sky Blue)
 game-ball: N/A

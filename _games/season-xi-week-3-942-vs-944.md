@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 942 vs 944
-teams_score:
-- team: 942
+title: Season XX Canceled - DCGFFL - S11 Red vs S11 Kelly Green
+teams-score:
+- team: _teams/s11-red.md
   score: 37
-- team: 944
+- team: _teams/s11-kelly-green.md
   score: 13
 mvp: Sheerod Wilkerson (Red), Jovan Bowser (Kelly)
 game-ball: ''

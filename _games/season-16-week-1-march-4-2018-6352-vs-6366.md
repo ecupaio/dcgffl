@@ -1,9 +1,9 @@
 ---
-title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - 6352 vs 6366
-teams_score:
-- team: 6352
+title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - S16 Kelly Green vs S16 Silver
+teams-score:
+- team: _teams/s16-kelly-green.md
   score: 30
-- team: 6366
+- team: _teams/s16-silver.md
   score: 13
 mvp: Jordan Anderson, Mitch Scuzzarella
 game-ball: Dameron Rendell, RJ Martin

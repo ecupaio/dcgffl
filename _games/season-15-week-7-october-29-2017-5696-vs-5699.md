@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5696 vs 5699
-teams_score:
-- team: 5696
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Sand vs S15 White
+teams-score:
+- team: _teams/s15-sand.md
   score: 30
-- team: 5699
+- team: _teams/s15-white.md
   score: 26
 mvp: Greg Carter, Marcus Boyce
 game-ball: Sam Smallwood, Jerry DeHanis

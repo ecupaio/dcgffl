@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4434 vs 4449
-teams_score:
-- team: 4434
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Power Blue vs S10 White
+teams-score:
+- team: _teams/s10-power-blue.md
   score: 26
-- team: 4449
+- team: _teams/s10-white.md
   score: 20
 mvp: Jerrell P. (Power Blue); Jim R. (White)
 game-ball: N/A

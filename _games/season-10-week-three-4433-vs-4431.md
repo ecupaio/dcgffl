@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4433 vs 4431
-teams_score:
-- team: 4433
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Navy vs S10 Maroon
+teams-score:
+- team: _teams/s10-navy.md
   score: 25
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 12
 mvp: Mike C. (Navy); Mike D. (Maroon)
 game-ball: N/A

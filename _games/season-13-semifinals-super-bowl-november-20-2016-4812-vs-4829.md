@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4812 vs 4829
-teams_score:
-- team: 4812
+title: Season XX Canceled - DCGFFL - S13 Brown vs S13 Vegas Gold
+teams-score:
+- team: _teams/s13-brown.md
   score:
-- team: 4829
+- team: _teams/s13-vegas.md
   score: 18
 mvp: B. Cammas (Brown); A. Ross (Vegas)
 game-ball: T. Tullius & B. Allen (Brown); M. Stroman (Vegas)

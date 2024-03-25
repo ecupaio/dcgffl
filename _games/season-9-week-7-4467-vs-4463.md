@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - 4467 vs 4463
-teams_score:
-- team: 4467
+title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Red vs S09 Navy
+teams-score:
+- team: _teams/s09-red.md
   score:
-- team: 4463
+- team: _teams/s09-navy-rear-admirals.md
   score: 19
 mvp: BB (Red), John Woods (Navy)
 game-ball: N/A

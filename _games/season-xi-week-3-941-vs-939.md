@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 941 vs 939
-teams_score:
-- team: 941
+title: Season XX Canceled - DCGFFL - S11 Teal vs S11 White
+teams-score:
+- team: _teams/s11-teal.md
   score: 39
-- team: 939
+- team: _teams/s11-white.md
   score: 20
 mvp: Alonzo Mable (Teal), Rudy Legg Benividas (White)
 game-ball: ''

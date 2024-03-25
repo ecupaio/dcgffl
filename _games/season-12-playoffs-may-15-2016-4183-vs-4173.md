@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4183 vs 4173
-teams_score:
-- team: 4183
+title: Season XX Canceled - DCGFFL - S12 Olive Green vs S12 Black
+teams-score:
+- team: _teams/s12-olive-green.md
   score:
-- team: 4173
+- team: _teams/s12-black.md
   score: 26
 mvp: ''
 game-ball: ''

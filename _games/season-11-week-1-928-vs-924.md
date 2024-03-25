@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 928 vs 924
-teams_score:
-- team: 928
+title: Season XX Canceled - DCGFFL - S11 Lime vs S11 Black
+teams-score:
+- team: _teams/s11-lime.md
   score: 22
-- team: 924
+- team: _teams/s11-black.md
   score: 18
 mvp: MopTop (Lime), Jason Clevenger (Black)
 game-ball: ''

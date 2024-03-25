@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 929 vs 933
-teams_score:
-- team: 929
+title: Season XX Canceled - DCGFFL - S11 Orange vs S11 Navy
+teams-score:
+- team: _teams/s11-orange.md
   score: 26
-- team: 933
+- team: _teams/s11-navy.md
   score: 20
 mvp: Jake Carson (Orange), Wil Coachman (Navy)
 game-ball: ''

@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5696 vs 5690
-teams_score:
-- team: 5696
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Sand vs S15
+  Power Blue
+teams-score:
+- team: _teams/s15-sand.md
   score: 27
-- team: 5690
+- team: _teams/s15-power-blue.md
   score: 20
 mvp: Greg Carter, Aaron Beck/Rachel Browning
 game-ball: Sam Smallwood, Tony Smith

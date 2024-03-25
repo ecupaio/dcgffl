@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4427 vs 4445
-teams_score:
-- team: 4427
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Gold vs S10 Slate
+teams-score:
+- team: _teams/s10-gold.md
   score:
-- team: 4445
+- team: _teams/s10-slate.md
   score: 12
 mvp: Bryan S. (Gold), Andy P. (Slate)
 game-ball: N/A

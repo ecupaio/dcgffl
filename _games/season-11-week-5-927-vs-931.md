@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 927 vs 931
-teams_score:
-- team: 927
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Forest vs S11 Baby
+  Blue
+teams-score:
+- team: _teams/s11-forest.md
   score: 42
-- team: 931
+- team: _teams/s11-baby-blue.md
   score: 32
 mvp: Andy Larson (Forest), Justin Mezetin (Baby Blue)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4186 vs 4177
-teams_score:
-- team: 4186
+title: Season XX Canceled - DCGFFL - S12 White vs S12 Red
+teams-score:
+- team: _teams/s12-white.md
   score: 31
-- team: 4177
+- team: _teams/s12-red.md
   score: 39
 mvp: Michelle T. (White); BB (Red)
 game-ball: Anthony M. (White); Thomas L. (Red)

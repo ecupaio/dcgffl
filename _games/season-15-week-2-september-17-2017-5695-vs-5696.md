@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5695 vs 5696
-teams_score:
-- team: 5695
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Safety Orange vs S15
+  Sand
+teams-score:
+- team: _teams/s15-safety-orange.md
   score: 25
-- team: 5696
+- team: _teams/s15-sand.md
   score: 0
 mvp: Aaron Ross, David Asche
 game-ball: Antonio Campanelli, Mike Osorio

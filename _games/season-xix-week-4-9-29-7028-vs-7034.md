@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 7028 vs 7034
-teams_score:
-- team: 7028
+title: Season XX Canceled - DCGFFL - S19 Weapons of Ass Destruction vs S19 Dem Beets
+teams-score:
+- team: _teams/atomic.md
   score: 21
-- team: 7034
+- team: _teams/maroon-2.md
   score: 46
 mvp: Mark, OJ
 game-ball: Kat, Jim

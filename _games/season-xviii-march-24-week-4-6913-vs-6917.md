@@ -1,9 +1,9 @@
 ---
-title: Season XVIII - Week 4 (March 24) - DCGFFL - 6913 vs 6917
-teams_score:
-- team: 6913
+title: Season XVIII - Week 4 (March 24) - DCGFFL - S18 ClapBlacks vs S18 Navy Gravy
+teams-score:
+- team: _teams/black.md
   score: 33
-- team: 6917
+- team: _teams/navy.md
   score: 12
 mvp: Sasha Buchert (Black), Paul Pham (Navy)
 game-ball: ''

@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 6 (April 7) - DCGFFL - 6908 vs 6915
-teams_score:
-- team: 6908
+title: Season XVIII – Week 6 (April 7) - DCGFFL - S18 Disrespectful Wit It vs S18
+  Limey Wankers
+teams-score:
+- team: _teams/s18-gold.md
   score:
-- team: 6915
+- team: _teams/lime.md
   score: 31
 mvp: BB (Gold), Nick Ward (Lime)
 game-ball: ''

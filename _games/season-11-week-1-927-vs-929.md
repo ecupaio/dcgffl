@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 927 vs 929
-teams_score:
-- team: 927
+title: Season XX Canceled - DCGFFL - S11 Forest vs S11 Orange
+teams-score:
+- team: _teams/s11-forest.md
   score: 27
-- team: 929
+- team: _teams/s11-orange.md
   score: 25
 mvp: Mike Hess (Forest), Jake Carson (Orange)
 game-ball: ''

@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - 6694 vs 6703
-teams_score:
-- team: 6694
+title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Green Eggs and Cammas
+  vs S17 Purple Parrots
+teams-score:
+- team: _teams/s17-kelly-green.md
   score:
-- team: 6703
+- team: _teams/s17-purple.md
   score: 13
 mvp: TBD
 game-ball: TBD

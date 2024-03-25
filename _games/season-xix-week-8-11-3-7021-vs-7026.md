@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7021 vs 7026
-teams_score:
-- team: 7021
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Yellow D*ck Road vs S19 Tropic Like
+  Its Hot
+teams-score:
+- team: _teams/neon-yellow.md
   score: 47
-- team: 7026
+- team: _teams/tropic.md
   score: 24
 mvp: Marvin, Antonio
 game-ball: Zack, Haley

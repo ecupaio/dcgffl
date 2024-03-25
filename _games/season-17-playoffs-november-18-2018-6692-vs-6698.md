@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6692 vs 6698
-teams_score:
-- team: 6692
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Magnums vs S17 Flaming
+  Hot Cheeto Dust
+teams-score:
+- team: _teams/s17-gold.md
   score:
-- team: 6698
+- team: _teams/s17-orange.md
   score: 13
 mvp: D. Wilson (Gold), P. Tobin (Orange)
 game-ball: AJ Reust (Gold), L. Pratt (Orange)

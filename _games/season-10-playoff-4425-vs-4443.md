@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4425 vs 4443
-teams_score:
-- team: 4425
+title: Season XX Canceled - DCGFFL - S10 Fuchsia vs S10 Sky Blue
+teams-score:
+- team: _teams/s10-fuchsia.md
   score:
-- team: 4443
+- team: _teams/s10-sky-blue.md
   score: 34
 mvp: Dan S. (Fuchsia), Kyle B. (Sky Blue)
 game-ball: N/A

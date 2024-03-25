@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4429 vs 4438
-teams_score:
-- team: 4429
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Lime vs S10 Red
+teams-score:
+- team: _teams/s10-lime.md
   score:
-- team: 4438
+- team: _teams/s10-red.md
   score: 26
 mvp: Rob C. (Lime), Cody G. (Red)
 game-ball: N/A

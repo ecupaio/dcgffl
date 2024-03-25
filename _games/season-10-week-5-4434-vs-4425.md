@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4434 vs 4425
-teams_score:
-- team: 4434
+title: Season XX Canceled - DCGFFL - S10 Power Blue vs S10 Fuchsia
+teams-score:
+- team: _teams/s10-power-blue.md
   score: 31
-- team: 4425
+- team: _teams/s10-fuchsia.md
   score: 25
 mvp: Larry W. (Power Blue), Austin P. (Fuchsia)
 game-ball: N/A

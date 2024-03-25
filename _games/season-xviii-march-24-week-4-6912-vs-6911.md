@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 4 (March 24) - DCGFFL - 6912 vs 6911
-teams_score:
-- team: 6912
+title: Season XVIII - Week 4 (March 24) - DCGFFL - S18 PurPauls Drag Race vs S18 Not
+  Today Satan
+teams-score:
+- team: _teams/purple.md
   score: 45
-- team: 6911
+- team: _teams/red.md
   score: 28
 mvp: Pete Dickos (Purple), Eric Green (Red)
 game-ball: ''

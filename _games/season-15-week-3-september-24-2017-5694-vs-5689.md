@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5694 vs 5689
-teams_score:
-- team: 5694
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Royal Blue vs S15 Pink
+teams-score:
+- team: _teams/s15-royal-blue.md
   score: 32
-- team: 5689
+- team: _teams/s15-pink.md
   score: 18
 mvp: Ezra Porter, BB
 game-ball: John Jimenez, Chris Ferreira

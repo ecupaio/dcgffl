@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4821 vs 4826
-teams_score:
-- team: 4821
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Neon Yellow vs S13 Red
+  (RED HOTS)
+teams-score:
+- team: _teams/s13-neon-yellow.md
   score:
-- team: 4826
+- team: _teams/s13-red.md
   score: 7
 mvp: R. Boyle (Neon Yellow); L. Pratt (Red)
 game-ball: K. Veldman (Neon Yellow); J. Park (Red)

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7020 vs 7024
-teams_score:
-- team: 7020
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 Fancy Gay Pirates vs S19 Silver Rod
+  Hoes
+teams-score:
+- team: _teams/carolina-blue.md
   score: 6
-- team: 7024
+- team: _teams/silver.md
   score: 34
 mvp: Gerard,Max
 game-ball: Von,Eli

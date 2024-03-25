@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4445 vs 4429
-teams_score:
-- team: 4445
+title: Season XX Canceled - DCGFFL - S10 Slate vs S10 Lime
+teams-score:
+- team: _teams/s10-slate.md
   score: 27
-- team: 4429
+- team: _teams/s10-lime.md
   score: 18
 mvp: Sequoia H. (Slate), Sam C. (Lime)
 game-ball: N/A

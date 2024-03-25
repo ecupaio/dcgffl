@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7118 vs 7114
-teams_score:
-- team: 7118
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Carolina vs S20 White
+teams-score:
+- team: _teams/carolina.md
   score: 20
-- team: 7114
+- team: _teams/white-2.md
   score: 46
 mvp: Pham, Nate
 game-ball: Jamil, Andrew

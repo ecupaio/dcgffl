@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5091 vs 5107
-teams_score:
-- team: 5091
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Black vs S14 Violet
+teams-score:
+- team: _teams/s14-black.md
   score: 25
-- team: 5107
+- team: _teams/s14-violet.md
   score: 6
 mvp: ''
 game-ball: ''

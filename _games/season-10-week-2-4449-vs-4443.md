@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - 4449 vs 4443
-teams_score:
-- team: 4449
+title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - S10 White vs S10 Sky Blue
+teams-score:
+- team: _teams/s10-white.md
   score: 39
-- team: 4443
+- team: _teams/s10-sky-blue.md
   score: 0
 mvp: Marvin Washington (White), Jeremy Kincaid (Sky Blue)
 game-ball: N/A

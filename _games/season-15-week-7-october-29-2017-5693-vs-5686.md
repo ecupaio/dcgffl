@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5693 vs 5686
-teams_score:
-- team: 5693
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Red vs S15 Navy
+teams-score:
+- team: _teams/s15-red.md
   score: 12
-- team: 5686
+- team: _teams/s15-navy.md
   score: 6
 mvp: Ken Mitchell, Brandon Tuell
 game-ball: Bryant Burntheimer, Alex Payne

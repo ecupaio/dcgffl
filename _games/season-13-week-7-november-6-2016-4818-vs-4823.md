@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4818 vs 4823
-teams_score:
-- team: 4818
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Lime Green vs S13 Pacific
+  Blue (Pacific Blue Rimmers )
+teams-score:
+- team: _teams/s13-lime.md
   score:
-- team: 4823
+- team: _teams/s13-pacific-blue.md
   score: 26
 mvp: N. Bonard (Lime); C. Gillyard (Pacific)
 game-ball: D. Halunen (Lime); F. Cheng (Pacific)

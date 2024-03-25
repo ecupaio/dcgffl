@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5095 vs 5107
-teams_score:
-- team: 5095
+title: Season XX Canceled - DCGFFL - S14 Forest vs S14 Violet
+teams-score:
+- team: _teams/s14-forest.md
   score: 26
-- team: 5107
+- team: _teams/s14-violet.md
   score: 13
 mvp: Stephen H, Sam Brown/Max
 game-ball: Jared, Vio-LIT

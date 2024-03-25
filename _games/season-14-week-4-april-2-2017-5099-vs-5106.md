@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5099 vs 5106
-teams_score:
-- team: 5099
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Navy vs S14 Teal
+teams-score:
+- team: _teams/s14-navy.md
   score:
-- team: 5106
+- team: _teams/s14-teal.md
   score: 26
 mvp: Andy H. & Peter Pham
 game-ball: Matt G. & Emily

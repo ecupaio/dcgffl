@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6693 vs 6707
-teams_score:
-- team: 6693
+title: Season XX Canceled - DCGFFL - S17 Hunter Green vs S17 Teal
+teams-score:
+- team: _teams/s17-hunter-green.md
   score:
-- team: 6707
+- team: _teams/s17-teal.md
   score: 24
 mvp: M. Cline (Hunter); J. Matarese (Teal)
 game-ball: D. Erkenbrack (Hunter); A. Robbins (Teal)

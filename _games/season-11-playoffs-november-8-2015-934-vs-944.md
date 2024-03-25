@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 934 vs 944
-teams_score:
-- team: 934
+title: Season XX Canceled - DCGFFL - S11 Pink vs S11 Kelly Green
+teams-score:
+- team: _teams/s11-pink.md
   score:
-- team: 944
+- team: _teams/s11-kelly-green.md
   score:
 mvp: ''
 game-ball: ''

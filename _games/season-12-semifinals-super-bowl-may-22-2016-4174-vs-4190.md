@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4174 vs 4190
-teams_score:
-- team: 4174
+title: Season XX Canceled - DCGFFL - S12 Purple Jam It In) vs S12 Silver
+teams-score:
+- team: _teams/s12-purple.md
   score:
-- team: 4190
+- team: _teams/s12-silver.md
   score: 7
 mvp: AJ Reust (Purple); Brian Long (Silver)
 game-ball: Cody Barry (Purple); Staci Pugh (Silver)

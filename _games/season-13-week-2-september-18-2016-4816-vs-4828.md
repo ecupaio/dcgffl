@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4816 vs 4828
-teams_score:
-- team: 4816
+title: Season XX Canceled - DCGFFL - S13 Gold vs S13 Safety Orange
+teams-score:
+- team: _teams/s13-gold.md
   score:
-- team: 4828
+- team: _teams/s13-safety-orange.md
   score: 37
 mvp: S. Wilkerson (Gold); T. Adams (S. Orange)
 game-ball: T. Laney (Gold); S. Cramer (S. Orange)

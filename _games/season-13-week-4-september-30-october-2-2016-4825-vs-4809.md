@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4825 vs 4809
-teams_score:
-- team: 4825
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Purple vs
+  S13 Baby Blue
+teams-score:
+- team: _teams/s13-purple.md
   score:
-- team: 4809
+- team: _teams/s13-baby-blue.md
   score: 20
 mvp: M. Davis (Purple); J. Clevenger (Baby Blue)
 game-ball: C. Hobbs (Purple); C. Ralphs (Purple)

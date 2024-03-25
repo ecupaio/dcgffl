@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5699 vs 5692
-teams_score:
-- team: 5699
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 White vs S15 Purple
+teams-score:
+- team: _teams/s15-white.md
   score: 50
-- team: 5692
+- team: _teams/s15-purple.md
   score: 40
 mvp: Patrick Tobin, Marlon
 game-ball: Barry Mauck, Sam Edwards

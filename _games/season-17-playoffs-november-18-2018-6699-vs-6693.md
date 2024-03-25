@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6699 vs 6693
-teams_score:
-- team: 6699
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Pink vs S17 Hunter
+  Green
+teams-score:
+- team: _teams/s17-pink.md
   score:
-- team: 6693
+- team: _teams/s17-hunter-green.md
   score: 8
 mvp: A. Mable (Pink), B. Allen (Hunter Green)
 game-ball: E. Armstrong (Pink), S. Boylan (Hunter Green)

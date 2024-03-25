@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4427 vs 4443
-teams_score:
-- team: 4427
+title: Season XX Canceled - DCGFFL - S10 Gold vs S10 Sky Blue
+teams-score:
+- team: _teams/s10-gold.md
   score: 40
-- team: 4443
+- team: _teams/s10-sky-blue.md
   score: 27
 mvp: Daniel E (Gold), Adam M (Sky)
 game-ball: N/A

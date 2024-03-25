@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6695 vs 6704
-teams_score:
-- team: 6695
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 L.I.M.E. vs S17 Reddy,
+  Ready, Red
+teams-score:
+- team: _teams/s17-neon-green.md
   score:
-- team: 6704
+- team: _teams/s17-red.md
   score: 18
 mvp: J. Anderson (N. Green); A. Barvin (Red)
 game-ball: D. Shaver (N. Green); D. Pilate (Red)

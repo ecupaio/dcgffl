@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4455 vs 4465
-teams_score:
-- team: 4455
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Dark Green vs S09 Pacific
+  Blue
+teams-score:
+- team: _teams/s09-dark-green.md
   score:
-- team: 4465
+- team: _teams/s09-pacific-blue.md
   score: 20
 mvp: Kevin Kostyk (Dark Green), Adam Robbins (Pacific Blue)
 game-ball: N/A

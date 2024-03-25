@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 936 vs 935
-teams_score:
-- team: 936
+title: Season XX Canceled - DCGFFL - S11 Maroon vs S11 Power Yellow
+teams-score:
+- team: _teams/s11-maroon.md
   score: 49
-- team: 935
+- team: _teams/s11-power-yellow.md
   score: 47
 mvp: Justin Parker (Maroon), Jack B. (Power Yellow)
 game-ball: ''

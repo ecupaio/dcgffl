@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5681 vs 5694
-teams_score:
-- team: 5681
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Black vs S15
+  Royal Blue
+teams-score:
+- team: _teams/s15-black.md
   score: 36
-- team: 5694
+- team: _teams/s15-royal-blue.md
   score: 6
 mvp: Daniel Allen, Jack Blaney
 game-ball: Cory Kraftson, Matt Sauer

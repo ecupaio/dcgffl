@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4814 vs 4822
-teams_score:
-- team: 4814
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Forest Green
+  vs S13 Orange
+teams-score:
+- team: _teams/s13-forest.md
   score:
-- team: 4822
+- team: _teams/s13-orange.md
   score: 27
 mvp: C. Babb (Forest); P. Pham (Orange)
 game-ball: R. Martin (Forest); R. Snight for TD Celebration Choreography (Orange)

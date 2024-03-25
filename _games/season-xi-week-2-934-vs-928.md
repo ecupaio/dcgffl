@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - 934 vs 928
-teams_score:
-- team: 934
+title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - S11 Pink vs S11 Lime
+teams-score:
+- team: _teams/s11-pink.md
   score: 40
-- team: 928
+- team: _teams/s11-lime.md
   score: 12
 mvp: Max Rothschild (Pink), MopTop (Lime)
 game-ball: ''

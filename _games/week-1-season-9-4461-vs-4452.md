@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4461 vs 4452
-teams_score:
-- team: 4461
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Maroon vs S09 Black
+teams-score:
+- team: _teams/s09-maroon.md
   score: 19
-- team: 4452
+- team: _teams/s09-black.md
   score: 27
 mvp: 'Maroon: Trey Phillips  /  Black: Cole Whitaker'
 game-ball: N/A

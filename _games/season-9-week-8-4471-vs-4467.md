@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - 4471 vs 4467
-teams_score:
-- team: 4471
+title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 White vs S09 Red
+teams-score:
+- team: _teams/s09-white.md
   score:
-- team: 4467
+- team: _teams/s09-red.md
   score: 29
 mvp: 'MVPs: Matt Gander (White), Brandon Benjamin (Red)'
 game-ball: N/A

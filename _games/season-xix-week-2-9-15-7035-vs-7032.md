@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7035 vs 7032
-teams_score:
-- team: 7035
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 Rough Sextants vs S19 The Green Kellys
+teams-score:
+- team: _teams/navy-2.md
   score: 32
-- team: 7032
+- team: _teams/kelly.md
   score: 13
 mvp: Nick,Nick
 game-ball: Michael,Jens

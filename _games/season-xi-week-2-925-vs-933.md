@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - 925 vs 933
-teams_score:
-- team: 925
+title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - S11 Leaf vs S11 Navy
+teams-score:
+- team: _teams/s11-leaf.md
   score: 39
-- team: 933
+- team: _teams/s11-navy.md
   score: 20
 mvp: Brian Donohoe (Leaf), Christian Smith (Navy)
 game-ball: ''

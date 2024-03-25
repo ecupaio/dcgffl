@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7033 vs 7028
-teams_score:
-- team: 7033
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Sour Pass Kids vs S19 Weapons of
+  Ass Destruction
+teams-score:
+- team: _teams/lime-2.md
   score: 20
-- team: 7028
+- team: _teams/atomic.md
   score: 49
 mvp: Andy, Keith
 game-ball: Rain, Rain

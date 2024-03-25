@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 943 vs 940
-teams_score:
-- team: 943
+title: Season XX Canceled - DCGFFL - S11 Silver vs S11 Power Blue
+teams-score:
+- team: _teams/s11-silver.md
   score: 13
-- team: 940
+- team: _teams/s11-power-blue.md
   score: 12
 mvp: Billy Kramer (Silver), Haskell N. (Power Blue)
 game-ball: ''

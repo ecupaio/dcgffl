@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5695 vs 5697
-teams_score:
-- team: 5695
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Safety Orange
+  vs S15 Slate
+teams-score:
+- team: _teams/s15-safety-orange.md
   score: 33
-- team: 5697
+- team: _teams/s15-slate.md
   score: 25
 mvp: Cameron Burrell, Nikki Kasparek
 game-ball: Eduardo Guerra, Dan Shaver

@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4456 vs 4471
-teams_score:
-- team: 4456
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Fuchsia vs S09
+  White
+teams-score:
+- team: _teams/s09-fuchsia.md
   score: 18
-- team: 4471
+- team: _teams/s09-white.md
   score: 8
 mvp: 'Fuchsia: Scott Graham / White: Linda Pratt'
 game-ball: N/A

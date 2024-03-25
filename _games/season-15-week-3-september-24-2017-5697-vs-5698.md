@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5697 vs 5698
-teams_score:
-- team: 5697
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Slate vs S15 Teal
+teams-score:
+- team: _teams/s15-slate.md
   score: 25
-- team: 5698
+- team: _teams/s15-teal.md
   score: 37
 mvp: 'Nikki Kasparek, Dylan Eike '
 game-ball: Dan Shaver, Patrick McIntyre

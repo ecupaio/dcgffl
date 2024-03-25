@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4423 vs 4438
-teams_score:
-- team: 4423
+title: Season XX Canceled - DCGFFL - S10 Camo Grey vs S10 Red
+teams-score:
+- team: _teams/s10-camo-grey.md
   score:
-- team: 4438
+- team: _teams/s10-red.md
   score: 20
 mvp: Mark H. (Camo Grey), Cody G. (Red)
 game-ball: N/A

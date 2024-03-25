@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5094 vs 5091
-teams_score:
-- team: 5094
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Crimson vs S14 Black
+teams-score:
+- team: _teams/s14-crimson.md
   score:
-- team: 5091
+- team: _teams/s14-black.md
   score: 13
 mvp: Mark S. & Ken
 game-ball: Amanda & Andy

@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4470 vs 4463
-teams_score:
-- team: 4470
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Vegas Gold vs S09 Navy
+teams-score:
+- team: _teams/s09-vegas-gold.md
   score: 18
-- team: 4463
+- team: _teams/s09-navy-rear-admirals.md
   score: 25
 mvp: 'Vegas: Mike D''Ignazio  /  Navy: Porter Brockway'
 game-ball: N/A

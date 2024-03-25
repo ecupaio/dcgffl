@@ -1,9 +1,10 @@
 ---
-title: Season 16 – Semifinals & Championship (May 20, 2018) - DCGFFL - 6363 vs 6364
-teams_score:
-- team: 6363
+title: Season 16 – Semifinals & Championship (May 20, 2018) - DCGFFL - S16 Raspberry
+  vs S16 Red
+teams-score:
+- team: _teams/s16-raspberry.md
   score:
-- team: 6364
+- team: _teams/s16-red.md
   score: 32
 mvp: Bryan S. (Raspberry), Nolan L. (Red)
 game-ball: Peter P. (Raspberry), Nick G. (Red)

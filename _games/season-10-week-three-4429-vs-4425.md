@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4429 vs 4425
-teams_score:
-- team: 4429
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Lime vs S10 Fuchsia
+teams-score:
+- team: _teams/s10-lime.md
   score: 26
-- team: 4425
+- team: _teams/s10-fuchsia.md
   score: 21
 mvp: Kevin S. (Lime); Tyler L. (Fuchsia)
 game-ball: N/A

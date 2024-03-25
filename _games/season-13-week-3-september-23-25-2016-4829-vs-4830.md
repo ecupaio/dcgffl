@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4829 vs 4830
-teams_score:
-- team: 4829
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Vegas Gold vs S13
+  White
+teams-score:
+- team: _teams/s13-vegas.md
   score:
-- team: 4830
+- team: _teams/s13-white.md
   score: 13
 mvp: D. Rendell (Vegas); L. Womack (White)
 game-ball: A. Smith (Vegas); M. Pesesky (White)

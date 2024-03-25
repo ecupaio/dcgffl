@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 944 vs 936
-teams_score:
-- team: 944
+title: Season XX Canceled - DCGFFL - S11 Kelly Green vs S11 Maroon
+teams-score:
+- team: _teams/s11-kelly-green.md
   score: 21
-- team: 936
+- team: _teams/s11-maroon.md
   score: 6
 mvp: Marvin Washington (Kelly), Matt Pesesky (Maroon)
 game-ball: ''

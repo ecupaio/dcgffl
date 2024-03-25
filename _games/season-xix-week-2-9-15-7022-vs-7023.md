@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7022 vs 7023
-teams_score:
-- team: 7022
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 RED for Filth vs S19 Bluevadas House
+  of PrEP CHambers
+teams-score:
+- team: _teams/red-2.md
   score: 30
-- team: 7023
+- team: _teams/royal.md
   score: 9
 mvp: John,Scott
 game-ball: Peter,Pete

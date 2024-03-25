@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7111 vs 7108
-teams_score:
-- team: 7111
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Black vs S20 Forest
+teams-score:
+- team: _teams/black-3.md
   score: 33
-- team: 7108
+- team: _teams/forest.md
   score: 18
 mvp: Dewayne, BB
 game-ball: Aaron, Lindsey

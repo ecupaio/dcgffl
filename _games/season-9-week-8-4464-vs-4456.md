@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - 4464 vs 4456
-teams_score:
-- team: 4464
+title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Orange vs S09 Fuchsia
+teams-score:
+- team: _teams/s09-orange.md
   score:
-- team: 4456
+- team: _teams/s09-fuchsia.md
   score: 18
 mvp: 'MVPs: Steve Adamske (Orange), Jack Miles (Fuchsia)'
 game-ball: N/A

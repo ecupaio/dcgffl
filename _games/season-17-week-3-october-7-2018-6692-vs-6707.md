@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6692 vs 6707
-teams_score:
-- team: 6692
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Magnums vs S17 Teal
+teams-score:
+- team: _teams/s17-gold.md
   score:
-- team: 6707
+- team: _teams/s17-teal.md
   score: 34
 mvp: A. Hines (Gold);  A. Campanelli (Teal)
 game-ball: F. Herrera (Gold); T. Wilson (Teal)

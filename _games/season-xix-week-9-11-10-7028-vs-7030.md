@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7028 vs 7030
-teams_score:
-- team: 7028
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 Weapons of Ass Destruction vs S19
+  Deep State Orange
+teams-score:
+- team: _teams/atomic.md
   score: 19
-- team: 7030
+- team: _teams/deep-orange.md
   score: 32
 mvp: Mark, Jamie
 game-ball: Brandon, Scott

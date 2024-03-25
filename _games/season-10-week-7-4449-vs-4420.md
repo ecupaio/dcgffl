@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4449 vs 4420
-teams_score:
-- team: 4449
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 White vs S10 Black
+teams-score:
+- team: _teams/s10-white.md
   score:
-- team: 4420
+- team: _teams/s10-black.md
   score: 19
 mvp: Marvin W. (White), Rudy L. (Black)
 game-ball: N/A

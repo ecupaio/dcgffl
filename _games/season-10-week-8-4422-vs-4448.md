@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4422 vs 4448
-teams_score:
-- team: 4422
+title: Season XX Canceled - DCGFFL - S10 Burnt Orange vs S10 Vegas Gold
+teams-score:
+- team: _teams/s10-burnt-orange.md
   score: 46
-- team: 4448
+- team: _teams/s10-vegas-gold.md
   score: 8
 mvp: John B (Orange), Emory R (Vegas)
 game-ball: N/A

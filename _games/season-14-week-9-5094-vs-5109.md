@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5094 vs 5109
-teams_score:
-- team: 5094
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Crimson vs S14 Yellow
+teams-score:
+- team: _teams/s14-crimson.md
   score: 42
-- team: 5109
+- team: _teams/s14-yellow.md
   score: 26
 mvp: AJ, Rachel B
 game-ball: Todd, Marek

@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5691 vs 5697
-teams_score:
-- team: 5691
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Power Yellow vs S15 Slate
+teams-score:
+- team: _teams/s15-power-yellow.md
   score: 12
-- team: 5697
+- team: _teams/s15-slate.md
   score: 20
 mvp: Vincent Culliver, Jamar Walker
 game-ball: 'Michael Buck, Donald Mitchell '

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4189 vs 4176
-teams_score:
-- team: 4189
+title: Season XX Canceled - DCGFFL - S12 Power Blue vs S12 Kelly Green
+teams-score:
+- team: _teams/s12-power-blue.md
   score: 21
-- team: 4176
+- team: _teams/s12-kelly-green.md
   score: 34
 mvp: Jamar Walker (P. Blue); Greg Carter (Kelly)
 game-ball: Sam Smallwood (P. Blue); Adam Robbins (Kelly)

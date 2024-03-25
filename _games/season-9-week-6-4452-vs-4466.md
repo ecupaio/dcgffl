@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - 4452 vs 4466
-teams_score:
-- team: 4452
+title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Black vs S09 Purple
+teams-score:
+- team: _teams/s09-black.md
   score:
-- team: 4466
+- team: _teams/s09-purple.md
   score: 22
 mvp: Kyle Miller (Black), Howard Yuan (Purple)
 game-ball: N/A

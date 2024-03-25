@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - 5683 vs 5689
-teams_score:
-- team: 5683
+title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - S15 Gold vs S15 Pink
+teams-score:
+- team: _teams/s15-gold.md
   score: 20
-- team: 5689
+- team: _teams/s15-pink.md
   score: 25
 mvp: John Boyd, John Clemons
 game-ball: Larry Womack, Bradley W

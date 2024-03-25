@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6706 vs 6694
-teams_score:
-- team: 6706
+title: Season XX Canceled - DCGFFL - S17 Silver Fox Holes vs S17 Green Eggs and Cammas
+teams-score:
+- team: _teams/s17-silver.md
   score:
-- team: 6694
+- team: _teams/s17-kelly-green.md
   score: 38
 mvp: J. Blaney (Silver); M. Japinga (Kelly)
 game-ball: M. Davis (Silver); R. Myers (Kelly)

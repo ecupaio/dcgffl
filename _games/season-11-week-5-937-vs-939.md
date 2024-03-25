@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 937 vs 939
-teams_score:
-- team: 937
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Gold vs S11 White
+teams-score:
+- team: _teams/s11-gold.md
   score: 32
-- team: 939
+- team: _teams/s11-white.md
   score: 18
 mvp: Cameron Burrell (Gold), Nolan Lazarus (White)
 game-ball: ''

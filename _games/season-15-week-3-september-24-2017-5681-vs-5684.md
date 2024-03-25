@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5681 vs 5684
-teams_score:
-- team: 5681
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Black vs S15 Graphite
+teams-score:
+- team: _teams/s15-black.md
   score: 40
-- team: 5684
+- team: _teams/s15-graphite.md
   score: 6
 mvp: Alex Martello, Peter Pham
 game-ball: Kevin Zajac, Aaron Thomas

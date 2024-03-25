@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Final Four / SuperBowl (November 23, 2014) - DCGFFL - 4464 vs 4457
-teams_score:
-- team: 4464
+title: Season 9 - Final Four / SuperBowl (November 23, 2014) - DCGFFL - S09 Orange
+  vs S09 Gold
+teams-score:
+- team: _teams/s09-orange.md
   score:
-- team: 4457
+- team: _teams/s09-gold.md
   score: 24
 mvp: Matt Caszatt (Orange), Miles Simpson (Gold)
 game-ball: N/A

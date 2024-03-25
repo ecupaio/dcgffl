@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7031 vs 7032
-teams_score:
-- team: 7031
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Goldak Yellow vs S19 The Green Kellys
+teams-score:
+- team: _teams/gold.md
   score: 33
-- team: 7032
+- team: _teams/kelly.md
   score: 0
 mvp: Garrett, Brandon
 game-ball: Pat, JP

@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 942 vs 936
-teams_score:
-- team: 942
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Red vs S11 Maroon
+teams-score:
+- team: _teams/s11-red.md
   score: 49
-- team: 936
+- team: _teams/s11-maroon.md
   score: 13
 mvp: Vikas Kumar (Red), Justin Parker (Maroon)
 game-ball: ''

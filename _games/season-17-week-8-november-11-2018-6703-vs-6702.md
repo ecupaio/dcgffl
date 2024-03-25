@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6703 vs 6702
-teams_score:
-- team: 6703
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Purple Parrots vs S17
+  daffoDILFS
+teams-score:
+- team: _teams/s17-purple.md
   score:
-- team: 6702
+- team: _teams/s17-power-yellow.md
   score: 24
 mvp: K. Kostura (Purple), K. Veldman (Power Yellow)
 game-ball: D. Mitchell (Purple), R. Stewart (Power Yellow)

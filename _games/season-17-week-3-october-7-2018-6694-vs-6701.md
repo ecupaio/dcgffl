@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6694 vs 6701
-teams_score:
-- team: 6694
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Green Eggs and Cammas vs
+  S17 The Shock Tops
+teams-score:
+- team: _teams/s17-kelly-green.md
   score:
-- team: 6701
+- team: _teams/s17-power-orange.md
   score: 33
 mvp: M. Japinga (Kelly); P. Guequierre (P. Orange)
 game-ball: D. Asche (Kelly); OJ (P. Orange)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4174 vs 4173
-teams_score:
-- team: 4174
+title: Season XX Canceled - DCGFFL - S12 Purple Jam It In) vs S12 Black
+teams-score:
+- team: _teams/s12-purple.md
   score: 33
-- team: 4173
+- team: _teams/s12-black.md
   score: 13
 mvp: Jordan A. (Purple); Andy P. (Black)
 game-ball: Sean B. (Purple); Derrick J. (Black)

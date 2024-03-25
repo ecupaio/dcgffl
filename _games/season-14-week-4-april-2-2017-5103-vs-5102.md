@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5103 vs 5102
-teams_score:
-- team: 5103
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Red vs S14 Pink
+teams-score:
+- team: _teams/s14-red.md
   score:
-- team: 5102
+- team: _teams/s14-pink.md
   score: 44
 mvp: Larry & Greg Carter
 game-ball: Pedro & JJ

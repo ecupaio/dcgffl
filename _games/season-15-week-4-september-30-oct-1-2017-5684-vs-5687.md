@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5684 vs 5687
-teams_score:
-- team: 5684
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Graphite vs
+  S15 Neon Green
+teams-score:
+- team: _teams/s15-graphite.md
   score: 25
-- team: 5687
+- team: _teams/s15-neon-green.md
   score: 19
 mvp: Peter Pham, Nolan Lazarus
 game-ball: Sean Holihan, Arash Andampour

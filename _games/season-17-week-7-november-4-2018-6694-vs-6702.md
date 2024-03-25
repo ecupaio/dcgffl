@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6694 vs 6702
-teams_score:
-- team: 6694
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Green Eggs and Cammas
+  vs S17 daffoDILFS
+teams-score:
+- team: _teams/s17-kelly-green.md
   score:
-- team: 6702
+- team: _teams/s17-power-yellow.md
   score: 26
 mvp: B. Cammas (Kelly), P. Pham (Power Yellow)
 game-ball: D. Alexander (Kelly), T. Loughran (Power Yellow)

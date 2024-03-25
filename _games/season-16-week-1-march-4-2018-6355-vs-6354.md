@@ -1,9 +1,9 @@
 ---
-title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - 6355 vs 6354
-teams_score:
-- team: 6355
+title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - S16 Power Yellow vs S16 Orange
+teams-score:
+- team: _teams/s16-power-yellow.md
   score: 26
-- team: 6354
+- team: _teams/s16-orange.md
   score: 12
 mvp: Evan B., Chris Gillyard
 game-ball: Cesar Azabache, Will Chappell

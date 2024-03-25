@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7036 vs 7035
-teams_score:
-- team: 7036
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Raw Pink vs S19 Rough Sextants
+teams-score:
+- team: _teams/neon-pink.md
   score: 27
-- team: 7035
+- team: _teams/navy-2.md
   score: 19
 mvp: Will, Mike
 game-ball: Edgar, Nick

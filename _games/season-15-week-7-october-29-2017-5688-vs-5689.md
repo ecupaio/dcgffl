@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5688 vs 5689
-teams_score:
-- team: 5688
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Orange vs S15 Pink
+teams-score:
+- team: _teams/s15-orange.md
   score: 26
-- team: 5689
+- team: _teams/s15-pink.md
   score: 20
 mvp: CJ Babb, John Clemons
 game-ball: Sean Dickon, Ryan Shealy

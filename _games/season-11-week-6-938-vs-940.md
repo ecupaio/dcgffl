@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 938 vs 940
-teams_score:
-- team: 938
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 Brown vs S11 Power
+  Blue
+teams-score:
+- team: _teams/s11-brown.md
   score: 26
-- team: 940
+- team: _teams/s11-power-blue.md
   score: 14
 mvp: Andy Pratt (Brown), Matt Murtaugh (Power Blue)
 game-ball: ''

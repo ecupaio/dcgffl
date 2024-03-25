@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4174 vs 4191
-teams_score:
-- team: 4174
+title: Season XX Canceled - DCGFFL - S12 Purple Jam It In) vs S12 Neon Green
+teams-score:
+- team: _teams/s12-purple.md
   score: 24
-- team: 4191
+- team: _teams/s12-neon-green.md
   score: 34
 mvp: Jordan A. (Purple); Dan Cipullo (N. Green)
 game-ball: Cody Barry (Purple); Josh Richards (N. Green)

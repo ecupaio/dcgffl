@@ -1,9 +1,9 @@
 ---
-title: Season XVIII - Week 1 (March 3) - DCGFFL - 6907 vs 6910
-teams_score:
-- team: 6907
+title: Season XVIII - Week 1 (March 3) - DCGFFL - S18 Sexual Tealing vs S18 LTBA
+teams-score:
+- team: _teams/s18-teal.md
   score: 19
-- team: 6910
+- team: _teams/baby-blue.md
   score: 20
 mvp: Justin (Teal); Andy P (Baby Blue)
 game-ball: ''

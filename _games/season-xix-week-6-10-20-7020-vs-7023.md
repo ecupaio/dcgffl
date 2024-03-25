@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7020 vs 7023
-teams_score:
-- team: 7020
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Fancy Gay Pirates vs S19 Bluevadas
+  House of PrEP CHambers
+teams-score:
+- team: _teams/carolina-blue.md
   score: 0
-- team: 7023
+- team: _teams/royal.md
   score: 36
 mvp: Rain
 game-ball: Rain

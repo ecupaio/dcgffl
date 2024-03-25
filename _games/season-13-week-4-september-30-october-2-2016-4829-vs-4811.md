@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4829 vs 4811
-teams_score:
-- team: 4829
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Vegas Gold
+  vs S13 Black
+teams-score:
+- team: _teams/s13-vegas.md
   score:
-- team: 4811
+- team: _teams/s13-black.md
   score: 0
 mvp: J. Bain (Vegas); S. Pugh (Black)
 game-ball: A. Smith (Vegas); J. DeHanis

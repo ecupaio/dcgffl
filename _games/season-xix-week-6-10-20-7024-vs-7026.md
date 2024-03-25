@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7024 vs 7026
-teams_score:
-- team: 7024
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Silver Rod Hoes vs S19 Tropic Like
+  Its Hot
+teams-score:
+- team: _teams/silver.md
   score: 48
-- team: 7026
+- team: _teams/tropic.md
   score: 18
 mvp: Justin, Paddy
 game-ball: JC, Haley

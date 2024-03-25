@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 934 vs 925
-teams_score:
-- team: 934
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Pink vs S11 Leaf
+teams-score:
+- team: _teams/s11-pink.md
   score: 38
-- team: 925
+- team: _teams/s11-leaf.md
   score: 6
 mvp: Joe Capolla (Pink), Derrick Johnson (Leaf)
 game-ball: ''

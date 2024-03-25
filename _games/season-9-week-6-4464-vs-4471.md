@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - 4464 vs 4471
-teams_score:
-- team: 4464
+title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Orange vs S09 White
+teams-score:
+- team: _teams/s09-orange.md
   score:
-- team: 4471
+- team: _teams/s09-white.md
   score: 13
 mvp: Donald Mitchell (Orange), Jay Anderson (White)
 game-ball: N/A

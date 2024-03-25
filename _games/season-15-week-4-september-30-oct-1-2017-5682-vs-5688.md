@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5682 vs 5688
-teams_score:
-- team: 5682
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Forest vs S15
+  Orange
+teams-score:
+- team: _teams/s15-forest.md
   score: 18
-- team: 5688
+- team: _teams/s15-orange.md
   score: 31
 mvp: Evan Binder, CJ Babb
 game-ball: Ryan Tansey, Will Chappell

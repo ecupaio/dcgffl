@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - 4448 vs 4423
-teams_score:
-- team: 4448
+title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - S10 Vegas Gold vs S10 Camo Grey
+teams-score:
+- team: _teams/s10-vegas-gold.md
   score: 31
-- team: 4423
+- team: _teams/s10-camo-grey.md
   score: 6
 mvp: Jared Lucas (Vegas), Andrew Carr (Camo)
 game-ball: N/A

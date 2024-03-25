@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - 5680 vs 5687
-teams_score:
-- team: 5680
+title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - S15 Baby Blue vs S15 Neon
+  Green
+teams-score:
+- team: _teams/s15-baby-blue.md
   score: 25
-- team: 5687
+- team: _teams/s15-neon-green.md
   score: 6
 mvp: Adam Strasberg, Keaton Fedak
 game-ball: Adam Robbins, Nick Green

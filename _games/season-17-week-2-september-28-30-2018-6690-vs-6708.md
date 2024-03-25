@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6690 vs 6708
-teams_score:
-- team: 6690
+title: Season XX Canceled - DCGFFL - S17 Call Me By Your Team Name vs S17 White
+teams-score:
+- team: _teams/s17-columbia-blue.md
   score:
-- team: 6708
+- team: _teams/s17-white.md
   score: 24
 mvp: J. Deters (Columbia); P. Shilo (White)
 game-ball: S. Edwards (Columbia); E. Binder (White)

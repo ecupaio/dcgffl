@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 943 vs 933
-teams_score:
-- team: 943
+title: Season XX Canceled - DCGFFL - S11 Silver vs S11 Navy
+teams-score:
+- team: _teams/s11-silver.md
   score:
-- team: 933
+- team: _teams/s11-navy.md
   score:
 mvp: ''
 game-ball: ''

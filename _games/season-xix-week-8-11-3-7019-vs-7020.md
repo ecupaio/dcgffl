@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7019 vs 7020
-teams_score:
-- team: 7019
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Black vs S19 Fancy Gay Pirates
+teams-score:
+- team: _teams/black-2.md
   score: 39
-- team: 7020
+- team: _teams/carolina-blue.md
   score: 6
 mvp: BB, Trey
 game-ball: Kirk, Amanda

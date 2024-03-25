@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4823 vs 4820
-teams_score:
-- team: 4823
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Pacific
+  Blue (Pacific Blue Rimmers ) vs S13 Midnight Blue
+teams-score:
+- team: _teams/s13-pacific-blue.md
   score:
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 6
 mvp: A. Lubash (Pacific); J. Santos (Midnight)
 game-ball: C. Bezerra (Pacific); D. Mendoza (Midnight)

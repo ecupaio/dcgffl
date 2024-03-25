@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5687 vs 5682
-teams_score:
-- team: 5687
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Neon Green vs S15 Forest
+teams-score:
+- team: _teams/s15-neon-green.md
   score: 0
-- team: 5682
+- team: _teams/s15-forest.md
   score: 40
 mvp: Nick Green, James Rowe
 game-ball: Alex Harvey, Rudy Legg Benavides

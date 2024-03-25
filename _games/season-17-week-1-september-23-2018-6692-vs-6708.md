@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - 6692 vs 6708
-teams_score:
-- team: 6692
+title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Magnums vs S17 White
+teams-score:
+- team: _teams/s17-gold.md
   score:
-- team: 6708
+- team: _teams/s17-white.md
   score: 18
 mvp: TBD
 game-ball: TBD

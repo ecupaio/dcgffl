@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 928 vs 933
-teams_score:
-- team: 928
+title: Season XX Canceled - DCGFFL - S11 Lime vs S11 Navy
+teams-score:
+- team: _teams/s11-lime.md
   score: 36
-- team: 933
+- team: _teams/s11-navy.md
   score: 28
 mvp: MopTop (Lime), Will Chappell (Navy)
 game-ball: ''

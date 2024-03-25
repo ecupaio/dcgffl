@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6703 vs 6705
-teams_score:
-- team: 6703
+title: Season XX Canceled - DCGFFL - S17 Purple Parrots vs S17 X’s and Hoes
+teams-score:
+- team: _teams/s17-purple.md
   score:
-- team: 6705
+- team: _teams/s17-royal-blue.md
   score: 21
 mvp: B. McEvoy (Purple); J. Salverstrini (Royal)
 game-ball: D. Mitchell (Purple); K. Lynch (Royal)

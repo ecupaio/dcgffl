@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4175 vs 4190
-teams_score:
-- team: 4175
+title: Season XX Canceled - DCGFFL - S12 Sand vs S12 Silver
+teams-score:
+- team: _teams/s12-sand.md
   score:
-- team: 4190
+- team: _teams/s12-silver.md
   score: 31
 mvp: ''
 game-ball: ''

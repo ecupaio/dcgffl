@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4449 vs 4429
-teams_score:
-- team: 4449
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 White vs S10 Lime
+teams-score:
+- team: _teams/s10-white.md
   score:
-- team: 4429
+- team: _teams/s10-lime.md
   score: 20
 mvp: Jonnathan V. (White), Kevin S. (Lime)
 game-ball: N/A

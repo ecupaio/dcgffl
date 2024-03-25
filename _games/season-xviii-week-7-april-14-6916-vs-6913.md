@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6916 vs 6913
-teams_score:
-- team: 6916
+title: Season XX Canceled - DCGFFL - S18 Gettin Piggy With It vs S18 ClapBlacks
+teams-score:
+- team: _teams/pink.md
   score:
-- team: 6913
+- team: _teams/black.md
   score: 20
 mvp: Nick Eckert (Pink), Greg Carter (Black)
 game-ball: ''

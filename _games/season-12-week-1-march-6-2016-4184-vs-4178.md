@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4184 vs 4178
-teams_score:
-- team: 4184
+title: Season XX Canceled - DCGFFL - S12 Graphite vs S12 Sky Blue
+teams-score:
+- team: _teams/s12-graphite.md
   score: 45
-- team: 4178
+- team: _teams/s12-sky-blue.md
   score: 22
 mvp: Colt Street (Graphite); Sheerod Wilkerson (Sky)
 game-ball: Alex Hanson (Graphite); Chris Lucero (Sky)

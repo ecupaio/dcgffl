@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4829 vs 4813
-teams_score:
-- team: 4829
+title: Season XX Canceled - DCGFFL - S13 Vegas Gold vs S13 Charcoal
+teams-score:
+- team: _teams/s13-vegas.md
   score: 28
-- team: 4813
+- team: _teams/s13-charcoal.md
   score: 20
 mvp: M. Patrie (Vegas), A. Robbins (Charcoal)
 game-ball: J. Bain (Vegas), M. Weir (Charcoal)

@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6694 vs 6704
-teams_score:
-- team: 6694
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Green Eggs and Cammas
+  vs S17 Reddy, Ready, Red
+teams-score:
+- team: _teams/s17-kelly-green.md
   score:
-- team: 6704
+- team: _teams/s17-red.md
   score: 24
 mvp: D. Alexander (Kelly Green), A. Barvin (Red)
 game-ball: M. Japinga (Kelly Green), J. Walker (Red)

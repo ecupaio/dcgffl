@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5100 vs 5098
-teams_score:
-- team: 5100
+title: Season XX Canceled - DCGFFL - S14 Olive vs S14 Lime
+teams-score:
+- team: _teams/s14-olive.md
   score:
-- team: 5098
+- team: _teams/s14-lime.md
   score: 26
 mvp: B. Relaford (Olive), B. McFarland (Lime)
 game-ball: J. Richards (Olive), S. Howell (Lime)

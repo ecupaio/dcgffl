@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 941 vs 938
-teams_score:
-- team: 941
+title: Season XX Canceled - DCGFFL - S11 Teal vs S11 Brown
+teams-score:
+- team: _teams/s11-teal.md
   score: 34
-- team: 938
+- team: _teams/s11-brown.md
   score: 19
 mvp: Bryan Sanders (Teal), Evan Binder (Brown)
 game-ball: ''

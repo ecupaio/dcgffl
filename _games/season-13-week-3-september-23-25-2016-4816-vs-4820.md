@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4816 vs 4820
-teams_score:
-- team: 4816
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Gold vs S13 Midnight
+  Blue
+teams-score:
+- team: _teams/s13-gold.md
   score:
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 19
 mvp: A. Hines (Gold); L. Walton (Midnight)
 game-ball: K. Daniel (Gold); J. Piferoen (Midnight)

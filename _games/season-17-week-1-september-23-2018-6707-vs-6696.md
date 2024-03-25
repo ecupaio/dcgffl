@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - 6707 vs 6696
-teams_score:
-- team: 6707
+title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Teal vs S17 Biscuits
+  & Navy
+teams-score:
+- team: _teams/s17-teal.md
   score:
-- team: 6696
+- team: _teams/s17-navy.md
   score: 15
 mvp: TBD
 game-ball: TBD

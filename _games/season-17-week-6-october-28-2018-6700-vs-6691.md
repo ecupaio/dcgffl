@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - 6700 vs 6691
-teams_score:
-- team: 6700
+title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - undefined vs S17 Crimson Ride
+teams-score:
+- team: ''
   score:
-- team: 6691
+- team: _teams/s17-crimson.md
   score: 31
 mvp: N. Eckert (P. Blue), B. McFarland (Crimson)
 game-ball: E. Porter (P. Blue), L. Walton (Crimson)

@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4821 vs 4830
-teams_score:
-- team: 4821
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Neon Yellow vs
+  S13 White
+teams-score:
+- team: _teams/s13-neon-yellow.md
   score:
-- team: 4830
+- team: _teams/s13-white.md
   score: 20
 mvp: L. Diep (N. Yellow); W. Chappell (White)
 game-ball: A. Allen (N. Yellow); B. Jucha (White)

@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4829 vs 4815
-teams_score:
-- team: 4829
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Vegas Gold vs S13 Fuchsia
+teams-score:
+- team: _teams/s13-vegas.md
   score:
-- team: 4815
+- team: _teams/s13-fuchsia.md
   score: 6
 mvp: D. Rendell (Vegas); J. Price (Fuchsia)
 game-ball: S. Holihan (Vegas); S. Boylan (Fuchsia)

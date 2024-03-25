@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7107 vs 7112
-teams_score:
-- team: 7107
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Neon Yellow vs S20 Royal
+teams-score:
+- team: _teams/neon-yellow-3.md
   score: 26
-- team: 7112
+- team: _teams/royal-3.md
   score: 27
 mvp: Kori, Sean
 game-ball: Justin, Keaton

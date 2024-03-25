@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6700 vs 6705
-teams_score:
-- team: 6700
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - undefined vs S17 X’s and Hoes
+teams-score:
+- team: ''
   score:
-- team: 6705
+- team: _teams/s17-royal-blue.md
   score: 26
 mvp: M. Murtaugh (Power Blue), K. Smiffy (Royal)
 game-ball: J. Winkelman (Power Blue), R. Casey (Royal)

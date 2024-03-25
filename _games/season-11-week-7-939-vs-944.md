@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 939 vs 944
-teams_score:
-- team: 939
+title: Season XX Canceled - DCGFFL - S11 White vs S11 Kelly Green
+teams-score:
+- team: _teams/s11-white.md
   score: 34
-- team: 944
+- team: _teams/s11-kelly-green.md
   score: 33
 mvp: 'Nolan Lazarus (White), Sam Smallwood (Kelly) '
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4812 vs 4816
-teams_score:
-- team: 4812
+title: Season XX Canceled - DCGFFL - S13 Brown vs S13 Gold
+teams-score:
+- team: _teams/s13-brown.md
   score: 40
-- team: 4816
+- team: _teams/s13-gold.md
   score: 27
 mvp: S. Karson (Brown), A. Hines (Gold)
 game-ball: M. Nocella (Brown), C. Melhauser (Gold)

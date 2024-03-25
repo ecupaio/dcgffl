@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5683 vs 5685
-teams_score:
-- team: 5683
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Gold vs S15 Kelly Green
+teams-score:
+- team: _teams/s15-gold.md
   score: 18
-- team: 5685
+- team: _teams/s15-kelly-green.md
   score: 21
 mvp: Steven Hiebing, Andrew Carr
 game-ball: "#Todd, Josh Grossman"

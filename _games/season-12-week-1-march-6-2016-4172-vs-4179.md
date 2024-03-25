@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4172 vs 4179
-teams_score:
-- team: 4172
+title: Season XX Canceled - DCGFFL - S12 Gold vs S12 Forest
+teams-score:
+- team: _teams/s12-gold.md
   score: 0
-- team: 4179
+- team: _teams/s12-forest.md
   score: 39
 mvp: Craig Neiswanger (Gold); Matt Cline (Forest)
 game-ball: Ryan Boyle (Gold); Barry Mauck (Forest)

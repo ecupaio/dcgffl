@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - 942 vs 941
-teams_score:
-- team: 942
+title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - S11 Red vs S11 Teal
+teams-score:
+- team: _teams/s11-red.md
   score: 39
-- team: 941
+- team: _teams/s11-teal.md
   score: 33
 mvp: Jared Lucas (Red), Bryan Sanders (Teal)
 game-ball: ''

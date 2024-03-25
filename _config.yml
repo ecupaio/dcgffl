@@ -48,7 +48,7 @@ collections:
   wp-teams: 
     output: false
     source: wp-teams.json
-    id_key: title  
+    id_key: teamslug 
   pages: 
     output: true
     permalink: /:title/

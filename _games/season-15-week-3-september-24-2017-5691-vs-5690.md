@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5691 vs 5690
-teams_score:
-- team: 5691
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Power Yellow vs S15
+  Power Blue
+teams-score:
+- team: _teams/s15-power-yellow.md
   score: 24
-- team: 5690
+- team: _teams/s15-power-blue.md
   score: 18
 mvp: Pedro Suarez, Antwon Hines
 game-ball: Miles Simpson, Ryan Myers

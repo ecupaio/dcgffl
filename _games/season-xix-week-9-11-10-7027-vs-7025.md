@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7027 vs 7025
-teams_score:
-- team: 7027
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 White Claw Wasted vs S19 Yee-Hoes!
+teams-score:
+- team: _teams/white.md
   score: 26
-- team: 7025
+- team: _teams/texas-orange.md
   score: 30
 mvp: Ben, Vaughn
 game-ball: CJ, Steph

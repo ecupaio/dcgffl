@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7021 vs 7023
-teams_score:
-- team: 7021
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Yellow D*ck Road vs S19 Bluevadas
+  House of PrEP CHambers
+teams-score:
+- team: _teams/neon-yellow.md
   score: 14
-- team: 7023
+- team: _teams/royal.md
   score: 20
 mvp: Derrick, Jack
 game-ball: Marvin, Josh

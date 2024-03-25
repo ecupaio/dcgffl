@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4454 vs 4467
-teams_score:
-- team: 4454
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Columbia Blue vs S09 Red
+teams-score:
+- team: _teams/s09-columbia-blue.md
   score: 20
-- team: 4467
+- team: _teams/s09-red.md
   score: 29
 mvp: 'Columbia Blue: B. Stokes  /  Red: Jason Weaver'
 game-ball: N/A

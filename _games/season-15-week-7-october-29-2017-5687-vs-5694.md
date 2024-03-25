@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5687 vs 5694
-teams_score:
-- team: 5687
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Neon Green vs S15 Royal
+  Blue
+teams-score:
+- team: _teams/s15-neon-green.md
   score: 34
-- team: 5694
+- team: _teams/s15-royal-blue.md
   score: 26
 mvp: Kevin Hamilton, OJ
 game-ball: Andy Pratt, John Jimenez

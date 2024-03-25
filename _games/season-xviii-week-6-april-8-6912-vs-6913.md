@@ -1,9 +1,9 @@
 ---
-title: Season XVIII – Week 6 (April 7) - DCGFFL - 6912 vs 6913
-teams_score:
-- team: 6912
+title: Season XVIII – Week 6 (April 7) - DCGFFL - S18 PurPauls Drag Race vs S18 ClapBlacks
+teams-score:
+- team: _teams/purple.md
   score:
-- team: 6913
+- team: _teams/black.md
   score: 19
 mvp: JC Adams (Purple), Stu Shaginaw (Black)
 game-ball: ''

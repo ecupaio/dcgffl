@@ -1,9 +1,9 @@
 ---
-title: Season 8 - Semifinals & Super Blow (May 11, 2014) - DCGFFL - 4579 vs 4588
-teams_score:
-- team: 4579
+title: Season 8 - Semifinals & Super Blow (May 11, 2014) - DCGFFL - undefined vs undefined
+teams-score:
+- team: ''
   score:
-- team: 4588
+- team: ''
   score: 24
 mvp: 'Carolina: Jared Calfee, Pacific Blue: Buggsy Stokes'
 game-ball: N/A

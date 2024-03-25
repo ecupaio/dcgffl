@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5683 vs 5694
-teams_score:
-- team: 5683
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Gold vs S15 Royal Blue
+teams-score:
+- team: _teams/s15-gold.md
   score: 6
-- team: 5694
+- team: _teams/s15-royal-blue.md
   score: 33
 mvp: Scott Williams, Brian Hotchkiss
 game-ball: Darwin Pham, John Jimenez

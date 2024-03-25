@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4180 vs 4187
-teams_score:
-- team: 4180
+title: Season XX Canceled - DCGFFL - S12 Maroon vs S12 Neon Yellow
+teams-score:
+- team: _teams/s12-maroon.md
   score: 14
-- team: 4187
+- team: _teams/s12-neon-yellow.md
   score: 21
 mvp: Brian Golden (Maroon); Mike D'Ignazio (N. Yellow)
 game-ball: Earl Armstrong (Maroon); Will Jackson (N. Yellow)

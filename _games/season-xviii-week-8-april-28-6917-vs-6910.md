@@ -1,9 +1,9 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6917 vs 6910
-teams_score:
-- team: 6917
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 Navy Gravy vs S18 LTBA
+teams-score:
+- team: _teams/navy.md
   score:
-- team: 6910
+- team: _teams/baby-blue.md
   score: 31
 mvp: Joe Owens (Navy), Kori Saunders (Baby Blue)
 game-ball: ''

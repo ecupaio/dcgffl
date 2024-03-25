@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4808 vs 4826
-teams_score:
-- team: 4808
+title: Season XX Canceled - DCGFFL - S13 Ash vs S13 Red (RED HOTS)
+teams-score:
+- team: _teams/s13-ash.md
   score: 26
-- team: 4826
+- team: _teams/s13-red.md
   score: 13
 mvp: B. Benjamin (Ash), B. Relafort (Red)
 game-ball: J. Rowe (Ash), J. Carter (Red)

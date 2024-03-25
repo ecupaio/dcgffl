@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 927 vs 933
-teams_score:
-- team: 927
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Forest vs S11 Navy
+teams-score:
+- team: _teams/s11-forest.md
   score: 40
-- team: 933
+- team: _teams/s11-navy.md
   score: 14
 mvp: Tyler Fox (Forest),  Christian Smith (Navy)
 game-ball: ''

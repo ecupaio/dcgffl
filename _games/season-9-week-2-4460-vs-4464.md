@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4460 vs 4464
-teams_score:
-- team: 4460
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Lime vs S09 Orange
+teams-score:
+- team: _teams/s09-lime.md
   score: 22
-- team: 4464
+- team: _teams/s09-orange.md
   score: 28
 mvp: 'Lime: Marvin Washington / Orange: Nikki Kasparek'
 game-ball: N/A

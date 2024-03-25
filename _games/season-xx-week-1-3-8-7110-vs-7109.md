@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7110 vs 7109
-teams_score:
-- team: 7110
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Atomic vs S20 Concrete
+teams-score:
+- team: _teams/atomic-2.md
   score: 6
-- team: 7109
+- team: _teams/concrete.md
   score: 41
 mvp: Will, Alex
 game-ball: Ivan, Tracy

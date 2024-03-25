@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4181 vs 4191
-teams_score:
-- team: 4181
+title: Season XX Canceled - DCGFFL - S12 Orange vs S12 Neon Green
+teams-score:
+- team: _teams/s12-orange.md
   score:
-- team: 4191
+- team: _teams/s12-neon-green.md
   score: 19
 mvp: ''
 game-ball: ''

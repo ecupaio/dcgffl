@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4188 vs 4179
-teams_score:
-- team: 4188
+title: Season XX Canceled - DCGFFL - S12 Navy vs S12 Forest
+teams-score:
+- team: _teams/s12-navy.md
   score:
-- team: 4179
+- team: _teams/s12-forest.md
   score: 33
 mvp: ''
 game-ball: ''

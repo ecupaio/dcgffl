@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 7031 vs 7033
-teams_score:
-- team: 7031
+title: Season XX Canceled - DCGFFL - S19 Goldak Yellow vs S19 Sour Pass Kids
+teams-score:
+- team: _teams/gold.md
   score: 26
-- team: 7033
+- team: _teams/lime-2.md
   score: 13
 mvp: Dewayne, John
 game-ball: Pat, Andy

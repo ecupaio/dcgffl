@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6705 vs 6707
-teams_score:
-- team: 6705
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 X’s and Hoes vs S17
+  Teal
+teams-score:
+- team: _teams/s17-royal-blue.md
   score:
-- team: 6707
+- team: _teams/s17-teal.md
   score: 23
 mvp: K. Birnbaum (Royal Blue), S. Kelly (Teal)
 game-ball: K. Lynch (Royal Blue), A. Robbins (Teal)

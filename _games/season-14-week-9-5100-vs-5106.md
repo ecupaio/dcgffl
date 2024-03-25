@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5100 vs 5106
-teams_score:
-- team: 5100
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Olive vs S14 Teal
+teams-score:
+- team: _teams/s14-olive.md
   score: 21
-- team: 5106
+- team: _teams/s14-teal.md
   score: 20
 mvp: Holihan, Sergio
 game-ball: Ray Yankey, DMitch

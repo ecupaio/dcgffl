@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4470 vs 4468
-teams_score:
-- team: 4470
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Vegas Gold vs S09 Royal
+  Blue
+teams-score:
+- team: _teams/s09-vegas-gold.md
   score:
-- team: 4468
+- team: _teams/s09-royal-blue-these-hoes-aint-royal.md
   score: 22
 mvp: Josh Ellis (Vegas), Patrick Mabray (Royal)
 game-ball: N/A

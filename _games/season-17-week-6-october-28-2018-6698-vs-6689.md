@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - 6698 vs 6689
-teams_score:
-- team: 6698
+title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Flaming Hot Cheeto Dust
+  vs S17 Grill on Grill Action
+teams-score:
+- team: _teams/s17-orange.md
   score:
-- team: 6689
+- team: _teams/s17-charcoal.md
   score: 14
 mvp: G. Carter (Orange), D. Allen (Charcoal)
 game-ball: L. Pratt (Orange), C. McCloud (Charcoal)

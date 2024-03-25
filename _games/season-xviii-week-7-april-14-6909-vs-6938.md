@@ -1,9 +1,10 @@
 ---
-title: Season XX Canceled - DCGFFL - 6909 vs 6938
-teams_score:
-- team: 6909
+title: Season XX Canceled - DCGFFL - S18 Rust and Bust vs S18 Wicked Bitches of the
+  West
+teams-score:
+- team: _teams/maroon.md
   score:
-- team: 6938
+- team: _teams/s18-kelly.md
   score: 28
 mvp: Kevin Hamilton (Maroon), Andrew Grafton (Kelly)
 game-ball: ''

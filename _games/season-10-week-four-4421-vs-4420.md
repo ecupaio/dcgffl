@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4421 vs 4420
-teams_score:
-- team: 4421
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Dark Green vs S10 Black
+teams-score:
+- team: _teams/s10-dark-green.md
   score:
-- team: 4420
+- team: _teams/s10-black.md
   score: 13
 mvp: Yama T. (Dark Green), Billy K. (Black)
 game-ball: N/A

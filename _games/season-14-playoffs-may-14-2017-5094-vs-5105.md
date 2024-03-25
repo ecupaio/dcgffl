@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5094 vs 5105
-teams_score:
-- team: 5094
+title: Season XX Canceled - DCGFFL - S14 Crimson vs S14 Sky Blue
+teams-score:
+- team: _teams/s14-crimson.md
   score: 32
-- team: 5105
+- team: _teams/s14-sky.md
   score: 12
 mvp: Hines, Rowe
 game-ball: Todd, Andy

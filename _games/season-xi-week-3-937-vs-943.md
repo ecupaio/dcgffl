@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 937 vs 943
-teams_score:
-- team: 937
+title: Season XX Canceled - DCGFFL - S11 Gold vs S11 Silver
+teams-score:
+- team: _teams/s11-gold.md
   score: 31
-- team: 943
+- team: _teams/s11-silver.md
   score: 19
 mvp: Cameron Burrell (Gold), Levert James (Silver)
 game-ball: ''

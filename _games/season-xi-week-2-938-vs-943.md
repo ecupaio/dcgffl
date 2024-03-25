@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - 938 vs 943
-teams_score:
-- team: 938
+title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - S11 Brown vs S11 Silver
+teams-score:
+- team: _teams/s11-brown.md
   score: 30
-- team: 943
+- team: _teams/s11-silver.md
   score: 18
 mvp: Andy Pratt (Brown), Drew Halunen (Silver)
 game-ball: ''

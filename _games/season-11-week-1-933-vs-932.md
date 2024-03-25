@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 933 vs 932
-teams_score:
-- team: 933
+title: Season XX Canceled - DCGFFL - S11 Navy vs S11 Purple
+teams-score:
+- team: _teams/s11-navy.md
   score: 27
-- team: 932
+- team: _teams/s11-purple.md
   score: 26
 mvp: Wil Coachman(Navy), Matt Cline (Purple)
 game-ball: ''

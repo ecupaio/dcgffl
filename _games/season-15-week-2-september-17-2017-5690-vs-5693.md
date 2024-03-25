@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5690 vs 5693
-teams_score:
-- team: 5690
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Power Blue vs S15 Red
+teams-score:
+- team: _teams/s15-power-blue.md
   score: 39
-- team: 5693
+- team: _teams/s15-red.md
   score: 12
 mvp: Kristen Lynch, Mark Summerside
 game-ball: Chris Meadows, Michael Bustin

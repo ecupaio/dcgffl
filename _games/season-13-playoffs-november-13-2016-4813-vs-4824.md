@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4813 vs 4824
-teams_score:
-- team: 4813
+title: Season XX Canceled - DCGFFL - S13 Charcoal vs S13 Power Blue
+teams-score:
+- team: _teams/s13-charcoal.md
   score: 39
-- team: 4824
+- team: _teams/s13-power-blue.md
   score: 27
 mvp: E. Perez (Charcoal), G. Carter (Power Blue)
 game-ball: C. Burrell (Graphite), F. Rogers (Power Blue)

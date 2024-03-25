@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5699 vs 5697
-teams_score:
-- team: 5699
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 White vs S15 Slate
+teams-score:
+- team: _teams/s15-white.md
   score: 28
-- team: 5697
+- team: _teams/s15-slate.md
   score: 33
 mvp: Paul Guequierre, Nikki Kasparek
 game-ball: Taylor Clark, Dan Shaver

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7021 vs 7022
-teams_score:
-- team: 7021
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 Yellow D*ck Road vs S19 RED for
+  Filth
+teams-score:
+- team: _teams/neon-yellow.md
   score: 25
-- team: 7022
+- team: _teams/red-2.md
   score: 26
 mvp: Marvin, Nikki
 game-ball: ''

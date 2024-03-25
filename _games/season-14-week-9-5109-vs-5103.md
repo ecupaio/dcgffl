@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5109 vs 5103
-teams_score:
-- team: 5109
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Yellow vs S14 Red
+teams-score:
+- team: _teams/s14-yellow.md
   score: 36
-- team: 5103
+- team: _teams/s14-red.md
   score: 0
 mvp: ''
 game-ball: ''

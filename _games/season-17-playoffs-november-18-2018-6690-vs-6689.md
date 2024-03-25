@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6690 vs 6689
-teams_score:
-- team: 6690
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Call Me By Your Team
+  Name vs S17 Grill on Grill Action
+teams-score:
+- team: _teams/s17-columbia-blue.md
   score:
-- team: 6689
+- team: _teams/s17-charcoal.md
   score: 26
 mvp: J. Steslicki (Columbia Blue), D. Allen (Charcoal)
 game-ball: S. Cramer (Columbia Blue), J. Parker (Charcoal)

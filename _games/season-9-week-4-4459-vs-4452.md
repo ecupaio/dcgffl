@@ -1,9 +1,10 @@
 ---
-title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - 4459 vs 4452
-teams_score:
-- team: 4459
+title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Leaf Green vs S09
+  Black
+teams-score:
+- team: _teams/s09-leaf-green.md
   score:
-- team: 4452
+- team: _teams/s09-black.md
   score: 12
 mvp: " Ryan Stitt (Leaf Green), James Santos (Black)"
 game-ball: N/A

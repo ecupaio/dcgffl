@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7032 vs 7034
-teams_score:
-- team: 7032
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 The Green Kellys vs S19 Dem Beets
+teams-score:
+- team: _teams/kelly.md
   score: 12
-- team: 7034
+- team: _teams/maroon-2.md
   score: 25
 mvp: Ocho, Johnny
 game-ball: Joey, Sean

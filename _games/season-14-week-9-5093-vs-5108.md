@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5093 vs 5108
-teams_score:
-- team: 5093
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Charcoal vs S14 White
+teams-score:
+- team: _teams/s14-charcoal.md
   score: 33
-- team: 5108
+- team: _teams/s14-white.md
   score: 26
 mvp: Tucker, Blaney
 game-ball: Darwin Pham, Jack Jackson

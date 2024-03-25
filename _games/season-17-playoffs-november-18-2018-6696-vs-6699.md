@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6696 vs 6699
-teams_score:
-- team: 6696
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Biscuits & Navy vs
+  S17 Pink
+teams-score:
+- team: _teams/s17-navy.md
   score:
-- team: 6699
+- team: _teams/s17-pink.md
   score: 29
 mvp: C. Gillyard (Navy), N. Kasparek (Pink)
 game-ball: S. Heibing (Navy), E. Armstrong (Pink)

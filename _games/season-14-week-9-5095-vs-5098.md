@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5095 vs 5098
-teams_score:
-- team: 5095
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Forest vs S14 Lime
+teams-score:
+- team: _teams/s14-forest.md
   score: 18
-- team: 5098
+- team: _teams/s14-lime.md
   score: 34
 mvp: Kevin Hamilton, Vinnie
 game-ball: Christine, Dylan

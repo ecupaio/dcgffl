@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4808 vs 4815
-teams_score:
-- team: 4808
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Ash vs S13
+  Fuchsia
+teams-score:
+- team: _teams/s13-ash.md
   score:
-- team: 4815
+- team: _teams/s13-fuchsia.md
   score: 19
 mvp: J. Walker (Ash); S. Steinhardt (Fuchsia)
 game-ball: S. Cromwell (Ash); M. Ta-a (Fuchsia)

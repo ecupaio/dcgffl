@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 939 vs 936
-teams_score:
-- team: 939
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 White vs S11 Maroon
+teams-score:
+- team: _teams/s11-white.md
   score: 38
-- team: 936
+- team: _teams/s11-maroon.md
   score: 14
 mvp: Nolan Lazarus (White), Larry Womack (Maroon)
 game-ball: ''

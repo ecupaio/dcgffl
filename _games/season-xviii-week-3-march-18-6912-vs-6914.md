@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 3 (March 17) - DCGFFL - 6912 vs 6914
-teams_score:
-- team: 6912
+title: Season XVIII - Week 3 (March 17) - DCGFFL - S18 PurPauls Drag Race vs S18 A
+  Team Has No Name
+teams-score:
+- team: _teams/purple.md
   score: 32
-- team: 6914
+- team: _teams/forest-green.md
   score: 24
 mvp: Mark Hofberg (Purple), Danny Hughes (Forest)
 game-ball: ''

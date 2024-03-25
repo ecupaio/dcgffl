@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 934 vs 933
-teams_score:
-- team: 934
+title: Season XX Canceled - DCGFFL - S11 Pink vs S11 Navy
+teams-score:
+- team: _teams/s11-pink.md
   score: 38
-- team: 933
+- team: _teams/s11-navy.md
   score: 31
 mvp: Max Rothchild (Pink), Porter Brockway (Navy)
 game-ball: ''

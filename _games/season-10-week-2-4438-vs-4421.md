@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - 4438 vs 4421
-teams_score:
-- team: 4438
+title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - S10 Red vs S10 Dark Green
+teams-score:
+- team: _teams/s10-red.md
   score: 30
-- team: 4421
+- team: _teams/s10-dark-green.md
   score: 26
 mvp: Cody Griffiths (Red), Ryan Shealy (Dark Green)
 game-ball: N/A

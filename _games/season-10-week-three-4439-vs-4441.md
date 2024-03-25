@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4439 vs 4441
-teams_score:
-- team: 4439
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Royal vs S10 Silver
+teams-score:
+- team: _teams/s10-royal.md
   score: 24
-- team: 4441
+- team: _teams/s10-silver.md
   score: 18
 mvp: Miles S. (Royal); Nolan L. (Silver)
 game-ball: N/A

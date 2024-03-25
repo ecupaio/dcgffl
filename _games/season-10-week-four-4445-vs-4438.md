@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4445 vs 4438
-teams_score:
-- team: 4445
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Slate vs S10 Red
+teams-score:
+- team: _teams/s10-slate.md
   score:
-- team: 4438
+- team: _teams/s10-red.md
   score: 13
 mvp: Andy P. (Slate), Cody G. (Red)
 game-ball: N/A

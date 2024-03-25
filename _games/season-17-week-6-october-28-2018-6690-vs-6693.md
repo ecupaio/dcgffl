@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - 6690 vs 6693
-teams_score:
-- team: 6690
+title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Call Me By Your Team Name
+  vs S17 Hunter Green
+teams-score:
+- team: _teams/s17-columbia-blue.md
   score:
-- team: 6693
+- team: _teams/s17-hunter-green.md
   score: 12
 mvp: A. Allen (C. Blue), B. Allen (H. Green)
 game-ball: J. Deters (C. Blue), D. Erkenbrack (H. Green)

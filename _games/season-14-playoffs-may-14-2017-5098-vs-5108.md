@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5098 vs 5108
-teams_score:
-- team: 5098
+title: Season XX Canceled - DCGFFL - S14 Lime vs S14 White
+teams-score:
+- team: _teams/s14-lime.md
   score: 47
-- team: 5108
+- team: _teams/s14-white.md
   score: 25
 mvp: Sanders, Rudy
 game-ball: Rek, Chris

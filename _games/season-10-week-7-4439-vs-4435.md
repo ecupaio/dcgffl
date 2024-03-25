@@ -1,9 +1,10 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4439 vs 4435
-teams_score:
-- team: 4439
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Royal vs S10 Power
+  Yellow
+teams-score:
+- team: _teams/s10-royal.md
   score:
-- team: 4435
+- team: _teams/s10-power-yellow.md
   score: 6
 mvp: Miles S. (Royal), Matt S. (Power Yellow)
 game-ball: N/A

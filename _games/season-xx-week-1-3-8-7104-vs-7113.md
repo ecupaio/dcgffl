@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7104 vs 7113
-teams_score:
-- team: 7104
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Tropic vs S20 Navy
+teams-score:
+- team: _teams/tropic-2.md
   score: 26
-- team: 7113
+- team: _teams/navy-3.md
   score: 27
 mvp: Mecha, OJ
 game-ball: Sarah, Ed

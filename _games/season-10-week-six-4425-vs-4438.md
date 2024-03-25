@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4425 vs 4438
-teams_score:
-- team: 4425
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Fuchsia vs S10 Red
+teams-score:
+- team: _teams/s10-fuchsia.md
   score:
-- team: 4438
+- team: _teams/s10-red.md
   score: 7
 mvp: Ken G. (Fuchsia), Scott K. (Red)
 game-ball: N/A

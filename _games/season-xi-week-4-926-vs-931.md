@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 926 vs 931
-teams_score:
-- team: 926
+title: Season XX Canceled - DCGFFL - S11 Graphite vs S11 Baby Blue
+teams-score:
+- team: _teams/s11-graphite.md
   score: 25
-- team: 931
+- team: _teams/s11-baby-blue.md
   score: 12
 mvp: Mark Hofberg (Graphite), Josh Richards (Baby Blue)
 game-ball: ''

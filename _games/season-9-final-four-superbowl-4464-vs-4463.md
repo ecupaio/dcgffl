@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Final Four / SuperBowl (November 23, 2014) - DCGFFL - 4464 vs 4463
-teams_score:
-- team: 4464
+title: Season 9 - Final Four / SuperBowl (November 23, 2014) - DCGFFL - S09 Orange
+  vs S09 Navy
+teams-score:
+- team: _teams/s09-orange.md
   score:
-- team: 4463
+- team: _teams/s09-navy-rear-admirals.md
   score: 28
 mvp: Gabe Avila (Orange), Sheerod Wilkerson (Navy)
 game-ball: N/A

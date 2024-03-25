@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 936 vs 943
-teams_score:
-- team: 936
+title: Season XX Canceled - DCGFFL - S11 Maroon vs S11 Silver
+teams-score:
+- team: _teams/s11-maroon.md
   score: 26
-- team: 943
+- team: _teams/s11-silver.md
   score: 13
 mvp: Will Lipovsky (Maroon), Michelle T. (Silver)
 game-ball: ''

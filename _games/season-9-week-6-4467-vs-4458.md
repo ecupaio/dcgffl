@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - 4467 vs 4458
-teams_score:
-- team: 4467
+title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Red vs S09 Graphite
+teams-score:
+- team: _teams/s09-red.md
   score:
-- team: 4458
+- team: _teams/s09-graphite.md
   score: 18
 mvp: Matt Murtaugh (Red), Peter Sima (Graphite)
 game-ball: N/A

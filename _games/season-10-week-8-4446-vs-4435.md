@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4446 vs 4435
-teams_score:
-- team: 4446
+title: Season XX Canceled - DCGFFL - S10 Teal vs S10 Power Yellow
+teams-score:
+- team: _teams/s10-teal.md
   score: 20
-- team: 4435
+- team: _teams/s10-power-yellow.md
   score: 18
 mvp: Dameron R (Teal), Bryant B (Yellow)
 game-ball: N/A

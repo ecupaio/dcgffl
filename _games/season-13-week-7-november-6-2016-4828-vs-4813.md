@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4828 vs 4813
-teams_score:
-- team: 4828
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Safety Orange vs S13 Charcoal
+teams-score:
+- team: _teams/s13-safety-orange.md
   score:
-- team: 4813
+- team: _teams/s13-charcoal.md
   score: 28
 mvp: B. Mauck (Safety Orange); A. Robbins (Charcoal)
 game-ball: J. Mezetin (Safety Orange); C. Morse (Charcoal)

@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 939 vs 943
-teams_score:
-- team: 939
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 White vs S11 Silver
+teams-score:
+- team: _teams/s11-white.md
   score: 45
-- team: 943
+- team: _teams/s11-silver.md
   score: 28
 mvp: Rudy Legg Benavidas (White), Billy Kramer (Silver)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4812 vs 4815
-teams_score:
-- team: 4812
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Brown vs S13 Fuchsia
+teams-score:
+- team: _teams/s13-brown.md
   score:
-- team: 4815
+- team: _teams/s13-fuchsia.md
   score: 20
 mvp: S. Karson (Brown); A. Strasberg (Fuchsia)
 game-ball: R. Myers (Brown); J. Price (Fuchsia)

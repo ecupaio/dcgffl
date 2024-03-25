@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5096 vs 5099
-teams_score:
-- team: 5096
+title: Season XX Canceled - DCGFFL - S14 Fuchsia vs S14 Navy
+teams-score:
+- team: _teams/s14-fuchsia.md
   score: 0
-- team: 5099
+- team: _teams/s14-navy.md
   score: 39
 mvp: Kevin, Andy
 game-ball: Meghan, Randy

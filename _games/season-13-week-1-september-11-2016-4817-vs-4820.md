@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4817 vs 4820
-teams_score:
-- team: 4817
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Kelly Green vs S13 Midnight
+  Blue
+teams-score:
+- team: _teams/s13-kelly.md
   score:
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 19
 mvp: B. Chambers (Kelly); J. Santos (Midnight)
 game-ball: M. Townsend (Kelly); M. Osorio (Midnight)

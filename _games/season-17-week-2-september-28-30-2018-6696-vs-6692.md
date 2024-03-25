@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6696 vs 6692
-teams_score:
-- team: 6696
+title: Season XX Canceled - DCGFFL - S17 Biscuits & Navy vs S17 Magnums
+teams-score:
+- team: _teams/s17-navy.md
   score:
-- team: 6692
+- team: _teams/s17-gold.md
   score: 31
 mvp: E. Guerra (Navy); A. Hines (Gold)
 game-ball: B. Williams (Navy); D. Wilson (Gold)

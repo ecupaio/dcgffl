@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4812 vs 4828
-teams_score:
-- team: 4812
+title: Season XX Canceled - DCGFFL - S13 Brown vs S13 Safety Orange
+teams-score:
+- team: _teams/s13-brown.md
   score:
-- team: 4828
+- team: _teams/s13-safety-orange.md
   score: 12
 mvp: S. Karson (Brown); S. Gard (Safety Orange)
 game-ball: Entire Brown Team (Brown); S. Bartel (Safety Orange)

@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 3 (March 17) - DCGFFL - 6938 vs 6911
-teams_score:
-- team: 6938
+title: Season XVIII - Week 3 (March 17) - DCGFFL - S18 Wicked Bitches of the West
+  vs S18 Not Today Satan
+teams-score:
+- team: _teams/s18-kelly.md
   score:
-- team: 6911
+- team: _teams/red.md
   score: 22
 mvp: Oliver Jacobs (Kelly Green), Evan Binder (Red)
 game-ball: ''

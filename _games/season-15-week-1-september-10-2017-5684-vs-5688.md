@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5684 vs 5688
-teams_score:
-- team: 5684
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Graphite vs S15 Orange
+teams-score:
+- team: _teams/s15-graphite.md
   score: 6
-- team: 5688
+- team: _teams/s15-orange.md
   score: 31
 mvp: Mark Knobbe, RJ Martin
 game-ball: Dan Vladimer, Jared McCathren

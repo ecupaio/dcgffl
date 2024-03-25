@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 1 (March 3) - DCGFFL - 6917 vs 6914
-teams_score:
-- team: 6917
+title: Season XVIII - Week 1 (March 3) - DCGFFL - S18 Navy Gravy vs S18 A Team Has
+  No Name
+teams-score:
+- team: _teams/navy.md
   score: 18
-- team: 6914
+- team: _teams/forest-green.md
   score: 31
 mvp: Vincent (Navy); Danny H. (Forest)
 game-ball: Ty W. (Navy); Brandon (Forest)

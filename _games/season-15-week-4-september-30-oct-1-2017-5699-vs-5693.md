@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5699 vs 5693
-teams_score:
-- team: 5699
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 White vs S15
+  Red
+teams-score:
+- team: _teams/s15-white.md
   score: 7
-- team: 5693
+- team: _teams/s15-red.md
   score: 26
 mvp: Matt Nix, Long Diep
 game-ball: Patrick Tobin, Ken Mitchell

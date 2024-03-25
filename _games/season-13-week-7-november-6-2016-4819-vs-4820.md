@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4819 vs 4820
-teams_score:
-- team: 4819
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Maroon vs S13 Midnight
+  Blue
+teams-score:
+- team: _teams/s13-maroon.md
   score:
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 19
 mvp: K. Smiffy (Maroon); M. Osorio (Midnight)
 game-ball: J. Santanella (Maroon); S. Chakerian (Midnight)

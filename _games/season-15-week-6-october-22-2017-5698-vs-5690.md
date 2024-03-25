@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - 5698 vs 5690
-teams_score:
-- team: 5698
+title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - S15 Teal vs S15 Power Blue
+teams-score:
+- team: _teams/s15-teal.md
   score: 35
-- team: 5690
+- team: _teams/s15-power-blue.md
   score: 40
 mvp: Sean Karson, Rachel Browning
 game-ball: Michele Ta-a, Aaron Beck

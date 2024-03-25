@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4466 vs 4469
-teams_score:
-- team: 4466
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Purple vs S09 Teal
+teams-score:
+- team: _teams/s09-purple.md
   score: 14
-- team: 4469
+- team: _teams/s09-teal.md
   score: 43
 mvp: 'Teal: Chris Hobbs / Purple: Howard Yuan'
 game-ball: N/A

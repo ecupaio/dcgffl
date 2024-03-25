@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4466 vs 4457
-teams_score:
-- team: 4466
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Purple vs S09 Gold
+teams-score:
+- team: _teams/s09-purple.md
   score: 19
-- team: 4457
+- team: _teams/s09-gold.md
   score: 34
 mvp: 'Purple: Jerrell Price  /  Gold: Baxter O''Brien'
 game-ball: N/A

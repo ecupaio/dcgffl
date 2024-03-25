@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 942 vs 943
-teams_score:
-- team: 942
+title: Season XX Canceled - DCGFFL - S11 Red vs S11 Silver
+teams-score:
+- team: _teams/s11-red.md
   score: 33
-- team: 943
+- team: _teams/s11-silver.md
   score: 32
 mvp: Howard Yuan (Red), Marcus Kendrick (Silver)
 game-ball: ''

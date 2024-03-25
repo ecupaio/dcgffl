@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7030 vs 7029
-teams_score:
-- team: 7030
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 Deep State Orange vs S19 Slab On
+  My Knab
+teams-score:
+- team: _teams/deep-orange.md
   score: 33
-- team: 7029
+- team: _teams/concrete-grey.md
   score: 18
 mvp: Levert,Alex
 game-ball: Justin,Ken

@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4830 vs 4824
-teams_score:
-- team: 4830
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 White vs
+  S13 Power Blue
+teams-score:
+- team: _teams/s13-white.md
   score:
-- team: 4824
+- team: _teams/s13-power-blue.md
   score: 30
 mvp: W. Chappell (White); G. Carter (P. Blue)
 game-ball: M. Pesesky (White); R. Legg-Benevides (P. Blue)

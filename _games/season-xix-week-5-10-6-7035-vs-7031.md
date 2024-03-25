@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7035 vs 7031
-teams_score:
-- team: 7035
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Rough Sextants vs S19 Goldak Yellow
+teams-score:
+- team: _teams/navy-2.md
   score: 35
-- team: 7031
+- team: _teams/gold.md
   score: 20
 mvp: Tucker, Dewayne
 game-ball: Antwon, Joe

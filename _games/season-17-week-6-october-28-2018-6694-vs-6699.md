@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - 6694 vs 6699
-teams_score:
-- team: 6694
+title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Green Eggs and Cammas
+  vs S17 Pink
+teams-score:
+- team: _teams/s17-kelly-green.md
   score:
-- team: 6699
+- team: _teams/s17-pink.md
   score: 27
 mvp: D. Alexander (K. Green), S. Shaginaw (Pink)
 game-ball: B. Cammas (K. Green), A. Martello (Pink)

@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5091 vs 5103
-teams_score:
-- team: 5091
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Black vs S14 Red
+teams-score:
+- team: _teams/s14-black.md
   score:
-- team: 5103
+- team: _teams/s14-red.md
   score: 12
 mvp: Jordan A. & Pedro
 game-ball: Aaron & Roy

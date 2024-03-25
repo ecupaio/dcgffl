@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 5 (March 31) - DCGFFL - 6939 vs 6938
-teams_score:
-- team: 6939
+title: Season XVIII - Week 5 (March 31) - DCGFFL - S18 Pulp Friction vs S18 Wicked
+  Bitches of the West
+teams-score:
+- team: _teams/s18-orange.md
   score:
-- team: 6938
+- team: _teams/s18-kelly.md
   score: 16
 mvp: Brandon Waggoner (Orange), Garrett Schiponi (Kelly)
 game-ball: ''

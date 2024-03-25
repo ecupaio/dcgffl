@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7030 vs 7033
-teams_score:
-- team: 7030
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Deep State Orange vs S19 Sour Pass
+  Kids
+teams-score:
+- team: _teams/deep-orange.md
   score: 28
-- team: 7033
+- team: _teams/lime-2.md
   score: 18
 mvp: Levert, Joe
 game-ball: Steven, Mark

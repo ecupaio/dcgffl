@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4188 vs 4181
-teams_score:
-- team: 4188
+title: Season XX Canceled - DCGFFL - S12 Navy vs S12 Orange
+teams-score:
+- team: _teams/s12-navy.md
   score: 39
-- team: 4181
+- team: _teams/s12-orange.md
   score: 13
 mvp: Sean K. (Orange); Will C. (Navy)
 game-ball: Lindsey W. (Orange); Aaron R. (Navy)

@@ -1,9 +1,9 @@
 ---
-title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - 6365 vs 6364
-teams_score:
-- team: 6365
+title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - S16 Royal Blue vs S16 Red
+teams-score:
+- team: _teams/s16-royal-blue.md
   score: 30
-- team: 6364
+- team: _teams/s16-red.md
   score: 31
 mvp: Brett Chambers, Alex Payne
 game-ball: Will J, Kevin Smiffy

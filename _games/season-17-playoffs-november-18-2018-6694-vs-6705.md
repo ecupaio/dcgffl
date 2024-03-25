@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6694 vs 6705
-teams_score:
-- team: 6694
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Green Eggs and Cammas
+  vs S17 X’s and Hoes
+teams-score:
+- team: _teams/s17-kelly-green.md
   score:
-- team: 6705
+- team: _teams/s17-royal-blue.md
   score: 26
 mvp: B. Chambers (Kelly Green), K. Lynch (Royal Blue)
 game-ball: M. Japinga (Kelly Green), A. Schaps (Royal Blue)

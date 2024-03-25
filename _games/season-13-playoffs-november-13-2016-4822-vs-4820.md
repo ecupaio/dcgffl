@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4822 vs 4820
-teams_score:
-- team: 4822
+title: Season XX Canceled - DCGFFL - S13 Orange vs S13 Midnight Blue
+teams-score:
+- team: _teams/s13-orange.md
   score: 39
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 14
 mvp: M. Cline (Orange), B. McFarland (Midnight)
 game-ball: A. Mertens (Orange), E. Cabrera (Midnight)

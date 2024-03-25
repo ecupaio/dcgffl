@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4437 vs 4431
-teams_score:
-- team: 4437
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Purple vs S10 Maroon
+teams-score:
+- team: _teams/s10-purple.md
   score:
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 12
 mvp: Craig N. (Purple), Andy A. (Maroon)
 game-ball: N/A

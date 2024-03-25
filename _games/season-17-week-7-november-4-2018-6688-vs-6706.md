@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6688 vs 6706
-teams_score:
-- team: 6688
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Bringing Sexy Black vs
+  S17 Silver Fox Holes
+teams-score:
+- team: _teams/s17-black.md
   score:
-- team: 6706
+- team: _teams/s17-silver.md
   score: 25
 mvp: J. Clemons (Black), W. Jackson (Silver)
 game-ball: D. Rendell (Black), J. Blaney (Silver)

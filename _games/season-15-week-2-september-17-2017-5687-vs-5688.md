@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5687 vs 5688
-teams_score:
-- team: 5687
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Neon Green vs S15 Orange
+teams-score:
+- team: _teams/s15-neon-green.md
   score: 20
-- team: 5688
+- team: _teams/s15-orange.md
   score: 26
 mvp: Alex Harvey, Nick Bonard
 game-ball: Nolan Lazarus, Sean Dickson

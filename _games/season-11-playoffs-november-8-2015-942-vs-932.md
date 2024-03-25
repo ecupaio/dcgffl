@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 942 vs 932
-teams_score:
-- team: 942
+title: Season XX Canceled - DCGFFL - S11 Red vs S11 Purple
+teams-score:
+- team: _teams/s11-red.md
   score:
-- team: 932
+- team: _teams/s11-purple.md
   score:
 mvp: ''
 game-ball: ''

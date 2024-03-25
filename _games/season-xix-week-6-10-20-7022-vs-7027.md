@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7022 vs 7027
-teams_score:
-- team: 7022
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 RED for Filth vs S19 White Claw
+  Wasted
+teams-score:
+- team: _teams/red-2.md
   score: 0
-- team: 7027
+- team: _teams/white.md
   score: 36
 mvp: Rain
 game-ball: Rain

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 941 vs 940
-teams_score:
-- team: 941
+title: Season XX Canceled - DCGFFL - S11 Teal vs S11 Power Blue
+teams-score:
+- team: _teams/s11-teal.md
   score: 27
-- team: 940
+- team: _teams/s11-power-blue.md
   score: 6
 mvp: Bryan Sanders (Teal), Jasmyne Johnson (Power Blue)
 game-ball: ''

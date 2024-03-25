@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6691 vs 6688
-teams_score:
-- team: 6691
+title: Season XX Canceled - DCGFFL - S17 Crimson Ride vs S17 Bringing Sexy Black
+teams-score:
+- team: _teams/s17-crimson.md
   score:
-- team: 6688
+- team: _teams/s17-black.md
   score: 8
 mvp: M. Washington (Crimson); P. Sima (Black)
 game-ball: L. Walton (Crimson); A. Prat (Black)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4816 vs 4830
-teams_score:
-- team: 4816
+title: Season XX Canceled - DCGFFL - S13 Gold vs S13 White
+teams-score:
+- team: _teams/s13-gold.md
   score: 32
-- team: 4830
+- team: _teams/s13-white.md
   score: 13
 mvp: A. Hines (Gold), K. Malcolm (White)
 game-ball: M. Patel (Gold), L. Womack (White)

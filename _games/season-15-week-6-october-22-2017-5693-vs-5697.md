@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - 5693 vs 5697
-teams_score:
-- team: 5693
+title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - S15 Red vs S15 Slate
+teams-score:
+- team: _teams/s15-red.md
   score: 8
-- team: 5697
+- team: _teams/s15-slate.md
   score: 27
 mvp: Ethan Gramstad, Donald Mitchell
 game-ball: Ken Mitchell, Jamar Walker

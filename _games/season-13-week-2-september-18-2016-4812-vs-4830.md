@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4812 vs 4830
-teams_score:
-- team: 4812
+title: Season XX Canceled - DCGFFL - S13 Brown vs S13 White
+teams-score:
+- team: _teams/s13-brown.md
   score:
-- team: 4830
+- team: _teams/s13-white.md
   score: 14
 mvp: A. Harvey (Brown); L. Womack (White)
 game-ball: M. Nocella (Brown); M. Murtaugh (White)

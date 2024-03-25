@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4441 vs 4437
-teams_score:
-- team: 4441
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Silver vs S10 Purple
+teams-score:
+- team: _teams/s10-silver.md
   score:
-- team: 4437
+- team: _teams/s10-purple.md
   score: 0
 mvp: Andy S. (Silver), Clay A. (Purple)
 game-ball: N/A

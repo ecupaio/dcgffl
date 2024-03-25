@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7021 vs 7028
-teams_score:
-- team: 7021
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 Yellow D*ck Road vs S19 Weapons of
+  Ass Destruction
+teams-score:
+- team: _teams/neon-yellow.md
   score: 30
-- team: 7028
+- team: _teams/atomic.md
   score: 32
 mvp: Derrick,Mark
 game-ball: Zach,Brandon

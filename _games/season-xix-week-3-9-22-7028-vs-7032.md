@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7028 vs 7032
-teams_score:
-- team: 7028
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Weapons of Ass Destruction vs S19
+  The Green Kellys
+teams-score:
+- team: _teams/atomic.md
   score: 26
-- team: 7032
+- team: _teams/kelly.md
   score: 13
 mvp: Rob, Jens
 game-ball: Greg, Jared

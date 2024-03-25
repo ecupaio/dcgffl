@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 929 vs 932
-teams_score:
-- team: 929
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 Orange vs S11 Purple
+teams-score:
+- team: _teams/s11-orange.md
   score: 36
-- team: 932
+- team: _teams/s11-purple.md
   score: 34
 mvp: ''
 game-ball: ''

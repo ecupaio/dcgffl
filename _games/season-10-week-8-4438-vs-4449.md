@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4438 vs 4449
-teams_score:
-- team: 4438
+title: Season XX Canceled - DCGFFL - S10 Red vs S10 White
+teams-score:
+- team: _teams/s10-red.md
   score: 35
-- team: 4449
+- team: _teams/s10-white.md
   score: 34
 mvp: Brett C (Red), Brian J (White)
 game-ball: N/A

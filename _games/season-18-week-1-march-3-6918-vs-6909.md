@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 1 (March 3) - DCGFFL - 6918 vs 6909
-teams_score:
-- team: 6918
+title: Season XVIII - Week 1 (March 3) - DCGFFL - S18 Grab My Graphite vs S18 Rust
+  and Bust
+teams-score:
+- team: _teams/graphite.md
   score: 34
-- team: 6909
+- team: _teams/maroon.md
   score: 6
 mvp: Daniel (Graphite); Kevin H (Maroon)
 game-ball: Eric (Graphite); Kip (Maroon)

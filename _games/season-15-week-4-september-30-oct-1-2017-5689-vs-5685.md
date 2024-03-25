@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5689 vs 5685
-teams_score:
-- team: 5689
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Pink vs S15
+  Kelly Green
+teams-score:
+- team: _teams/s15-pink.md
   score: 20
-- team: 5685
+- team: _teams/s15-kelly-green.md
   score: 27
 mvp: Roy Fillyaw, Kyle McKinney
 game-ball: BB, Enoch Cleckle

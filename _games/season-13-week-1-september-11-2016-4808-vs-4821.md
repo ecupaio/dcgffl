@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4808 vs 4821
-teams_score:
-- team: 4808
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Ash vs S13 Neon Yellow
+teams-score:
+- team: _teams/s13-ash.md
   score:
-- team: 4821
+- team: _teams/s13-neon-yellow.md
   score: 12
 mvp: J. Walker (Ash); A. Allen (Neon Yellow)
 game-ball: J. Chiuco (Ash); K. Veldman (Neon Yellow)

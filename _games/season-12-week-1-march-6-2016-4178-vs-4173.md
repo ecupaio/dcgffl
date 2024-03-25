@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4178 vs 4173
-teams_score:
-- team: 4178
+title: Season XX Canceled - DCGFFL - S12 Sky Blue vs S12 Black
+teams-score:
+- team: _teams/s12-sky-blue.md
   score: 14
-- team: 4173
+- team: _teams/s12-black.md
   score: 13
 mvp: Sheerod Wilkerson (Sky); Derrick Johnson (Black)
 game-ball: Rob Casey (Sky); Alexandra Harvey (Black)

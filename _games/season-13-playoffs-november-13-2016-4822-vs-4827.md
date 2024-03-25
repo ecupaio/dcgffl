@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4822 vs 4827
-teams_score:
-- team: 4822
+title: Season XX Canceled - DCGFFL - S13 Orange vs S13 Royal Blue
+teams-score:
+- team: _teams/s13-orange.md
   score: 35
-- team: 4827
+- team: _teams/s13-royal-blue.md
   score: 25
 mvp: J. Lucas (Orange), AJ Reust (Royal)
 game-ball: J. Lee (Orange), M. Zgoda (Royal)

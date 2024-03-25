@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4808 vs 4811
-teams_score:
-- team: 4808
+title: Season XX Canceled - DCGFFL - S13 Ash vs S13 Black
+teams-score:
+- team: _teams/s13-ash.md
   score:
-- team: 4811
+- team: _teams/s13-black.md
   score: 26
 mvp: K. McKinney (Ash); J. Anderson (Black)
 game-ball: J. Rowe (Ash); T. Williams (Black)

@@ -1,9 +1,9 @@
 ---
-title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - 6360 vs 6367
-teams_score:
-- team: 6360
+title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - S16 Pink vs S16 Teal
+teams-score:
+- team: _teams/s16-pink.md
   score: 14
-- team: 6367
+- team: _teams/s16-teal.md
   score: 19
 mvp: Jamar Walker, TJ Baggett
 game-ball: Bradley Williams, Adam Robbins

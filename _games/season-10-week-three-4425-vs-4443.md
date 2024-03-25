@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4425 vs 4443
-teams_score:
-- team: 4425
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Fuchsia vs S10 Sky Blue
+teams-score:
+- team: _teams/s10-fuchsia.md
   score: 38
-- team: 4443
+- team: _teams/s10-sky-blue.md
   score: 18
 mvp: Ken O. (Fuchsia); Steve G. (Sky Blue)
 game-ball: N/A

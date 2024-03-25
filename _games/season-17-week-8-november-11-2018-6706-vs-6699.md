@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6706 vs 6699
-teams_score:
-- team: 6706
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Silver Fox Holes vs S17
+  Pink
+teams-score:
+- team: _teams/s17-silver.md
   score:
-- team: 6699
+- team: _teams/s17-pink.md
   score: 0
 mvp: Forfeit
 game-ball: Forfeit

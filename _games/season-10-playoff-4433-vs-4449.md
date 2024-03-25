@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4433 vs 4449
-teams_score:
-- team: 4433
+title: Season XX Canceled - DCGFFL - S10 Navy vs S10 White
+teams-score:
+- team: _teams/s10-navy.md
   score:
-- team: 4449
+- team: _teams/s10-white.md
   score: 15
 mvp: Daniel H. (Navy), Brandon B. (White)
 game-ball: N/A

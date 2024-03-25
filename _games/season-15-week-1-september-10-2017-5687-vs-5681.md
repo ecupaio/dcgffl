@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5687 vs 5681
-teams_score:
-- team: 5687
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Neon Green vs S15 Black
+teams-score:
+- team: _teams/s15-neon-green.md
   score: 6
-- team: 5681
+- team: _teams/s15-black.md
   score: 13
 mvp: Andy Pratt, Daniel Allen
 game-ball: Jarrod Salvestrini, Alex Martello

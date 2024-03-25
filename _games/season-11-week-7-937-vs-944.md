@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 937 vs 944
-teams_score:
-- team: 937
+title: Season XX Canceled - DCGFFL - S11 Gold vs S11 Kelly Green
+teams-score:
+- team: _teams/s11-gold.md
   score: 25
-- team: 944
+- team: _teams/s11-kelly-green.md
   score: 14
 mvp: Cameron Burrell (Gold), Marvin Washington (Kelly)
 game-ball: ''

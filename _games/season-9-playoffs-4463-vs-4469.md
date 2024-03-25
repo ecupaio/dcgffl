@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4463 vs 4469
-teams_score:
-- team: 4463
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Navy vs S09 Teal
+teams-score:
+- team: _teams/s09-navy-rear-admirals.md
   score:
-- team: 4469
+- team: _teams/s09-teal.md
   score: 26
 mvp: Sheerod Wilkerson (Navy), Charlie Salem (Teal)
 game-ball: N/A

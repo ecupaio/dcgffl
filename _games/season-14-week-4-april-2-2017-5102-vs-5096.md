@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5102 vs 5096
-teams_score:
-- team: 5102
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Pink vs S14 Fuchsia
+teams-score:
+- team: _teams/s14-pink.md
   score:
-- team: 5096
+- team: _teams/s14-fuchsia.md
   score: 14
 mvp: Greg C. & Isaac
 game-ball: Mike B & Smiffy

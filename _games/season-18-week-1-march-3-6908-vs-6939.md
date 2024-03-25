@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 1 (March 3) - DCGFFL - 6908 vs 6939
-teams_score:
-- team: 6908
+title: Season XVIII - Week 1 (March 3) - DCGFFL - S18 Disrespectful Wit It vs S18
+  Pulp Friction
+teams-score:
+- team: _teams/s18-gold.md
   score: 20
-- team: 6939
+- team: _teams/s18-orange.md
   score: 14
 mvp: AJ (Gold); Smiffy (Orange)
 game-ball: Dan (Gold); Ben (Orange)

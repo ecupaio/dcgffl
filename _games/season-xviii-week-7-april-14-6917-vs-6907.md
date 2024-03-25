@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6917 vs 6907
-teams_score:
-- team: 6917
+title: Season XX Canceled - DCGFFL - S18 Navy Gravy vs S18 Sexual Tealing
+teams-score:
+- team: _teams/navy.md
   score:
-- team: 6907
+- team: _teams/s18-teal.md
   score: 25
 mvp: Tom Loughran (Navy), Jared McKinney (Teal)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5696 vs 5698
-teams_score:
-- team: 5696
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Sand vs S15 Teal
+teams-score:
+- team: _teams/s15-sand.md
   score: 45
-- team: 5698
+- team: _teams/s15-teal.md
   score: 25
 mvp: TJ Baggett, Sean Boylan
 game-ball: Jens Piferon, Sean Karson

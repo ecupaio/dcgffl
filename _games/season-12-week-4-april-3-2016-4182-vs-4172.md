@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4182 vs 4172
-teams_score:
-- team: 4182
+title: Season XX Canceled - DCGFFL - S12 Royal Blue vs S12 Gold
+teams-score:
+- team: _teams/s12-royal-blue.md
   score:
-- team: 4172
+- team: _teams/s12-gold.md
   score: 12
 mvp: OJ (Royal); Craig Neiswanger (Gold)
 game-ball: Matt Fransein (Royal); Meredith Bell (Gold)

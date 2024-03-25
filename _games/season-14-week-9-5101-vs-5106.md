@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5101 vs 5106
-teams_score:
-- team: 5101
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Orange vs S14 Teal
+teams-score:
+- team: _teams/s14-orange.md
   score: 21
-- team: 5106
+- team: _teams/s14-teal.md
   score: 22
 mvp: Brad Allen, DMitch
 game-ball: Kenny, Marcus

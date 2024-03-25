@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5682 vs 5680
-teams_score:
-- team: 5682
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Forest vs S15 Baby Blue
+teams-score:
+- team: _teams/s15-forest.md
   score: 33
-- team: 5680
+- team: _teams/s15-baby-blue.md
   score: 41
 mvp: Evan B., Adam Robbins
 game-ball: Andrew Braswell, Marek Malysa

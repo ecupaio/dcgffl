@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5695 vs 5698
-teams_score:
-- team: 5695
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Safety Orange vs S15
+  Teal
+teams-score:
+- team: _teams/s15-safety-orange.md
   score: 42
-- team: 5698
+- team: _teams/s15-teal.md
   score: 28
 mvp: Cameron Burrell, Patrick McIntyre
 game-ball: Patrick Tighe, Stephen Tackney

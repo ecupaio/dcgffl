@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5686 vs 5698
-teams_score:
-- team: 5686
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Navy vs S15 Teal
+teams-score:
+- team: _teams/s15-navy.md
   score: 32
-- team: 5698
+- team: _teams/s15-teal.md
   score: 14
 mvp: Brandon Tuell, Sean Karson
 game-ball: Sidney Harris, Kendrick Daniel

@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4434 vs 4427
-teams_score:
-- team: 4434
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Power Blue vs S10 Gold
+teams-score:
+- team: _teams/s10-power-blue.md
   score:
-- team: 4427
+- team: _teams/s10-gold.md
   score: 13
 mvp: Mike H. (Power Blue), Bryan S. (Gold)
 game-ball: N/A

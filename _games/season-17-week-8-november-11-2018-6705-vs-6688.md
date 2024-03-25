@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6705 vs 6688
-teams_score:
-- team: 6705
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 X’s and Hoes vs S17 Bringing
+  Sexy Black
+teams-score:
+- team: _teams/s17-royal-blue.md
   score:
-- team: 6688
+- team: _teams/s17-black.md
   score: 14
 mvp: K. Lynch (Royal), T. Phillips (Black)
 game-ball: N. Kirkstadt (Royal), J. Heron (Black)

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7032 vs 7033
-teams_score:
-- team: 7032
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 The Green Kellys vs S19 Sour Pass
+  Kids
+teams-score:
+- team: _teams/kelly.md
   score: 38
-- team: 7033
+- team: _teams/lime-2.md
   score: 14
 mvp: Joey, Paul
 game-ball: Mike, Andy

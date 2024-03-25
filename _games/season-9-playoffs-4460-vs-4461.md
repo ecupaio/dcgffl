@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4460 vs 4461
-teams_score:
-- team: 4460
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Lime vs S09 Maroon
+teams-score:
+- team: _teams/s09-lime.md
   score:
-- team: 4461
+- team: _teams/s09-maroon.md
   score: 18
 mvp: Justin Parker (Lime), John Berry (Maroon)
 game-ball: N/A

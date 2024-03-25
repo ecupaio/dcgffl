@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4814 vs 4808
-teams_score:
-- team: 4814
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Forest Green vs S13
+  Ash
+teams-score:
+- team: _teams/s13-forest.md
   score:
-- team: 4808
+- team: _teams/s13-ash.md
   score: 20
 mvp: C. Babb (Forest); B. Benjamin (Ash)
 game-ball: M. Moerschbaecher (Forest); J. Rowe (Ash)

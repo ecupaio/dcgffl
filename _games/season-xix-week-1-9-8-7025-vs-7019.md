@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 1 (9/8) - DCGFFL - 7025 vs 7019
-teams_score:
-- team: 7025
+title: Season XIX - Week 1 (9/8) - DCGFFL - S19 Yee-Hoes! vs S19 Black
+teams-score:
+- team: _teams/texas-orange.md
   score: 20
-- team: 7019
+- team: _teams/black-2.md
   score: 38
 mvp: Jake (Texas), Jeremy (Black)
 game-ball: Jenna (Texas), Mike (Black)

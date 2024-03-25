@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4186 vs 4176
-teams_score:
-- team: 4186
+title: Season XX Canceled - DCGFFL - S12 White vs S12 Kelly Green
+teams-score:
+- team: _teams/s12-white.md
   score:
-- team: 4176
+- team: _teams/s12-kelly-green.md
   score: 19
 mvp: ''
 game-ball: ''

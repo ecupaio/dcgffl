@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6700 vs 6701
-teams_score:
-- team: 6700
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - undefined vs S17 The Shock
+  Tops
+teams-score:
+- team: ''
   score:
-- team: 6701
+- team: _teams/s17-power-orange.md
   score: 21
 mvp: M. Murtaugh (Power Blue), OJ (Power Orange)
 game-ball: T. Britford (Power Blue), E. Taylor (Power Orange)

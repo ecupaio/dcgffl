@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4462 vs 4471
-teams_score:
-- team: 4462
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Medium Green vs S09 White
+teams-score:
+- team: _teams/s09-medium-green-butch-greens.md
   score: 33
-- team: 4471
+- team: _teams/s09-white.md
   score: 0
 mvp: 'Medium Green: David Schilling  /  White: B. Neal'
 game-ball: N/A

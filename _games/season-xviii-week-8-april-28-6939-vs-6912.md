@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6939 vs 6912
-teams_score:
-- team: 6939
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 Pulp Friction vs S18 PurPauls
+  Drag Race
+teams-score:
+- team: _teams/s18-orange.md
   score:
-- team: 6912
+- team: _teams/purple.md
   score: 19
 mvp: Johnny Moseman (Purple), Smiffy (Orange)
 game-ball: ''

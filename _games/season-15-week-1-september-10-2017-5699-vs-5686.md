@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5699 vs 5686
-teams_score:
-- team: 5699
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 White vs S15 Navy
+teams-score:
+- team: _teams/s15-white.md
   score: 40
-- team: 5686
+- team: _teams/s15-navy.md
   score: 7
 mvp: Patrick Tobin, Ken Green
 game-ball: Dana Nearing, Alex Payne

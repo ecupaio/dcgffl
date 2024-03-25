@@ -1,9 +1,10 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4435 vs 4448
-teams_score:
-- team: 4435
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Power Yellow vs S10
+  Vegas Gold
+teams-score:
+- team: _teams/s10-power-yellow.md
   score:
-- team: 4448
+- team: _teams/s10-vegas-gold.md
   score: 18
 mvp: George G. (Power Yellow), Jamar W. (Vegas Gold)
 game-ball: N/A

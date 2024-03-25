@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4465 vs 4454
-teams_score:
-- team: 4465
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Pacific Blue vs S09
+  Columbia Blue
+teams-score:
+- team: _teams/s09-pacific-blue.md
   score:
-- team: 4454
+- team: _teams/s09-columbia-blue.md
   score: 20
 mvp: Brian Donohoe (Pacific), Brion Stokes (Columbia Blue)
 game-ball: N/A

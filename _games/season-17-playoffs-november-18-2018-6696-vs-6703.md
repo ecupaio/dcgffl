@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6696 vs 6703
-teams_score:
-- team: 6696
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Biscuits & Navy vs
+  S17 Purple Parrots
+teams-score:
+- team: _teams/s17-navy.md
   score:
-- team: 6703
+- team: _teams/s17-purple.md
   score: 20
 mvp: C. Gillyard (Navy), D. Mitchell (Purple)
 game-ball: B. Donahoe (Navy), K. Kostura (Purple)

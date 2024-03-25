@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4814 vs 4829
-teams_score:
-- team: 4814
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Forest Green vs S13 Vegas
+  Gold
+teams-score:
+- team: _teams/s13-forest.md
   score:
-- team: 4829
+- team: _teams/s13-vegas.md
   score: 23
 mvp: CJ Babb (Forest); D. Rendell (Vegas)
 game-ball: RJ Martin (Forest); M. Patrie (Vegas)

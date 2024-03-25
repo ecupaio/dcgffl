@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7027 vs 7021
-teams_score:
-- team: 7027
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 White Claw Wasted vs S19 Yellow D*ck
+  Road
+teams-score:
+- team: _teams/white.md
   score: 7
-- team: 7021
+- team: _teams/neon-yellow.md
   score: 28
 mvp: Ben, Derrick
 game-ball: Joey, Kevin

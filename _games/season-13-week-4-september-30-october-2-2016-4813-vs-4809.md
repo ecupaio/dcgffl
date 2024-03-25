@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4813 vs 4809
-teams_score:
-- team: 4813
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Charcoal
+  vs S13 Baby Blue
+teams-score:
+- team: _teams/s13-charcoal.md
   score:
-- team: 4809
+- team: _teams/s13-baby-blue.md
   score: 6
 mvp: C. Morse (Charcoal); M. Gander (Baby Blue)
 game-ball: J. Batac (Charcoal); J. Clevenger (Baby Blue)

@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4466 vs 4465
-teams_score:
-- team: 4466
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Purple vs S09 Pacific
+  Blue
+teams-score:
+- team: _teams/s09-purple.md
   score: 28
-- team: 4465
+- team: _teams/s09-pacific-blue.md
   score: 14
 mvp: 'Purple: Howard Yuan / Pacific: Sam Shelton'
 game-ball: N/A

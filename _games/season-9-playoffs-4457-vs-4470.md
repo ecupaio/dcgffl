@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4457 vs 4470
-teams_score:
-- team: 4457
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Gold vs S09 Vegas Gold
+teams-score:
+- team: _teams/s09-gold.md
   score:
-- team: 4470
+- team: _teams/s09-vegas-gold.md
   score: 27
 mvp: Matt Pearce (Gold), Josh Ellis (Vegas)
 game-ball: N/A

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7035 vs 7029
-teams_score:
-- team: 7035
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 Rough Sextants vs S19 Slab On My
+  Knab
+teams-score:
+- team: _teams/navy-2.md
   score: 26
-- team: 7029
+- team: _teams/concrete-grey.md
   score: 38
 mvp: Nick, Alex
 game-ball: Aaron, Dan

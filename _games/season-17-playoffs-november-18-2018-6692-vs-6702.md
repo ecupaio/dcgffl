@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6692 vs 6702
-teams_score:
-- team: 6692
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Magnums vs S17 daffoDILFS
+teams-score:
+- team: _teams/s17-gold.md
   score:
-- team: 6702
+- team: _teams/s17-power-yellow.md
   score: 14
 mvp: A. Hines (Gold), J. Santos (Power Yellow)
 game-ball: B. Jones (Gold), L. Ferreira (Power Yellow)

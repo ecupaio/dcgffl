@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 934 vs 939
-teams_score:
-- team: 934
+title: Season XX Canceled - DCGFFL - S11 Pink vs S11 White
+teams-score:
+- team: _teams/s11-pink.md
   score:
-- team: 939
+- team: _teams/s11-white.md
   score:
 mvp: ''
 game-ball: ''

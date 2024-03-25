@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5683 vs 5680
-teams_score:
-- team: 5683
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Gold vs S15
+  Baby Blue
+teams-score:
+- team: _teams/s15-gold.md
   score: 0
-- team: 5680
+- team: _teams/s15-baby-blue.md
   score: 33
 mvp: Stephanie McDaniel, Brandon Waggoner
 game-ball: Jermaine Jackson, Kris Kostura

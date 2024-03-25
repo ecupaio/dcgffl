@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5109 vs 5108
-teams_score:
-- team: 5109
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Yellow vs S14 White
+teams-score:
+- team: _teams/s14-yellow.md
   score:
-- team: 5108
+- team: _teams/s14-white.md
   score: 20
 mvp: John C. & Rob C.
 game-ball: Scott S. & Chris C.

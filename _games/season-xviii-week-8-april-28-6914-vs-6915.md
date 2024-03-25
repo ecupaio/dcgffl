@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6914 vs 6915
-teams_score:
-- team: 6914
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 A Team Has No Name vs S18 Limey
+  Wankers
+teams-score:
+- team: _teams/forest-green.md
   score:
-- team: 6915
+- team: _teams/lime.md
   score: 24
 mvp: Danny Hughes (Forest),Jake Bart (Lime)
 game-ball: ''

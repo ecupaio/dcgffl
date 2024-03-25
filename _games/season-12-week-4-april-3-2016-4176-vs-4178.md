@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4176 vs 4178
-teams_score:
-- team: 4176
+title: Season XX Canceled - DCGFFL - S12 Kelly Green vs S12 Sky Blue
+teams-score:
+- team: _teams/s12-kelly-green.md
   score: 20
-- team: 4178
+- team: _teams/s12-sky-blue.md
   score: 26
 mvp: Greg C. (Kelly); Sheerod W. (Sky Blue)
 game-ball: Matt P. (Kelly); Jens P. (Sky Blue)

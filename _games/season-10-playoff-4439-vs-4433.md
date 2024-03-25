@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4439 vs 4433
-teams_score:
-- team: 4439
+title: Season XX Canceled - DCGFFL - S10 Royal vs S10 Navy
+teams-score:
+- team: _teams/s10-royal.md
   score:
-- team: 4433
+- team: _teams/s10-navy.md
   score: 13
 mvp: Miles S. (Royal), Barry M. (Navy)
 game-ball: N/A

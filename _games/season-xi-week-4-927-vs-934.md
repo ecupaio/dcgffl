@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 927 vs 934
-teams_score:
-- team: 927
+title: Season XX Canceled - DCGFFL - S11 Forest vs S11 Pink
+teams-score:
+- team: _teams/s11-forest.md
   score: 35
-- team: 934
+- team: _teams/s11-pink.md
   score: 34
 mvp: AJ A. (Forest), Max R. (Pink)
 game-ball: ''

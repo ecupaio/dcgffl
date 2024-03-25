@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 925 vs 928
-teams_score:
-- team: 925
+title: Season XX Canceled - DCGFFL - S11 Leaf vs S11 Lime
+teams-score:
+- team: _teams/s11-leaf.md
   score: 39
-- team: 928
+- team: _teams/s11-lime.md
   score: 20
 mvp: Brian Donohoe (Leaf), Adam Martin (Lime)
 game-ball: ''

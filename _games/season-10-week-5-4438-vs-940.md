@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4438 vs 940
-teams_score:
-- team: 4438
+title: Season XX Canceled - DCGFFL - S10 Red vs S11 Power Blue
+teams-score:
+- team: _teams/s10-red.md
   score: 39
-- team: 940
+- team: _teams/s11-power-blue.md
   score: 20
 mvp: " Alonzo M. (Red), Marcus B. (Power Blue)"
 game-ball: N/A

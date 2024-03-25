@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6918 vs 6910
-teams_score:
-- team: 6918
+title: Season XX Canceled - DCGFFL - S18 Grab My Graphite vs S18 LTBA
+teams-score:
+- team: _teams/graphite.md
   score:
-- team: 6910
+- team: _teams/baby-blue.md
   score: 12
 mvp: Dameron Rendell (Graphite), Kori Saunders (Baby Blue)
 game-ball: ''

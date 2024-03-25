@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4463 vs 4458
-teams_score:
-- team: 4463
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Navy vs S09 Graphite
+teams-score:
+- team: _teams/s09-navy-rear-admirals.md
   score:
-- team: 4458
+- team: _teams/s09-graphite.md
   score: 30
 mvp: Will Chappell (Navy), Tony Stewart (Graphite)
 game-ball: N/A

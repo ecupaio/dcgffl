@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4433 vs 4439
-teams_score:
-- team: 4433
+title: Season XX Canceled - DCGFFL - S10 Navy vs S10 Royal
+teams-score:
+- team: _teams/s10-navy.md
   score: 38
-- team: 4439
+- team: _teams/s10-royal.md
   score: 29
 mvp: Tyler E. (Navy), Linda P. (Royal)
 game-ball: N/A

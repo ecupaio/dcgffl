@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7034 vs 7020
-teams_score:
-- team: 7034
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Dem Beets vs S19 Fancy Gay Pirates
+teams-score:
+- team: _teams/maroon-2.md
   score: 33
-- team: 7020
+- team: _teams/carolina-blue.md
   score: 32
 mvp: Kevin, Gerard
 game-ball: Jim, Von

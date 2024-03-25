@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - 5681 vs 5688
-teams_score:
-- team: 5681
+title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - S15 Black vs S15 Orange
+teams-score:
+- team: _teams/s15-black.md
   score: 42
-- team: 5688
+- team: _teams/s15-orange.md
   score: 12
 mvp: Derek Brown, Will Chappell
 game-ball: Remington Layne, CJ Babb

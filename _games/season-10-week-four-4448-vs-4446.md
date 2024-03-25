@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4448 vs 4446
-teams_score:
-- team: 4448
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Vegas Gold vs S10 Teal
+teams-score:
+- team: _teams/s10-vegas-gold.md
   score:
-- team: 4446
+- team: _teams/s10-teal.md
   score: 24
 mvp: Keith C. (Vegas Gold), Jayme F. (Teal)
 game-ball: N/A

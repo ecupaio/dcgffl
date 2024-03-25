@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5683 vs 5684
-teams_score:
-- team: 5683
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Gold vs S15 Graphite
+teams-score:
+- team: _teams/s15-gold.md
   score: 19
-- team: 5684
+- team: _teams/s15-graphite.md
   score: 26
 mvp: Brendan McFarland, Vinnie DeRight
 game-ball: Jermaine Jackson, Taylor Butler

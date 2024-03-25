@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5680 vs 5681
-teams_score:
-- team: 5680
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Baby Blue vs S15 Black
+teams-score:
+- team: _teams/s15-baby-blue.md
   score: 24
-- team: 5681
+- team: _teams/s15-black.md
   score: 36
 mvp: Adam Robbins, Jordan Anderson
 game-ball: Brandon Waggoner, Max Rothschild

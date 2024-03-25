@@ -1,9 +1,9 @@
 ---
-title: Season 8 - Semifinals & Super Blow (May 11, 2014) - DCGFFL - 4588 vs 4585
-teams_score:
-- team: 4588
+title: Season 8 - Semifinals & Super Blow (May 11, 2014) - DCGFFL - undefined vs undefined
+teams-score:
+- team: ''
   score:
-- team: 4585
+- team: ''
   score:
 mvp: 'Pacific: Kevin Kostyk; Lime: Dameron Rendell'
 game-ball: N/A

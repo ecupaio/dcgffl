@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4184 vs 4172
-teams_score:
-- team: 4184
+title: Season XX Canceled - DCGFFL - S12 Graphite vs S12 Gold
+teams-score:
+- team: _teams/s12-graphite.md
   score:
-- team: 4172
+- team: _teams/s12-gold.md
   score: 14
 mvp: ''
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4809 vs 4820
-teams_score:
-- team: 4809
+title: Season XX Canceled - DCGFFL - S13 Baby Blue vs S13 Midnight Blue
+teams-score:
+- team: _teams/s13-baby-blue.md
   score:
-- team: 4820
+- team: _teams/s13-midnight-blue.md
   score: 6
 mvp: J. Clevenger (B. Blue); L. Walton (Midnight)
 game-ball: C. Rybicki (B. Blue); A. Pratt (Midnight)

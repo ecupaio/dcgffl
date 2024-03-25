@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 925 vs 929
-teams_score:
-- team: 925
+title: Season XX Canceled - DCGFFL - S11 Leaf vs S11 Orange
+teams-score:
+- team: _teams/s11-leaf.md
   score:
-- team: 929
+- team: _teams/s11-orange.md
   score:
 mvp: ''
 game-ball: ''

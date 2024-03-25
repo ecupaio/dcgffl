@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6705 vs 6706
-teams_score:
-- team: 6705
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 X’s and Hoes vs S17 Silver
+  Fox Holes
+teams-score:
+- team: _teams/s17-royal-blue.md
   score:
-- team: 6706
+- team: _teams/s17-silver.md
   score: 0
 mvp: N/A
 game-ball: N/A

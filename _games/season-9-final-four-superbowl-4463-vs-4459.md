@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Final Four / SuperBowl (November 23, 2014) - DCGFFL - 4463 vs 4459
-teams_score:
-- team: 4463
+title: Season 9 - Final Four / SuperBowl (November 23, 2014) - DCGFFL - S09 Navy vs
+  S09 Leaf Green
+teams-score:
+- team: _teams/s09-navy-rear-admirals.md
   score:
-- team: 4459
+- team: _teams/s09-leaf-green.md
   score: 26
 mvp: John Woods (Navy), Markco Stroman (Leaf)
 game-ball: N/A

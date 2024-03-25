@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 5 (March 31) - DCGFFL - 6908 vs 6910
-teams_score:
-- team: 6908
+title: Season XVIII - Week 5 (March 31) - DCGFFL - S18 Disrespectful Wit It vs S18
+  LTBA
+teams-score:
+- team: _teams/s18-gold.md
   score:
-- team: 6910
+- team: _teams/baby-blue.md
   score: 0
 mvp: Dan Vladimer (Gold), Brett Chambers (Baby Blue)
 game-ball: ''

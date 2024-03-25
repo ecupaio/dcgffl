@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4423 vs 4422
-teams_score:
-- team: 4423
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Camo Grey vs S10 Burnt Orange
+teams-score:
+- team: _teams/s10-camo-grey.md
   score:
-- team: 4422
+- team: _teams/s10-burnt-orange.md
   score: 13
 mvp: Matt M. (Camo Grey) Mike Z. (Burnt Orange)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 926 vs 925
-teams_score:
-- team: 926
+title: Season XX Canceled - DCGFFL - S11 Graphite vs S11 Leaf
+teams-score:
+- team: _teams/s11-graphite.md
   score: 25
-- team: 925
+- team: _teams/s11-leaf.md
   score: 12
 mvp: Andrew Esquer (Graphite), Brandon Benjamin (Leaf)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5091 vs 5092
-teams_score:
-- team: 5091
+title: Season XX Canceled - DCGFFL - S14 Black vs S14 Cerulean
+teams-score:
+- team: _teams/s14-black.md
   score: 27
-- team: 5092
+- team: _teams/s14-cerulean.md
   score: 19
 mvp: Aaron, Kip
 game-ball: Kevin, Jim

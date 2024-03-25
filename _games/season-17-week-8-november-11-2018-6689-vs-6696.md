@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6689 vs 6696
-teams_score:
-- team: 6689
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Grill on Grill Action
+  vs S17 Biscuits & Navy
+teams-score:
+- team: _teams/s17-charcoal.md
   score:
-- team: 6696
+- team: _teams/s17-navy.md
   score: 7
 mvp: D. Allen (Charcoal), B. Donohoe (Navy)
 game-ball: S. McDaniel (Charcoal), R. Harrison (Navy)

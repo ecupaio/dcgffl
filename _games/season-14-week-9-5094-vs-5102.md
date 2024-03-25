@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5094 vs 5102
-teams_score:
-- team: 5094
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Crimson vs S14 Pink
+teams-score:
+- team: _teams/s14-crimson.md
   score: 28
-- team: 5102
+- team: _teams/s14-pink.md
   score: 18
 mvp: Hines, Carter
 game-ball: 'Todd, '

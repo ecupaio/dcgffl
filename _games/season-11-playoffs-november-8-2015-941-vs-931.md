@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 941 vs 931
-teams_score:
-- team: 941
+title: Season XX Canceled - DCGFFL - S11 Teal vs S11 Baby Blue
+teams-score:
+- team: _teams/s11-teal.md
   score:
-- team: 931
+- team: _teams/s11-baby-blue.md
   score:
 mvp: ''
 game-ball: ''

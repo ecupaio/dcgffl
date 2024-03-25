@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4814 vs 4815
-teams_score:
-- team: 4814
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Forest Green vs
+  S13 Fuchsia
+teams-score:
+- team: _teams/s13-forest.md
   score:
-- team: 4815
+- team: _teams/s13-fuchsia.md
   score: 28
 mvp: C. Babb (Forest), J. Connolly (Fuchsia)
 game-ball: J. Heron (Forest); M. Ta-a (Fuchsia)

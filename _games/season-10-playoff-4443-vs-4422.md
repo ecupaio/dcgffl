@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4443 vs 4422
-teams_score:
-- team: 4443
+title: Season XX Canceled - DCGFFL - S10 Sky Blue vs S10 Burnt Orange
+teams-score:
+- team: _teams/s10-sky-blue.md
   score:
-- team: 4422
+- team: _teams/s10-burnt-orange.md
   score: 28
 mvp: Adam M. (Sky Blue), John B. (Burnt Orange)
 game-ball: N/A

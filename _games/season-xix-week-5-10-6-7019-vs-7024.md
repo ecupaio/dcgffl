@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7019 vs 7024
-teams_score:
-- team: 7019
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Black vs S19 Silver Rod Hoes
+teams-score:
+- team: _teams/black-2.md
   score: 37
-- team: 7024
+- team: _teams/silver.md
   score: 20
 mvp: Alex, Ty
 game-ball: Ryan, Mark

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5094 vs 5095
-teams_score:
-- team: 5094
+title: Season XX Canceled - DCGFFL - S14 Crimson vs S14 Forest
+teams-score:
+- team: _teams/s14-crimson.md
   score: 44
-- team: 5095
+- team: _teams/s14-forest.md
   score: 12
 mvp: Hines, Marvin
 game-ball: Todd, Chris

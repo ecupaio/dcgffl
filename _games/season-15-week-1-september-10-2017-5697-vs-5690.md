@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - 5697 vs 5690
-teams_score:
-- team: 5697
+title: Season 15 – Week 1 (September 10, 2017) - DCGFFL - S15 Slate vs S15 Power Blue
+teams-score:
+- team: _teams/s15-slate.md
   score: 25
-- team: 5690
+- team: _teams/s15-power-blue.md
   score: 26
 mvp: Jamar Walker, Aaron Beck
 game-ball: Ryan Boyle, Tony Smith

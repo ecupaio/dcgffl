@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5684 vs 5694
-teams_score:
-- team: 5684
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Graphite vs S15 Royal
+  Blue
+teams-score:
+- team: _teams/s15-graphite.md
   score: 26
-- team: 5694
+- team: _teams/s15-royal-blue.md
   score: 24
 mvp: Vinnie DeRight, OJ
 game-ball: Jim Roll, Greg Carson

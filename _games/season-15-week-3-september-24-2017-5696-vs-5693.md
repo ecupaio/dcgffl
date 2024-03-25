@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5696 vs 5693
-teams_score:
-- team: 5696
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Sand vs S15 Red
+teams-score:
+- team: _teams/s15-sand.md
   score: 25
-- team: 5693
+- team: _teams/s15-red.md
   score: 13
 mvp: Mike Osorio, Andy Allen
 game-ball: Daniel Haney, Ken Mitchell

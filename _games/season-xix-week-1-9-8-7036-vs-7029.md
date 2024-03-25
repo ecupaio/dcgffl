@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 1 (9/8) - DCGFFL - 7036 vs 7029
-teams_score:
-- team: 7036
+title: Season XIX - Week 1 (9/8) - DCGFFL - S19 Raw Pink vs S19 Slab On My Knab
+teams-score:
+- team: _teams/neon-pink.md
   score: 33
-- team: 7029
+- team: _teams/concrete-grey.md
   score: 27
 mvp: Will (Pink), Dan (Grey)
 game-ball: Kyle (Pink), Caleb (Grey)

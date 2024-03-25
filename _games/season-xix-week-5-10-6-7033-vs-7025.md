@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7033 vs 7025
-teams_score:
-- team: 7033
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Sour Pass Kids vs S19 Yee-Hoes!
+teams-score:
+- team: _teams/lime-2.md
   score: 14
-- team: 7025
+- team: _teams/texas-orange.md
   score: 31
 mvp: Mark, Devaughn
 game-ball: Bradley, Jeff

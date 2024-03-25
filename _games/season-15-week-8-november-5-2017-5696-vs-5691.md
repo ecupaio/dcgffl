@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - 5696 vs 5691
-teams_score:
-- team: 5696
+title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - S15 Sand vs S15 Power Yellow
+teams-score:
+- team: _teams/s15-sand.md
   score: 27
-- team: 5691
+- team: _teams/s15-power-yellow.md
   score: 6
 mvp: Greg Carter, Enrique Perez
 game-ball: Mark Hofberg, David Gottlieb

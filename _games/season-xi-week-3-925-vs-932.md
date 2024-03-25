@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 925 vs 932
-teams_score:
-- team: 925
+title: Season XX Canceled - DCGFFL - S11 Leaf vs S11 Purple
+teams-score:
+- team: _teams/s11-leaf.md
   score: 39
-- team: 932
+- team: _teams/s11-purple.md
   score: 27
 mvp: Brian Donohoe (Leaf), Jack Miles (Purple)
 game-ball: ''

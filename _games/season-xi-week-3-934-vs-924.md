@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 934 vs 924
-teams_score:
-- team: 934
+title: Season XX Canceled - DCGFFL - S11 Pink vs S11 Black
+teams-score:
+- team: _teams/s11-pink.md
   score: 48
-- team: 924
+- team: _teams/s11-black.md
   score: 20
 mvp: Walter S. (Pink), Butters (Black)
 game-ball: ''

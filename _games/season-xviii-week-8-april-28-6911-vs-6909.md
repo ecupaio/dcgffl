@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6911 vs 6909
-teams_score:
-- team: 6911
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 Not Today Satan vs S18 Rust
+  and Bust
+teams-score:
+- team: _teams/red.md
   score:
-- team: 6909
+- team: _teams/maroon.md
   score: 12
 mvp: Bradley Williams (Red), Antonio Campanelli (Maroon)
 game-ball: ''

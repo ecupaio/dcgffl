@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4825 vs 4818
-teams_score:
-- team: 4825
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Purple vs S13 Lime Green
+teams-score:
+- team: _teams/s13-purple.md
   score:
-- team: 4818
+- team: _teams/s13-lime.md
   score: 26
 mvp: M. Hofberg (Purple); M. Washington (Lime)
 game-ball: M. Davis (Purple); N. Kasparek (Lime)

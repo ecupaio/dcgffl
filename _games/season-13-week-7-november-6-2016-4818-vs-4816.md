@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4818 vs 4816
-teams_score:
-- team: 4818
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Lime Green vs S13 Gold
+teams-score:
+- team: _teams/s13-lime.md
   score:
-- team: 4816
+- team: _teams/s13-gold.md
   score: 26
 mvp: N. Bonard (Lime); A. Hines (Gold)
 game-ball: J. Richards (Lime); M. Sauer (Lime)

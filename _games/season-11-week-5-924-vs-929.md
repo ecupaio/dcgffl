@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 924 vs 929
-teams_score:
-- team: 924
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Black vs S11 Orange
+teams-score:
+- team: _teams/s11-black.md
   score: 27
-- team: 929
+- team: _teams/s11-orange.md
   score: 12
 mvp: Linda Pratt (Black), Baxter O'Brien (Orange)
 game-ball: ''

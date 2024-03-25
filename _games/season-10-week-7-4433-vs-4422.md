@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4433 vs 4422
-teams_score:
-- team: 4433
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Navy vs S10 Burnt Orange
+teams-score:
+- team: _teams/s10-navy.md
   score:
-- team: 4422
+- team: _teams/s10-burnt-orange.md
   score: 18
 mvp: Mike C. (Navy), John B. (Burnt Orange)
 game-ball: N/A

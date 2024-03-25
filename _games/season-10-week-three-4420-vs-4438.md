@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4420 vs 4438
-teams_score:
-- team: 4420
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Black vs S10 Red
+teams-score:
+- team: _teams/s10-black.md
   score: 20
-- team: 4438
+- team: _teams/s10-red.md
   score: 12
 mvp: Alex P. (Black); Long D. (Red)
 game-ball: N/A

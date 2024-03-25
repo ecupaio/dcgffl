@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4469 vs 4468
-teams_score:
-- team: 4469
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Teal vs S09 Royal Blue
+teams-score:
+- team: _teams/s09-teal.md
   score: 25
-- team: 4468
+- team: _teams/s09-royal-blue-these-hoes-aint-royal.md
   score: 21
 mvp: 'Teal: Jared Lucas  /  Royal: Stephen Tackney'
 game-ball: N/A

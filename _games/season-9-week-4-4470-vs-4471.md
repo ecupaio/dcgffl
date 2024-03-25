@@ -1,9 +1,10 @@
 ---
-title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - 4470 vs 4471
-teams_score:
-- team: 4470
+title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Vegas Gold vs S09
+  White
+teams-score:
+- team: _teams/s09-vegas-gold.md
   score:
-- team: 4471
+- team: _teams/s09-white.md
   score: 13
 mvp: Brian Sparrow (Vegas), Josh Richards (White)
 game-ball: N/A

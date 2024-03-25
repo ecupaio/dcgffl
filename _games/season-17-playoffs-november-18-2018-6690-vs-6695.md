@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6690 vs 6695
-teams_score:
-- team: 6690
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Call Me By Your Team
+  Name vs S17 L.I.M.E.
+teams-score:
+- team: _teams/s17-columbia-blue.md
   score:
-- team: 6695
+- team: _teams/s17-neon-green.md
   score: 13
 mvp: J. Steslicki (Columbia Blue), J. Anderson (Neon Green)
 game-ball: T. Stewart (Columbia Blue), J. Piferoen (Neon Green)

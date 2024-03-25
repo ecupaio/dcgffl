@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4425 vs 4445
-teams_score:
-- team: 4425
+title: Season XX Canceled - DCGFFL - S10 Fuchsia vs S10 Slate
+teams-score:
+- team: _teams/s10-fuchsia.md
   score: 31
-- team: 4445
+- team: _teams/s10-slate.md
   score: 6
 mvp: William J (Fuchsia), Patrick K (Slate)
 game-ball: N/A

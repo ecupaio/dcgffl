@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - 5696 vs 5686
-teams_score:
-- team: 5696
+title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - S15 Sand vs S15 Navy
+teams-score:
+- team: _teams/s15-sand.md
   score: 25
-- team: 5686
+- team: _teams/s15-navy.md
   score: 20
 mvp: David Asche, Brian Donohoe
 game-ball: Greg Carter, Baxter O'Brien

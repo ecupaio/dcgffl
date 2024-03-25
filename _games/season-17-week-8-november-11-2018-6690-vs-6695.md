@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6690 vs 6695
-teams_score:
-- team: 6690
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Call Me By Your Team
+  Name vs S17 L.I.M.E.
+teams-score:
+- team: _teams/s17-columbia-blue.md
   score:
-- team: 6695
+- team: _teams/s17-neon-green.md
   score: 39
 mvp: J. Steslicki (Columbia), C. Burrell (Neon Green)
 game-ball: J. Deters (Columbia), J. Anderson (Neon Green)

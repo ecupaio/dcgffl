@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7030 vs 7036
-teams_score:
-- team: 7030
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Deep State Orange vs S19 Raw Pink
+teams-score:
+- team: _teams/deep-orange.md
   score: 32
-- team: 7036
+- team: _teams/neon-pink.md
   score: 33
 mvp: Adam, Antwon
 game-ball: Tony, Brian

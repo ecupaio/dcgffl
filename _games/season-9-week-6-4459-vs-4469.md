@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - 4459 vs 4469
-teams_score:
-- team: 4459
+title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Leaf Green vs S09
+  Teal
+teams-score:
+- team: _teams/s09-leaf-green.md
   score:
-- team: 4469
+- team: _teams/s09-teal.md
   score: 18
 mvp: Charlie Salem (Teal), Daniel Homberg (Leaf)
 game-ball: N/A

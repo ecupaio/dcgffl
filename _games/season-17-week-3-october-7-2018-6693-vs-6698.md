@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6693 vs 6698
-teams_score:
-- team: 6693
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Hunter Green vs S17 Flaming
+  Hot Cheeto Dust
+teams-score:
+- team: _teams/s17-hunter-green.md
   score:
-- team: 6698
+- team: _teams/s17-orange.md
   score: 19
 mvp: Not Attributed
 game-ball: Not Attributed

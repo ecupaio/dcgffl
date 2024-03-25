@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4813 vs 4823
-teams_score:
-- team: 4813
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Charcoal vs S13 Pacific
+  Blue (Pacific Blue Rimmers )
+teams-score:
+- team: _teams/s13-charcoal.md
   score:
-- team: 4823
+- team: _teams/s13-pacific-blue.md
   score: 18
 mvp: C. Burrell (Charcoal); J. Boyd (Pacific)
 game-ball: D. Honberg (Charcoal); A. Lubash (Pacific)

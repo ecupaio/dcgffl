@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4181 vs 4182
-teams_score:
-- team: 4181
+title: Season XX Canceled - DCGFFL - S12 Orange vs S12 Royal Blue
+teams-score:
+- team: _teams/s12-orange.md
   score: 25
-- team: 4182
+- team: _teams/s12-royal-blue.md
   score: 26
 mvp: OJ (Royal Blue); Sean K. (Orange)
 game-ball: 'Jeremy S. (Royal Blue); Lindsey W. (Orange) '

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6700 vs 6699
-teams_score:
-- team: 6700
+title: Season XX Canceled - DCGFFL - undefined vs S17 Pink
+teams-score:
+- team: ''
   score:
-- team: 6699
+- team: _teams/s17-pink.md
   score: 25
 mvp: N. Eckert (P. Blue); T. Tullius (Pink)
 game-ball: M. Graf (P. Blue); S. Shaginaw (Pink)

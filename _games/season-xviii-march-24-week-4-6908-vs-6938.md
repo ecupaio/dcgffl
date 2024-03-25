@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 4 (March 24) - DCGFFL - 6908 vs 6938
-teams_score:
-- team: 6908
+title: Season XVIII - Week 4 (March 24) - DCGFFL - S18 Disrespectful Wit It vs S18
+  Wicked Bitches of the West
+teams-score:
+- team: _teams/s18-gold.md
   score: 41
-- team: 6938
+- team: _teams/s18-kelly.md
   score: 38
 mvp: Brian Donohoe (Gold), Oliver Jacobs (Kelly Green)
 game-ball: ''

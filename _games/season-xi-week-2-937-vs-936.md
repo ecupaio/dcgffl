@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - 937 vs 936
-teams_score:
-- team: 937
+title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - S11 Gold vs S11 Maroon
+teams-score:
+- team: _teams/s11-gold.md
   score: 20
-- team: 936
+- team: _teams/s11-maroon.md
   score: 19
 mvp: Adam Strasberg (Gold), Jason Weaver (Maroon)
 game-ball: ''

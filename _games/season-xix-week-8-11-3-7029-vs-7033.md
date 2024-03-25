@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7029 vs 7033
-teams_score:
-- team: 7029
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Slab On My Knab vs S19 Sour Pass
+  Kids
+teams-score:
+- team: _teams/concrete-grey.md
   score: 32
-- team: 7033
+- team: _teams/lime-2.md
   score: 22
 mvp: Dan, Rob
 game-ball: Dell, Bradley

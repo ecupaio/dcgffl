@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4425 vs 4427
-teams_score:
-- team: 4425
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Fuchsia vs S10 Gold
+teams-score:
+- team: _teams/s10-fuchsia.md
   score:
-- team: 4427
+- team: _teams/s10-gold.md
   score: 21
 mvp: Tyler F. (Fuchsia), Will L. (Gold)
 game-ball: N/A

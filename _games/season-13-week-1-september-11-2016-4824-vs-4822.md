@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4824 vs 4822
-teams_score:
-- team: 4824
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Power Blue vs S13 Orange
+teams-score:
+- team: _teams/s13-power-blue.md
   score:
-- team: 4822
+- team: _teams/s13-orange.md
   score: 21
 mvp: R. Legg-Benevides (Power Blue); G. Cline (Orange)
 game-ball: T. Baggett (Power Blue); S. Serio (Orange)

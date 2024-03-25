@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4422 vs 4437
-teams_score:
-- team: 4422
+title: Season XX Canceled - DCGFFL - S10 Burnt Orange vs S10 Purple
+teams-score:
+- team: _teams/s10-burnt-orange.md
   score: 28
-- team: 4437
+- team: _teams/s10-purple.md
   score: 24
 mvp: Sam S (Orange), Howard Y (Purple)
 game-ball: N/A

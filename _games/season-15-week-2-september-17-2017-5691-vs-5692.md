@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5691 vs 5692
-teams_score:
-- team: 5691
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Power Yellow vs S15
+  Purple
+teams-score:
+- team: _teams/s15-power-yellow.md
   score: 33
-- team: 5692
+- team: _teams/s15-purple.md
   score: 29
 mvp: Marvin Washington, Jason Deters
 game-ball: Mecha Santos, Tim Adams

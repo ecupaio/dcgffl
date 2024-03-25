@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5093 vs 5105
-teams_score:
-- team: 5093
+title: Season XX Canceled - DCGFFL - S14 Charcoal vs S14 Sky Blue
+teams-score:
+- team: _teams/s14-charcoal.md
   score: 6
-- team: 5105
+- team: _teams/s14-sky.md
   score: 19
 mvp: Marcus, Matt M
 game-ball: Kori, Andy

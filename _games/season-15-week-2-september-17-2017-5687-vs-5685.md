@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5687 vs 5685
-teams_score:
-- team: 5687
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Neon Green vs S15 Kelly
+  Green
+teams-score:
+- team: _teams/s15-neon-green.md
   score: 12
-- team: 5685
+- team: _teams/s15-kelly-green.md
   score: 14
 mvp: Alex Harvey, Andrew Mertens
 game-ball: Kevin Hamilton, Chase Noye

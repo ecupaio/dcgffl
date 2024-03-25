@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4458 vs 4464
-teams_score:
-- team: 4458
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Graphite vs S09 Orange
+teams-score:
+- team: _teams/s09-graphite.md
   score: 12
-- team: 4464
+- team: _teams/s09-orange.md
   score: 35
 mvp: 'Graphite: Sam Benton  /  Orange:  Patrick Kozak'
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4828 vs 4818
-teams_score:
-- team: 4828
+title: Season XX Canceled - DCGFFL - S13 Safety Orange vs S13 Lime Green
+teams-score:
+- team: _teams/s13-safety-orange.md
   score:
-- team: 4818
+- team: _teams/s13-lime.md
   score: 20
 mvp: B. Mauck (S. Orange); J. Richards (Lime)
 game-ball: P. McIntyre (S. Orange); M. Washington (Lime)

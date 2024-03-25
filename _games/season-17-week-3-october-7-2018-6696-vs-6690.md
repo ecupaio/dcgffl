@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6696 vs 6690
-teams_score:
-- team: 6696
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Biscuits & Navy vs S17
+  Call Me By Your Team Name
+teams-score:
+- team: _teams/s17-navy.md
   score:
-- team: 6690
+- team: _teams/s17-columbia-blue.md
   score: 19
 mvp: B. Hunt (Navy); S. Edwards (Columbia)
 game-ball: S. Hiebing (Navy); W. Chappell (Columbia)

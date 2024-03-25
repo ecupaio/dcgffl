@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4818 vs 4817
-teams_score:
-- team: 4818
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Lime Green vs S13
+  Kelly Green
+teams-score:
+- team: _teams/s13-lime.md
   score:
-- team: 4817
+- team: _teams/s13-kelly.md
   score: 0
 mvp: M. Washington (Lime); A. Carr (Kelly)
 game-ball: J. Grossman (Lime); B. Watkajtys (Kelly)

@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5691 vs 5686
-teams_score:
-- team: 5691
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Power Yellow vs S15
+  Navy
+teams-score:
+- team: _teams/s15-power-yellow.md
   score: 31
-- team: 5686
+- team: _teams/s15-navy.md
   score: 20
 mvp: James Santos, Alex Payne
 game-ball: Fernando Herrera, JJ Johnson

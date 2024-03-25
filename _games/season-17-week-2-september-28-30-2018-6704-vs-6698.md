@@ -1,9 +1,10 @@
 ---
-title: Season XX Canceled - DCGFFL - 6704 vs 6698
-teams_score:
-- team: 6704
+title: Season XX Canceled - DCGFFL - S17 Reddy, Ready, Red vs S17 Flaming Hot Cheeto
+  Dust
+teams-score:
+- team: _teams/s17-red.md
   score:
-- team: 6698
+- team: _teams/s17-orange.md
   score: 6
 mvp: M. Hofberg (Red); J. Hendee (Orange)
 game-ball: J. Walker (Red); K. Miller (Orange)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 924 vs 927
-teams_score:
-- team: 924
+title: Season XX Canceled - DCGFFL - S11 Black vs S11 Forest
+teams-score:
+- team: _teams/s11-black.md
   score: 41
-- team: 927
+- team: _teams/s11-forest.md
   score: 19
 mvp: Sam Brown (Black), Andy L. (Forest)
 game-ball: ''

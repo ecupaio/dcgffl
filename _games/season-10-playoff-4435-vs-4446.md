@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4435 vs 4446
-teams_score:
-- team: 4435
+title: Season XX Canceled - DCGFFL - S10 Power Yellow vs S10 Teal
+teams-score:
+- team: _teams/s10-power-yellow.md
   score:
-- team: 4446
+- team: _teams/s10-teal.md
   score: 13
 mvp: Marlon D. (Power Yellow), TJ R. (Teal)
 game-ball: N/A

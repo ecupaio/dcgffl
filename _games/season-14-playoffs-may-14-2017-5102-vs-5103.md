@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5102 vs 5103
-teams_score:
-- team: 5102
+title: Season XX Canceled - DCGFFL - S14 Pink vs S14 Red
+teams-score:
+- team: _teams/s14-pink.md
   score: 42
-- team: 5103
+- team: _teams/s14-red.md
   score: 12
 mvp: Greg C, Pedro
 game-ball: Cline, Ray

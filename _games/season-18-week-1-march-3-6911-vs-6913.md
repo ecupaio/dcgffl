@@ -1,9 +1,9 @@
 ---
-title: Season XVIII - Week 1 (March 3) - DCGFFL - 6911 vs 6913
-teams_score:
-- team: 6911
+title: Season XVIII - Week 1 (March 3) - DCGFFL - S18 Not Today Satan vs S18 ClapBlacks
+teams-score:
+- team: _teams/red.md
   score: 22
-- team: 6913
+- team: _teams/black.md
   score: 20
 mvp: Andy (Red); Greg (Black)
 game-ball: Steven (Red); Steven (Black)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4827 vs 4825
-teams_score:
-- team: 4827
+title: Season XX Canceled - DCGFFL - S13 Royal Blue vs S13 Purple
+teams-score:
+- team: _teams/s13-royal-blue.md
   score:
-- team: 4825
+- team: _teams/s13-purple.md
   score: 20
 mvp: D. Alexander (Royal), M. Japinga (Purple)
 game-ball: M. Zgoda (Royal); C. Hobbs (Purple)

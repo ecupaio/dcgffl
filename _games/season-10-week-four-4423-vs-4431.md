@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4423 vs 4431
-teams_score:
-- team: 4423
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Camo Grey vs S10 Maroon
+teams-score:
+- team: _teams/s10-camo-grey.md
   score:
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 6
 mvp: Cole W. (Camo), Peter P. (Maroon)
 game-ball: N/A

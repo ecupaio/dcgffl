@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4812 vs 4809
-teams_score:
-- team: 4812
+title: Season XX Canceled - DCGFFL - S13 Brown vs S13 Baby Blue
+teams-score:
+- team: _teams/s13-brown.md
   score: 28
-- team: 4809
+- team: _teams/s13-baby-blue.md
   score: 26
 mvp: S. Karson (Brown), J. Blaney (Baby Blue)
 game-ball: K. Kostyk (Brown), M. Gander (Baby Blue)

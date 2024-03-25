@@ -1,9 +1,10 @@
 ---
-title: Season XX Canceled - DCGFFL - 7029 vs 7023
-teams_score:
-- team: 7029
+title: Season XX Canceled - DCGFFL - S19 Slab On My Knab vs S19 Bluevadas House of
+  PrEP CHambers
+teams-score:
+- team: _teams/concrete-grey.md
   score: 6
-- team: 7023
+- team: _teams/royal.md
   score: 45
 mvp: Tony, Scott
 game-ball: Ken, Josh

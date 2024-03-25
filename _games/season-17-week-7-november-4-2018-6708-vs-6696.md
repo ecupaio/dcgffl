@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6708 vs 6696
-teams_score:
-- team: 6708
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 White vs S17 Biscuits
+  & Navy
+teams-score:
+- team: _teams/s17-white.md
   score:
-- team: 6696
+- team: _teams/s17-navy.md
   score: 20
 mvp: P. Shilo (White), B. Hunt (Navy)
 game-ball: B. Burnheimer (White), C. Gillyard (Navy)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5099 vs 5091
-teams_score:
-- team: 5099
+title: Season XX Canceled - DCGFFL - S14 Navy vs S14 Black
+teams-score:
+- team: _teams/s14-navy.md
   score: 25
-- team: 5091
+- team: _teams/s14-black.md
   score: 40
 mvp: Andy, Kevin
 game-ball: Louis, Aaron

@@ -1,9 +1,10 @@
 ---
-title: Season XX Canceled - DCGFFL - 4826 vs 4823
-teams_score:
-- team: 4826
+title: Season XX Canceled - DCGFFL - S13 Red (RED HOTS) vs S13 Pacific Blue (Pacific
+  Blue Rimmers )
+teams-score:
+- team: _teams/s13-red.md
   score: 24
-- team: 4823
+- team: _teams/s13-pacific-blue.md
   score: 21
 mvp: A. Hackbarth (Red), C. Gillyard (Pacific)
 game-ball: A. Baidas (Red), F. Cheng (Pacific)

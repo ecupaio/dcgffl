@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4466 vs 4467
-teams_score:
-- team: 4466
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Purple vs S09 Red
+teams-score:
+- team: _teams/s09-purple.md
   score:
-- team: 4467
+- team: _teams/s09-red.md
   score: 12
 mvp: Howard Yuan (Purple), Jason Weaver (Red)
 game-ball: N/A

@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - 4454 vs 4458
-teams_score:
-- team: 4454
+title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Columbia Blue vs S09
+  Graphite
+teams-score:
+- team: _teams/s09-columbia-blue.md
   score:
-- team: 4458
+- team: _teams/s09-graphite.md
   score: 24
 mvp: B. Stokes (Columbia), Jake Carson (Graphite)
 game-ball: N/A

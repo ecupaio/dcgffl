@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4182 vs 4178
-teams_score:
-- team: 4182
+title: Season XX Canceled - DCGFFL - S12 Royal Blue vs S12 Sky Blue
+teams-score:
+- team: _teams/s12-royal-blue.md
   score:
-- team: 4178
+- team: _teams/s12-sky-blue.md
   score: 27
 mvp: ''
 game-ball: ''

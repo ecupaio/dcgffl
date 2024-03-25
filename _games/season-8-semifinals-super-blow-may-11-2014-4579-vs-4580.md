@@ -1,9 +1,9 @@
 ---
-title: Season 8 - Semifinals & Super Blow (May 11, 2014) - DCGFFL - 4579 vs 4580
-teams_score:
-- team: 4579
+title: Season 8 - Semifinals & Super Blow (May 11, 2014) - DCGFFL - undefined vs undefined
+teams-score:
+- team: ''
   score:
-- team: 4580
+- team: ''
   score:
 mvp: 'Carolina: ?; Dark Green: ?'
 game-ball: N/A

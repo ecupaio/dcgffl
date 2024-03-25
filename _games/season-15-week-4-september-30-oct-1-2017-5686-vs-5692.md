@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5686 vs 5692
-teams_score:
-- team: 5686
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Navy vs S15
+  Purple
+teams-score:
+- team: _teams/s15-navy.md
   score: 18
-- team: 5692
+- team: _teams/s15-purple.md
   score: 20
 mvp: Baxter O'Brien, Coach G
 game-ball: Ken Green, Tim Adams

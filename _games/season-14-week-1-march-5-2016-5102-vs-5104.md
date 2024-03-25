@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5102 vs 5104
-teams_score:
-- team: 5102
+title: Season XX Canceled - DCGFFL - S14 Pink vs S14 Royal Blue
+teams-score:
+- team: _teams/s14-pink.md
   score:
-- team: 5104
+- team: _teams/s14-royal.md
   score: 12
 mvp: M. Cline (Pink), C. McCloud (Royal)
 game-ball: R. Boyle (Pink), C. Noye (Royal)

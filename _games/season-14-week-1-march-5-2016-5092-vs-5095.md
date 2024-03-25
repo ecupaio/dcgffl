@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5092 vs 5095
-teams_score:
-- team: 5092
+title: Season XX Canceled - DCGFFL - S14 Cerulean vs S14 Forest
+teams-score:
+- team: _teams/s14-cerulean.md
   score:
-- team: 5095
+- team: _teams/s14-forest.md
   score: 18
 mvp: J. Connolly (Cerulean), L. James (Forest)
 game-ball: K. Malcolm (Cerulean), C. Wooley (Forest)

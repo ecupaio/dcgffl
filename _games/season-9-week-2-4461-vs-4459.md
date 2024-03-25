@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4461 vs 4459
-teams_score:
-- team: 4461
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Maroon vs S09 Leaf
+  Green
+teams-score:
+- team: _teams/s09-maroon.md
   score: 6
-- team: 4459
+- team: _teams/s09-leaf-green.md
   score: 44
 mvp: 'Maroon: Daniel Honeycutt / Leaf: Ryan Stitt'
 game-ball: N/A

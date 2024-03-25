@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4441 vs 4433
-teams_score:
-- team: 4441
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Silver vs S10 Navy
+teams-score:
+- team: _teams/s10-silver.md
   score:
-- team: 4433
+- team: _teams/s10-navy.md
   score: 22
 mvp: Nolan L. (Silver), Tyler E. (Navy)
 game-ball: N/A

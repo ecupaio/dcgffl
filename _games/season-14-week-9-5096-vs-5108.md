@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5096 vs 5108
-teams_score:
-- team: 5096
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Fuchsia vs S14 White
+teams-score:
+- team: _teams/s14-fuchsia.md
   score: 6
-- team: 5108
+- team: _teams/s14-white.md
   score: 48
 mvp: x, Andy Allen
 game-ball: Megan, Rob Casey

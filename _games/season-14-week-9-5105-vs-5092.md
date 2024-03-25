@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5105 vs 5092
-teams_score:
-- team: 5105
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Sky Blue vs S14 Cerulean
+teams-score:
+- team: _teams/s14-sky.md
   score: 14
-- team: 5092
+- team: _teams/s14-cerulean.md
   score: 25
 mvp: Rowe, Jim C
 game-ball: Jason, Lane

@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - 4819 vs 4825
-teams_score:
-- team: 4819
+title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Maroon vs
+  S13 Purple
+teams-score:
+- team: _teams/s13-maroon.md
   score:
-- team: 4825
+- team: _teams/s13-purple.md
   score: 27
 mvp: E. Binder (Maroon); M. Japinga (Purple)
 game-ball: A. Plier (Maroon); C. Hobbs (Purple)

@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6704 vs 6693
-teams_score:
-- team: 6704
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Reddy, Ready, Red vs S17
+  Hunter Green
+teams-score:
+- team: _teams/s17-red.md
   score:
-- team: 6693
+- team: _teams/s17-hunter-green.md
   score: 28
 mvp: M. Summerside (Red); B. Allen (Hunter)
 game-ball: D. Hughes (Red); C. Arnold (Hunter)

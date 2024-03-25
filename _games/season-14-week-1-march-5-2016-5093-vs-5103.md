@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5093 vs 5103
-teams_score:
-- team: 5093
+title: Season XX Canceled - DCGFFL - S14 Charcoal vs S14 Red
+teams-score:
+- team: _teams/s14-charcoal.md
   score:
-- team: 5103
+- team: _teams/s14-red.md
   score: 12
 mvp: S. Karson (Charcoal), B. Benjamin (Red)
 game-ball: D. Honberg (Charcoal), P. Suarez (Red)

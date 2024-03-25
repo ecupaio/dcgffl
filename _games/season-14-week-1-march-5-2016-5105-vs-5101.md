@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5105 vs 5101
-teams_score:
-- team: 5105
+title: Season XX Canceled - DCGFFL - S14 Sky Blue vs S14 Orange
+teams-score:
+- team: _teams/s14-sky.md
   score:
-- team: 5101
+- team: _teams/s14-orange.md
   score: 0
 mvp: A. Pratt (Sky), B. O'Brien (Orange)
 game-ball: A. Suggs (Sky), TJ Rhone (Orange)

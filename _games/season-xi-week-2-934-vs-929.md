@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - 934 vs 929
-teams_score:
-- team: 934
+title: Season 11 - Week 2 (September 18 & 20, 2015) - DCGFFL - S11 Pink vs S11 Orange
+teams-score:
+- team: _teams/s11-pink.md
   score: 32
-- team: 929
+- team: _teams/s11-orange.md
   score: 28
 mvp: Max Rothschild (Pink), Cody Barry (Orange)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - 4427 vs 4438
-teams_score:
-- team: 4427
+title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Gold vs S10 Red
+teams-score:
+- team: _teams/s10-gold.md
   score:
-- team: 4438
+- team: _teams/s10-red.md
   score: 21
 mvp: Bryan S. (Gold), Raul O. (Red)
 game-ball: N/A

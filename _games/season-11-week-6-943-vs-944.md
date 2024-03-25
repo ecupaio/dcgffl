@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 943 vs 944
-teams_score:
-- team: 943
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 Silver vs S11 Kelly
+  Green
+teams-score:
+- team: _teams/s11-silver.md
   score: 26
-- team: 944
+- team: _teams/s11-kelly-green.md
   score: 7
 mvp: Billy Kramer (Silver), Matt Nix (Kelly)
 game-ball: ''

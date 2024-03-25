@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4813 vs 4816
-teams_score:
-- team: 4813
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Charcoal vs S13
+  Gold
+teams-score:
+- team: _teams/s13-charcoal.md
   score:
-- team: 4816
+- team: _teams/s13-gold.md
   score: 6
 mvp: C. Burrell (Charcoal); W. Jackson (Gold)
 game-ball: J. Woods (Charcoal); J. Strieter (Gold)

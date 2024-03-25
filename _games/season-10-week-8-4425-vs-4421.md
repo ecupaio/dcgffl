@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4425 vs 4421
-teams_score:
-- team: 4425
+title: Season XX Canceled - DCGFFL - S10 Fuchsia vs S10 Dark Green
+teams-score:
+- team: _teams/s10-fuchsia.md
   score: 39
-- team: 4421
+- team: _teams/s10-dark-green.md
   score: 38
 mvp: Austin P (Fuchsia), Jack M (Green)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7025 vs 7021
-teams_score:
-- team: 7025
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Yee-Hoes! vs S19 Yellow D*ck Road
+teams-score:
+- team: _teams/texas-orange.md
   score: 40
-- team: 7021
+- team: _teams/neon-yellow.md
   score: 14
 mvp: Kori, Kevin
 game-ball: Jenna, Lindsey

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7025 vs 7026
-teams_score:
-- team: 7025
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 Yee-Hoes! vs S19 Tropic Like Its
+  Hot
+teams-score:
+- team: _teams/texas-orange.md
   score: 20
-- team: 7026
+- team: _teams/tropic.md
   score: 13
 mvp: Paul,Antonio
 game-ball: Jake,Ashley

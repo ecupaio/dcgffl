@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7019 vs 7026
-teams_score:
-- team: 7019
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Black vs S19 Tropic Like Its Hot
+teams-score:
+- team: _teams/black-2.md
   score: 14
-- team: 7026
+- team: _teams/tropic.md
   score: 12
 mvp: Matt C, Sean
 game-ball: Jayme, Udochi

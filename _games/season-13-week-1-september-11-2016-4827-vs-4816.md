@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4827 vs 4816
-teams_score:
-- team: 4827
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Royal Blue vs S13 Gold
+teams-score:
+- team: _teams/s13-royal-blue.md
   score:
-- team: 4816
+- team: _teams/s13-gold.md
   score: 40
 mvp: A. Reust (Royal); J. Davis (Gold)
 game-ball: B. Jones (Royal); A. Hines (Gold)

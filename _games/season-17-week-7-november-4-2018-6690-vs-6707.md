@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6690 vs 6707
-teams_score:
-- team: 6690
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Call Me By Your Team Name
+  vs S17 Teal
+teams-score:
+- team: _teams/s17-columbia-blue.md
   score:
-- team: 6707
+- team: _teams/s17-teal.md
   score: 19
 mvp: S. Cramer (Columbia), S. Kelly (Teal)
 game-ball: S. Edwards (Columbia), A. Campelli (Teal)

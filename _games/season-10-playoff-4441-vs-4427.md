@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4441 vs 4427
-teams_score:
-- team: 4441
+title: Season XX Canceled - DCGFFL - S10 Silver vs S10 Gold
+teams-score:
+- team: _teams/s10-silver.md
   score:
-- team: 4427
+- team: _teams/s10-gold.md
   score: 19
 mvp: " Nolan L. (Silver), Will L. (Gold)"
 game-ball: N/A

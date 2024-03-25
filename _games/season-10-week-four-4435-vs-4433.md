@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4435 vs 4433
-teams_score:
-- team: 4435
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Power Yellow vs S10 Navy
+teams-score:
+- team: _teams/s10-power-yellow.md
   score:
-- team: 4433
+- team: _teams/s10-navy.md
   score: 6
 mvp: Joe C. (Power Yellow), Tyler E. (Navy)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 927 vs 928
-teams_score:
-- team: 927
+title: Season XX Canceled - DCGFFL - S11 Forest vs S11 Lime
+teams-score:
+- team: _teams/s11-forest.md
   score: 42
-- team: 928
+- team: _teams/s11-lime.md
   score: 18
 mvp: AJ Anderson (Forest), MopTop (Lime)
 game-ball: ''

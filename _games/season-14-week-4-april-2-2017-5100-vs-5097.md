@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5100 vs 5097
-teams_score:
-- team: 5100
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Olive vs S14 Kelly Green
+teams-score:
+- team: _teams/s14-olive.md
   score:
-- team: 5097
+- team: _teams/s14-kelly.md
   score: 14
 mvp: Drew H. & OJ
 game-ball: Trevor & Ricky

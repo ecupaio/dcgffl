@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7027 vs 7024
-teams_score:
-- team: 7027
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 White Claw Wasted vs S19 Silver Rod
+  Hoes
+teams-score:
+- team: _teams/white.md
   score: 25
-- team: 7024
+- team: _teams/silver.md
   score: 26
 mvp: Kris, JC
 game-ball: Chris, Sam

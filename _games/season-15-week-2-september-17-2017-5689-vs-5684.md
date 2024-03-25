@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5689 vs 5684
-teams_score:
-- team: 5689
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Pink vs S15 Graphite
+teams-score:
+- team: _teams/s15-pink.md
   score: 13
-- team: 5684
+- team: _teams/s15-graphite.md
   score: 33
 mvp: BB, Jim Roll
 game-ball: Tom Comparetto, Peter Pham

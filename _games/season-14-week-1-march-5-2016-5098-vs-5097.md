@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5098 vs 5097
-teams_score:
-- team: 5098
+title: Season XX Canceled - DCGFFL - S14 Lime vs S14 Kelly Green
+teams-score:
+- team: _teams/s14-lime.md
   score:
-- team: 5097
+- team: _teams/s14-kelly.md
   score: 6
 mvp: V. DeRight (Lime), O. Jacob (Kelly)
 game-ball: T. Shadow (Lime), M. Pesesky (Kelly)

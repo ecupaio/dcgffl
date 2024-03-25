@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6704 vs 6688
-teams_score:
-- team: 6704
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Reddy, Ready, Red vs
+  S17 Bringing Sexy Black
+teams-score:
+- team: _teams/s17-red.md
   score:
-- team: 6688
+- team: _teams/s17-black.md
   score: 6
 mvp: E. Green (Red), JJ Johnson (Black)
 game-ball: M. Malysa (Red), A. Pratt (Black)

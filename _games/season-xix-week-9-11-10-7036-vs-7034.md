@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7036 vs 7034
-teams_score:
-- team: 7036
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 Raw Pink vs S19 Dem Beets
+teams-score:
+- team: _teams/neon-pink.md
   score: 32
-- team: 7034
+- team: _teams/maroon-2.md
   score: 31
 mvp: AJ, OJ
 game-ball: Andy, Chuck

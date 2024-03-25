@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7034 vs 7031
-teams_score:
-- team: 7034
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 Dem Beets vs S19 Goldak Yellow
+teams-score:
+- team: _teams/maroon-2.md
   score: 27
-- team: 7031
+- team: _teams/gold.md
   score: 12
 mvp: OJ,Garrett
 game-ball: Smiffy,Joe

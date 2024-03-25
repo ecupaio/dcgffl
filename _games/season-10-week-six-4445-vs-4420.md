@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4445 vs 4420
-teams_score:
-- team: 4445
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Slate vs S10 Black
+teams-score:
+- team: _teams/s10-slate.md
   score:
-- team: 4420
+- team: _teams/s10-black.md
   score: 20
 mvp: Gabe A. (Slate), Alex P. (Black)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5093 vs 5109
-teams_score:
-- team: 5093
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Charcoal vs S14 Yellow
+teams-score:
+- team: _teams/s14-charcoal.md
   score:
-- team: 5109
+- team: _teams/s14-yellow.md
   score: 24
 mvp: Marcus & John Clemons
 game-ball: ''

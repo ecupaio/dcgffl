@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4829 vs 4826
-teams_score:
-- team: 4829
+title: Season XX Canceled - DCGFFL - S13 Vegas Gold vs S13 Red (RED HOTS)
+teams-score:
+- team: _teams/s13-vegas.md
   score:
-- team: 4826
+- team: _teams/s13-red.md
   score: 7
 mvp: M. Stroman (Vegas); N. Lazarus (Red)
 game-ball: S. Holihan (Vegas); J. Carter (Red)

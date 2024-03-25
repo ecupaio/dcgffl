@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 5 (10/6) - DCGFFL - 7028 vs 7029
-teams_score:
-- team: 7028
+title: Season XIX - Week 5 (10/6) - DCGFFL - S19 Weapons of Ass Destruction vs S19
+  Slab On My Knab
+teams-score:
+- team: _teams/atomic.md
   score: 46
-- team: 7029
+- team: _teams/concrete-grey.md
   score: 40
 mvp: Stu, Alonzo
 game-ball: Brandon, Kori

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4446 vs 4445
-teams_score:
-- team: 4446
+title: Season XX Canceled - DCGFFL - S10 Teal vs S10 Slate
+teams-score:
+- team: _teams/s10-teal.md
   score:
-- team: 4445
+- team: _teams/s10-slate.md
   score: 28
 mvp: Dameron R. (Teal), Andy P. (Slate)
 game-ball: N/A

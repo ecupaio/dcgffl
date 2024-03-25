@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4185 vs 4189
-teams_score:
-- team: 4185
+title: Season XX Canceled - DCGFFL - S12 Teal vs S12 Power Blue
+teams-score:
+- team: _teams/s12-teal.md
   score:
-- team: 4189
+- team: _teams/s12-power-blue.md
   score: 18
 mvp: ''
 game-ball: ''

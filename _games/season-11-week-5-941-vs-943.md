@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 941 vs 943
-teams_score:
-- team: 941
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Teal vs S11 Silver
+teams-score:
+- team: _teams/s11-teal.md
   score: 33
-- team: 943
+- team: _teams/s11-silver.md
   score: 27
 mvp: Bryan S. (Teal), Donald Mitchell (Silver)
 game-ball: ''

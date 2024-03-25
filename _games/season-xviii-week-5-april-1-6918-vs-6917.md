@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 5 (March 31) - DCGFFL - 6918 vs 6917
-teams_score:
-- team: 6918
+title: Season XVIII - Week 5 (March 31) - DCGFFL - S18 Grab My Graphite vs S18 Navy
+  Gravy
+teams-score:
+- team: _teams/graphite.md
   score:
-- team: 6917
+- team: _teams/navy.md
   score: 31
 mvp: " Joe Owens (Navy), Jim Connelly (Graphite)"
 game-ball: ''

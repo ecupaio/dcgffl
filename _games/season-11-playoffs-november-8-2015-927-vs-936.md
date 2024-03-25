@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 927 vs 936
-teams_score:
-- team: 927
+title: Season XX Canceled - DCGFFL - S11 Forest vs S11 Maroon
+teams-score:
+- team: _teams/s11-forest.md
   score:
-- team: 936
+- team: _teams/s11-maroon.md
   score:
 mvp: ''
 game-ball: ''

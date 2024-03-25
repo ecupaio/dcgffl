@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - 4455 vs 4457
-teams_score:
-- team: 4455
+title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Dark Green vs S09
+  Gold
+teams-score:
+- team: _teams/s09-dark-green.md
   score:
-- team: 4457
+- team: _teams/s09-gold.md
   score: 0
 mvp: Jim Connolly (Green), Baxter O'Brien (Gold)
 game-ball: N/A

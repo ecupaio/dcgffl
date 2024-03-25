@@ -1,9 +1,9 @@
 ---
-title: Season XVIII - Week 3 (March 17) - DCGFFL - 6907 vs 6913
-teams_score:
-- team: 6907
+title: Season XVIII - Week 3 (March 17) - DCGFFL - S18 Sexual Tealing vs S18 ClapBlacks
+teams-score:
+- team: _teams/s18-teal.md
   score: 44
-- team: 6913
+- team: _teams/black.md
   score: 26
 mvp: Justin Parker (Teal), DeVaughn Wilson (Black)
 game-ball: ''

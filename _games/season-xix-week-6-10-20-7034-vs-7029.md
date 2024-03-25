@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7034 vs 7029
-teams_score:
-- team: 7034
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Dem Beets vs S19 Slab On My Knab
+teams-score:
+- team: _teams/maroon-2.md
   score: 0
-- team: 7029
+- team: _teams/concrete-grey.md
   score: 36
 mvp: Rain
 game-ball: Rain

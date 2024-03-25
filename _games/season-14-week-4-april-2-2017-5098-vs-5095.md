@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5098 vs 5095
-teams_score:
-- team: 5098
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Lime vs S14 Forest
+teams-score:
+- team: _teams/s14-lime.md
   score:
-- team: 5095
+- team: _teams/s14-forest.md
   score: 12
 mvp: Garbage & Scott C
 game-ball: RJ & Levert

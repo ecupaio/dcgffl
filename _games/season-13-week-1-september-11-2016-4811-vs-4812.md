@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - 4811 vs 4812
-teams_score:
-- team: 4811
+title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Black vs S13 Brown
+teams-score:
+- team: _teams/s13-black.md
   score:
-- team: 4812
+- team: _teams/s13-brown.md
   score: 14
 mvp: S. Pugh (Black); B. Cammas (Brown)
 game-ball: J. DeHanis (Black); T. Tullius (Brown)

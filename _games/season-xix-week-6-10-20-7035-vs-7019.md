@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7035 vs 7019
-teams_score:
-- team: 7035
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Rough Sextants vs S19 Black
+teams-score:
+- team: _teams/navy-2.md
   score: 24
-- team: 7019
+- team: _teams/black-2.md
   score: 20
 mvp: Tony, Alex
 game-ball: Tucker, Jayme

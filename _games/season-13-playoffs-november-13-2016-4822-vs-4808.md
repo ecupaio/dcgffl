@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4822 vs 4808
-teams_score:
-- team: 4822
+title: Season XX Canceled - DCGFFL - S13 Orange vs S13 Ash
+teams-score:
+- team: _teams/s13-orange.md
   score: 34
-- team: 4808
+- team: _teams/s13-ash.md
   score: 28
 mvp: P. Mabray (Orange); S. Croswell (Ash)
 game-ball: S. Serio (Orange); K. McKinney (Ash)

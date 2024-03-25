@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4187 vs 4175
-teams_score:
-- team: 4187
+title: Season XX Canceled - DCGFFL - S12 Neon Yellow vs S12 Sand
+teams-score:
+- team: _teams/s12-neon-yellow.md
   score: 44
-- team: 4175
+- team: _teams/s12-sand.md
   score: 21
 mvp: Andy A. (Sand); Tyler F. (Neon Yellow)
 game-ball: Eric C. (Sand); Austan M. (Neon Yellow)

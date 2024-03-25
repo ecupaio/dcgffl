@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4456 vs 4460
-teams_score:
-- team: 4456
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Fuchsia vs S09 Lime
+teams-score:
+- team: _teams/s09-fuchsia.md
   score: 32
-- team: 4460
+- team: _teams/s09-lime.md
   score: 8
 mvp: 'Fuchsia: Clay Arnold  /  Lime: T.J. Rhone'
 game-ball: N/A

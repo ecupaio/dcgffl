@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - 4446 vs 4431
-teams_score:
-- team: 4446
+title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - S10 Teal vs S10 Maroon
+teams-score:
+- team: _teams/s10-teal.md
   score: 25
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 6
 mvp: Dameron Rendell (Teal), Will Chappell (Maroon)
 game-ball: N/A

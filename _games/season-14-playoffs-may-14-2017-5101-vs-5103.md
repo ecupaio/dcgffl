@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5101 vs 5103
-teams_score:
-- team: 5101
+title: Season XX Canceled - DCGFFL - S14 Orange vs S14 Red
+teams-score:
+- team: _teams/s14-orange.md
   score: 30
-- team: 5103
+- team: _teams/s14-red.md
   score: 32
 mvp: ''
 game-ball: ''

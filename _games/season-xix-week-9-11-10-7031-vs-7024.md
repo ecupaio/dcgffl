@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7031 vs 7024
-teams_score:
-- team: 7031
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 Goldak Yellow vs S19 Silver Rod
+  Hoes
+teams-score:
+- team: _teams/gold.md
   score: 31
-- team: 7024
+- team: _teams/silver.md
   score: 20
 mvp: Pat, Mark
 game-ball: Alex, Eli

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4827 vs 4819
-teams_score:
-- team: 4827
+title: Season XX Canceled - DCGFFL - S13 Royal Blue vs S13 Maroon
+teams-score:
+- team: _teams/s13-royal-blue.md
   score:
-- team: 4819
+- team: _teams/s13-maroon.md
   score: 27
 mvp: D. Alexander (Royal); E. Binder (Maroon)
 game-ball: S. Benton (Royal); B. Waggoner (Maroon)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 936 vs 938
-teams_score:
-- team: 936
+title: Season XX Canceled - DCGFFL - S11 Maroon vs S11 Brown
+teams-score:
+- team: _teams/s11-maroon.md
   score: 28
-- team: 938
+- team: _teams/s11-brown.md
   score: 14
 mvp: Will Lipovsky (Maroon), Andy Pratt (Brown)
 game-ball: ''

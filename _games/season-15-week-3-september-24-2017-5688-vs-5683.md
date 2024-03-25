@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - 5688 vs 5683
-teams_score:
-- team: 5688
+title: Season 15 – Week 3 (September 24, 2017) - DCGFFL - S15 Orange vs S15 Gold
+teams-score:
+- team: _teams/s15-orange.md
   score: 18
-- team: 5683
+- team: _teams/s15-gold.md
   score: 27
 mvp: Nick Bonard, Scott Williams
 game-ball: Seaton Croswell, Doug Edwards

@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 2 (9/15) - DCGFFL - 7027 vs 7019
-teams_score:
-- team: 7027
+title: Season XIX - Week 2 (9/15) - DCGFFL - S19 White Claw Wasted vs S19 Black
+teams-score:
+- team: _teams/white.md
   score: 13
-- team: 7019
+- team: _teams/black-2.md
   score: 32
 mvp: Andrew,Kirk
 game-ball: CJ,Alex

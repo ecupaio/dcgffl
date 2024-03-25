@@ -1,9 +1,9 @@
 ---
-title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - 4812 vs 4824
-teams_score:
-- team: 4812
+title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Brown vs S13 Power Blue
+teams-score:
+- team: _teams/s13-brown.md
   score:
-- team: 4824
+- team: _teams/s13-power-blue.md
   score: 13
 mvp: B. Cammas (Royal); J. Steslicki (Brown)
 game-ball: T. Tullius (Brown); G. Carter (Power Blue)

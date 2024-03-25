@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4431 vs 4429
-teams_score:
-- team: 4431
+title: Season XX Canceled - DCGFFL - S10 Maroon vs S10 Lime
+teams-score:
+- team: _teams/s10-maroon.md
   score:
-- team: 4429
+- team: _teams/s10-lime.md
   score: 12
 mvp: Adam R. (Maroon), Matt G. (Lime)
 game-ball: N/A

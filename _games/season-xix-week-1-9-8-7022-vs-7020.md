@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 1 (9/8) - DCGFFL - 7022 vs 7020
-teams_score:
-- team: 7022
+title: Season XIX - Week 1 (9/8) - DCGFFL - S19 RED for Filth vs S19 Fancy Gay Pirates
+teams-score:
+- team: _teams/red-2.md
   score: 46
-- team: 7020
+- team: _teams/carolina-blue.md
   score: 0
 mvp: Peter (Red), Andy (Carolina)
 game-ball: Nikki (Red), Tracy (Carolina)

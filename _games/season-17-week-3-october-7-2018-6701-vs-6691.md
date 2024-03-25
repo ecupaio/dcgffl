@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6701 vs 6691
-teams_score:
-- team: 6701
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 The Shock Tops vs S17 Crimson
+  Ride
+teams-score:
+- team: _teams/s17-power-orange.md
   score:
-- team: 6691
+- team: _teams/s17-crimson.md
   score: 19
 mvp: OJ (P. Orange); P. Suarez (Crimson)
 game-ball: K. Richardson (P. Orange); E. Gramstad (Crimson)

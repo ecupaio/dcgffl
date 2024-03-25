@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - 6695 vs 6698
-teams_score:
-- team: 6695
+title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 L.I.M.E. vs S17 Flaming
+  Hot Cheeto Dust
+teams-score:
+- team: _teams/s17-neon-green.md
   score:
-- team: 6698
+- team: _teams/s17-orange.md
   score: 28
 mvp: TBD
 game-ball: TBD

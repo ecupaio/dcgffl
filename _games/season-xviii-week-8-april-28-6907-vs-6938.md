@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 8 (April 28) - DCGFFL - 6907 vs 6938
-teams_score:
-- team: 6907
+title: Season XVIII – Week 8 (April 28) - DCGFFL - S18 Sexual Tealing vs S18 Wicked
+  Bitches of the West
+teams-score:
+- team: _teams/s18-teal.md
   score:
-- team: 6938
+- team: _teams/s18-kelly.md
   score: 0
 mvp: Justin Parker (Teal), Mark Japinga (Kelly)
 game-ball: ''

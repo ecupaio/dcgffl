@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 932 vs 926
-teams_score:
-- team: 932
+title: Season XX Canceled - DCGFFL - S11 Purple vs S11 Graphite
+teams-score:
+- team: _teams/s11-purple.md
   score: 19
-- team: 926
+- team: _teams/s11-graphite.md
   score: 13
 mvp: Andrew Carr (Purple), Robert Casey (Graphite)
 game-ball: ''

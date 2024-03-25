@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4180 vs 4179
-teams_score:
-- team: 4180
+title: Season XX Canceled - DCGFFL - S12 Maroon vs S12 Forest
+teams-score:
+- team: _teams/s12-maroon.md
   score:
-- team: 4179
+- team: _teams/s12-forest.md
   score: 38
 mvp: ''
 game-ball: ''

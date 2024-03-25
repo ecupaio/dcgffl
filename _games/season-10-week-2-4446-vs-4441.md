@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - 4446 vs 4441
-teams_score:
-- team: 4446
+title: Season 10 - Week 2 (March 8, 2015) - DCGFFL - S10 Teal vs S10 Silver
+teams-score:
+- team: _teams/s10-teal.md
   score: 20
-- team: 4441
+- team: _teams/s10-silver.md
   score: 14
 mvp: Dameron (Teal), Kevin Kostyk (Silver)
 game-ball: N/A

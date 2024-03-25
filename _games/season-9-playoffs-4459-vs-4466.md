@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4459 vs 4466
-teams_score:
-- team: 4459
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Leaf Green vs S09 Purple
+teams-score:
+- team: _teams/s09-leaf-green.md
   score:
-- team: 4466
+- team: _teams/s09-purple.md
   score: 12
 mvp: Larry Womack (Leaf), Howard Yuan (Purple)
 game-ball: N/A

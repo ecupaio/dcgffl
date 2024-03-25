@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - 4456 vs 4458
-teams_score:
-- team: 4456
+title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Fuchsia vs S09 Graphite
+teams-score:
+- team: _teams/s09-fuchsia.md
   score:
-- team: 4458
+- team: _teams/s09-graphite.md
   score: 12
 mvp: Bill Klitz (Fuchsia); Peter Sima (Graphite)
 game-ball: N/A

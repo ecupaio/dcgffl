@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4813 vs 4819
-teams_score:
-- team: 4813
+title: Season XX Canceled - DCGFFL - S13 Charcoal vs S13 Maroon
+teams-score:
+- team: _teams/s13-charcoal.md
   score:
-- team: 4819
+- team: _teams/s13-maroon.md
   score: 33
 mvp: C. Burrell (Charcoal); K. Smiffy (Maroon)
 game-ball: C. Morse (Charcoal); K. Green (Maroon)

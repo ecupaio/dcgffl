@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - 5682 vs 5683
-teams_score:
-- team: 5682
+title: Season 15 – Week 2 (September 17, 2017) - DCGFFL - S15 Forest vs S15 Gold
+teams-score:
+- team: _teams/s15-forest.md
   score: 26
-- team: 5683
+- team: _teams/s15-gold.md
   score: 25
 mvp: Bill Cammas, Brendan McFarland
 game-ball: Lindsay Walton, Jermaine Jackson

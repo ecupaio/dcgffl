@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4188 vs 4184
-teams_score:
-- team: 4188
+title: Season XX Canceled - DCGFFL - S12 Navy vs S12 Graphite
+teams-score:
+- team: _teams/s12-navy.md
   score:
-- team: 4184
+- team: _teams/s12-graphite.md
   score: 47
 mvp: ''
 game-ball: ''

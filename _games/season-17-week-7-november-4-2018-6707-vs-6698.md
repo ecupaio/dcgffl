@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6707 vs 6698
-teams_score:
-- team: 6707
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Teal vs S17 Flaming Hot
+  Cheeto Dust
+teams-score:
+- team: _teams/s17-teal.md
   score:
-- team: 6698
+- team: _teams/s17-orange.md
   score: 19
 mvp: A. Campanelli (Teal), J. Hendee (Orange)
 game-ball: S. Kelly (Teal), J. McCathren (Charcoal)

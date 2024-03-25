@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - 6703 vs 6699
-teams_score:
-- team: 6703
+title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Purple Parrots vs S17 Pink
+teams-score:
+- team: _teams/s17-purple.md
   score:
-- team: 6699
+- team: _teams/s17-pink.md
   score: 12
 mvp: T. Robosan (Purple), N. Kasparek (Pink)
 game-ball: Not Attributed

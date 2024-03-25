@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4439 vs 4423
-teams_score:
-- team: 4439
+title: Season XX Canceled - DCGFFL - S10 Royal vs S10 Camo Grey
+teams-score:
+- team: _teams/s10-royal.md
   score: 28
-- team: 4423
+- team: _teams/s10-camo-grey.md
   score: 22
 mvp: Derrick J (Royal), Mark H (Camo)
 game-ball: N/A

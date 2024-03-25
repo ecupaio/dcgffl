@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - 4459 vs 4453
-teams_score:
-- team: 4459
+title: Season 9 - Week 1 (September 7, 2014) - DCGFFL - S09 Leaf Green vs S09 Burnt
+  Orange
+teams-score:
+- team: _teams/s09-leaf-green.md
   score: 38
-- team: 4453
+- team: _teams/s09-burnt-orange.md
   score: 18
 mvp: 'Leaf: Mark Hofberg  /  Burnt Orange: Brendan McFarland'
 game-ball: N/A

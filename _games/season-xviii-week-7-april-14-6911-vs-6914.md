@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6911 vs 6914
-teams_score:
-- team: 6911
+title: Season XX Canceled - DCGFFL - S18 Not Today Satan vs S18 A Team Has No Name
+teams-score:
+- team: _teams/red.md
   score:
-- team: 6914
+- team: _teams/forest-green.md
   score: 24
 mvp: Manny Montes de Oca (Forest), Eric Green (Red)
 game-ball: ''

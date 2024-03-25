@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4173 vs 4175
-teams_score:
-- team: 4173
+title: Season XX Canceled - DCGFFL - S12 Black vs S12 Sand
+teams-score:
+- team: _teams/s12-black.md
   score: 26
-- team: 4175
+- team: _teams/s12-sand.md
   score: 32
 mvp: Dameron Rendell (Black); Brendan McFarland (Sand)
 game-ball: Kyle Veldman (Black); Andy Allen (Sand)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4185 vs 4182
-teams_score:
-- team: 4185
+title: Season XX Canceled - DCGFFL - S12 Teal vs S12 Royal Blue
+teams-score:
+- team: _teams/s12-teal.md
   score: 38
-- team: 4182
+- team: _teams/s12-royal-blue.md
   score: 39
 mvp: Brett Chambers (Teal); OJ (Royal)
 game-ball: Greg Kenderdine (Teal); Scott Williams (Royal)

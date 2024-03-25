@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7035 vs 7034
-teams_score:
-- team: 7035
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Rough Sextants vs S19 Dem Beets
+teams-score:
+- team: _teams/navy-2.md
   score: 25
-- team: 7034
+- team: _teams/maroon-2.md
   score: 31
 mvp: Tom, Marlon
 game-ball: Mike, Mike

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4433 vs 4420
-teams_score:
-- team: 4433
+title: Season XX Canceled - DCGFFL - S10 Navy vs S10 Black
+teams-score:
+- team: _teams/s10-navy.md
   score:
-- team: 4420
+- team: _teams/s10-black.md
   score: 20
 mvp: Kevin M. (Navy), Patrick M. (Black)
 game-ball: N/A

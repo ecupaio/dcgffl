@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4468 vs 4455
-teams_score:
-- team: 4468
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Royal Blue vs S09
+  Dark Green
+teams-score:
+- team: _teams/s09-royal-blue-these-hoes-aint-royal.md
   score: 20
-- team: 4455
+- team: _teams/s09-dark-green.md
   score: 34
 mvp: 'Royal: Tyler Fox  / Dark Green: Kevin Kostyk '
 game-ball: N/A

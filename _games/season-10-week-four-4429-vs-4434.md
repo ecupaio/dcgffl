@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4429 vs 4434
-teams_score:
-- team: 4429
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Lime vs S10 Power Blue
+teams-score:
+- team: _teams/s10-lime.md
   score:
-- team: 4434
+- team: _teams/s10-power-blue.md
   score: 15
 mvp: Michelle T. (Lime), Marcus B. (Power Blue)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4437 vs 4439
-teams_score:
-- team: 4437
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Purple vs S10 Royal
+teams-score:
+- team: _teams/s10-purple.md
   score:
-- team: 4439
+- team: _teams/s10-royal.md
   score: 20
 mvp: Brion S. (Purple), Jason C. (Royal)
 game-ball: N/A

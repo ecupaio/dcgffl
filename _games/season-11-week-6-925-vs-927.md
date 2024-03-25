@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 925 vs 927
-teams_score:
-- team: 925
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 Leaf vs S11 Forest
+teams-score:
+- team: _teams/s11-leaf.md
   score: 45
-- team: 927
+- team: _teams/s11-forest.md
   score: 19
 mvp: Gerard Burley (Leaf), Will J. (Forest)
 game-ball: ''

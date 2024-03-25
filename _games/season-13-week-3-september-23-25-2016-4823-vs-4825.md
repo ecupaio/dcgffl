@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4823 vs 4825
-teams_score:
-- team: 4823
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Pacific Blue (Pacific
+  Blue Rimmers ) vs S13 Purple
+teams-score:
+- team: _teams/s13-pacific-blue.md
   score:
-- team: 4825
+- team: _teams/s13-purple.md
   score: 20
 mvp: C. Gillyard (Pacific); C. Hobbs (Purple)
 game-ball: A. Lubash (Pacific); M. Gillette (Purple)

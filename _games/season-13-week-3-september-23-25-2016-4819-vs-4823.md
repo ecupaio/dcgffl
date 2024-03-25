@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4819 vs 4823
-teams_score:
-- team: 4819
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Maroon vs S13 Pacific
+  Blue (Pacific Blue Rimmers )
+teams-score:
+- team: _teams/s13-maroon.md
   score:
-- team: 4823
+- team: _teams/s13-pacific-blue.md
   score: 19
 mvp: A. Plier (Maroon); P. Sima (Pacific)
 game-ball: E. Binder (Maroon); F. Cheng (Pacific)

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7023 vs 7024
-teams_score:
-- team: 7023
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Bluevadas House of PrEP CHambers
+  vs S19 Silver Rod Hoes
+teams-score:
+- team: _teams/royal.md
   score: 14
-- team: 7024
+- team: _teams/silver.md
   score: 21
 mvp: Josh, JC
 game-ball: Shane, Ty

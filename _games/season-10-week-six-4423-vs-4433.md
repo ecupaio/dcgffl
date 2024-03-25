@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4423 vs 4433
-teams_score:
-- team: 4423
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Camo Grey vs S10 Navy
+teams-score:
+- team: _teams/s10-camo-grey.md
   score:
-- team: 4433
+- team: _teams/s10-navy.md
   score: 25
 mvp: Matt M. (Camo), Mike C. (Navy)
 game-ball: N/A

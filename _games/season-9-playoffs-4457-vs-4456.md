@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4457 vs 4456
-teams_score:
-- team: 4457
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Gold vs S09 Fuchsia
+teams-score:
+- team: _teams/s09-gold.md
   score:
-- team: 4456
+- team: _teams/s09-fuchsia.md
   score: 33
 mvp: Tim  Smith (Gold), Jack Miles (Fuchsia)
 game-ball: N/A

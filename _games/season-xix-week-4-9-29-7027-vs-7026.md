@@ -1,9 +1,10 @@
 ---
-title: Season XX Canceled - DCGFFL - 7027 vs 7026
-teams_score:
-- team: 7027
+title: Season XX Canceled - DCGFFL - S19 White Claw Wasted vs S19 Tropic Like Its
+  Hot
+teams-score:
+- team: _teams/white.md
   score: 14
-- team: 7026
+- team: _teams/tropic.md
   score: 31
 mvp: Chris, Antonio
 game-ball: Andrew, Ashley

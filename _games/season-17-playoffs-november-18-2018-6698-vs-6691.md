@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6698 vs 6691
-teams_score:
-- team: 6698
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 Flaming Hot Cheeto
+  Dust vs S17 Crimson Ride
+teams-score:
+- team: _teams/s17-orange.md
   score:
-- team: 6691
+- team: _teams/s17-crimson.md
   score: 20
 mvp: G. Carter (Orange), D. Honeycutt (Crimson)
 game-ball: K. Miller (Orange), B. McFarland (Crimson)

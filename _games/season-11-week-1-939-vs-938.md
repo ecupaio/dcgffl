@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 939 vs 938
-teams_score:
-- team: 939
+title: Season XX Canceled - DCGFFL - S11 White vs S11 Brown
+teams-score:
+- team: _teams/s11-white.md
   score: 33
-- team: 938
+- team: _teams/s11-brown.md
   score: 8
 mvp: Rudy Legg Benavidas (White), Mecha Santos (Brown)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4828 vs 4811
-teams_score:
-- team: 4828
+title: Season XX Canceled - DCGFFL - S13 Safety Orange vs S13 Black
+teams-score:
+- team: _teams/s13-safety-orange.md
   score: 41
-- team: 4811
+- team: _teams/s13-black.md
   score: 33
 mvp: T. Stewart (Safety Orange); J. Anderson (Black)
 game-ball: M. Rothschild (Safety Orange); T. Williams (Black)

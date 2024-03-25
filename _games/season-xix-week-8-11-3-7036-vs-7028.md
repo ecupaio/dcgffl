@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7036 vs 7028
-teams_score:
-- team: 7036
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Raw Pink vs S19 Weapons of Ass Destruction
+teams-score:
+- team: _teams/neon-pink.md
   score: 29
-- team: 7028
+- team: _teams/atomic.md
   score: 28
 mvp: AJ, Keith
 game-ball: Mike, James

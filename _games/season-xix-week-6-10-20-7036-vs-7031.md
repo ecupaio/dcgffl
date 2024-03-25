@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7036 vs 7031
-teams_score:
-- team: 7036
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Raw Pink vs S19 Goldak Yellow
+teams-score:
+- team: _teams/neon-pink.md
   score: 50
-- team: 7031
+- team: _teams/gold.md
   score: 51
 mvp: AJ, Joe
 game-ball: Brian, Pat

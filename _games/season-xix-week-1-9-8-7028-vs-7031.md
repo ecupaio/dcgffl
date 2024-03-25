@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 1 (9/8) - DCGFFL - 7028 vs 7031
-teams_score:
-- team: 7028
+title: Season XIX - Week 1 (9/8) - DCGFFL - S19 Weapons of Ass Destruction vs S19
+  Goldak Yellow
+teams-score:
+- team: _teams/atomic.md
   score: 44
-- team: 7031
+- team: _teams/gold.md
   score: 28
 mvp: Keith (Atomic), Garrett (Gold)
 game-ball: James (Atomic), Pat (Gold)

@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - 5691 vs 5695
-teams_score:
-- team: 5691
+title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - S15 Power Yellow vs S15 Safety
+  Orange
+teams-score:
+- team: _teams/s15-power-yellow.md
   score: 22
-- team: 5695
+- team: _teams/s15-safety-orange.md
   score: 45
 mvp: Patrick Smith, Scott Graham
 game-ball: Kyle Miller, Sanders

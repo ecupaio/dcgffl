@@ -1,9 +1,10 @@
 ---
-title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - 4454 vs 4462
-teams_score:
-- team: 4454
+title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Columbia Blue vs
+  S09 Medium Green
+teams-score:
+- team: _teams/s09-columbia-blue.md
   score:
-- team: 4462
+- team: _teams/s09-medium-green-butch-greens.md
   score: 27
 mvp: Andy Larson (Columbia), Jamar Walker (Medium Green)
 game-ball: N/A

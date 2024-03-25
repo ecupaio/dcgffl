@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5100 vs 5099
-teams_score:
-- team: 5100
+title: Season XX Canceled - DCGFFL - S14 Olive vs S14 Navy
+teams-score:
+- team: _teams/s14-olive.md
   score: 27
-- team: 5099
+- team: _teams/s14-navy.md
   score: 31
 mvp: Trevor, Andy
 game-ball: Mike, Jucha

@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 6 (10/20) - DCGFFL - 7030 vs 7032
-teams_score:
-- team: 7030
+title: Season XIX - Week 6 (10/20) - DCGFFL - S19 Deep State Orange vs S19 The Green
+  Kellys
+teams-score:
+- team: _teams/deep-orange.md
   score: 30
-- team: 7032
+- team: _teams/kelly.md
   score: 26
 mvp: Ben, Ocho
 game-ball: Steven, Jens

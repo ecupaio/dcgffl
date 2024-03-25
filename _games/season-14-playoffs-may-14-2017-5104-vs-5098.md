@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 5104 vs 5098
-teams_score:
-- team: 5104
+title: Season XX Canceled - DCGFFL - S14 Royal Blue vs S14 Lime
+teams-score:
+- team: _teams/s14-royal.md
   score: 34
-- team: 5098
+- team: _teams/s14-lime.md
   score: 33
 mvp: Hofberg, Vinnie
 game-ball: AdRob, Sanders

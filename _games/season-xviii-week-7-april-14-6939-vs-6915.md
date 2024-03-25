@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6939 vs 6915
-teams_score:
-- team: 6939
+title: Season XX Canceled - DCGFFL - S18 Pulp Friction vs S18 Limey Wankers
+teams-score:
+- team: _teams/s18-orange.md
   score:
-- team: 6915
+- team: _teams/lime.md
   score: 8
 mvp: Jared Lucas (Orange), Jake Bart (Lime)
 game-ball: ''

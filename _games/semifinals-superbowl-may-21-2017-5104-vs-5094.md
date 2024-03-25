@@ -1,9 +1,9 @@
 ---
-title: Semifinals & Superbowl (May 21, 2017) - DCGFFL - 5104 vs 5094
-teams_score:
-- team: 5104
+title: Semifinals & Superbowl (May 21, 2017) - DCGFFL - S14 Royal Blue vs S14 Crimson
+teams-score:
+- team: _teams/s14-royal.md
   score: 32
-- team: 5094
+- team: _teams/s14-crimson.md
   score: 50
 mvp: TJ Baggett, Antwon Hines
 game-ball: 'Charlie Salem, #todd'

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 938 vs 935
-teams_score:
-- team: 938
+title: Season XX Canceled - DCGFFL - S11 Brown vs S11 Power Yellow
+teams-score:
+- team: _teams/s11-brown.md
   score: 27
-- team: 935
+- team: _teams/s11-power-yellow.md
   score: 18
 mvp: Patrick Kozak (Brown), Marlon D. (Power Yellow)
 game-ball: ''

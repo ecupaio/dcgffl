@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7031 vs 7029
-teams_score:
-- team: 7031
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 Goldak Yellow vs S19 Slab On My Knab
+teams-score:
+- team: _teams/gold.md
   score: 0
-- team: 7029
+- team: _teams/concrete-grey.md
   score: 26
 mvp: Dom, Ken
 game-ball: Alex, Ethan

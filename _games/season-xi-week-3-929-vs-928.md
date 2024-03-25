@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 929 vs 928
-teams_score:
-- team: 929
+title: Season XX Canceled - DCGFFL - S11 Orange vs S11 Lime
+teams-score:
+- team: _teams/s11-orange.md
   score: 27
-- team: 928
+- team: _teams/s11-lime.md
   score: 20
 mvp: Kyle McKinney (Orange), Dameron Randell (Lime)
 game-ball: ''

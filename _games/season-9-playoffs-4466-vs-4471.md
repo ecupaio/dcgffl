@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - 4466 vs 4471
-teams_score:
-- team: 4466
+title: Season 9 - Playoffs (November 16, 2014) - DCGFFL - S09 Purple vs S09 White
+teams-score:
+- team: _teams/s09-purple.md
   score:
-- team: 4471
+- team: _teams/s09-white.md
   score: 24
 mvp: Barry Mauck (Purple), Jay Anderson (White)
 game-ball: N/A

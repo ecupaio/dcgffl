@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4829 vs 4818
-teams_score:
-- team: 4829
+title: Season XX Canceled - DCGFFL - S13 Vegas Gold vs S13 Lime Green
+teams-score:
+- team: _teams/s13-vegas.md
   score: 28
-- team: 4818
+- team: _teams/s13-lime.md
   score: 13
 mvp: D. Halunen (Lime); D. Rendell (Vegas)
 game-ball: N. Kasparek (Lime); M .Stroman (Vegas)

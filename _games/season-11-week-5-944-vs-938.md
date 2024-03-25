@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 944 vs 938
-teams_score:
-- team: 944
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Kelly Green vs S11
+  Brown
+teams-score:
+- team: _teams/s11-kelly-green.md
   score: 20
-- team: 938
+- team: _teams/s11-brown.md
   score: 18
 mvp: Sam Smallwood (Kelly), Andy Pratt (Brown)
 game-ball: ''

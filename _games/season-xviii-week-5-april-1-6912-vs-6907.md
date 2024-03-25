@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 5 (March 31) - DCGFFL - 6912 vs 6907
-teams_score:
-- team: 6912
+title: Season XVIII - Week 5 (March 31) - DCGFFL - S18 PurPauls Drag Race vs S18 Sexual
+  Tealing
+teams-score:
+- team: _teams/purple.md
   score:
-- team: 6907
+- team: _teams/s18-teal.md
   score: 40
 mvp: JC Adams (Purple), Bill Cammas (Teal)
 game-ball: ''

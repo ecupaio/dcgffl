@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4808 vs 4829
-teams_score:
-- team: 4808
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Ash vs S13 Vegas
+  Gold
+teams-score:
+- team: _teams/s13-ash.md
   score:
-- team: 4829
+- team: _teams/s13-vegas.md
   score: 19
 mvp: B. Benjamin (Ash); D. Rendell (Vegas)
 game-ball: K. McKinney (Ash); J. Bain (Vegas)

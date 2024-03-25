@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - 6706 vs 6700
-teams_score:
-- team: 6706
+title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Silver Fox Holes vs
+  undefined
+teams-score:
+- team: _teams/s17-silver.md
   score:
-- team: 6700
+- team: ''
   score: 7
 mvp: TBD
 game-ball: TBD

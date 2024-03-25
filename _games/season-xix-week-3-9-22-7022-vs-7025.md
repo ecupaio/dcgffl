@@ -1,9 +1,9 @@
 ---
-title: Season XIX - Week 3 (9/22) - DCGFFL - 7022 vs 7025
-teams_score:
-- team: 7022
+title: Season XIX - Week 3 (9/22) - DCGFFL - S19 RED for Filth vs S19 Yee-Hoes!
+teams-score:
+- team: _teams/red-2.md
   score: 25
-- team: 7025
+- team: _teams/texas-orange.md
   score: 6
 mvp: Peter, Kori
 game-ball: Nikki, Jorge

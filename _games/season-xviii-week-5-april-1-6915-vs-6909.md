@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 5 (March 31) - DCGFFL - 6915 vs 6909
-teams_score:
-- team: 6915
+title: Season XVIII - Week 5 (March 31) - DCGFFL - S18 Limey Wankers vs S18 Rust and
+  Bust
+teams-score:
+- team: _teams/lime.md
   score:
-- team: 6909
+- team: _teams/maroon.md
   score: 20
 mvp: Nick Ward (Lime), Tony Smith (Maroon)
 game-ball: ''

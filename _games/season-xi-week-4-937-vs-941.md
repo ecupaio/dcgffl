@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 937 vs 941
-teams_score:
-- team: 937
+title: Season XX Canceled - DCGFFL - S11 Gold vs S11 Teal
+teams-score:
+- team: _teams/s11-gold.md
   score: 37
-- team: 941
+- team: _teams/s11-teal.md
   score: 14
 mvp: O.J. (Gold), Kevin Smiffy (Teal)
 game-ball: ''

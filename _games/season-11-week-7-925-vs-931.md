@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 925 vs 931
-teams_score:
-- team: 925
+title: Season XX Canceled - DCGFFL - S11 Leaf vs S11 Baby Blue
+teams-score:
+- team: _teams/s11-leaf.md
   score: 21
-- team: 931
+- team: _teams/s11-baby-blue.md
   score: 12
 mvp: Trevor Tullius (Leaf), Ricky M. (Baby Blue)
 game-ball: ''

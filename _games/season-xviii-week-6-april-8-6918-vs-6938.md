@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 6 (April 7) - DCGFFL - 6918 vs 6938
-teams_score:
-- team: 6918
+title: Season XVIII – Week 6 (April 7) - DCGFFL - S18 Grab My Graphite vs S18 Wicked
+  Bitches of the West
+teams-score:
+- team: _teams/graphite.md
   score:
-- team: 6938
+- team: _teams/s18-kelly.md
   score: 22
 mvp: Cameron Burrell (Graphite), Garrett Schiponi (Kelly)
 game-ball: ''

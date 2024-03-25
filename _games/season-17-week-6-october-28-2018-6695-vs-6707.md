@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - 6695 vs 6707
-teams_score:
-- team: 6695
+title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 L.I.M.E. vs S17 Teal
+teams-score:
+- team: _teams/s17-neon-green.md
   score:
-- team: 6707
+- team: _teams/s17-teal.md
   score: 12
 mvp: J. Anderson (N. Green), P. McIntyre (Teal)
 game-ball: C. Burrell (N. Green), T. Comparetto (Teal)

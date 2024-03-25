@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6696 vs 6693
-teams_score:
-- team: 6696
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Biscuits & Navy vs S17
+  Hunter Green
+teams-score:
+- team: _teams/s17-navy.md
   score:
-- team: 6693
+- team: _teams/s17-hunter-green.md
   score: 33
 mvp: E. Perez (Navy), B. Allen (Hunter Green)
 game-ball: Not Attributed (Navy), S. Boylan (Hunter Green)

@@ -1,9 +1,10 @@
 ---
-title: Season 16 – Semifinals & Championship (May 20, 2018) - DCGFFL - 6363 vs 6353
-teams_score:
-- team: 6363
+title: Season 16 – Semifinals & Championship (May 20, 2018) - DCGFFL - S16 Raspberry
+  vs S16 Navy
+teams-score:
+- team: _teams/s16-raspberry.md
   score:
-- team: 6353
+- team: _teams/s16-navy.md
   score: 20
 mvp: Bryan S. (Raspberry), Andy A. (Navy)
 game-ball: Peter P. (Raspberry), Jeff M. (Navy)

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 929 vs 925
-teams_score:
-- team: 929
+title: Season XX Canceled - DCGFFL - S11 Orange vs S11 Leaf
+teams-score:
+- team: _teams/s11-orange.md
   score: 24
-- team: 925
+- team: _teams/s11-leaf.md
   score: 12
 mvp: Trey Phillips (Orange), TJ Rhone (Leaf)
 game-ball: ''

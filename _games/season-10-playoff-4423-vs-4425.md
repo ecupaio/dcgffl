@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4423 vs 4425
-teams_score:
-- team: 4423
+title: Season XX Canceled - DCGFFL - S10 Camo Grey vs S10 Fuchsia
+teams-score:
+- team: _teams/s10-camo-grey.md
   score:
-- team: 4425
+- team: _teams/s10-fuchsia.md
   score: 12
 mvp: Mark H. (Camo Grey), Trey P. (Fuchsia)
 game-ball: N/A

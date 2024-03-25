@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - 6691 vs 6703
-teams_score:
-- team: 6691
+title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Crimson Ride vs S17 Purple
+  Parrots
+teams-score:
+- team: _teams/s17-crimson.md
   score:
-- team: 6703
+- team: _teams/s17-purple.md
   score: 7
 mvp: M. Washington (Crimson), L. Hogue (Purple)
 game-ball: C. Roth (Crimson), H. Nisar (Purple)

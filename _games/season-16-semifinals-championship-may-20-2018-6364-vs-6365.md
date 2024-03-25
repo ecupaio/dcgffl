@@ -1,9 +1,10 @@
 ---
-title: Season 16 – Semifinals & Championship (May 20, 2018) - DCGFFL - 6364 vs 6365
-teams_score:
-- team: 6364
+title: Season 16 – Semifinals & Championship (May 20, 2018) - DCGFFL - S16 Red vs
+  S16 Royal Blue
+teams-score:
+- team: _teams/s16-red.md
   score:
-- team: 6365
+- team: _teams/s16-royal-blue.md
   score: 22
 mvp: Kevin S. (Red), Will J. (Royal)
 game-ball: Kevin H. (Red), Ben H. (Royal)

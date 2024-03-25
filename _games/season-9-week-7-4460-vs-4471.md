@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - 4460 vs 4471
-teams_score:
-- team: 4460
+title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Lime vs S09 White
+teams-score:
+- team: _teams/s09-lime.md
   score:
-- team: 4471
+- team: _teams/s09-white.md
   score: 14
 mvp: Marcus Boyce (Lime), Matt Gillette (White)
 game-ball: N/A

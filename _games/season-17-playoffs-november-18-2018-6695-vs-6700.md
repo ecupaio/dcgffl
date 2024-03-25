@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6695 vs 6700
-teams_score:
-- team: 6695
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - S17 L.I.M.E. vs undefined
+teams-score:
+- team: _teams/s17-neon-green.md
   score:
-- team: 6700
+- team: ''
   score: 19
 mvp: J. Piferoen (Neon Green), N. Eckert (Power Blue)
 game-ball: C. Burrell (Neon Green), J. Maroni (Power Blue)

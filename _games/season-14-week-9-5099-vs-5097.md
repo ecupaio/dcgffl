@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - 5099 vs 5097
-teams_score:
-- team: 5099
+title: Season 14 - Week 8 (May 7, 2017) - DCGFFL - S14 Navy vs S14 Kelly Green
+teams-score:
+- team: _teams/s14-navy.md
   score: 25
-- team: 5097
+- team: _teams/s14-kelly.md
   score: 46
 mvp: Hackbarth, Japinga
 game-ball: Gander, Paul Pham

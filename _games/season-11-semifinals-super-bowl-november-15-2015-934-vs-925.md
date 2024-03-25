@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Semifinals & Super Bowl (November 15, 2015) - DCGFFL - 934 vs 925
-teams_score:
-- team: 934
+title: Season 11 - Semifinals & Super Bowl (November 15, 2015) - DCGFFL - S11 Pink
+  vs S11 Leaf
+teams-score:
+- team: _teams/s11-pink.md
   score:
-- team: 925
+- team: _teams/s11-leaf.md
   score:
 mvp: ''
 game-ball: ''

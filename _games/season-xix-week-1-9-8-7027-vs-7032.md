@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 1 (9/8) - DCGFFL - 7027 vs 7032
-teams_score:
-- team: 7027
+title: Season XIX - Week 1 (9/8) - DCGFFL - S19 White Claw Wasted vs S19 The Green
+  Kellys
+teams-score:
+- team: _teams/white.md
   score: 7
-- team: 7032
+- team: _teams/kelly.md
   score: 29
 mvp: Benjamin McEvoy (White), Jared Lucas (Kelly)
 game-ball: Tony Smith (White), Brendan McFarland (Kelly)

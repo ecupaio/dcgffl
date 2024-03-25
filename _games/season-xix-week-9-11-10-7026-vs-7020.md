@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 9 (11/10) - DCGFFL - 7026 vs 7020
-teams_score:
-- team: 7026
+title: Season XIX - Week 9 (11/10) - DCGFFL - S19 Tropic Like Its Hot vs S19 Fancy
+  Gay Pirates
+teams-score:
+- team: _teams/tropic.md
   score: 20
-- team: 7020
+- team: _teams/carolina-blue.md
   score: 0
 mvp: Haley, Andy
 game-ball: Stephen, Trey

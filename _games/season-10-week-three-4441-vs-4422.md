@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4441 vs 4422
-teams_score:
-- team: 4441
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Silver vs S10 Burnt Orange
+teams-score:
+- team: _teams/s10-silver.md
   score: 27
-- team: 4422
+- team: _teams/s10-burnt-orange.md
   score: 20
 mvp: Ken G. (Silver); Jake C. (Burnt Orange)
 game-ball: N/A

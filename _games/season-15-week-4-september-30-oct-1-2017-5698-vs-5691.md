@@ -1,9 +1,10 @@
 ---
-title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - 5698 vs 5691
-teams_score:
-- team: 5698
+title: Season 15 – Week 4 (September 30 & Oct 1, 2017) - DCGFFL - S15 Teal vs S15
+  Power Yellow
+teams-score:
+- team: _teams/s15-teal.md
   score: 26
-- team: 5691
+- team: _teams/s15-power-yellow.md
   score: 32
 mvp: Patrick McIntyre, Marvin Washington
 game-ball: Sean Boylan, Pedro Suarez

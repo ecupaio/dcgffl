@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4825 vs 4815
-teams_score:
-- team: 4825
+title: Season XX Canceled - DCGFFL - S13 Purple vs S13 Fuchsia
+teams-score:
+- team: _teams/s13-purple.md
   score: 27
-- team: 4815
+- team: _teams/s13-fuchsia.md
   score: 20
 mvp: M. Davis (Purple), J. Price (Pink)
 game-ball: R. Wildeman (Purple), S. Boylan (Pink)

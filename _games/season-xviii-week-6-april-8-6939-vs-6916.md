@@ -1,9 +1,10 @@
 ---
-title: Season XVIII – Week 6 (April 7) - DCGFFL - 6939 vs 6916
-teams_score:
-- team: 6939
+title: Season XVIII – Week 6 (April 7) - DCGFFL - S18 Pulp Friction vs S18 Gettin
+  Piggy With It
+teams-score:
+- team: _teams/s18-orange.md
   score:
-- team: 6916
+- team: _teams/pink.md
   score: 18
 mvp: Kirk Yancey (Pink), Dewayne Alexander (Orange)
 game-ball: ''

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4181 vs 4177
-teams_score:
-- team: 4181
+title: Season XX Canceled - DCGFFL - S12 Orange vs S12 Red
+teams-score:
+- team: _teams/s12-orange.md
   score: 29
-- team: 4177
+- team: _teams/s12-red.md
   score: 36
 mvp: Cameron Burrell (Orange); Brian Sparrow (Red)
 game-ball: Isaac Voehringer (Orange); Keaton Fedak (Red)

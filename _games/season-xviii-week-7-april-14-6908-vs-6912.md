@@ -1,9 +1,10 @@
 ---
-title: Season XX Canceled - DCGFFL - 6908 vs 6912
-teams_score:
-- team: 6908
+title: Season XX Canceled - DCGFFL - S18 Disrespectful Wit It vs S18 PurPauls Drag
+  Race
+teams-score:
+- team: _teams/s18-gold.md
   score:
-- team: 6912
+- team: _teams/purple.md
   score: 32
 mvp: JC Adams (Purple), Jack Blaney (Gold)
 game-ball: ''

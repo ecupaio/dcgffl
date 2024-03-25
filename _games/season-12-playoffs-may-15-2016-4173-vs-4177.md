@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4173 vs 4177
-teams_score:
-- team: 4173
+title: Season XX Canceled - DCGFFL - S12 Black vs S12 Red
+teams-score:
+- team: _teams/s12-black.md
   score:
-- team: 4177
+- team: _teams/s12-red.md
   score: 12
 mvp: ''
 game-ball: ''

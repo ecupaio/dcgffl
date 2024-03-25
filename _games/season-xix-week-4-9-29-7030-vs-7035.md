@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 7030 vs 7035
-teams_score:
-- team: 7030
+title: Season XX Canceled - DCGFFL - S19 Deep State Orange vs S19 Rough Sextants
+teams-score:
+- team: _teams/deep-orange.md
   score: 34
-- team: 7035
+- team: _teams/navy-2.md
   score: 20
 mvp: Steven, Jim
 game-ball: Jamie, Sam

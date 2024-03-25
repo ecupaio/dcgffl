@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 926 vs 927
-teams_score:
-- team: 926
+title: Season XX Canceled - DCGFFL - S11 Graphite vs S11 Forest
+teams-score:
+- team: _teams/s11-graphite.md
   score: 26
-- team: 927
+- team: _teams/s11-forest.md
   score: 20
 mvp: Mark Hofberg (Graphite), Tyler Fox (Forest)
 game-ball: ''

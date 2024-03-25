@@ -1,9 +1,10 @@
 ---
-title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - 6355 vs 6356
-teams_score:
-- team: 6355
+title: Season 16 – Week 1 (March 4, 2018) - DCGFFL - S16 Power Yellow vs S16 Power
+  Blue
+teams-score:
+- team: _teams/s16-power-yellow.md
   score: 26
-- team: 6356
+- team: _teams/s16-power-blue.md
   score: 31
 mvp: Patrick Tobin, Patrick Smith
 game-ball: Jeff, Mark Summerside

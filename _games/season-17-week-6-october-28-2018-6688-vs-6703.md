@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - 6688 vs 6703
-teams_score:
-- team: 6688
+title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Bringing Sexy Black vs
+  S17 Purple Parrots
+teams-score:
+- team: _teams/s17-black.md
   score:
-- team: 6703
+- team: _teams/s17-purple.md
   score: 14
 mvp: A. Pratt (Black), K. Kostura (Purple)
 game-ball: S. Adamske (Black), L. Hogue (Purple)

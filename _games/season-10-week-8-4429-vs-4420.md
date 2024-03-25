@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4429 vs 4420
-teams_score:
-- team: 4429
+title: Season XX Canceled - DCGFFL - S10 Lime vs S10 Black
+teams-score:
+- team: _teams/s10-lime.md
   score: 25
-- team: 4420
+- team: _teams/s10-black.md
   score: 6
 mvp: Rob C (Lime), Billy K (Black)
 game-ball: N/A

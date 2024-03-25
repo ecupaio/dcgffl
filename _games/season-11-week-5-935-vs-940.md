@@ -1,9 +1,10 @@
 ---
-title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - 935 vs 940
-teams_score:
-- team: 935
+title: Season 11 - Week 5 (October 16 & 18, 2015) - DCGFFL - S11 Power Yellow vs S11
+  Power Blue
+teams-score:
+- team: _teams/s11-power-yellow.md
   score: 36
-- team: 940
+- team: _teams/s11-power-blue.md
   score: 0
 mvp: None
 game-ball: ''

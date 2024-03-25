@@ -1,9 +1,9 @@
 ---
-title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - 924 vs 933
-teams_score:
-- team: 924
+title: Season 11 - Week 6 (October 23 & 25, 2015) - DCGFFL - S11 Black vs S11 Navy
+teams-score:
+- team: _teams/s11-black.md
   score: 32
-- team: 933
+- team: _teams/s11-navy.md
   score: 22
 mvp: ''
 game-ball: ''

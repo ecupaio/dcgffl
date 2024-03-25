@@ -1,9 +1,10 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4422 vs 4431
-teams_score:
-- team: 4422
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Burnt Orange vs S10
+  Maroon
+teams-score:
+- team: _teams/s10-burnt-orange.md
   score:
-- team: 4431
+- team: _teams/s10-maroon.md
   score: 20
 mvp: Meredith B. (Burnt Orange), Mike D. (Maroon)
 game-ball: N/A

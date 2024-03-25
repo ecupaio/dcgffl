@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4191 vs 4180
-teams_score:
-- team: 4191
+title: Season XX Canceled - DCGFFL - S12 Neon Green vs S12 Maroon
+teams-score:
+- team: _teams/s12-neon-green.md
   score: 25
-- team: 4180
+- team: _teams/s12-maroon.md
   score: 32
 mvp: Max R. (Neon Green); George G. (Maroon)
 game-ball: 'Michelle F. (Neon Green); Kevin '

@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - 4427 vs 4421
-teams_score:
-- team: 4427
+title: Season 10 - Week 3 (March 15, 2015) - DCGFFL - S10 Gold vs S10 Dark Green
+teams-score:
+- team: _teams/s10-gold.md
   score: 34
-- team: 4421
+- team: _teams/s10-dark-green.md
   score: 19
 mvp: John C. (Gold); Peter P. (Dark Green)
 game-ball: N/A

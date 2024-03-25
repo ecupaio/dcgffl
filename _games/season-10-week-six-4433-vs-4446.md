@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - 4433 vs 4446
-teams_score:
-- team: 4433
+title: Season 10 - Week 6 (April 10 &12, 2015) - DCGFFL - S10 Navy vs S10 Teal
+teams-score:
+- team: _teams/s10-navy.md
   score:
-- team: 4446
+- team: _teams/s10-teal.md
   score: 14
 mvp: Mike C. (Navy), Tim S. (Teal)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 6702 vs 6701
-teams_score:
-- team: 6702
+title: Season XX Canceled - DCGFFL - S17 daffoDILFS vs S17 The Shock Tops
+teams-score:
+- team: _teams/s17-power-yellow.md
   score:
-- team: 6701
+- team: _teams/s17-power-orange.md
   score: 31
 mvp: M. Rothschild (P. Yellow); E. Taylor (P. Orange)
 game-ball: L. Ferreira (P. Yellow); A. Payne (P. Orange)

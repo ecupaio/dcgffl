@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - 5697 vs 5692
-teams_score:
-- team: 5697
+title: Season 15 – Week 7 (October 29, 2017) - DCGFFL - S15 Slate vs S15 Purple
+teams-score:
+- team: _teams/s15-slate.md
   score: 33
-- team: 5692
+- team: _teams/s15-purple.md
   score: 8
 mvp: Andy Hackbarth, Tony Stewart
 game-ball: Dameron Rendell, Mark Japinga

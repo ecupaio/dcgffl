@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4172 vs 4188
-teams_score:
-- team: 4172
+title: Season XX Canceled - DCGFFL - S12 Gold vs S12 Navy
+teams-score:
+- team: _teams/s12-gold.md
   score: 13
-- team: 4188
+- team: _teams/s12-navy.md
   score: 34
 mvp: Joe H. (Gold); Adam S. (Navy Blue)
 game-ball: Andrew C. (Gold); Brad A. (Navy)

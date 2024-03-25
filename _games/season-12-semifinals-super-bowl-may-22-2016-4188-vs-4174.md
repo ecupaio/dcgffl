@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4188 vs 4174
-teams_score:
-- team: 4188
+title: Season XX Canceled - DCGFFL - S12 Navy vs S12 Purple Jam It In)
+teams-score:
+- team: _teams/s12-navy.md
   score:
-- team: 4174
+- team: _teams/s12-purple.md
   score: 30
 mvp: ''
 game-ball: ''

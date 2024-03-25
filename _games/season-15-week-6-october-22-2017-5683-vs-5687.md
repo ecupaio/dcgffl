@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - 5683 vs 5687
-teams_score:
-- team: 5683
+title: Season 15 – Week 6 (October 22, 2017) - DCGFFL - S15 Gold vs S15 Neon Green
+teams-score:
+- team: _teams/s15-gold.md
   score: 13
-- team: 5687
+- team: _teams/s15-neon-green.md
   score: 18
 mvp: John Boyd, Derrick Johnson
 game-ball: Jermaine Jackson, Nick Green

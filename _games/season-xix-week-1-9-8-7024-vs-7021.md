@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 1 (9/8) - DCGFFL - 7024 vs 7021
-teams_score:
-- team: 7024
+title: Season XIX - Week 1 (9/8) - DCGFFL - S19 Silver Rod Hoes vs S19 Yellow D*ck
+  Road
+teams-score:
+- team: _teams/silver.md
   score: 14
-- team: 7021
+- team: _teams/neon-yellow.md
   score: 40
 mvp: JC (Silver), Marvin (Neon Yellow)
 game-ball: Robert (Silver), Kevin (Neon Yellow)

@@ -1,9 +1,10 @@
 ---
-title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - 4466 vs 4453
-teams_score:
-- team: 4466
+title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Purple vs S09 Burnt
+  Orange
+teams-score:
+- team: _teams/s09-purple.md
   score:
-- team: 4453
+- team: _teams/s09-burnt-orange.md
   score: 13
 mvp: Craig N. (Purple), Jacob Willis (B. Orange)
 game-ball: N/A

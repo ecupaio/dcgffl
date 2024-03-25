@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4828 vs 4809
-teams_score:
-- team: 4828
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Safety Orange vs
+  S13 Baby Blue
+teams-score:
+- team: _teams/s13-safety-orange.md
   score:
-- team: 4809
+- team: _teams/s13-baby-blue.md
   score: 26
 mvp: M. Rothschild (S. Orange); M. Gander (B. Blue)
 game-ball: B. Mauck (S. Orange); A. Troy (B. Blue)

@@ -1,9 +1,9 @@
 ---
-title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - 4425 vs 4449
-teams_score:
-- team: 4425
+title: Season 10 - Week 4 (March 22, 2015) - DCGFFL - S10 Fuchsia vs S10 White
+teams-score:
+- team: _teams/s10-fuchsia.md
   score:
-- team: 4449
+- team: _teams/s10-white.md
   score: 6
 mvp: Ken O. (Fuchsia), Marvin W. (White)
 game-ball: N/A

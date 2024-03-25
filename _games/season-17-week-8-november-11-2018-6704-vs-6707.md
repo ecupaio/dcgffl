@@ -1,9 +1,10 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6704 vs 6707
-teams_score:
-- team: 6704
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Reddy, Ready, Red vs
+  S17 Teal
+teams-score:
+- team: _teams/s17-red.md
   score:
-- team: 6707
+- team: _teams/s17-teal.md
   score: 26
 mvp: J. Walker (Red), S. Kelly (Teal)
 game-ball: E. Green (Red), T. Wilson (Teal)

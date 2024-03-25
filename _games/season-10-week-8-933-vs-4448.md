@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 933 vs 4448
-teams_score:
-- team: 933
+title: Season XX Canceled - DCGFFL - S11 Navy vs S10 Vegas Gold
+teams-score:
+- team: _teams/s11-navy.md
   score: 32
-- team: 4448
+- team: _teams/s10-vegas-gold.md
   score: 13
 mvp: Mike C (Navy), Jamar W. (Vegas)
 game-ball: N/A

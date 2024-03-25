@@ -1,9 +1,9 @@
 ---
-title: Season XX - Week 1 (3/8) - DCGFFL - 7119 vs 7115
-teams_score:
-- team: 7119
+title: Season XX - Week 1 (3/8) - DCGFFL - S20 Vegas Gold vs S20 Kelly
+teams-score:
+- team: _teams/vegas-gold.md
   score: 22
-- team: 7115
+- team: _teams/kelly-2.md
   score: 21
 mvp: Nick, Cam
 game-ball: Sam, Patty

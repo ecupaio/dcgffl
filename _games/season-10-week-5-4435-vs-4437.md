@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4435 vs 4437
-teams_score:
-- team: 4435
+title: Season XX Canceled - DCGFFL - S10 Power Yellow vs S10 Purple
+teams-score:
+- team: _teams/s10-power-yellow.md
   score: 32
-- team: 4437
+- team: _teams/s10-purple.md
   score: 20
 mvp: Refs
 game-ball: N/A

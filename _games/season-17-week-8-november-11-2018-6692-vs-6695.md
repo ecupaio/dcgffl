@@ -1,9 +1,9 @@
 ---
-title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - 6692 vs 6695
-teams_score:
-- team: 6692
+title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Magnums vs S17 L.I.M.E.
+teams-score:
+- team: _teams/s17-gold.md
   score:
-- team: 6695
+- team: _teams/s17-neon-green.md
   score: 18
 mvp: M. Townsend (Gold), J. Anderson (Neon Green)
 game-ball: C. Azabache (Gold), D. Cook (Neon Green)

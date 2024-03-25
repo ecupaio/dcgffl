@@ -1,9 +1,9 @@
 ---
-title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - 4469 vs 4457
-teams_score:
-- team: 4469
+title: Season 9 - Week 2 ( September 12 & 14, 2014) - DCGFFL - S09 Teal vs S09 Gold
+teams-score:
+- team: _teams/s09-teal.md
   score: 40
-- team: 4457
+- team: _teams/s09-gold.md
   score: 44
 mvp: 'Teal: Chris Hobbs  /  Gold: Matt Pearce'
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - 5100 vs 5092
-teams_score:
-- team: 5100
+title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Olive vs S14 Cerulean
+teams-score:
+- team: _teams/s14-olive.md
   score:
-- team: 5092
+- team: _teams/s14-cerulean.md
   score: 26
 mvp: Josh R. & Sean B.
 game-ball: Joe L. & Jim

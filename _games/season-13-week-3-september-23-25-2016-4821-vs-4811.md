@@ -1,9 +1,10 @@
 ---
-title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - 4821 vs 4811
-teams_score:
-- team: 4821
+title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Neon Yellow vs
+  S13 Black
+teams-score:
+- team: _teams/s13-neon-yellow.md
   score:
-- team: 4811
+- team: _teams/s13-black.md
   score: 25
 mvp: A. Allen (N. Yellow); J. Anderson (Black)
 game-ball: L. Marshall (N. Yellow); M. Hess (Black)

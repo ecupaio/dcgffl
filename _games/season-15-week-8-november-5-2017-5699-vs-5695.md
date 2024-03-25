@@ -1,9 +1,9 @@
 ---
-title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - 5699 vs 5695
-teams_score:
-- team: 5699
+title: Season 15 – Week 8 (November 5, 2017) - DCGFFL - S15 White vs S15 Safety Orange
+teams-score:
+- team: _teams/s15-white.md
   score: 20
-- team: 5695
+- team: _teams/s15-safety-orange.md
   score: 41
 mvp: Paul Pham, Eduardo Guerra
 game-ball: Patrick Tobin, Aaron Ross

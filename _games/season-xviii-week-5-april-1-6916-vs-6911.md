@@ -1,9 +1,10 @@
 ---
-title: Season XVIII - Week 5 (March 31) - DCGFFL - 6916 vs 6911
-teams_score:
-- team: 6916
+title: Season XVIII - Week 5 (March 31) - DCGFFL - S18 Gettin Piggy With It vs S18
+  Not Today Satan
+teams-score:
+- team: _teams/pink.md
   score:
-- team: 6911
+- team: _teams/red.md
   score: 20
 mvp: Nick Eckert (Pink), Austin Plier (Red)
 game-ball: ''

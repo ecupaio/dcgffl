@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4449 vs 4445
-teams_score:
-- team: 4449
+title: Season XX Canceled - DCGFFL - S10 White vs S10 Slate
+teams-score:
+- team: _teams/s10-white.md
   score: 19
-- team: 4445
+- team: _teams/s10-slate.md
   score: 12
 mvp: Jim R (White), Bryan G (Slate)
 game-ball: N/A

@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4448 vs 4421
-teams_score:
-- team: 4448
+title: Season XX Canceled - DCGFFL - S10 Vegas Gold vs S10 Dark Green
+teams-score:
+- team: _teams/s10-vegas-gold.md
   score:
-- team: 4421
+- team: _teams/s10-dark-green.md
   score: 34
 mvp: Jamar W. (Vegas Gold), Peter P. (Dark Green)
 game-ball: N/A

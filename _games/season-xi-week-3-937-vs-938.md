@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 937 vs 938
-teams_score:
-- team: 937
+title: Season XX Canceled - DCGFFL - S11 Gold vs S11 Brown
+teams-score:
+- team: _teams/s11-gold.md
   score: 20
-- team: 938
+- team: _teams/s11-brown.md
   score: 18
 mvp: Cameron Burrell (Gold), Mecha Santos (Brown)
 game-ball: ''

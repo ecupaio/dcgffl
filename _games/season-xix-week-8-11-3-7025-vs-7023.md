@@ -1,9 +1,10 @@
 ---
-title: Season XIX - Week 8 (11/3) - DCGFFL - 7025 vs 7023
-teams_score:
-- team: 7025
+title: Season XIX - Week 8 (11/3) - DCGFFL - S19 Yee-Hoes! vs S19 Bluevadas House
+  of PrEP CHambers
+teams-score:
+- team: _teams/texas-orange.md
   score: 14
-- team: 7023
+- team: _teams/royal.md
   score: 41
 mvp: 'Sam, Earl '
 game-ball: Kori, Brandon

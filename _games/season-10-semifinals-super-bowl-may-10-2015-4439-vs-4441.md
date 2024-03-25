@@ -1,9 +1,10 @@
 ---
-title: Season 10 - Semifinals & Super Bowl (May 10, 2015) - DCGFFL - 4439 vs 4441
-teams_score:
-- team: 4439
+title: Season 10 - Semifinals & Super Bowl (May 10, 2015) - DCGFFL - S10 Royal vs
+  S10 Silver
+teams-score:
+- team: _teams/s10-royal.md
   score:
-- team: 4441
+- team: _teams/s10-silver.md
   score:
 mvp: ''
 game-ball: N/A

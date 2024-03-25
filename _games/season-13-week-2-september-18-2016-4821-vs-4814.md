@@ -1,9 +1,9 @@
 ---
-title: Season XX Canceled - DCGFFL - 4821 vs 4814
-teams_score:
-- team: 4821
+title: Season XX Canceled - DCGFFL - S13 Neon Yellow vs S13 Forest Green
+teams-score:
+- team: _teams/s13-neon-yellow.md
   score:
-- team: 4814
+- team: _teams/s13-forest.md
   score: 14
 mvp: L. Diep (N. Yellow); B. Sanders (Forest)
 game-ball: R. Boyle (N. Yellow); C. Babb (Forest)
