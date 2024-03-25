@@ -216,6 +216,74 @@ collections_config:
             label: Team Photo
           $.members:
             type: array
+  womenplus-games:
+    name: Womens+ Games
+    path: _womenplus-games
+    schemas:
+      default:
+        path: .cloudcannon/schemas/womenplus-game.md
+        name: Womens+ Game
+        _enabled_editors:
+          - data
+        _inputs:
+          $.week:
+            type: number
+          $.season:
+            type: number
+          $.game-ball:
+            label: Gameball
+          $.teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.womenplus-teams-score
+          $.location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          $.field:
+            type: number
+  womenplus-playoffs:
+    name: Womens+ Playoffs
+    path: _womenplus-playoffs
+    schemas:
+      default: 
+        path: .cloudcannon/schemas/womenplus-playoff.md
+        name: Womens+ Playoff
+        _enabled_editors:
+          - data
+        _inputs:
+          $.season:
+            type: number
+          $.champion:
+            type: select
+            options:
+              values: collections.womenplus-teams
+              value_key: path
+          $.rounds:
+            type: array
+            options:
+              structures: _structures.womenplus-rounds
+  womenplus-teams:
+    name: Womens+ Teams
+    path: _womenplus-teams
+    schemas:
+      default: 
+        path: .cloudcannon/schemas/team.md
+        name: Team
+        _enabled_editors:
+          - data
+        _inputs:
+          $.color:
+            type: text
+          $.season:
+            type: number
+          $.photo:
+            type: file
+            label: Team Photo
+          $.members:
+            type: array
   redirects:
     name: Redirects
     path: _redirects
@@ -308,7 +376,23 @@ _structures:
                 text: 
                   - key: title
           score:
-            type: number         
+            type: number
+  womensplus-teams-score:
+    values:
+      - value:
+          team: ''
+          score: null
+        _inputs:
+          team:
+            type: select
+            options:
+              values: collections.womensplus-teams
+              value_key: path
+              preview: 
+                text: 
+                  - key: title
+          score:
+            type: number                   
   attachments:
     values:
       - value:
@@ -336,7 +420,17 @@ _structures:
           games:
             type: array
             options:
-              structures: _structures.rec-games            
+              structures: _structures.rec-games
+  womensplus-rounds:
+    values:
+      - value:
+          title: ''
+          games: []
+        _inputs:
+          games:
+            type: array
+            options:
+              structures: _structures.womensplus-games                        
   games:
     values:
       - value:
@@ -380,7 +474,29 @@ _structures:
               value_key: path
           mvp: 
             type: text
-            label: 'MVP'              
+            label: 'MVP'
+  womensplus-games:
+    values:
+      - value:
+          title: ''
+          division: ''
+          teams-score: []
+          date: null
+          location: ''
+        _inputs:
+          teams-score:
+            type: array
+            label: Teams/Score
+            options:
+              structures: _structures.womensplus-teams-score
+          location:
+            type: select
+            options:
+              values: collections.locations
+              value_key: path
+          mvp: 
+            type: text
+            label: 'MVP'                        
   rankings:
     values:
       - value:
