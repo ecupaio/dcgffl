@@ -39,7 +39,12 @@
           <div class="teams">
             <div class="matchup">
               <div class="team-score">
+                <!-- {% if teams contains teamid %}
+                {% assign team1 = teams | where: "teamid", game.teams-score[0].teamid | first %}
+                {% else %}
                 {% assign team1 = teams | where: "path", game.teams-score[0].team | first %}
+                {% endif %} -->
+                {% assign team1 = teams | where: "teamid", game.teams-score[0].team | first %}
                 <div class="team">
                   <a href="{{ team1.url }}">
                     <h3 class="team-name">

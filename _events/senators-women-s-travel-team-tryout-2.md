@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Senators Women''s+ Travel Team Tryout #2'
-permalink: /senators-tryout-one-2024
+permalink: /senators-tryout-two-2024
 date: 2024-04-07 00:00:00 -0400
 time: 2:00 pm
 button:

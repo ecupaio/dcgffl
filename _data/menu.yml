@@ -13,26 +13,48 @@ nav:
     sublinks: 
       - title: Home
         link: /league/
+      - title: Scoreboard
+        link: /score-board/  
+      - title: Schedule
+        link: /schedule/
+      - title: Playoffs
+        link: /playoffs/ 
+      - title: Power Rankings
+        link: /power-rankings/ 
+  - title: Womens+ League 
+    link: '#'
+    sublinks: 
+      - title: Home
+        link: /womensplus-league/
+      - title: Scoreboard
+        link: /womensplus-scoreboard/
+      - title: Schedule
+        link: /womensplus-schedule/
+      - title: Playoffs
+        link: /womensplus-playoffs/ 
+      - title: Power Rankings
+        link: /womensplus-power-rankings/   
+  - title: Recreation League
+    link: /recreation-league/
+    sublinks: 
+      - title: Home
+        link: /recreation-league/
+      - title: Scoreboard
+        link: /recreation-league/score-board/
+      - title: Schedule
+        link: /recreation-league/schedule/
+      - title: Playoffs
+        link: /recreation-league/playoffs/       
   - title: Travel Program
     link: /travel-program/
-  - title: Game Schedule
-    link: /schedule/
   - title: Gallery
     link: https://www.flickr.com/photos/55392288@N03/sets/
-  - title: Scoreboard
-    link: /score-board/
   - title: Sponsors
     link: /sponsors/
   - title: Events
     link: /events/
   - title: News
     link: /news/
-  - title: Playoffs
-    link: /playoffs/
-  - title: Recreation League
-    link: /recreation-league/
-  - title: Power Rankings
-    link: /power-rankings/
   - title: Awards
     link: /awards/
 nav-button:

@@ -1,0 +1,15 @@
+---
+title: Season 17 – Playoffs (November 18, 2018) - DCGFFL - 6705 vs 6707
+teams_score:
+- team: 6705
+  score:
+- team: 6707
+  score: 23
+mvp: K. Birnbaum (Royal Blue), S. Kelly (Teal)
+game-ball: K. Lynch (Royal Blue), A. Robbins (Teal)
+sportsperson: M. Belhumeur (Royal Blue), T. Comparetto (Teal)
+season: 17
+week:
+date: '2018-11-23T09:45:40'
+pageid: season-17-playoffs-november-18-2018-6705-vs-6707
+---

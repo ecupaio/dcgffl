@@ -2,6 +2,11 @@ $(function(){
   $('.nav-toggle').click(function() {
     $('nav,html').toggleClass('active');
   });
+  $('.toggle-sublinks').click(function(e) {
+    e.preventDefault();
+    $(this).toggleClass('active');
+    $(this).next('.sublinks').slideToggle();
+  });
   $(window).on('scroll load resize',function() {
     var scrollTop;
     // if (inView('nav') == false) {
