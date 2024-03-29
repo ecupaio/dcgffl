@@ -16,6 +16,7 @@ members:
   - Jack Loome
   - Charles Roth
   - Stephen Sonon
+  - Tracy S.
   - Michael S.
   - Vinny Varvaro
   - Ryan Winter

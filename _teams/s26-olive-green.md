@@ -13,6 +13,7 @@ members:
   - Art H.
   - Benny K.
   - Kevin Morris
+  - Johnny Moseman
   - Brandon Recto
   - Sherrie R.
   - Malcolm Warbrick

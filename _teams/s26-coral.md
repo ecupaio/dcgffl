@@ -9,6 +9,7 @@ photo: /img/da2-7087.jpg
 captain: Derrick Johnson
 quarterback: Garrett Schiponi
 members:
+  - TJ Baggett
   - Evan B.
   - Chris B.
   - 'Alex D. '

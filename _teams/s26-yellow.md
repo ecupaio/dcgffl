@@ -11,6 +11,7 @@ quarterback: Andy Pratt
 members:
   - Patrick Barboun
   - Luke B.
+  - Brian Carter
   - Andrew Gordon
   - Craig Johnson
   - Nolan L.

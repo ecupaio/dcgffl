@@ -12,6 +12,7 @@ members:
   - Brandon Benjamin
   - Samuel Brown
   - Jonathan Dillard
+  - "Jimmy\tGomez"
   - Brandon Moore
   - Jaquezz Salary
   - Kirt S.

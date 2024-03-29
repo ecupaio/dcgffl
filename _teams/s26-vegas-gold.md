@@ -16,6 +16,7 @@ members:
   - Eric Green
   - JJ Johnson
   - Dan King
+  - PJ M.
   - Jens Piferoen
   - Randy Snight
   - Bradley Williams

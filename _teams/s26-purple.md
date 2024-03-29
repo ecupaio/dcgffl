@@ -10,6 +10,7 @@ captain: Connor Wilson
 quarterback: Andrew Aldrian
 members:
   - Chris Ashton
+  - Shaq Brooks
   - Joey C.
   - Leah G.
   - Jp Hooth

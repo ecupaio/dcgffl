@@ -10,6 +10,7 @@ captain: Tiger Ricchetti
 quarterback: Aaron Billingsley
 members:
   - Liz B.
+  - "Shawn\tBoyd"
   - Demetrian Cook
   - Alex E.
   - Christopher Gillyard

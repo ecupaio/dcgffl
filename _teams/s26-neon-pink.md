@@ -19,6 +19,7 @@ members:
   - Baxter O'Brien
   - JJ Ricchetti
   - Ben Tow
+  - Michael Z.
 division: Shakers Open
 ---
 ![](/img/da2-7048.jpg){: width="4962" height="3544"}

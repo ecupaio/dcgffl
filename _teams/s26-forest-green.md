@@ -14,6 +14,7 @@ members:
   - Fernando H.
   - Twon H.
   - Christine Hohl
+  - Panda J
   - Thomas L.
   - Brendan McFarland
   - Kyle Oliver

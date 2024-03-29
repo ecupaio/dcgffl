@@ -14,6 +14,7 @@ members:
   - Dawson Currin
   - Isaiah F.
   - Jared Gee
+  - Ja’Bree H.
   - Tom Hassett
   - Ryan Johns Perez
   - Tevin M.

@@ -12,6 +12,7 @@ members:
   - Logan Dawson
   - Sean Dickson
   - Kaio Ferreira
+  - John Goodman
   - Shawn Graham
   - Kevin Hamilton
   - Nick Lewis

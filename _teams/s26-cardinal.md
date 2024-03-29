@@ -10,9 +10,11 @@ captain: Lamar Riotta-Rogers
 quarterback: Cameron M.
 members:
   - Kevin Comerford (Forever Family)
+  - Julia C.
   - Matt Devino
   - Pete D.
   - "Carlos\tF."
+  - Arlen H.
   - Mike Hess
   - "Daniel\tH."
   - "Alonzo\tMable"
