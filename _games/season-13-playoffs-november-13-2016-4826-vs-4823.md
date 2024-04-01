@@ -9,7 +9,7 @@ teams-score:
 mvp: A. Hackbarth (Red), C. Gillyard (Pacific)
 game-ball: A. Baidas (Red), F. Cheng (Pacific)
 season: 13
-week:
+week: 8
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4826-vs-4823
 ---

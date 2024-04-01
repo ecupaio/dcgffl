@@ -1,5 +1,5 @@
 ---
-title: Season XX Canceled - DCGFFL - S10 Camo Grey vs S10 Red
+title: Season 10 Playoffs - DCGFFL - S10 Camo Grey vs S10 Red
 teams-score:
 - team: _teams/s10-camo-grey.md
   score:
@@ -8,7 +8,7 @@ teams-score:
 mvp: Mark H. (Camo Grey), Cody G. (Red)
 game-ball: N/A
 season: 10
-week:
+week: 9
 date: '2015-05-07T00:38:41'
 pageid: season-10-playoff-4423-vs-4438
 ---

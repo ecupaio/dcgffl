@@ -8,7 +8,7 @@ teams-score:
 mvp: J. Santos (Power Yellow), D. Merlino (White)
 game-ball: L. Ferreira (Power Yellow), K. Malcolm (White)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6702-vs-6708
 ---

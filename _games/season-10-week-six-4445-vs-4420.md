@@ -8,7 +8,7 @@ teams-score:
 mvp: Gabe A. (Slate), Alex P. (Black)
 game-ball: N/A
 season: 10
-week:
+week: 6
 date: '2015-04-13T14:08:50'
 pageid: season-10-week-six-4445-vs-4420
 ---

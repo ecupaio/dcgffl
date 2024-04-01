@@ -9,7 +9,7 @@ teams-score:
 mvp: J. Steslicki (Columbia Blue), J. Anderson (Neon Green)
 game-ball: T. Stewart (Columbia Blue), J. Piferoen (Neon Green)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6690-vs-6695
 ---

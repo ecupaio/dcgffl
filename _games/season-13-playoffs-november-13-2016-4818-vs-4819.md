@@ -8,7 +8,7 @@ teams-score:
 mvp: M. Washington (Lime), B. Waggoner (Maroon)
 game-ball: D. Halunen (Lime), J. Santanella (Maroon)
 season: 13
-week:
+week: 8
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4818-vs-4819
 ---

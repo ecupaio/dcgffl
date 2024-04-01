@@ -8,7 +8,7 @@ teams-score:
 mvp: Mike H. (Power Blue), Bryan S. (Gold)
 game-ball: N/A
 season: 10
-week:
+week: 6
 date: '2015-04-13T14:08:50'
 pageid: season-10-week-six-4434-vs-4427
 ---

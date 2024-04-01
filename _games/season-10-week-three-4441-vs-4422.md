@@ -8,7 +8,7 @@ teams-score:
 mvp: Ken G. (Silver); Jake C. (Burnt Orange)
 game-ball: N/A
 season: 10
-week:
+week: 3
 date: '2015-03-16T14:28:10'
 pageid: season-10-week-three-4441-vs-4422
 ---

@@ -9,7 +9,7 @@ mvp: Brion S. (Purple), Jason C. (Royal)
 game-ball: N/A
 sportsperson: ''
 season: 10
-week:
+week: 4
 date: '2015-03-23T23:52:22'
 pageid: season-10-week-four-4437-vs-4439
 ---

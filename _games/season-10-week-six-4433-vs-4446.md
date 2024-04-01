@@ -8,7 +8,7 @@ teams-score:
 mvp: Mike C. (Navy), Tim S. (Teal)
 game-ball: N/A
 season: 10
-week:
+week: 6
 date: '2015-04-13T14:08:50'
 pageid: season-10-week-six-4433-vs-4446
 ---

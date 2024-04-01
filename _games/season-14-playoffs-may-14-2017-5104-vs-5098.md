@@ -8,7 +8,7 @@ teams-score:
 mvp: Hofberg, Vinnie
 game-ball: AdRob, Sanders
 season: 14
-week:
+week: 9
 date: '2017-05-15T12:31:22'
 pageid: season-14-playoffs-may-14-2017-5104-vs-5098
 ---

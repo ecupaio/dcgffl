@@ -10,7 +10,7 @@ mvp: George G. (Power Yellow), Jamar W. (Vegas Gold)
 game-ball: N/A
 sportsperson: ''
 season: 10
-week:
+week: 6
 date: '2015-04-13T14:08:50'
 pageid: season-10-week-six-4435-vs-4448
 ---

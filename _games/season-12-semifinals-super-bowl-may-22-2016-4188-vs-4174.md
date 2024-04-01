@@ -9,7 +9,7 @@ mvp: ''
 game-ball: ''
 sportsperson: ''
 season: 12
-week:
+week: 10
 date: '2016-05-23T11:30:28'
 pageid: season-12-semifinals-super-bowl-may-22-2016-4188-vs-4174
 ---

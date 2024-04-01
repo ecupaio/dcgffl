@@ -8,7 +8,7 @@ teams-score:
 mvp: T. Stewart (Safety Orange); J. Anderson (Black)
 game-ball: M. Rothschild (Safety Orange); T. Williams (Black)
 season: 13
-week:
+week: 8
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4828-vs-4811
 ---

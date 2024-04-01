@@ -8,7 +8,7 @@ teams-score:
 mvp: Mark H. (Camo Grey), Trey P. (Fuchsia)
 game-ball: N/A
 season: 10
-week:
+week: 9
 date: '2015-05-07T00:38:41'
 pageid: season-10-playoff-4423-vs-4425
 ---

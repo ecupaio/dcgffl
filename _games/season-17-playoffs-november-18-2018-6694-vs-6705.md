@@ -9,7 +9,7 @@ teams-score:
 mvp: B. Chambers (Kelly Green), K. Lynch (Royal Blue)
 game-ball: M. Japinga (Kelly Green), A. Schaps (Royal Blue)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6694-vs-6705
 ---

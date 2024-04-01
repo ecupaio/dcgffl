@@ -10,7 +10,7 @@ mvp: G. Carter (Orange), D. Honeycutt (Crimson)
 game-ball: K. Miller (Orange), B. McFarland (Crimson)
 sportsperson: J. McCathren (Orange), M. Washington (Crimson)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6698-vs-6691
 ---

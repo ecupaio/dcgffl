@@ -9,7 +9,7 @@ mvp: Kevin M. (Navy), Patrick M. (Black)
 game-ball: N/A
 sportsperson: ''
 season: 10
-week:
+week: 9
 date: '2015-05-07T00:38:41'
 pageid: season-10-playoff-4433-vs-4420
 ---

@@ -9,7 +9,7 @@ teams-score:
 mvp: Ryan B (Black), C.J. Guitron (Medium Green)
 game-ball: N/A
 season: 9
-week:
+week: 8
 date: '2014-11-19T21:27:59'
 pageid: season-9-playoffs-4452-vs-4462
 ---

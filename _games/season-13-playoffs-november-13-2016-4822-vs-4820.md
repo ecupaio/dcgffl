@@ -9,7 +9,7 @@ mvp: M. Cline (Orange), B. McFarland (Midnight)
 game-ball: A. Mertens (Orange), E. Cabrera (Midnight)
 sportsperson: ''
 season: 13
-week:
+week: 8
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4822-vs-4820
 ---

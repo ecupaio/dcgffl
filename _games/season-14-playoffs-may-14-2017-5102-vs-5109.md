@@ -8,7 +8,7 @@ teams-score:
 mvp: Cline, Scott S
 game-ball: Kenderdine, Scott G
 season: 14
-week:
+week: 9
 date: '2017-05-15T12:31:22'
 pageid: season-14-playoffs-may-14-2017-5102-vs-5109
 ---

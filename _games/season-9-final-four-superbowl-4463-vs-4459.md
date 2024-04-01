@@ -10,7 +10,7 @@ mvp: John Woods (Navy), Markco Stroman (Leaf)
 game-ball: N/A
 sportsperson: ''
 season: 9
-week:
+week: 10
 date: '2014-11-24T16:10:55'
 pageid: season-9-final-four-superbowl-4463-vs-4459
 ---

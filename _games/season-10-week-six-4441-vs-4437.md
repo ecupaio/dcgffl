@@ -8,7 +8,7 @@ teams-score:
 mvp: Andy S. (Silver), Clay A. (Purple)
 game-ball: N/A
 season: 10
-week:
+week: 6
 date: '2015-04-13T14:08:50'
 pageid: season-10-week-six-4441-vs-4437
 ---

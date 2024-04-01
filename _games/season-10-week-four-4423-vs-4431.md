@@ -8,7 +8,7 @@ teams-score:
 mvp: Cole W. (Camo), Peter P. (Maroon)
 game-ball: N/A
 season: 10
-week:
+week: 4
 date: '2015-03-23T23:52:22'
 pageid: season-10-week-four-4423-vs-4431
 ---

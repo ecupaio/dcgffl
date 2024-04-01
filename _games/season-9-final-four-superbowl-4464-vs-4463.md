@@ -10,7 +10,7 @@ mvp: Gabe Avila (Orange), Sheerod Wilkerson (Navy)
 game-ball: N/A
 sportsperson: ''
 season: 9
-week:
+week: 10
 date: '2014-11-24T16:10:55'
 pageid: season-9-final-four-superbowl-4464-vs-4463
 ---

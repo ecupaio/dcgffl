@@ -9,7 +9,7 @@ teams-score:
 mvp: E. Green (Red), JJ Johnson (Black)
 game-ball: M. Malysa (Red), A. Pratt (Black)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6704-vs-6688
 ---

@@ -8,7 +8,7 @@ teams-score:
 mvp: Keith C. (Vegas Gold), Jayme F. (Teal)
 game-ball: N/A
 season: 10
-week:
+week: 4
 date: '2015-03-23T23:52:22'
 pageid: season-10-week-four-4448-vs-4446
 ---

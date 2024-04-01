@@ -8,7 +8,7 @@ teams-score:
 mvp: Kyle B. (Sky Blue), Dan C. (Lime)
 game-ball: N/A
 season: 10
-week:
+week: 4
 date: '2015-03-23T23:52:22'
 pageid: season-10-week-four-4443-vs-4429
 ---

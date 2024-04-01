@@ -9,7 +9,7 @@ mvp: Matt M. (Camo Grey) Mike Z. (Burnt Orange)
 game-ball: N/A
 sportsperson: ''
 season: 10
-week:
+week: 4
 date: '2015-03-23T23:52:22'
 pageid: season-10-week-four-4423-vs-4422
 ---

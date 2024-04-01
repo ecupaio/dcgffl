@@ -3,6 +3,8 @@ _inputs:
     type: markdown
   $.logo:
     type: image
+  nav.sublinks:
+    type: array  
 nav:
   - title: Home
     link: /

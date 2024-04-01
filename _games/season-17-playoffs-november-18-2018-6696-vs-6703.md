@@ -9,7 +9,7 @@ teams-score:
 mvp: C. Gillyard (Navy), D. Mitchell (Purple)
 game-ball: B. Donahoe (Navy), K. Kostura (Purple)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6696-vs-6703
 ---

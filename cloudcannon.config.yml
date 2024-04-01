@@ -1,8 +1,7 @@
 collections_config:
   data: 
     name: Menus
-    path: _data
-
+    path: _data    
   events:
     name: Events
     path: _events

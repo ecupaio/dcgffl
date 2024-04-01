@@ -8,7 +8,7 @@ teams-score:
 mvp: Matt Pearce (Gold), Josh Ellis (Vegas)
 game-ball: N/A
 season: 9
-week:
+week: 9
 date: '2014-11-19T21:27:59'
 pageid: season-9-playoffs-4457-vs-4470
 ---

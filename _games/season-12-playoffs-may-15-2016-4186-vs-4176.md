@@ -9,7 +9,7 @@ mvp: ''
 game-ball: ''
 sportsperson: ''
 season: 12
-week:
+week: 9
 date: '2016-05-15T17:00:45'
 pageid: season-12-playoffs-may-15-2016-4186-vs-4176
 ---

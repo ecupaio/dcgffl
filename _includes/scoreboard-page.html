@@ -175,9 +175,9 @@
           <h4 href="#" class="season-title">Season {{ season.name }}</h4>
           <div class="season-weeks">
             {% assign weeks = "" | split: "" %}
-            {{ season.items }}
+            <!-- {{ season.items }} -->
             {% for item in season.items %}
-            {{ item }}
+            <!-- {{ item }} -->
             {% assign weeks = weeks | push: item.week | uniq %}
             {% endfor %}
             

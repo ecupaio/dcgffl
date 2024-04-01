@@ -9,7 +9,7 @@ teams-score:
 mvp: J. Reinders (Pink), W. Jackson (Silver)
 game-ball: J. Jackson (Pink), M. Davis (Silver)
 season: 17
-week:
+week: 9
 date: '2018-11-23T09:45:40'
 pageid: season-17-playoffs-november-18-2018-6699-vs-6706
 ---

@@ -1,5 +1,5 @@
 ---
-title: Season XX Canceled - DCGFFL - S10 Silver vs S10 Gold
+title: Season 10 Playoff - DCGFFL - S10 Silver vs S10 Gold
 teams-score:
 - team: _teams/s10-silver.md
   score:
@@ -8,7 +8,7 @@ teams-score:
 mvp: " Nolan L. (Silver), Will L. (Gold)"
 game-ball: N/A
 season: 10
-week:
+week: 9
 date: '2015-05-07T00:38:41'
 pageid: season-10-playoff-4441-vs-4427
 ---
