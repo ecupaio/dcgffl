@@ -41,14 +41,6 @@ plugins:
   - jekyll-sitemap
   - pagemaster
 collections:
-  wp-games: 
-    output: false
-    source: wp-scores.json
-    id_key: pageid
-  wp-teams: 
-    output: false
-    source: wp-teams.json
-    id_key: teamslug 
   pages: 
     output: true
     permalink: /:title/

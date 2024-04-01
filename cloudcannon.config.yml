@@ -319,13 +319,18 @@ collections_config:
           color: 
             type: text
 collection_groups:
-  - heading: League
+  - heading: Open League
     collections: 
     - teams
     - games
     - playoffs
     - power-rankings
     - past-seasons
+  - heading: Womens+ League
+    collections: 
+    - womensplus-teams
+    - womensplus-games
+    - womensplus-playoffs
   - heading: Recreation League
     collections: 
     - rec-teams
