@@ -27,9 +27,9 @@ nav:
       - title: Home
         link: /womensplus-league/
       - title: Scoreboard
-        link: /womensplus-scoreboard/
+        link: /womensplus-league/score-board/ 
       - title: Schedule
-        link: /womensplus-schedule/
+        link: /womensplus-league/schedule/
       - title: Playoffs
         link: /womensplus-playoffs/ 
       - title: Power Rankings
