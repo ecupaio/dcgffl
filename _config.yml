@@ -34,6 +34,7 @@ exclude:
 - Gemfile.lock
 - node_modules
 - gruntfile.js
+- wp-exports
 sass:
   sass_dir: _sass
   style: compressed
@@ -124,7 +125,7 @@ defaults:
 - scope: 
     type: 'womensplus-playoffs'
   values:
-    layout: playoffs
+    layout: playoff
 - scope: 
     type: 'posts'
   values:

@@ -331,6 +331,7 @@ collection_groups:
     - womensplus-teams
     - womensplus-games
     - womensplus-playoffs
+    - womensplus-power-rankings
   - heading: Recreation League
     collections: 
     - rec-teams
