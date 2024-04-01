@@ -57,6 +57,7 @@ module.exports = function(grunt) {
     },
     postcss: {
       options: {
+        map: false,
         processors: [
           require('autoprefixer')({overrideBrowserslist: ['last 2 versions']}),
           require('csswring')()
@@ -73,7 +74,7 @@ module.exports = function(grunt) {
     },
     shell: {
       jekyllServe: {
-        command: 'bundle exec jekyll serve --livereload --incremental'
+        command: 'bundle exec jekyll serve --incremental --livereload'
       }
     },
 		concurrent: {

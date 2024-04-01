@@ -17,6 +17,8 @@ gem "jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
+  gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
+  gem 'pagemaster'
 end
 
 gem "webrick", "~> 1.7"

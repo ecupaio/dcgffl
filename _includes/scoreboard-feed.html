@@ -27,11 +27,11 @@
             <div class="team">
               {% for team in teamsArr %}
               {% if team.path == item.team %}
-              {% if team.color == '' %}
-              {% assign team-name = team.name %}
-              {% else %}
-              {% assign team-name = team.color %}
-              {% endif %}
+                {% if team.color == '' %}
+                  {% assign team-name = team.name %}
+                {% else %}
+                  {% assign team-name = team.color %}
+                {% endif %}
               <a href="{{ team.url }}">{{ team-name }}</a>
               {% endif %}
               {% endfor %} 

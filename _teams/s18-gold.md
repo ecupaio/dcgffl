@@ -1,22 +1,24 @@
 ---
-color: Gold
-title: S18 - Disrespectful Wit It (Gold)
-name: Disrespectful Wit It
-season: 18
-photo: ''
-captain: Antwon Hines
-quarterback: A.J. Reust
+title: S18 Disrespectful Wit It (Gold)
+permalink: "/teams/s18-gold"
+teamslug: s18-gold
 members:
-- Alex Payne
-- Brandan Benjamin
-- Brandon McElroy
-- Brian Donohoe
-- Bryan Jones
-- Dan Vladimer
-- Edgar Chavez
-- Fernando Herrera
-- Jack Blaney
-- Matt Townsend
-- Michael Dison
-- Mike Osorio
+- Antwon Hines - Captain
+- A.J. Reust - Quarterback
+- "Alex Payne\t"
+- "Brandan Benjamin\t"
+- "Brandon McElroy\t"
+- "Brian Donohoe\t"
+- "Bryan Jones\t"
+- "Dan Vladimer\t"
+- "Edgar Chavez\t"
+- "Fernando Herrera\t"
+- "Jack Blaney\t"
+- "Matt Townsend\t"
+- "Michael Dison\t"
+- "Mike Osorio\t"
+teamid: 6908
+name: S18 Disrespectful Wit It
+color: Gold
+division: ''
 ---

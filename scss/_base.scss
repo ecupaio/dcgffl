@@ -16,7 +16,7 @@ body {
 	position: relative;
 }
 //Default Fonts
-h1, h2, h3, h4, h5,h6 {
+h1, h2, h3, h4, h5,h6, [class*="heading-"] {
 	font-family: $header-font;
 	margin-top: 0;
 	margin-bottom: 0.5rem;
@@ -26,31 +26,31 @@ h1, h2, h3, h4, h5,h6 {
 		font-weight: 400;
 	}
 }
-h1 {
+h1, .heading-1 {
 	font-size: 64px;
 	@include bp-medium {
 		font-size: 50px;
 	}
 }
-h2 {
+h2, .heading-2 {
 	font-size: 48px;
 	@include bp-medium {
 		font-size: 40px;
 	}
 }
-h3 {
+h3, .heading-3 {
 	font-size: 36px;
 	@include bp-medium {
 		font-size: 32px;
 	}
 }
-h4 {
+h4, .heading-4 {
 	font-size: 24px;
 }
-h5 {
+h5, .heading-5 {
 	font-size: 20px;
 }
-h6 {
+h6, .heading-6 {
 	font-size: 16px;
 }
 

@@ -2,6 +2,7 @@
 title: DC Gay Flag Football League
 description: Founded in 1994, DC Gay Flag Football League (DCGFFL) is DC's only gay flag football league with 20 teams and over 270 players.
 meta_img: /img/dcgffl-meta.png
+baseurl: ""
 twitter:
 favicon: /img/dcgffl-favicon.png
 url: https://dcgffl.org
@@ -38,7 +39,16 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - pagemaster
 collections:
+  wp-games: 
+    output: false
+    source: wp-scores.json
+    id_key: pageid
+  wp-teams: 
+    output: false
+    source: wp-teams.json
+    id_key: teamslug 
   pages: 
     output: true
     permalink: /:title/
@@ -72,6 +82,17 @@ collections:
     output: true
     sitemap: false
     permalink: /recreation-league/playoffs/:title/
+  womensplus-games: 
+    output: true
+    sitemap: false
+  womensplus-teams: 
+    output: true
+    sitemap: false    
+    permalink: /womensplus/teams/:title/
+  womensplus-playoffs:
+    output: true
+    sitemap: false
+    permalink: /womensplus/playoffs/:title/
   posts: 
     output: true
     sitemap: true
@@ -80,7 +101,9 @@ collections:
     output: true
     permalink: /past-seasons/:title/  
   power-rankings: 
-    output: true  
+    output: true
+  womensplus-power-rankings: 
+    output: true    
 defaults:
 - scope:
     type: 'pages'
@@ -101,7 +124,15 @@ defaults:
 - scope: 
     type: 'rec-playoffs'
   values: 
-    layout: playoff       
+    layout: playoff
+- scope: 
+    type: 'womensplus-teams'
+  values: 
+    layout: team
+- scope: 
+    type: 'womensplus-playoffs'
+  values:
+    layout: playoffs
 - scope: 
     type: 'posts'
   values:
@@ -118,6 +149,12 @@ defaults:
     type: 'power-rankings'
   values: 
     layout: power-rankings
+    league: 'open'
+- scope: 
+    type: 'womensplus-power-rankings'
+  values: 
+    layout: power-rankings
+    league: 'womensplus'    
 - scope: 
     type: 'redirects'
   values: 

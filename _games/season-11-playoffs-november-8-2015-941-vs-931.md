@@ -1,0 +1,15 @@
+---
+title: Season XX Canceled - DCGFFL - S11 Teal vs S11 Baby Blue
+teams-score:
+- team: _teams/s11-teal.md
+  score:
+- team: _teams/s11-baby-blue.md
+  score:
+mvp: ''
+game-ball: ''
+sportsperson: ''
+season: 11
+week:
+date: '2015-11-09T00:00:58'
+pageid: season-11-playoffs-november-8-2015-941-vs-931
+---

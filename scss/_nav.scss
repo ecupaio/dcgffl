@@ -70,7 +70,7 @@ nav {
             height: 3px; 
             background-color: $red;
             width: 30px;
-            @include transition(transform);
+            @include transition(transform,background-color);
             transform-origin: center;
             &.middle {
               margin: 8px 0;
@@ -96,6 +96,23 @@ nav {
       max-width: $max-width;
       margin: auto;
       padding-right: 30px;
+      .link-block {
+        color: $white; 
+        i {
+          margin-left: 0.25rem;
+          @include transition(transform);
+        }
+        &.active {
+          i {
+            transform: rotate(90deg);
+          }
+        }
+      }
+      .sublinks {
+        list-style: none;
+        display: none;
+        padding-left: 1.5rem;
+      }
     }
     a {
       color: $white;

@@ -339,7 +339,7 @@ bylaws-minutes:
         <div class="member-col">
           <div class="member">
             <div class="member-image">
-              <img src="{{ member.image }}" />
+              <img src="{{ member.image | resize: '175x>' }}" />
             </div>
             <h4 class="member-name">
               {{ member.name }}
@@ -384,7 +384,7 @@ bylaws-minutes:
                   <i class="fa fa-user"></i>
                 </div>
                 {% if candidate.image != '' %}
-                <img src="{{ candidate.image }}" class="image" />
+                <img src="{{ candidate.image | resize: '150x>'  }}" class="image" />
                 {% endif %}
                 
               </div>
@@ -400,7 +400,7 @@ bylaws-minutes:
                         <i class="fa fa-user"></i>
                       </div>
                       {% if candidate.image != '' %}
-                      <img src="{{ candidate.image }}" class="image" />
+                      <img src="{{ candidate.image | resize: '150x>' }}" class="image" />
                       {% endif %}
                     </div>
                     <h4 class="statement-name">{{ candidate.name }}</h4>
