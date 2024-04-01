@@ -10,6 +10,8 @@ content-id: playoff-page
     </div>
     {% if page.collection == 'rec-playoffs' %}
     {% assign teams = site.rec-teams %}
+    {% elsif page.collection == 'womensplus-playoffs' %}
+    {% assign teams = site.womensplus-teams %}
     {% elsif page.collection == 'playoffs' %}
     {% assign teams = site.teams %}
     {% endif %}
