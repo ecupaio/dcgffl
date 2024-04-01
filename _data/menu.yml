@@ -4,7 +4,23 @@ _inputs:
   $.logo:
     type: image
   nav.sublinks:
-    type: array  
+    type: array 
+    options:
+
+_structures: 
+  nav-links: 
+    values:
+    - value: 
+        title:
+        link: 
+        sublinks: []
+  sublinks: 
+    values:
+    - value:
+        title:
+        link:  
+
+             
 nav:
   - title: Home
     link: /
