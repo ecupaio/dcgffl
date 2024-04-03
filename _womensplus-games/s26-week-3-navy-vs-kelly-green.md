@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S26 Week 3 - Navy vs Kelly Green
+title: S03 Week 3 - Navy vs Kelly Green
 teams-score:
   - team: _womensplus-teams/s03-women-s-navy.md
     score: 28

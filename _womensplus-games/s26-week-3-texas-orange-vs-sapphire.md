@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'S26 Week 3- Texas Orange vs Sapphire '
+title: 'S03 Week 3- Texas Orange vs Sapphire '
 teams-score:
   - team: _womensplus-teams/s03-women-s-texas-orange.md
     score: 33

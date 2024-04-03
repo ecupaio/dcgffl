@@ -4,49 +4,48 @@ _inputs:
   $.logo:
     type: image
   nav.links:
-    type: array 
+    type: array
     options:
       structures: _structures.nav-links
-
-_structures: 
-  nav-links: 
+_structures:
+  nav-links:
     values:
-    - value: 
-        title:
-        link: 
-        sublinks: []
-      _inputs:
-        sublinks: 
-          type: array
-        options: 
-          structures: _structures.sublink  
-      _structures:
-        sublink: 
-          values:
-          - value: 
-              title:
-              link:       
+      - value:
+          title:
+          link:
+          sublinks: []
+        _inputs:
+          sublinks:
+            type: array
+          options:
+            structures: _structures.sublink
+        _structures:
+          sublink:
+            values:
+              - value:
+                  title:
+                  link:
 nav:
   - title: Home
     link: /
   - title: About
     link: /about/
-  - title: Open League
+  - title: Open Division
     link: '#'
-    sublinks: 
+    sublinks:
       - title: Home
         link: /league/
       - title: Scoreboard
-        link: /score-board/  
+        link: /score-board/
       - title: Schedule
         link: /schedule/
       - title: Playoffs
-        link: /playoffs/ 
+        link: /playoffs/
       - title: Power Rankings
-        link: /power-rankings/ 
-  - title: Womens+ League 
+        link: /power-rankings/
+  - title: Womens+ Divsion
     link: '#'
-    sublinks: 
+    sublinks:
       - title: Home
         link: /womensplus-league/
       - title: Scoreboard
@@ -54,12 +53,12 @@ nav:
       - title: Schedule
         link: /womensplus-league/schedule/
       - title: Playoffs
-        link: /womensplus-playoffs/ 
+        link: /womensplus-playoffs/
       - title: Power Rankings
-        link: /womensplus-power-rankings/   
-  - title: Recreation League
+        link: /womensplus-power-rankings/
+  - title: Recreation Division
     link: /recreation-league/
-    sublinks: 
+    sublinks:
       - title: Home
         link: /recreation-league/
       - title: Scoreboard
@@ -67,7 +66,7 @@ nav:
       - title: Schedule
         link: /recreation-league/schedule/
       - title: Playoffs
-        link: /recreation-league/playoffs/       
+        link: /recreation-league/playoffs/
   - title: Travel Program
     link: /travel-program/
   - title: Gallery
@@ -118,6 +117,6 @@ footer:
 announcement:
   text: >-
     [**Spring 2024 Recreation Division Registration is now
-    Open!**&nbsp;](https://forms.gle/Cingps26cCC3A2TN6){: target="_blank"
+    Open!**](https://forms.gle/Cingps26cCC3A2TN6){: target="_blank"
     rel="noopener"}
-  show: true
+  show: false

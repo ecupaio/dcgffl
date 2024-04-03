@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'S26 Week 2 - Navy vs Gold '
+title: 'S03 Week 2 - Navy vs Gold '
 teams-score:
   - team: _womensplus-teams/s03-women-s-navy.md
     score: 12

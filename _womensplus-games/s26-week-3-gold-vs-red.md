@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S26 Week 3 - Gold vs Red
+title: S03 Week 3 - Gold vs Red
 teams-score:
   - team: _womensplus-teams/s03-women-s-gold.md
     score: 26

@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S26 Week 2 - Red vs Sapphire
+title: S03 Week 2 - Red vs Sapphire
 teams-score:
   - team: _womensplus-teams/s02-women-s-red.md
     score: 6
