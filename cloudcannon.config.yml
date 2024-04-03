@@ -173,8 +173,7 @@ collections_config:
             options:
               values: collections.locations
               value_key: path
-          $.field:
-            type: number
+          
   rec-playoffs:
     name: Rec Playoffs
     path: _rec-playoffs
@@ -241,8 +240,6 @@ collections_config:
             options:
               values: collections.locations
               value_key: path
-          $.field:
-            type: number
   womensplus-playoffs:
     name: "Womens+ Playoffs"
     path: _womensplus-playoffs
@@ -334,6 +331,8 @@ collections_config:
       default:
         path: .cloudcannon/schemas/team.md
         name: Team
+        _enabled-editors:
+          - data
         _inputs:
           color:
             type: text
@@ -556,7 +555,7 @@ _structures:
           team:
             type: select
             options:
-              values: collections.teams
+              values: collections.womensplus-teams
               value_key: path
           text:
             type: markdown

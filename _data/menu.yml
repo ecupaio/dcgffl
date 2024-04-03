@@ -3,7 +3,7 @@ _inputs:
     type: markdown
   $.logo:
     type: image
-  nav.links:
+  nav:
     type: array
     options:
       structures: _structures.nav-links
