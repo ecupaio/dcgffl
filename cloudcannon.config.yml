@@ -216,12 +216,12 @@ collections_config:
           $.members:
             type: array
   womenplus-games:
-    name: Womens+ Games
+    name: 'Womens+ Games'
     path: _womenplus-games
     schemas:
       default:
         path: .cloudcannon/schemas/womenplus-game.md
-        name: Womens+ Game
+        name: 'Womens+ Game'
         _enabled_editors:
           - data
         _inputs:
@@ -244,12 +244,12 @@ collections_config:
           $.field:
             type: number
   womenplus-playoffs:
-    name: Womens+ Playoffs
+    name: 'Womens+ Playoffs'
     path: _womenplus-playoffs
     schemas:
       default: 
         path: .cloudcannon/schemas/womenplus-playoff.md
-        name: Womens+ Playoff
+        name: 'Womens+ Playoff'
         _enabled_editors:
           - data
         _inputs:
@@ -265,12 +265,12 @@ collections_config:
             options:
               structures: _structures.womenplus-rounds
   womenplus-teams:
-    name: Womens+ Teams
+    name: 'Womens+ Teams'
     path: _womenplus-teams
     schemas:
       default: 
         path: .cloudcannon/schemas/team.md
-        name: Team
+        name: 'Womens+ Team'
         _enabled_editors:
           - data
         _inputs:
