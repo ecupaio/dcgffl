@@ -1,7 +1,7 @@
 collections_config:
-  data: 
+  data:
     name: Menus
-    path: _data    
+    path: _data
   events:
     name: Events
     path: _events
@@ -12,7 +12,7 @@ collections_config:
         _enabled_editors:
           - content
         _inputs:
-          $.date: 
+          $.date:
             type: date
           $.time:
             type: time
@@ -58,8 +58,8 @@ collections_config:
         _inputs:
           $.zip:
             type: number
-          $.info: 
-            type: textarea  
+          $.info:
+            type: textarea
   news:
     name: News
     path: _posts
@@ -72,7 +72,7 @@ collections_config:
         _inputs:
           $.date:
             instance_value: NOW
-            comment: ''
+            comment: ""
           $.attachments:
             type: array
             options:
@@ -110,7 +110,7 @@ collections_config:
     name: Playoffs
     path: _playoffs
     schemas:
-      default: 
+      default:
         path: .cloudcannon/schemas/playoff.md
         name: Playoff
         _enabled_editors:
@@ -179,7 +179,7 @@ collections_config:
     name: Rec Playoffs
     path: _rec-playoffs
     schemas:
-      default: 
+      default:
         path: .cloudcannon/schemas/rec-playoff.md
         name: Rec Playoff
         _enabled_editors:
@@ -200,7 +200,7 @@ collections_config:
     name: Rec Teams
     path: _rec-teams
     schemas:
-      default: 
+      default:
         path: .cloudcannon/schemas/team.md
         name: Team
         _enabled_editors:
@@ -211,19 +211,19 @@ collections_config:
           $.season:
             type: number
           $.photo:
-            type: file
+            type: image
             label: Team Photo
           $.members:
             type: array
-  womenplus-games:
-    name: 'Womens+ Games'
-    path: _womenplus-games
+  womensplus-games:
+    name: "Womens+ Games"
+    path: _womensplus-games
+    _enabled_editors:
+      - data
     schemas:
       default:
-        path: .cloudcannon/schemas/womenplus-game.md
-        name: 'Womens+ Game'
-        _enabled_editors:
-          - data
+        path: .cloudcannon/schemas/womensplus-game.md
+        name: "Womens+ Game"
         _inputs:
           $.week:
             type: number
@@ -235,7 +235,7 @@ collections_config:
             type: array
             label: Teams/Score
             options:
-              structures: _structures.womenplus-teams-score
+              structures: _structures.womensplus-teams-score
           $.location:
             type: select
             options:
@@ -243,13 +243,13 @@ collections_config:
               value_key: path
           $.field:
             type: number
-  womenplus-playoffs:
-    name: 'Womens+ Playoffs'
-    path: _womenplus-playoffs
+  womensplus-playoffs:
+    name: "Womens+ Playoffs"
+    path: _womensplus-playoffs
     schemas:
-      default: 
-        path: .cloudcannon/schemas/womenplus-playoff.md
-        name: 'Womens+ Playoff'
+      default:
+        path: .cloudcannon/schemas/womensplus-playoff.md
+        name: "Womens+ Playoff"
         _enabled_editors:
           - data
         _inputs:
@@ -258,19 +258,19 @@ collections_config:
           $.champion:
             type: select
             options:
-              values: collections.womenplus-teams
+              values: collections.womensplus-teams
               value_key: path
           $.rounds:
             type: array
             options:
-              structures: _structures.womenplus-rounds
-  womenplus-teams:
-    name: 'Womens+ Teams'
-    path: _womenplus-teams
+              structures: _structures.womensplus-rounds
+  womensplus-teams:
+    name: "Womens+ Teams"
+    path: _womensplus-teams
     schemas:
-      default: 
+      default:
         path: .cloudcannon/schemas/team.md
-        name: 'Womens+ Team'
+        name: "Womens+ Team"
         _enabled_editors:
           - data
         _inputs:
@@ -279,10 +279,30 @@ collections_config:
           $.season:
             type: number
           $.photo:
-            type: file
+            type: image
             label: Team Photo
           $.members:
             type: array
+  womensplus-power-rankings:
+    name: "Womens+ Power Rankings"
+    path: _womensplus-power-rankings
+    schemas:
+      default:
+        path: .cloudcannon/schemas/power-ranking.md
+        name: Power Ranking
+        _enabled_editors:
+          - data
+        _inputs:
+          $.date:
+            instance_value: NOW
+          $.season:
+            type: number
+          $.week:
+            type: number
+          $.rankings:
+            type: array
+            options:
+              structures: _structures.womensplus-rankings
   redirects:
     name: Redirects
     path: _redirects
@@ -296,7 +316,7 @@ collections_config:
           $.title:
             comment: >-
               Administrative title for the redirect. It won't have any impact on
-              the link. Just makes it easy for you to find. 
+              the link. Just makes it easy for you to find.
           $.permalink:
             comment: >-
               The path you want the redirect to live on. For example if you want
@@ -311,31 +331,31 @@ collections_config:
     name: Teams
     path: _teams
     schemas:
-      default: 
+      default:
         path: .cloudcannon/schemas/team.md
         name: Team
-        _inputs: 
-          color: 
+        _inputs:
+          color:
             type: text
 collection_groups:
   - heading: Open League
-    collections: 
-    - teams
-    - games
-    - playoffs
-    - power-rankings
-    - past-seasons
+    collections:
+      - teams
+      - games
+      - playoffs
+      - power-rankings
+      - past-seasons
   - heading: Womens+ League
-    collections: 
-    - womensplus-teams
-    - womensplus-games
-    - womensplus-playoffs
-    - womensplus-power-rankings
+    collections:
+      - womensplus-teams
+      - womensplus-games
+      - womensplus-playoffs
+      - womensplus-power-rankings
   - heading: Recreation League
-    collections: 
-    - rec-teams
-    - rec-games
-    - rec-playoffs
+    collections:
+      - rec-teams
+      - rec-games
+      - rec-playoffs
   - heading: Content
     collections:
       - events
@@ -344,16 +364,16 @@ collection_groups:
       - pages
       - redirects
   - heading: Site Data
-    collections: 
-    - data     
+    collections:
+      - data
 paths:
-  static: ''
+  static: ""
   uploads: img
 _structures:
   teams-score:
     values:
       - value:
-          team: ''
+          team: ""
           score: null
         _inputs:
           team:
@@ -361,15 +381,15 @@ _structures:
             options:
               values: collections.teams
               value_key: path
-              preview: 
-                text: 
+              preview:
+                text:
                   - key: title
           score:
             type: number
   rec-teams-score:
     values:
       - value:
-          team: ''
+          team: ""
           score: null
         _inputs:
           team:
@@ -377,15 +397,15 @@ _structures:
             options:
               values: collections.rec-teams
               value_key: path
-              preview: 
-                text: 
+              preview:
+                text:
                   - key: title
           score:
             type: number
   womensplus-teams-score:
     values:
       - value:
-          team: ''
+          team: ""
           score: null
         _inputs:
           team:
@@ -393,15 +413,15 @@ _structures:
             options:
               values: collections.womensplus-teams
               value_key: path
-              preview: 
-                text: 
+              preview:
+                text:
                   - key: title
           score:
-            type: number                   
+            type: number
   attachments:
     values:
       - value:
-          title: ''
+          title: ""
           file: null
         _inputs:
           file:
@@ -409,7 +429,7 @@ _structures:
   rounds:
     values:
       - value:
-          title: ''
+          title: ""
           games: []
         _inputs:
           games:
@@ -419,7 +439,7 @@ _structures:
   rec-rounds:
     values:
       - value:
-          title: ''
+          title: ""
           games: []
         _inputs:
           games:
@@ -429,21 +449,21 @@ _structures:
   womensplus-rounds:
     values:
       - value:
-          title: ''
+          title: ""
           games: []
         _inputs:
           games:
             type: array
             options:
-              structures: _structures.womensplus-games                        
+              structures: _structures.womensplus-games
   games:
     values:
       - value:
-          title: ''
-          division: ''
+          title: ""
+          division: ""
           teams-score: []
           date: null
-          location: ''
+          location: ""
         _inputs:
           teams-score:
             type: array
@@ -455,17 +475,17 @@ _structures:
             options:
               values: collections.locations
               value_key: path
-          mvp: 
+          mvp:
             type: text
-            label: 'MVP' 
+            label: "MVP"
   rec-games:
     values:
       - value:
-          title: ''
-          division: ''
+          title: ""
+          division: ""
           teams-score: []
           date: null
-          location: ''
+          location: ""
         _inputs:
           teams-score:
             type: array
@@ -477,17 +497,17 @@ _structures:
             options:
               values: collections.locations
               value_key: path
-          mvp: 
+          mvp:
             type: text
-            label: 'MVP'
+            label: "MVP"
   womensplus-games:
     values:
       - value:
-          title: ''
-          division: ''
+          title: ""
+          division: ""
           teams-score: []
           date: null
-          location: ''
+          location: ""
         _inputs:
           teams-score:
             type: array
@@ -499,15 +519,15 @@ _structures:
             options:
               values: collections.locations
               value_key: path
-          mvp: 
+          mvp:
             type: text
-            label: 'MVP'                        
+            label: "MVP"
   rankings:
     values:
       - value:
-          team: ''
-          record: ''
-          text: ''
+          team: ""
+          record: ""
+          text: ""
         _inputs:
           team:
             type: select
@@ -517,7 +537,7 @@ _structures:
           text:
             type: markdown
             options:
-              format: p h1 h2 h3 h4 h5 h6 
+              format: p h1 h2 h3 h4 h5 h6
               bold: true
               italic: true
               link: true
@@ -526,24 +546,48 @@ _structures:
               bulletedlist: true
               removeformat: true
               image: true
+  womensplus-rankings:
+    values:
+      - value:
+          team: ""
+          record: ""
+          text: ""
+        _inputs:
+          team:
+            type: select
+            options:
+              values: collections.teams
+              value_key: path
+          text:
+            type: markdown
+            options:
+              format: p h1 h2 h3 h4 h5 h6
+              bold: true
+              italic: true
+              link: true
+              underline: true
+              numberedlist: true
+              bulletedlist: true
+              removeformat: true
+              image: true            
   play-options:
     values:
       - value:
-          title: ''
-          text: ''
+          title: ""
+          text: ""
           image: null
           button:
-            text: ''
-            link: ''
+            text: ""
+            link: ""
         _inputs:
-          text: 
-            type: textarea        
+          text:
+            type: textarea
 
   awards:
     values:
       - value:
-          title: ''
-          text: ''
+          title: ""
+          text: ""
           winners: []
         _inputs:
           winners:
@@ -554,14 +598,14 @@ _structures:
   winners:
     values:
       - value:
-          name: ''
-          year: ''
+          name: ""
+          year: ""
   list:
     values:
       - value:
-          title: ''
-          description: ''
-          name: ''
+          title: ""
+          description: ""
+          name: ""
           image: null
           candidates: []
         _inputs:
@@ -574,16 +618,16 @@ _structures:
   candidates:
     values:
       - value:
-          name: ''
+          name: ""
           image: null
-          statement: ''
+          statement: ""
         _inputs:
           statement:
             label: Position statement
   seasons:
     values:
       - value:
-          title: ''
+          title: ""
           minutes: []
         _inputs:
           minutes:
@@ -593,13 +637,13 @@ _structures:
   minutes:
     values:
       - value:
-          title: ''
-          link: ''
+          title: ""
+          link: ""
   faqs:
     values:
       - value:
-          q: ''
-          a: ''
+          q: ""
+          a: ""
         _inputs:
           q:
             label: Question
@@ -609,10 +653,10 @@ _structures:
   sponsors:
     values:
       - value:
-          title: ''
+          title: ""
           image: null
-          website: ''
-          description: ''
+          website: ""
+          description: ""
           featured: false
         _inputs:
           title:
@@ -622,50 +666,50 @@ _structures:
   social:
     values:
       - value:
-          title: ''
-          link: ''
-          icon: ''
+          title: ""
+          link: ""
+          icon: ""
   items-1:
     values:
       - value:
-          title: ''
-          text: ''
-        _inputs: 
-          text: 
-            type: textarea  
+          title: ""
+          text: ""
+        _inputs:
+          text:
+            type: textarea
   items-2:
     values:
       - value:
-          text: ''
-          link: ''
-  travel-resources: 
+          text: ""
+          link: ""
+  travel-resources:
     values:
       - value:
-          text: ''
+          text: ""
           button:
-            text: ''
-            attachment: ''
-            link: ''
-        _inputs: 
+            text: ""
+            attachment: ""
+            link: ""
+        _inputs:
           button.attachment:
             type: file
 
 _inputs:
   template:
     hidden: true
-  css: 
+  css:
     hidden: true
-  content-id: 
+  content-id:
     hidden: true
-  layout: 
+  layout:
     hidden: true
   scripts:
     hidden: true
-  slick: 
+  slick:
     hidden: true
-  social-share: 
-    hidden: true  
-  permalink: 
+  social-share:
+    hidden: true
+  permalink:
     comment: >-
       Custom URL path for the page. Just add the path with slashes at the beginning and end. Ex:
       /about/. All pages will automatically use the title for the path when the page is published initially.
