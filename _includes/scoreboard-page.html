@@ -170,7 +170,7 @@
         <h3>All Scores</h3>
         
         {% for season in seasons %}
-        
+        {% if season.name != '' %}
         <div class="season">
           <h4 href="#" class="season-title">Season {{ season.name }}</h4>
           <div class="season-weeks">
@@ -190,6 +190,7 @@
             {% endfor %}
           </div>
         </div>
+        {% endif %}
         {% endfor %}
       </div>
     </div>

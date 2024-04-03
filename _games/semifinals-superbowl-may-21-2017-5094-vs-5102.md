@@ -8,7 +8,7 @@ teams-score:
 mvp: Hines, Carter
 game-ball: "#todd, Brett Chambers"
 sportsperson: ''
-season: -1
+season: 14
 week: 0
 date: '2017-05-21T21:47:48'
 pageid: semifinals-superbowl-may-21-2017-5094-vs-5102
