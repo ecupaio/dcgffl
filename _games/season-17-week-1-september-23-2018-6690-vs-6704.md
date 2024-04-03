@@ -3,7 +3,7 @@ title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Call Me By Your 
   Name vs S17 Reddy, Ready, Red
 teams-score:
 - team: _teams/s17-columbia-blue.md
-  score:
+  score: 42
 - team: _teams/s17-red.md
   score: 22
 mvp: TBD

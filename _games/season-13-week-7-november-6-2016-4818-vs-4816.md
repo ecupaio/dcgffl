@@ -2,7 +2,7 @@
 title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Lime Green vs S13 Gold
 teams-score:
 - team: _teams/s13-lime.md
-  score:
+  score: 34
 - team: _teams/s13-gold.md
   score: 26
 mvp: N. Bonard (Lime); A. Hines (Gold)

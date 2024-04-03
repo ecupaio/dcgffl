@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Bringing Sexy Blac
   S17 Silver Fox Holes
 teams-score:
 - team: _teams/s17-black.md
-  score:
+  score: 26
 - team: _teams/s17-silver.md
   score: 25
 mvp: J. Clemons (Black), W. Jackson (Silver)

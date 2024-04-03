@@ -2,7 +2,7 @@
 title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Kelly Green vs S13 Purple
 teams-score:
 - team: _teams/s13-kelly.md
-  score:
+  score: 40
 - team: _teams/s13-purple.md
   score: 6
 mvp: K. Zajac (Kelly); B. Boyd (Purple)

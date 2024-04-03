@@ -3,7 +3,7 @@ title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Lime Green vs S13 Pa
   Blue (Pacific Blue Rimmers )
 teams-score:
 - team: _teams/s13-lime.md
-  score:
+  score: 32
 - team: _teams/s13-pacific-blue.md
   score: 26
 mvp: N. Bonard (Lime); C. Gillyard (Pacific)

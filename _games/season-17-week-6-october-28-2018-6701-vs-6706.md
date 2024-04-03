@@ -3,7 +3,7 @@ title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 The Shock Tops vs 
   Silver Fox Holes
 teams-score:
 - team: _teams/s17-power-orange.md
-  score:
+  score: 36
 - team: _teams/s17-silver.md
   score: 0
 mvp: Forfeit

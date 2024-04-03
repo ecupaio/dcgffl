@@ -3,7 +3,7 @@ title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Hunter Green vs 
   Grill on Grill Action
 teams-score:
 - team: _teams/s17-hunter-green.md
-  score:
+  score: 27
 - team: _teams/s17-charcoal.md
   score: 20
 mvp: TBD

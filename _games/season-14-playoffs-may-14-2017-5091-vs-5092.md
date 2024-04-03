@@ -8,7 +8,7 @@ teams-score:
 mvp: Aaron, Kip
 game-ball: Kevin, Jim
 season: 14
-week: 9
+week: 0
 date: '2017-05-15T12:31:22'
 pageid: season-14-playoffs-may-14-2017-5091-vs-5092
 ---

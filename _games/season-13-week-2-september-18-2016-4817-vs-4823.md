@@ -3,7 +3,7 @@ title: Season XX Canceled - DCGFFL - S13 Kelly Green vs S13 Pacific Blue (Pacifi
   Blue Rimmers )
 teams-score:
 - team: _teams/s13-kelly.md
-  score:
+  score: 34
 - team: _teams/s13-pacific-blue.md
   score: 13
 mvp: A. Carr (Kelly); P. Tobin (Pacific)

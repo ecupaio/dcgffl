@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 White vs S17 Biscu
   & Navy
 teams-score:
 - team: _teams/s17-white.md
-  score:
+  score: 26
 - team: _teams/s17-navy.md
   score: 20
 mvp: P. Shilo (White), B. Hunt (Navy)

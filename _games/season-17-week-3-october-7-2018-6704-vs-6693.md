@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Reddy, Ready, Red v
   Hunter Green
 teams-score:
 - team: _teams/s17-red.md
-  score:
+  score: 31
 - team: _teams/s17-hunter-green.md
   score: 28
 mvp: M. Summerside (Red); B. Allen (Hunter)

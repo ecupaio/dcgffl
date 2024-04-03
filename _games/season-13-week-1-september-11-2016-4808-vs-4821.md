@@ -2,7 +2,7 @@
 title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Ash vs S13 Neon Yellow
 teams-score:
 - team: _teams/s13-ash.md
-  score:
+  score: 33
 - team: _teams/s13-neon-yellow.md
   score: 12
 mvp: J. Walker (Ash); A. Allen (Neon Yellow)

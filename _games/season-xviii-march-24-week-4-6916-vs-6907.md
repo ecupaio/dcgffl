@@ -8,7 +8,7 @@ teams-score:
   score: 21
 mvp: Jim Roll (Pink), Ethan Gramstad (Teal)
 game-ball: ''
-season: 16
+season: 18
 week: 4
 date: '2019-03-24T11:19:49'
 pageid: season-xviii-march-24-week-4-6916-vs-6907

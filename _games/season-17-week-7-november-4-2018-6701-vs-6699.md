@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 The Shock Tops vs 
   Pink
 teams-score:
 - team: _teams/s17-power-orange.md
-  score:
+  score: 54
 - team: _teams/s17-pink.md
   score: 0
 mvp: A. Payne (Power Orange), N. Kasparek (Pink)

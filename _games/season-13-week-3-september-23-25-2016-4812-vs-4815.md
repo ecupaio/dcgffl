@@ -2,7 +2,7 @@
 title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Brown vs S13 Fuchsia
 teams-score:
 - team: _teams/s13-brown.md
-  score:
+  score: 26
 - team: _teams/s13-fuchsia.md
   score: 20
 mvp: S. Karson (Brown); A. Strasberg (Fuchsia)

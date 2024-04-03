@@ -2,7 +2,7 @@
 title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Magnums vs S17 L.I.M.E.
 teams-score:
 - team: _teams/s17-gold.md
-  score:
+  score: 19
 - team: _teams/s17-neon-green.md
   score: 18
 mvp: M. Townsend (Gold), J. Anderson (Neon Green)

@@ -2,7 +2,7 @@
 title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Medium Green vs S09 Graphite
 teams-score:
 - team: _teams/s09-medium-green-butch-greens.md
-  score:
+  score: 26
 - team: _teams/s09-graphite.md
   score: 6
 mvp: 'MVPs: Keith Combs (Medium Green), Eduardo Cabrera (Graphite)'

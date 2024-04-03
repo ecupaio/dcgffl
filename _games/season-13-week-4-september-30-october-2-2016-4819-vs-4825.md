@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Maroon
   S13 Purple
 teams-score:
 - team: _teams/s13-maroon.md
-  score:
+  score: 37
 - team: _teams/s13-purple.md
   score: 27
 mvp: E. Binder (Maroon); M. Japinga (Purple)

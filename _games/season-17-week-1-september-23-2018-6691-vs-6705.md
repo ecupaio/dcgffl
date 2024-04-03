@@ -3,7 +3,7 @@ title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Crimson Ride vs 
   X’s and Hoes
 teams-score:
 - team: _teams/s17-crimson.md
-  score:
+  score: 26
 - team: _teams/s17-royal-blue.md
   score: 12
 mvp: TBD

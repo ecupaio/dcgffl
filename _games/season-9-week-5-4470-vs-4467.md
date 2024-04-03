@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Vegas Gold vs S09 Red
 teams-score:
 - team: _teams/s09-vegas-gold.md
-  score:
+  score: 29
 - team: _teams/s09-red.md
   score: 20
 mvp: Dan Reyes (Vegas); Brandon Benjamin (Red)

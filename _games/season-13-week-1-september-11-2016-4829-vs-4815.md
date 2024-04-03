@@ -2,7 +2,7 @@
 title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Vegas Gold vs S13 Fuchsia
 teams-score:
 - team: _teams/s13-vegas.md
-  score:
+  score: 19
 - team: _teams/s13-fuchsia.md
   score: 6
 mvp: D. Rendell (Vegas); J. Price (Fuchsia)

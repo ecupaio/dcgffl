@@ -8,7 +8,7 @@ teams-score:
   score: 18
 mvp: Jared Lucas (Orange), Cameron Burrell (Graphite)
 game-ball: ''
-season: 16
+season: 18
 week: 3
 date: '2019-03-17T14:44:45'
 pageid: season-xviii-week-3-march-18-6939-vs-6918

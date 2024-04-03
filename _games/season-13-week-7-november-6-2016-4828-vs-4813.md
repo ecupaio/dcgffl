@@ -2,7 +2,7 @@
 title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Safety Orange vs S13 Charcoal
 teams-score:
 - team: _teams/s13-safety-orange.md
-  score:
+  score: 35
 - team: _teams/s13-charcoal.md
   score: 28
 mvp: B. Mauck (Safety Orange); A. Robbins (Charcoal)

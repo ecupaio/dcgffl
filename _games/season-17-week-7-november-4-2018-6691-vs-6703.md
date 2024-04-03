@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Crimson Ride vs S1
   Parrots
 teams-score:
 - team: _teams/s17-crimson.md
-  score:
+  score: 25
 - team: _teams/s17-purple.md
   score: 7
 mvp: M. Washington (Crimson), L. Hogue (Purple)

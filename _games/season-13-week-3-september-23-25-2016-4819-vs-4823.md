@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Maroon vs S13
   Blue (Pacific Blue Rimmers )
 teams-score:
 - team: _teams/s13-maroon.md
-  score:
+  score: 20
 - team: _teams/s13-pacific-blue.md
   score: 19
 mvp: A. Plier (Maroon); P. Sima (Pacific)

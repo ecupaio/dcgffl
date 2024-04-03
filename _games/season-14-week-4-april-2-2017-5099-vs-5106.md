@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Navy vs S14 Teal
 teams-score:
 - team: _teams/s14-navy.md
-  score:
+  score: 18
 - team: _teams/s14-teal.md
   score: 26
 mvp: Andy H. & Peter Pham

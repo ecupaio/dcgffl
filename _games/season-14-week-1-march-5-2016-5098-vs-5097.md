@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Lime vs S14 Kelly Green
 teams-score:
 - team: _teams/s14-lime.md
-  score:
+  score: 38
 - team: _teams/s14-kelly.md
   score: 6
 mvp: V. DeRight (Lime), O. Jacob (Kelly)

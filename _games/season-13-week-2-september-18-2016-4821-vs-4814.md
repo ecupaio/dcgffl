@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Neon Yellow vs S13 Forest Green
 teams-score:
 - team: _teams/s13-neon-yellow.md
-  score:
+  score: 21
 - team: _teams/s13-forest.md
   score: 14
 mvp: L. Diep (N. Yellow); B. Sanders (Forest)

@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Charco
   vs S13 Baby Blue
 teams-score:
 - team: _teams/s13-charcoal.md
-  score:
+  score: 36
 - team: _teams/s13-baby-blue.md
   score: 6
 mvp: C. Morse (Charcoal); M. Gander (Baby Blue)

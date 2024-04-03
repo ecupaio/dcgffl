@@ -3,7 +3,7 @@ title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Leaf Green vs S0
   Pacific Blue
 teams-score:
 - team: _teams/s09-leaf-green.md
-  score:
+  score: 33
 - team: _teams/s09-pacific-blue.md
   score: 0
 mvp: Markco Stroman (Leaf), Alex Smith (Pacific)

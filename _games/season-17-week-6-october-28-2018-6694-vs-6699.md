@@ -3,7 +3,7 @@ title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Green Eggs and Cam
   vs S17 Pink
 teams-score:
 - team: _teams/s17-kelly-green.md
-  score:
+  score: 33
 - team: _teams/s17-pink.md
   score: 27
 mvp: D. Alexander (K. Green), S. Shaginaw (Pink)

@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Navy vs S09 White
 teams-score:
 - team: _teams/s09-navy-rear-admirals.md
-  score:
+  score: 40
 - team: _teams/s09-white.md
   score: 26
 mvp: John Woods (Navy); Matt Gander (White)

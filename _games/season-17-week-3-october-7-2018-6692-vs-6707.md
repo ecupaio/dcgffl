@@ -2,7 +2,7 @@
 title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Magnums vs S17 Teal
 teams-score:
 - team: _teams/s17-gold.md
-  score:
+  score: 40
 - team: _teams/s17-teal.md
   score: 34
 mvp: A. Hines (Gold);  A. Campanelli (Teal)

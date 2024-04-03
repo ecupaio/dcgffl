@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Silver Fox Holes v
   Purple Parrots
 teams-score:
 - team: _teams/s17-silver.md
-  score:
+  score: 34
 - team: _teams/s17-purple.md
   score: 25
 mvp: J. McKinney (Silver), D. Mitchell (Purple)

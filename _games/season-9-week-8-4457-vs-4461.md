@@ -2,7 +2,7 @@
 title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Gold vs S09 Maroon
 teams-score:
 - team: _teams/s09-gold.md
-  score:
+  score: 33
 - team: _teams/s09-maroon.md
   score: 26
 mvp: 'MVPs: Miles Simpson (Gold), John Berry (Maroon)'

@@ -2,7 +2,7 @@
 title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Dark Green vs S10 Slate
 teams-score:
 - team: _teams/s10-dark-green.md
-  score:
+  score: 39
 - team: _teams/s10-slate.md
   score: 27
 mvp: Bill C. (Dark Green), Kyle M. (Slate)

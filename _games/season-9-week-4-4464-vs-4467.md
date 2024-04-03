@@ -2,7 +2,7 @@
 title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Orange vs S09 Red
 teams-score:
 - team: _teams/s09-orange.md
-  score:
+  score: 26
 - team: _teams/s09-red.md
   score: 20
 mvp: Gabe Avila (Orange), Kyle McKinney (Red)

@@ -2,7 +2,7 @@
 title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Brown vs S13 Orange
 teams-score:
 - team: _teams/s13-brown.md
-  score:
+  score: 39
 - team: _teams/s13-orange.md
   score: 22
 mvp: K. Kostyk (Brown); P. Pham (Orange)

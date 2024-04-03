@@ -9,7 +9,7 @@ mvp: ''
 game-ball: ''
 sportsperson: ''
 season: 14
-week: 9
+week: 0
 date: '2017-05-15T12:31:22'
 pageid: season-14-playoffs-may-14-2017-5101-vs-5103
 ---

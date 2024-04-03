@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Royal Blue vs
   Midnight Blue
 teams-score:
 - team: _teams/s13-royal-blue.md
-  score:
+  score: 40
 - team: _teams/s13-midnight-blue.md
   score: 6
 mvp: D. Alexander (Royal); B. McFarland (Midnight)

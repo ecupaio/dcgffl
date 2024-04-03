@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 L.I.M.E. vs S17 Red
   Ready, Red
 teams-score:
 - team: _teams/s17-neon-green.md
-  score:
+  score: 19
 - team: _teams/s17-red.md
   score: 18
 mvp: J. Anderson (N. Green); A. Barvin (Red)

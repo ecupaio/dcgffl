@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Ash vs S13 Black
 teams-score:
 - team: _teams/s13-ash.md
-  score:
+  score: 39
 - team: _teams/s13-black.md
   score: 26
 mvp: K. McKinney (Ash); J. Anderson (Black)

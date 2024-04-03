@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 X’s and Hoes vs S
   Fox Holes
 teams-score:
 - team: _teams/s17-royal-blue.md
-  score:
+  score: 36
 - team: _teams/s17-silver.md
   score: 0
 mvp: N/A

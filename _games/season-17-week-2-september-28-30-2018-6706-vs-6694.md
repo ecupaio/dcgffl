@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Silver Fox Holes vs S17 Green Eggs and Cammas
 teams-score:
 - team: _teams/s17-silver.md
-  score:
+  score: 41
 - team: _teams/s17-kelly-green.md
   score: 38
 mvp: J. Blaney (Silver); M. Japinga (Kelly)

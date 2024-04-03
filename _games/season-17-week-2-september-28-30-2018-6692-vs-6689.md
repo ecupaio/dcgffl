@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Magnums vs S17 Grill on Grill Action
 teams-score:
 - team: _teams/s17-gold.md
-  score:
+  score: 36
 - team: _teams/s17-charcoal.md
   score: 22
 mvp: A. Reust (Gold); R. Fillyaw (Charcoal)

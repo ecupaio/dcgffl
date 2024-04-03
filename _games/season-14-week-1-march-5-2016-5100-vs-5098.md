@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Olive vs S14 Lime
 teams-score:
 - team: _teams/s14-olive.md
-  score:
+  score: 27
 - team: _teams/s14-lime.md
   score: 26
 mvp: B. Relaford (Olive), B. McFarland (Lime)

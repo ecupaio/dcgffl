@@ -9,7 +9,7 @@ teams-score:
 mvp: Cam Burrell (Graphite), Nick Ward (Lime)
 game-ball: ''
 sportsperson: ''
-season: 16
+season: 18
 week: 4
 date: '2019-03-24T11:19:49'
 pageid: season-xviii-march-24-week-4-6918-vs-6915

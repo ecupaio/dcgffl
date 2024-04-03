@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Hunter Green vs S17 Teal
 teams-score:
 - team: _teams/s17-hunter-green.md
-  score:
+  score: 25
 - team: _teams/s17-teal.md
   score: 24
 mvp: M. Cline (Hunter); J. Matarese (Teal)

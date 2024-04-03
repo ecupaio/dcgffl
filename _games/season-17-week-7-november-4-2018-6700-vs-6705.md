@@ -2,7 +2,7 @@
 title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - undefined vs S17 X’s and Hoes
 teams-score:
 - team: ''
-  score:
+  score: 28
 - team: _teams/s17-royal-blue.md
   score: 26
 mvp: M. Murtaugh (Power Blue), K. Smiffy (Royal)

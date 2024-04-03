@@ -3,7 +3,7 @@ title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Forest Green vs S1
   Power Blue
 teams-score:
 - team: _teams/s13-forest.md
-  score:
+  score: 18
 - team: _teams/s13-power-blue.md
   score: 12
 mvp: A. Esquer (Forest); G. Carter (Power Blue)

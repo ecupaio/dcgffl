@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Silver Fox Holes 
   Pink
 teams-score:
 - team: _teams/s17-silver.md
-  score:
+  score: 36
 - team: _teams/s17-pink.md
   score: 0
 mvp: Forfeit

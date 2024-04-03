@@ -3,7 +3,7 @@ title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Forest Green vs S13 
   Gold
 teams-score:
 - team: _teams/s13-forest.md
-  score:
+  score: 26
 - team: _teams/s13-vegas.md
   score: 23
 mvp: CJ Babb (Forest); D. Rendell (Vegas)

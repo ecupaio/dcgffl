@@ -3,7 +3,7 @@ title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Silver Fox Holes
   undefined
 teams-score:
 - team: _teams/s17-silver.md
-  score:
+  score: 20
 - team: ''
   score: 7
 mvp: TBD

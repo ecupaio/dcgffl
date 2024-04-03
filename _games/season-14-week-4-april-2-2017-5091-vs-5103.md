@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Black vs S14 Red
 teams-score:
 - team: _teams/s14-black.md
-  score:
+  score: 39
 - team: _teams/s14-red.md
   score: 12
 mvp: Jordan A. & Pedro

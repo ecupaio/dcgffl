@@ -3,7 +3,7 @@ title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Kelly Green vs S13
   Blue
 teams-score:
 - team: _teams/s13-kelly.md
-  score:
+  score: 37
 - team: _teams/s13-midnight-blue.md
   score: 19
 mvp: B. Chambers (Kelly); J. Santos (Midnight)

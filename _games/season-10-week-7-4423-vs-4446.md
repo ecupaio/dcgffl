@@ -2,7 +2,7 @@
 title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Camo Grey vs S10 Teal
 teams-score:
 - team: _teams/s10-camo-grey.md
-  score:
+  score: 33
 - team: _teams/s10-teal.md
   score: 14
 mvp: Cole W. (Camo Grey), TJ R. (Teal)

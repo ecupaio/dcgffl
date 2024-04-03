@@ -2,7 +2,7 @@
 title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Power Blue vs S13 Orange
 teams-score:
 - team: _teams/s13-power-blue.md
-  score:
+  score: 31
 - team: _teams/s13-orange.md
   score: 21
 mvp: R. Legg-Benevides (Power Blue); G. Cline (Orange)

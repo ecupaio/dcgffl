@@ -2,7 +2,7 @@
 title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Navy vs S09 Orange
 teams-score:
 - team: _teams/s09-navy-rear-admirals.md
-  score:
+  score: 27
 - team: _teams/s09-orange.md
   score: 20
 mvp: Sheerod Wilkerson (Navy), Steve Adamske (Orange)

@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Royal 
   vs S13 Safety Orange
 teams-score:
 - team: _teams/s13-royal-blue.md
-  score:
+  score: 33
 - team: _teams/s13-safety-orange.md
   score: 6
 mvp: D. Alexander (Royal); M. Rothschild (S. Orange)

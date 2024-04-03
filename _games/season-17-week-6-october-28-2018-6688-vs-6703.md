@@ -3,7 +3,7 @@ title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Bringing Sexy Blac
   S17 Purple Parrots
 teams-score:
 - team: _teams/s17-black.md
-  score:
+  score: 24
 - team: _teams/s17-purple.md
   score: 14
 mvp: A. Pratt (Black), K. Kostura (Purple)

@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Hunter Green vs S17
   Hot Cheeto Dust
 teams-score:
 - team: _teams/s17-hunter-green.md
-  score:
+  score: 31
 - team: _teams/s17-orange.md
   score: 19
 mvp: Not Attributed

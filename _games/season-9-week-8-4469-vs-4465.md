@@ -2,7 +2,7 @@
 title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Teal vs S09 Pacific Blue
 teams-score:
 - team: _teams/s09-teal.md
-  score:
+  score: 30
 - team: _teams/s09-pacific-blue.md
   score: 6
 mvp: 'MVPs: Chris Hobbs (Teal), Brian Donahoe (Pacific)'

@@ -7,7 +7,7 @@ teams-score:
   score: 12
 mvp: Sasha Buchert (Black), Paul Pham (Navy)
 game-ball: ''
-season: 16
+season: 18
 week: 4
 date: '2019-03-24T11:19:49'
 pageid: season-xviii-march-24-week-4-6913-vs-6917

@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Call Me By Your Team Name vs S17 White
 teams-score:
 - team: _teams/s17-columbia-blue.md
-  score:
+  score: 36
 - team: _teams/s17-white.md
   score: 24
 mvp: J. Deters (Columbia); P. Shilo (White)

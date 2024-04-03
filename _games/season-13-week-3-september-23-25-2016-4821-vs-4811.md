@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Neon Yellow v
   S13 Black
 teams-score:
 - team: _teams/s13-neon-yellow.md
-  score:
+  score: 26
 - team: _teams/s13-black.md
   score: 25
 mvp: A. Allen (N. Yellow); J. Anderson (Black)

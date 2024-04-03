@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Magnums vs S17 Fl
   Hot Cheeto Dust
 teams-score:
 - team: _teams/s17-gold.md
-  score:
+  score: 40
 - team: _teams/s17-orange.md
   score: 27
 mvp: S. LaGow (Gold), P. Tobin (Orange)

@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Purple Parrots vs
   daffoDILFS
 teams-score:
 - team: _teams/s17-purple.md
-  score:
+  score: 32
 - team: _teams/s17-power-yellow.md
   score: 24
 mvp: K. Kostura (Purple), K. Veldman (Power Yellow)

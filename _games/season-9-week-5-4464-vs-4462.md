@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Orange vs S09 Medium Green
 teams-score:
 - team: _teams/s09-orange.md
-  score:
+  score: 34
 - team: _teams/s09-medium-green-butch-greens.md
   score: 13
 mvp: Bill Cammas (Orange); Jeremy Steslicki (M. Green

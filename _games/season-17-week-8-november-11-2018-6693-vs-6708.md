@@ -2,7 +2,7 @@
 title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Hunter Green vs S17 White
 teams-score:
 - team: _teams/s17-hunter-green.md
-  score:
+  score: 33
 - team: _teams/s17-white.md
   score: 25
 mvp: B. Allen (Hunter Green), D. Merlino (White)

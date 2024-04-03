@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Red vs S14 Pink
 teams-score:
 - team: _teams/s14-red.md
-  score:
+  score: 20
 - team: _teams/s14-pink.md
   score: 44
 mvp: Larry & Greg Carter

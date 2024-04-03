@@ -2,7 +2,7 @@
 title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 X’s and Hoes vs S17 Pink
 teams-score:
 - team: _teams/s17-royal-blue.md
-  score:
+  score: 33
 - team: _teams/s17-pink.md
   score: 32
 mvp: A. Schaps (R. Blue), E. Armstrong (Pink)

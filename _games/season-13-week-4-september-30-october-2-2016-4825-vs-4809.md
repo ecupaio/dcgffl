@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Purple
   S13 Baby Blue
 teams-score:
 - team: _teams/s13-purple.md
-  score:
+  score: 26
 - team: _teams/s13-baby-blue.md
   score: 20
 mvp: M. Davis (Purple); J. Clevenger (Baby Blue)

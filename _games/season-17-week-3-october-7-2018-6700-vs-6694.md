@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - undefined vs S17 Green 
   and Cammas
 teams-score:
 - team: ''
-  score:
+  score: 40
 - team: _teams/s17-kelly-green.md
   score: 39
 mvp: Not Attributed

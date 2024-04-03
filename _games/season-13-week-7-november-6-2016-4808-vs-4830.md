@@ -2,7 +2,7 @@
 title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Ash vs S13 White
 teams-score:
 - team: _teams/s13-ash.md
-  score:
+  score: 27
 - team: _teams/s13-white.md
   score: 13
 mvp: B. Benjamin (Ash); L. Womack (White)

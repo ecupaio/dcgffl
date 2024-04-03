@@ -3,7 +3,7 @@ title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Fuchsia vs S09 M
   Green
 teams-score:
 - team: _teams/s09-fuchsia.md
-  score:
+  score: 30
 - team: _teams/s09-medium-green-butch-greens.md
   score: 14
 mvp: Jack Miles (Fuchsia), Jamar Walker (M. Green)

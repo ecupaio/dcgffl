@@ -3,7 +3,7 @@ title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Graphite vs 
   Lime
 teams-score:
 - team: _teams/s09-graphite.md
-  score:
+  score: 34
 - team: _teams/s09-lime.md
   score: 8
 mvp: Peter Sima (Graphite), Kody Silva (Lime)

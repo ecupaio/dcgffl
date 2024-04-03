@@ -2,7 +2,7 @@
 title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Black vs S13 Orange
 teams-score:
 - team: _teams/s13-black.md
-  score:
+  score: 19
 - team: _teams/s13-orange.md
   score: 15
 mvp: J. Anderson (Black); G. Cline (Orange)

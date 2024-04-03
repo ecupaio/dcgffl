@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Black 
   S13 Red (RED HOTS)
 teams-score:
 - team: _teams/s13-black.md
-  score:
+  score: 46
 - team: _teams/s13-red.md
   score: 6
 mvp: J. Anderson (Black); N. Lazarus (Red)

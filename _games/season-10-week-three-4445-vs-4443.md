@@ -8,7 +8,7 @@ teams-score:
 mvp: Kyle M. (Slate); Matt G. (Sky Blue)
 game-ball: N/A
 season: 10
-week: 3
+week: 0
 date: '2015-03-16T14:28:10'
 pageid: season-10-week-three-4445-vs-4443
 ---

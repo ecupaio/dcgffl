@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Lime Green vs
   Kelly Green
 teams-score:
 - team: _teams/s13-lime.md
-  score:
+  score: 38
 - team: _teams/s13-kelly.md
   score: 0
 mvp: M. Washington (Lime); A. Carr (Kelly)

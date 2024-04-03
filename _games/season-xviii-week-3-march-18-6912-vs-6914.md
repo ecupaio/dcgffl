@@ -9,7 +9,7 @@ teams-score:
 mvp: Mark Hofberg (Purple), Danny Hughes (Forest)
 game-ball: ''
 sportsperson: ''
-season: 16
+season: 18
 week: 3
 date: '2019-03-17T14:44:45'
 pageid: season-xviii-week-3-march-18-6912-vs-6914

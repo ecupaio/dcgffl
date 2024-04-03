@@ -3,7 +3,7 @@ title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Columbia Blue vs S09 
   Gold
 teams-score:
 - team: _teams/s09-columbia-blue.md
-  score:
+  score: 36
 - team: _teams/s09-vegas-gold.md
   score: 33
 mvp: 'MVPs: Chris Morse (Columbia), Mike D''Ignazio (Vegas)'

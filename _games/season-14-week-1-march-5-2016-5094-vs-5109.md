@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Crimson vs S14 Yellow
 teams-score:
 - team: _teams/s14-crimson.md
-  score:
+  score: 24
 - team: _teams/s14-yellow.md
   score: 20
 mvp: A. Hines (Crimson), S. Steinhardt (Yellow)

@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Green Eggs and Cam
   vs S17 daffoDILFS
 teams-score:
 - team: _teams/s17-kelly-green.md
-  score:
+  score: 27
 - team: _teams/s17-power-yellow.md
   score: 26
 mvp: B. Cammas (Kelly), P. Pham (Power Yellow)

@@ -3,7 +3,7 @@ title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Orange vs S09 Co
   Blue
 teams-score:
 - team: _teams/s09-orange.md
-  score:
+  score: 20
 - team: _teams/s09-columbia-blue.md
   score: 13
 mvp: Billy Kramer (Orange), B. Stokes (Columbia)

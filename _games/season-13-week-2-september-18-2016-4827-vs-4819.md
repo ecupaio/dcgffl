@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Royal Blue vs S13 Maroon
 teams-score:
 - team: _teams/s13-royal-blue.md
-  score:
+  score: 35
 - team: _teams/s13-maroon.md
   score: 27
 mvp: D. Alexander (Royal); E. Binder (Maroon)

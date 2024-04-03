@@ -3,7 +3,7 @@ title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Pacific Blue
   S09 Gold
 teams-score:
 - team: _teams/s09-pacific-blue.md
-  score:
+  score: 45
 - team: _teams/s09-gold.md
   score: 24
 mvp: Adam Robbins (Pacific), Miles Simpson (Gold)

@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Call Me By Your T
   Name vs S17 L.I.M.E.
 teams-score:
 - team: _teams/s17-columbia-blue.md
-  score:
+  score: 40
 - team: _teams/s17-neon-green.md
   score: 39
 mvp: J. Steslicki (Columbia), C. Burrell (Neon Green)

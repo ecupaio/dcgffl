@@ -3,7 +3,7 @@ title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Flaming Hot Cheeto
   vs S17 Grill on Grill Action
 teams-score:
 - team: _teams/s17-orange.md
-  score:
+  score: 34
 - team: _teams/s17-charcoal.md
   score: 14
 mvp: G. Carter (Orange), D. Allen (Charcoal)

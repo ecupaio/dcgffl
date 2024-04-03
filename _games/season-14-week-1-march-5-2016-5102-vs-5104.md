@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Pink vs S14 Royal Blue
 teams-score:
 - team: _teams/s14-pink.md
-  score:
+  score: 31
 - team: _teams/s14-royal.md
   score: 12
 mvp: M. Cline (Pink), C. McCloud (Royal)

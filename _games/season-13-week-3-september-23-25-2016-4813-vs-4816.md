@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Charcoal vs S
   Gold
 teams-score:
 - team: _teams/s13-charcoal.md
-  score:
+  score: 26
 - team: _teams/s13-gold.md
   score: 6
 mvp: C. Burrell (Charcoal); W. Jackson (Gold)

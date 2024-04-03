@@ -3,7 +3,7 @@ title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Safety Orange vs S
   Maroon
 teams-score:
 - team: _teams/s13-safety-orange.md
-  score:
+  score: 32
 - team: _teams/s13-maroon.md
   score: 27
 mvp: D. Hughes (Safety Orange); A. Plier (Maroon)

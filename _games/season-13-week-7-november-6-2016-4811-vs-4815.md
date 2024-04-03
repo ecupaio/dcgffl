@@ -2,7 +2,7 @@
 title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Black vs S13 Fuchsia
 teams-score:
 - team: _teams/s13-black.md
-  score:
+  score: 31
 - team: _teams/s13-fuchsia.md
   score: 27
 mvp: J. Anderson (Black); S. Steinhardt (Fuchsia)

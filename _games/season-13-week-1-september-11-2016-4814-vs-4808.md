@@ -3,7 +3,7 @@ title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Forest Green vs S1
   Ash
 teams-score:
 - team: _teams/s13-forest.md
-  score:
+  score: 33
 - team: _teams/s13-ash.md
   score: 20
 mvp: C. Babb (Forest); B. Benjamin (Ash)

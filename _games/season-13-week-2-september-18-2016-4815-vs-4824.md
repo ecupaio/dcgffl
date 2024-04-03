@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Fuchsia vs S13 Power Blue
 teams-score:
 - team: _teams/s13-fuchsia.md
-  score:
+  score: 40
 - team: _teams/s13-power-blue.md
   score: 7
 mvp: S. Boylan (Fuchsia); D. Haney (P. Blue)

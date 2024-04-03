@@ -3,7 +3,7 @@ title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Silver vs S10 Veg
   Gold
 teams-score:
 - team: _teams/s10-silver.md
-  score:
+  score: 27
 - team: _teams/s10-vegas-gold.md
   score: 26
 mvp: John B. (Silver), Jamar W. (Vegas Gold)

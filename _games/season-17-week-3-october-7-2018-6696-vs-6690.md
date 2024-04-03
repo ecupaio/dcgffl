@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Biscuits & Navy vs 
   Call Me By Your Team Name
 teams-score:
 - team: _teams/s17-navy.md
-  score:
+  score: 36
 - team: _teams/s17-columbia-blue.md
   score: 19
 mvp: B. Hunt (Navy); S. Edwards (Columbia)

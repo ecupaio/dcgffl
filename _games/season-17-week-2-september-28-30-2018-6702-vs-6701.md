@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 daffoDILFS vs S17 The Shock Tops
 teams-score:
 - team: _teams/s17-power-yellow.md
-  score:
+  score: 38
 - team: _teams/s17-power-orange.md
   score: 31
 mvp: M. Rothschild (P. Yellow); E. Taylor (P. Orange)

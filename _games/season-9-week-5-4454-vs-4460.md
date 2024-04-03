@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Columbia Blue vs S09 Lime
 teams-score:
 - team: _teams/s09-columbia-blue.md
-  score:
+  score: 26
 - team: _teams/s09-lime.md
   score: 0
 mvp: Brion Stokes (Columbia); Amanda Livingstone (Lime)

@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Safety Orange vs S13 Lime Green
 teams-score:
 - team: _teams/s13-safety-orange.md
-  score:
+  score: 29
 - team: _teams/s13-lime.md
   score: 20
 mvp: B. Mauck (S. Orange); J. Richards (Lime)

@@ -3,7 +3,7 @@ title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Fuchsia vs S09 C
   Blue
 teams-score:
 - team: _teams/s09-fuchsia.md
-  score:
+  score: 33
 - team: _teams/s09-columbia-blue.md
   score: 25
 mvp: Scott Graham (Fuchsia), Andy L. (Columbia)

@@ -3,7 +3,7 @@ title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Royal Blue vs S09 Paci
   Blue
 teams-score:
 - team: _teams/s09-royal-blue-these-hoes-aint-royal.md
-  score:
+  score: 24
 - team: _teams/s09-pacific-blue.md
   score: 6
 mvp: Tyler Fox (Royal); Sam Smallwood (Pacific)

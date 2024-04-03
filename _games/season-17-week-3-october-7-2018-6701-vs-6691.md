@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 The Shock Tops vs S
   Ride
 teams-score:
 - team: _teams/s17-power-orange.md
-  score:
+  score: 26
 - team: _teams/s17-crimson.md
   score: 19
 mvp: OJ (P. Orange); P. Suarez (Crimson)

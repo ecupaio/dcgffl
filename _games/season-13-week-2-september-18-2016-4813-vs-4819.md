@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Charcoal vs S13 Maroon
 teams-score:
 - team: _teams/s13-charcoal.md
-  score:
+  score: 40
 - team: _teams/s13-maroon.md
   score: 33
 mvp: C. Burrell (Charcoal); K. Smiffy (Maroon)

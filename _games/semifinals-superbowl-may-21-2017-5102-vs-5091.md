@@ -8,8 +8,8 @@ teams-score:
 mvp: Andrew Carr, Jordan
 game-ball: Cline, Long
 sportsperson: ''
-season: 14
-week: 10
+season: -1
+week: 0
 date: '2017-05-21T21:47:48'
 pageid: semifinals-superbowl-may-21-2017-5102-vs-5091
 ---

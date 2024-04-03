@@ -3,7 +3,7 @@ title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Royal Blue vs S0
   Gold
 teams-score:
 - team: _teams/s09-royal-blue-these-hoes-aint-royal.md
-  score:
+  score: 40
 - team: _teams/s09-gold.md
   score: 8
 mvp: Tyler Fox (Royal), Baxter O'Brien (Gold)

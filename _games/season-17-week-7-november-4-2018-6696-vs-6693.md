@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Biscuits & Navy vs
   Hunter Green
 teams-score:
 - team: _teams/s17-navy.md
-  score:
+  score: 36
 - team: _teams/s17-hunter-green.md
   score: 33
 mvp: E. Perez (Navy), B. Allen (Hunter Green)

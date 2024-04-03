@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Call Me By Your Te
   vs S17 Teal
 teams-score:
 - team: _teams/s17-columbia-blue.md
-  score:
+  score: 41
 - team: _teams/s17-teal.md
   score: 19
 mvp: S. Cramer (Columbia), S. Kelly (Teal)

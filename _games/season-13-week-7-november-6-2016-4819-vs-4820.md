@@ -3,7 +3,7 @@ title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Maroon vs S13 Midnig
   Blue
 teams-score:
 - team: _teams/s13-maroon.md
-  score:
+  score: 26
 - team: _teams/s13-midnight-blue.md
   score: 19
 mvp: K. Smiffy (Maroon); M. Osorio (Midnight)

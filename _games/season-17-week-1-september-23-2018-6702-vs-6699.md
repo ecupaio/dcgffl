@@ -2,7 +2,7 @@
 title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 daffoDILFS vs S17 Pink
 teams-score:
 - team: _teams/s17-power-yellow.md
-  score:
+  score: 24
 - team: _teams/s17-pink.md
   score: 13
 mvp: TBD

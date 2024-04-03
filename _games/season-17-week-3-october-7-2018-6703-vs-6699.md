@@ -2,7 +2,7 @@
 title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Purple Parrots vs S17 Pink
 teams-score:
 - team: _teams/s17-purple.md
-  score:
+  score: 26
 - team: _teams/s17-pink.md
   score: 12
 mvp: T. Robosan (Purple), N. Kasparek (Pink)

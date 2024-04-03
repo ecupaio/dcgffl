@@ -8,7 +8,7 @@ teams-score:
 mvp: P. Mabray (Orange); S. Croswell (Ash)
 game-ball: S. Serio (Orange); K. McKinney (Ash)
 season: 13
-week: 8
+week: 0
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4822-vs-4808
 ---

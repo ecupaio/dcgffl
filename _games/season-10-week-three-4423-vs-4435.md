@@ -9,7 +9,7 @@ mvp: Mark H. (Camo Grey); Enrique P. (Power Yellow
 game-ball: N/A
 sportsperson: ''
 season: 10
-week: 3
+week: 0
 date: '2015-03-16T14:28:10'
 pageid: season-10-week-three-4423-vs-4435
 ---

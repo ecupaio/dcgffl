@@ -3,7 +3,7 @@ title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Burnt Orange vs 
   Pacific Blue
 teams-score:
 - team: _teams/s09-burnt-orange.md
-  score:
+  score: 13
 - team: _teams/s09-pacific-blue.md
   score: 19
 mvp: Sam Smallwood (Pacific), Andy Pratt (B. Orange)

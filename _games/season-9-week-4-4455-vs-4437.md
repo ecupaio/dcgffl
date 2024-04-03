@@ -3,7 +3,7 @@ title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Dark Green v
   Purple
 teams-score:
 - team: _teams/s09-dark-green.md
-  score:
+  score: 32
 - team: _teams/s10-purple.md
   score: 6
 mvp: Jason Beverly (Dark Green), Barry Mauck (Purple)

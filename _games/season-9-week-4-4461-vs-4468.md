@@ -3,7 +3,7 @@ title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Maroon vs S0
   Blue
 teams-score:
 - team: _teams/s09-maroon.md
-  score:
+  score: 40
 - team: _teams/s09-royal-blue-these-hoes-aint-royal.md
   score: 14
 mvp: Alonzo Mable (Maroon), Stephen Tackney (Royal)

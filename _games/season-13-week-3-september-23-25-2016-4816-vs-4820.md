@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Gold vs S13 M
   Blue
 teams-score:
 - team: _teams/s13-gold.md
-  score:
+  score: 39
 - team: _teams/s13-midnight-blue.md
   score: 19
 mvp: A. Hines (Gold); L. Walton (Midnight)

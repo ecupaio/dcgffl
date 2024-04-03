@@ -3,7 +3,7 @@ title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Maroon vs S09 Bu
   Orange
 teams-score:
 - team: _teams/s09-maroon.md
-  score:
+  score: 34
 - team: _teams/s09-burnt-orange.md
   score: 27
 mvp: Rob Casey (Maroon), Brett Chambers (B. Orange)

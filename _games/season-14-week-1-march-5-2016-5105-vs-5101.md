@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Sky Blue vs S14 Orange
 teams-score:
 - team: _teams/s14-sky.md
-  score:
+  score: 18
 - team: _teams/s14-orange.md
   score: 0
 mvp: A. Pratt (Sky), B. O'Brien (Orange)

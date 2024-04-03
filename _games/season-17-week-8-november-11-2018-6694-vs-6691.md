@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Green Eggs and Ca
   vs S17 Crimson Ride
 teams-score:
 - team: _teams/s17-kelly-green.md
-  score:
+  score: 39
 - team: _teams/s17-crimson.md
   score: 34
 mvp: D. Alexander (Kelly), D. Honeycutt (Crimson)

@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Lime vs S14 Forest
 teams-score:
 - team: _teams/s14-lime.md
-  score:
+  score: 27
 - team: _teams/s14-forest.md
   score: 12
 mvp: Garbage & Scott C

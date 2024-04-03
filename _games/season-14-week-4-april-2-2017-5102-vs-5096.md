@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Pink vs S14 Fuchsia
 teams-score:
 - team: _teams/s14-pink.md
-  score:
+  score: 30
 - team: _teams/s14-fuchsia.md
   score: 14
 mvp: Greg C. & Isaac

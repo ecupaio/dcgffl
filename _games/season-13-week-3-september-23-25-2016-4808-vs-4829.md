@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Ash vs S13 Ve
   Gold
 teams-score:
 - team: _teams/s13-ash.md
-  score:
+  score: 25
 - team: _teams/s13-vegas.md
   score: 19
 mvp: B. Benjamin (Ash); D. Rendell (Vegas)

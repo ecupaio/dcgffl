@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Reddy, Ready, Red 
   White
 teams-score:
 - team: _teams/s17-red.md
-  score:
+  score: 27
 - team: _teams/s17-white.md
   score: 6
 mvp: E. Green (Red), J. Moseman (White)

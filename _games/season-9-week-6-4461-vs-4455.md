@@ -3,7 +3,7 @@ title: Season 9 - Week 6 (October 17 & 19, 2014) - DCGFFL - S09 Maroon vs S09 Da
   Green
 teams-score:
 - team: _teams/s09-maroon.md
-  score:
+  score: 25
 - team: _teams/s09-dark-green.md
   score: 24
 mvp: John Berry (Maroon), Jarod Trujillo ( Dark Green)

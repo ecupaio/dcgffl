@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Teal vs S09 Black
 teams-score:
 - team: _teams/s09-teal.md
-  score:
+  score: 27
 - team: _teams/s09-black.md
   score: 12
 mvp: Charlie Salem (Teal); James Santos (Black)

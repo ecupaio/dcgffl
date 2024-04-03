@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Forest
   vs S13 Orange
 teams-score:
 - team: _teams/s13-forest.md
-  score:
+  score: 32
 - team: _teams/s13-orange.md
   score: 27
 mvp: C. Babb (Forest); P. Pham (Orange)

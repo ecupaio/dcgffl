@@ -2,7 +2,7 @@
 title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Royal Blue vs S13 Gold
 teams-score:
 - team: _teams/s13-royal-blue.md
-  score:
+  score: 41
 - team: _teams/s13-gold.md
   score: 40
 mvp: A. Reust (Royal); J. Davis (Gold)

@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Vegas 
   vs S13 Black
 teams-score:
 - team: _teams/s13-vegas.md
-  score:
+  score: 21
 - team: _teams/s13-black.md
   score: 0
 mvp: J. Bain (Vegas); S. Pugh (Black)

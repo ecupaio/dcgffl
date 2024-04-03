@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Kelly 
   vs S13 Gold
 teams-score:
 - team: _teams/s13-kelly.md
-  score:
+  score: 32
 - team: _teams/s13-gold.md
   score: 18
 mvp: S. Cuviello (Kelly); W. Jackson (Gold)

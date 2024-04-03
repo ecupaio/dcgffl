@@ -8,7 +8,7 @@ teams-score:
 mvp: M. Patrie (Vegas), A. Robbins (Charcoal)
 game-ball: J. Bain (Vegas), M. Weir (Charcoal)
 season: 13
-week: 8
+week: 0
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4829-vs-4813
 ---

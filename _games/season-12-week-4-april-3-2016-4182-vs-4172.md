@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S12 Royal Blue vs S12 Gold
 teams-score:
 - team: _teams/s12-royal-blue.md
-  score:
+  score: 32
 - team: _teams/s12-gold.md
   score: 12
 mvp: OJ (Royal); Craig Neiswanger (Gold)

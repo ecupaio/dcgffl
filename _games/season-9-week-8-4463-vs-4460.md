@@ -2,7 +2,7 @@
 title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Navy vs S09 Lime
 teams-score:
 - team: _teams/s09-navy-rear-admirals.md
-  score:
+  score: 32
 - team: _teams/s09-lime.md
   score: 25
 mvp: 'MVPs: Dameron Rendell (Navy), TJ Rhone (Lime)'

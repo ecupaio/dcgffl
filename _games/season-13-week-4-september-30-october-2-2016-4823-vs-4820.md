@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Pacifi
   Blue (Pacific Blue Rimmers ) vs S13 Midnight Blue
 teams-score:
 - team: _teams/s13-pacific-blue.md
-  score:
+  score: 13
 - team: _teams/s13-midnight-blue.md
   score: 6
 mvp: A. Lubash (Pacific); J. Santos (Midnight)

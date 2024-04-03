@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Forest Green 
   S13 Fuchsia
 teams-score:
 - team: _teams/s13-forest.md
-  score:
+  score: 29
 - team: _teams/s13-fuchsia.md
   score: 28
 mvp: C. Babb (Forest), J. Connolly (Fuchsia)

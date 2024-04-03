@@ -3,7 +3,7 @@ title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Green Eggs and C
   vs S17 Purple Parrots
 teams-score:
 - team: _teams/s17-kelly-green.md
-  score:
+  score: 26
 - team: _teams/s17-purple.md
   score: 13
 mvp: TBD

@@ -9,7 +9,7 @@ mvp: Alex P. (Black); Long D. (Red)
 game-ball: N/A
 sportsperson: ''
 season: 10
-week: 3
+week: 0
 date: '2015-03-16T14:28:10'
 pageid: season-10-week-three-4420-vs-4438
 ---

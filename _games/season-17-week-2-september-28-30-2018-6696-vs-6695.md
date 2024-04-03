@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Biscuits & Navy vs S17 L.I.M.E.
 teams-score:
 - team: _teams/s17-navy.md
-  score:
+  score: 18
 - team: _teams/s17-neon-green.md
   score: 6
 mvp: E. Guerra (Navy); L. Womack (Neon Green)

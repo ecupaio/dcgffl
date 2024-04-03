@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Purple Parrots vs S17 X’s and Hoes
 teams-score:
 - team: _teams/s17-purple.md
-  score:
+  score: 28
 - team: _teams/s17-royal-blue.md
   score: 21
 mvp: B. McEvoy (Purple); J. Salverstrini (Royal)

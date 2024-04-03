@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S17 Crimson Ride vs S17 Bringing Sexy Black
 teams-score:
 - team: _teams/s17-crimson.md
-  score:
+  score: 38
 - team: _teams/s17-black.md
   score: 8
 mvp: M. Washington (Crimson); P. Sima (Black)

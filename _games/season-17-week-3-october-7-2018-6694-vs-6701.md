@@ -3,7 +3,7 @@ title: Season 17 – Week 3 (October 7, 2018) - DCGFFL - S17 Green Eggs and Camm
   S17 The Shock Tops
 teams-score:
 - team: _teams/s17-kelly-green.md
-  score:
+  score: 34
 - team: _teams/s17-power-orange.md
   score: 33
 mvp: M. Japinga (Kelly); P. Guequierre (P. Orange)

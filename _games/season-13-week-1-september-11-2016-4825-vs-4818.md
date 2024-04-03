@@ -2,7 +2,7 @@
 title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Purple vs S13 Lime Green
 teams-score:
 - team: _teams/s13-purple.md
-  score:
+  score: 27
 - team: _teams/s13-lime.md
   score: 26
 mvp: M. Hofberg (Purple); M. Washington (Lime)

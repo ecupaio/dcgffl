@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Vegas Gold vs
   White
 teams-score:
 - team: _teams/s13-vegas.md
-  score:
+  score: 26
 - team: _teams/s13-white.md
   score: 13
 mvp: D. Rendell (Vegas); L. Womack (White)

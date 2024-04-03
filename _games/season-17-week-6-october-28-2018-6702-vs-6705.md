@@ -3,7 +3,7 @@ title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 daffoDILFS vs S17 
   and Hoes
 teams-score:
 - team: _teams/s17-power-yellow.md
-  score:
+  score: 24
 - team: _teams/s17-royal-blue.md
   score: 13
 mvp: K. Veldman (P. Yellow), N. Lazarus (R. Blue)

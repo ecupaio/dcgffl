@@ -3,7 +3,7 @@ title: Season XX Canceled - DCGFFL - S17 Reddy, Ready, Red vs S17 Flaming Hot Ch
   Dust
 teams-score:
 - team: _teams/s17-red.md
-  score:
+  score: 25
 - team: _teams/s17-orange.md
   score: 6
 mvp: M. Hofberg (Red); J. Hendee (Orange)

@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Lime vs S14 Teal
 teams-score:
 - team: _teams/s14-lime.md
-  score:
+  score: 33
 - team: _teams/s14-teal.md
   score: 7
 mvp: Vinnie & Will

@@ -3,7 +3,7 @@ title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Baby Blue vs S13 K
   Green
 teams-score:
 - team: _teams/s13-baby-blue.md
-  score:
+  score: 54
 - team: _teams/s13-kelly.md
   score: 6
 mvp: J. Blaney (Baby Blue); K. Zajac (Kelly)

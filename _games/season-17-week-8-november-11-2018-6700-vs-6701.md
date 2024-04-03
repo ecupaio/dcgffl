@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - undefined vs S17 The 
   Tops
 teams-score:
 - team: ''
-  score:
+  score: 36
 - team: _teams/s17-power-orange.md
   score: 21
 mvp: M. Murtaugh (Power Blue), OJ (Power Orange)

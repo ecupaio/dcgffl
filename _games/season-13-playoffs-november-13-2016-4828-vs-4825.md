@@ -8,7 +8,7 @@ teams-score:
 mvp: B. Mauck (Safety Orange), C. Hobbs (Purple)
 game-ball: P. McIntyre (Safety Orange), M. Gillette (Purple)
 season: 13
-week: 8
+week: 0
 date: '2016-11-17T15:36:35'
 pageid: season-13-playoffs-november-13-2016-4828-vs-4825
 ---

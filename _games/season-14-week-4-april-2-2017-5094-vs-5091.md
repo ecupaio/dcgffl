@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Crimson vs S14 Black
 teams-score:
 - team: _teams/s14-crimson.md
-  score:
+  score: 30
 - team: _teams/s14-black.md
   score: 13
 mvp: Mark S. & Ken

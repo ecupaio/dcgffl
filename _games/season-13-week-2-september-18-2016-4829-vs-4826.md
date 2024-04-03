@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Vegas Gold vs S13 Red (RED HOTS)
 teams-score:
 - team: _teams/s13-vegas.md
-  score:
+  score: 25
 - team: _teams/s13-red.md
   score: 7
 mvp: M. Stroman (Vegas); N. Lazarus (Red)

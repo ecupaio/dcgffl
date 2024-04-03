@@ -3,7 +3,7 @@ title: Season 9 - Week 8 (November 9, 2014) - DCGFFL - S09 Royal Blue vs S09 Bur
   Orange
 teams-score:
 - team: _teams/s09-royal-blue-these-hoes-aint-royal.md
-  score:
+  score: 32
 - team: _teams/s09-burnt-orange.md
   score: 31
 mvp: 'MVPs: Bryant Burnheimer (Royal), Brendan McFarland (Burnt Orange)'

@@ -116,6 +116,7 @@ content-id: team
       
     </div>
     <div class="records">
+      {% if page.division != '' %}
       <h3>{{ page.division }} Division</h3>
       <div class="key">
         <div class="key-col">Team</div>
@@ -172,6 +173,7 @@ content-id: team
       </div>
       {% endif %}
       {% endfor %}
+    {% endif %}  
     </div>
   </div>
 </section>

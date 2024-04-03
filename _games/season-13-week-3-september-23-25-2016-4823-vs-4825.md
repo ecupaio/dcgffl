@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Pacific Blue 
   Blue Rimmers ) vs S13 Purple
 teams-score:
 - team: _teams/s13-pacific-blue.md
-  score:
+  score: 31
 - team: _teams/s13-purple.md
   score: 20
 mvp: C. Gillyard (Pacific); C. Hobbs (Purple)

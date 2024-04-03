@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Lime Green vs S13 Charcoal
 teams-score:
 - team: _teams/s13-lime.md
-  score:
+  score: 31
 - team: _teams/s13-charcoal.md
   score: 13
 mvp: M. Washington (Lime); C. Burrell (Charcoal)

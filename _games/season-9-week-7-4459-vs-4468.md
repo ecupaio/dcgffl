@@ -3,7 +3,7 @@ title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Leaf Green vs S0
   Royal Blue
 teams-score:
 - team: _teams/s09-leaf-green.md
-  score:
+  score: 20
 - team: _teams/s09-royal-blue-these-hoes-aint-royal.md
   score: 14
 mvp: Mark Hofberg (Leaf), Patrick Mabray (Royal)

@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 White 
   S13 Power Blue
 teams-score:
 - team: _teams/s13-white.md
-  score:
+  score: 31
 - team: _teams/s13-power-blue.md
   score: 30
 mvp: W. Chappell (White); G. Carter (P. Blue)

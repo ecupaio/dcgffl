@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Neon Yellow v
   S13 White
 teams-score:
 - team: _teams/s13-neon-yellow.md
-  score:
+  score: 30
 - team: _teams/s13-white.md
   score: 20
 mvp: L. Diep (N. Yellow); W. Chappell (White)

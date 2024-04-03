@@ -3,7 +3,7 @@ title: Season 17 – Week 7 (November 4, 2018) - DCGFFL - S17 Teal vs S17 Flamin
   Cheeto Dust
 teams-score:
 - team: _teams/s17-teal.md
-  score:
+  score: 39
 - team: _teams/s17-orange.md
   score: 19
 mvp: A. Campanelli (Teal), J. Hendee (Orange)

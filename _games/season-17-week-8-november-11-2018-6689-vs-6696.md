@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 Grill on Grill Ac
   vs S17 Biscuits & Navy
 teams-score:
 - team: _teams/s17-charcoal.md
-  score:
+  score: 39
 - team: _teams/s17-navy.md
   score: 7
 mvp: D. Allen (Charcoal), B. Donohoe (Navy)

@@ -3,7 +3,7 @@ title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Neon Yellow vs S13 R
   (RED HOTS)
 teams-score:
 - team: _teams/s13-neon-yellow.md
-  score:
+  score: 33
 - team: _teams/s13-red.md
   score: 7
 mvp: R. Boyle (Neon Yellow); L. Pratt (Red)

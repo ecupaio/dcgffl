@@ -3,7 +3,7 @@ title: Season 13 - Week 1 (September 11, 2016) - DCGFFL - S13 Charcoal vs S13 Pa
   Blue (Pacific Blue Rimmers )
 teams-score:
 - team: _teams/s13-charcoal.md
-  score:
+  score: 19
 - team: _teams/s13-pacific-blue.md
   score: 18
 mvp: C. Burrell (Charcoal); J. Boyd (Pacific)

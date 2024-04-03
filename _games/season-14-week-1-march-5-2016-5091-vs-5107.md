@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Black vs S14 Violet
 teams-score:
 - team: _teams/s14-black.md
-  score:
+  score: 48
 - team: _teams/s14-violet.md
   score: 0
 mvp: L. Diep (Black), B. Bosfield (Violet)

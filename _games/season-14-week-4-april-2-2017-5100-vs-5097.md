@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Olive vs S14 Kelly Green
 teams-score:
 - team: _teams/s14-olive.md
-  score:
+  score: 40
 - team: _teams/s14-kelly.md
   score: 14
 mvp: Drew H. & OJ

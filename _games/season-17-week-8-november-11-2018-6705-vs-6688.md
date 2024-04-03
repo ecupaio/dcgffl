@@ -3,7 +3,7 @@ title: Season 17 – Week 8 (November 11, 2018) - DCGFFL - S17 X’s and Hoes vs
   Sexy Black
 teams-score:
 - team: _teams/s17-royal-blue.md
-  score:
+  score: 26
 - team: _teams/s17-black.md
   score: 14
 mvp: K. Lynch (Royal), T. Phillips (Black)

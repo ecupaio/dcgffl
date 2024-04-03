@@ -3,7 +3,7 @@ title: Season 13 - Week 3 (September 23 & 25, 2016) - DCGFFL - S13 Safety Orange
   S13 Baby Blue
 teams-score:
 - team: _teams/s13-safety-orange.md
-  score:
+  score: 27
 - team: _teams/s13-baby-blue.md
   score: 26
 mvp: M. Rothschild (S. Orange); M. Gander (B. Blue)

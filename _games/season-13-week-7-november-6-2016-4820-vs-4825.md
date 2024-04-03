@@ -2,7 +2,7 @@
 title: Season 13 - Week 7 (November 6, 2016) - DCGFFL - S13 Midnight Blue vs S13 Purple
 teams-score:
 - team: _teams/s13-midnight-blue.md
-  score:
+  score: 25
 - team: _teams/s13-purple.md
   score: 12
 mvp: L. Walton (Midnight); M. Japinga (Purple)

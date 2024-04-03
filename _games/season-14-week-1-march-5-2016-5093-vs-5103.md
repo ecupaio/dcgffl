@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Charcoal vs S14 Red
 teams-score:
 - team: _teams/s14-charcoal.md
-  score:
+  score: 32
 - team: _teams/s14-red.md
   score: 12
 mvp: S. Karson (Charcoal), B. Benjamin (Red)

@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Purple vs S09 Maroon
 teams-score:
 - team: _teams/s09-purple.md
-  score:
+  score: 36
 - team: _teams/s09-maroon.md
   score: 19
 mvp: Jerrell Price (Purple); Trey Phillips (Maroon)

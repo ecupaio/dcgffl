@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Fuchsia vs S14 Violet
 teams-score:
 - team: _teams/s14-fuchsia.md
-  score:
+  score: 25
 - team: _teams/s14-violet.md
   score: 14
 mvp: C. Burrell (Fuchsia), D. Brown (Violet)

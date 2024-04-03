@@ -24,7 +24,6 @@ layout: default
         {% elsif page.league == "womensplus" %}
           {% assign teams = site.womensplus-teams %}  
         {% endif %}
-        
         {% for ranking in power-ranking.rankings %}
 
         {% assign team = teams | where: "path", ranking.team | first %}

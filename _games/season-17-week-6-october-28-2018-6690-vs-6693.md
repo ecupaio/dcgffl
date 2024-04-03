@@ -3,7 +3,7 @@ title: Season 17 – Week 6 (October 28, 2018) - DCGFFL - S17 Call Me By Your Te
   vs S17 Hunter Green
 teams-score:
 - team: _teams/s17-columbia-blue.md
-  score:
+  score: 37
 - team: _teams/s17-hunter-green.md
   score: 12
 mvp: A. Allen (C. Blue), B. Allen (H. Green)

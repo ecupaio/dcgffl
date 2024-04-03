@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Cerulean vs S14 Forest
 teams-score:
 - team: _teams/s14-cerulean.md
-  score:
+  score: 45
 - team: _teams/s14-forest.md
   score: 18
 mvp: J. Connolly (Cerulean), L. James (Forest)

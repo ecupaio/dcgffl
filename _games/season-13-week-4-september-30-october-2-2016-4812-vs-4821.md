@@ -3,7 +3,7 @@ title: Season 13 - Week 4 (September 30 & October 2, 2016) - DCGFFL - S13 Brown 
   S13 Neon Yellow
 teams-score:
 - team: _teams/s13-brown.md
-  score:
+  score: 39
 - team: _teams/s13-neon-yellow.md
   score: 19
 mvp: A. Harvey (Brown); R. Casey (N. Yellow)

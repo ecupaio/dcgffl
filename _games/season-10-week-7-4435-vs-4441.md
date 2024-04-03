@@ -3,7 +3,7 @@ title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Power Yellow vs S
   Silver
 teams-score:
 - team: _teams/s10-power-yellow.md
-  score:
+  score: 13
 - team: _teams/s10-silver.md
   score: 7
 mvp: Matt S. (Power Yellow), Walt S. (Silver)

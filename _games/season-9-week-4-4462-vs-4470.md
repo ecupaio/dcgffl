@@ -3,7 +3,7 @@ title: Season 9 – Week 4 (September 26 & 28, 2014) - DCGFFL - S09 Medium Green
   S09 Vegas Gold
 teams-score:
 - team: _teams/s09-medium-green-butch-greens.md
-  score:
+  score: 34
 - team: _teams/s09-vegas-gold.md
   score: 20
 mvp: Jamar Walker (Medium Green), Brian Sparrow (Vegas)

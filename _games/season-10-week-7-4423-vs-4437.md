@@ -2,7 +2,7 @@
 title: Season 10 - Week 7 (April 17 & 19, 2015) - DCGFFL - S10 Camo Grey vs S10 Purple
 teams-score:
 - team: _teams/s10-camo-grey.md
-  score:
+  score: 41
 - team: _teams/s10-purple.md
   score: 6
 mvp: Cole W. (Camo Grey), Clay A. (Purple)

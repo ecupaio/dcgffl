@@ -2,7 +2,7 @@
 title: Season 9 - Week 7 (October 24 & 26, 2014) - DCGFFL - S09 Gold vs S09 Black
 teams-score:
 - team: _teams/s09-gold.md
-  score:
+  score: 38
 - team: _teams/s09-black.md
   score: 25
 mvp: Miles Simpson (Gold), James Santos (Black)

@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S14 Navy vs S14 Teal
 teams-score:
 - team: _teams/s14-navy.md
-  score:
+  score: 31
 - team: _teams/s14-teal.md
   score: 12
 mvp: A. Hackbarth (Navy), W. Chappell (Teal)

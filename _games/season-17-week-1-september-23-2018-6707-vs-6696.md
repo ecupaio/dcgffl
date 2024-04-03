@@ -3,7 +3,7 @@ title: Season 17 – Week 1 (September 23, 2018) - DCGFFL - S17 Teal vs S17 Bisc
   & Navy
 teams-score:
 - team: _teams/s17-teal.md
-  score:
+  score: 20
 - team: _teams/s17-navy.md
   score: 15
 mvp: TBD

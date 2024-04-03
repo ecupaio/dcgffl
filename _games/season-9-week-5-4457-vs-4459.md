@@ -2,7 +2,7 @@
 title: Season 9 - Week 5 (October 5, 2014) - DCGFFL - S09 Gold vs S09 Leaf Green
 teams-score:
 - team: _teams/s09-gold.md
-  score:
+  score: 26
 - team: _teams/s09-leaf-green.md
   score: 25
 mvp: Tim Smith (Gold); Scott Steinhardt (Leaf)

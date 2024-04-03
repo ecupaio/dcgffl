@@ -2,7 +2,7 @@
 title: Season 14 - Week 4 (April 2, 2017) - DCGFFL - S14 Charcoal vs S14 Yellow
 teams-score:
 - team: _teams/s14-charcoal.md
-  score:
+  score: 21
 - team: _teams/s14-yellow.md
   score: 24
 mvp: Marcus & John Clemons

@@ -8,7 +8,7 @@ teams-score:
 mvp: Mike C. (Navy); Mike D. (Maroon)
 game-ball: N/A
 season: 10
-week: 3
+week: 0
 date: '2015-03-16T14:28:10'
 pageid: season-10-week-three-4433-vs-4431
 ---

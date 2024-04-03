@@ -2,7 +2,7 @@
 title: Season XX Canceled - DCGFFL - S13 Royal Blue vs S13 Purple
 teams-score:
 - team: _teams/s13-royal-blue.md
-  score:
+  score: 26
 - team: _teams/s13-purple.md
   score: 20
 mvp: D. Alexander (Royal), M. Japinga (Purple)
