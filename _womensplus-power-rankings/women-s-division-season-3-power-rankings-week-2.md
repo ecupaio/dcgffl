@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'Women''s+ Division Season 3 Power Rankings: Week 2'
+title: 'Women''s+ Season 3 Power Rankings: Week 2'
 permalink: /power-rankings/womensplus-season-3-power-rankings-week-2/
 date: 2024-04-03 16:53:00 -0400
 author: >-
