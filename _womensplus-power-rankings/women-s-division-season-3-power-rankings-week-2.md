@@ -2,7 +2,7 @@
 _schema: default
 title: 'Women''s+ Division Season 3 Power Rankings: Week 2'
 permalink: /power-rankings/womensplus-season-3-power-rankings-week-2/
-date: 2024-03-21 17:00:00 -0400
+date: 2024-04-03 16:53:00 -0400
 author: >-
   Anonymous Duo - Well, week one has come and gone. The luck of the Irish was
   with some, missing from others. New comers and league staples alike made some
@@ -11,10 +11,10 @@ author: >-
   our league worked to game 3, our first all Women’s+ crew! Also, thank you to
   all players for not sassing these refs.   As week three comes to the front,
   once again, may the odds ever be in your favor. 
-season: 26
+season: 3
 week: 2
 rankings:
-  - team: _teams/s03-women-s-texas-orange.md
+  - team: _womensplus-teams/s03-women-s-texas-orange.md
     record: 1 - 0
     text: >-
       The championship that never was. Lizzie proved to the entire league that
@@ -32,8 +32,8 @@ rankings:
 
       ![](/img/screenshot-2024-03-21-at-1-46-12-pm.png){: width="620"
       height="412"}
-  - team: _teams/s03-women-s-gold.md
-    record: 1 - 0
+  - team: _womensplus-teams/s03-women-s-gold.md
+    record: 1-0
     text: >-
       We knew this team was going to be a force to be reckoned with, however, we
       were not expecting to be at this level. I would like to think that my
@@ -49,8 +49,8 @@ rankings:
 
       ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtwdTFmZWJnOG1lZGFsdThrbzZncTk1b3phOXlmcDVkYmZrb3BkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JgRe7CZDgpSBcL2zin/giphy.gif){:
       width="480" height="270"}
-  - team: _teams/s03-women-s-sapphire.md
-    record: 1 - 0
+  - team: _womensplus-teams/s03-women-s-sapphire.md
+    record: 1-0
     text: >-
       SappicFire: This 80 for Brady captain/QB duo came out hot against Red-y or
       Not. Red had no idea if Kori or Sarah was going to be receiving the snap,
@@ -66,8 +66,8 @@ rankings:
 
       ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnNmNnZHVqa2oxd3BpaW1wNzAxZ2V6OWt5MXFsdGZoZnF3NjI5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlKrzOHlAerdK5a/giphy.gif){:
       width="480" height="270"}
-  - team: _teams/s03-women-s-navy.md
-    record: 0 - 1
+  - team: _womensplus-teams/s03-women-s-navy.md
+    record: 0-1
     text: >-
       Fan favorite team name Bluebies gave the DCGFFL a chaotic show on Sunday.
       One would say they did not perform as well as anticipated with receivers
@@ -81,8 +81,8 @@ rankings:
 
       ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdyMWh2c21oaGV6MmEzcmE4Mnl6cG9ueHk1cThhMGpiNmM2cmZxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukqBV7WM4BQ4w/giphy.gif){:
       width="320" height="240"}
-  - team: _teams/s02-women-s-red.md
-    record: 0 - 1
+  - team: _womensplus-teams/s03-women-s-red.md
+    record: 0-1
     text: >-
       Red-y or Not: Red was almost ready for kickoff with 7 players at kickoff.
       Thankfully Em Lefler showed up 5 minutes in and supported the team on
@@ -100,8 +100,8 @@ rankings:
 
       ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2k2N2k1Y2hhc2cwcm55cWNwOGxreHBkam1uNGZ5eXFtdWF2MHJ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqjFFGXaamm8ddfh5Y/giphy.gif){:
       width="480" height="480"}
-  - team: _teams/s03-women-s-kelly-green.md
-    record: 0 - 1
+  - team: _womensplus-teams/s03-women-s-kelly-green.md
+    record: 0-1
     text: >-
       Let’s just say that no one on this team was eating green beans for Sunday
       Dinner. The final team making us eat our words, Green Beans. There is not
