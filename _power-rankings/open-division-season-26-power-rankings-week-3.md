@@ -116,12 +116,7 @@ rankings:
       width="480" height="266"}
 
 
-      But if this is true to form, they’re gonna come back in true middle peach
-      form!
-
-
-      ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRtdTlpZXZ0MDNpYmc5dTdyMndsdXJ3Nmp1cWNncnBqdXBiOGg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xA4n9IvUa41fOM/giphy.gif){:
-      width="480" height="266"}<br>
+      <br>
   - team: _teams/s26-seafoam.md
     record: 1 - 1
     text: >-
