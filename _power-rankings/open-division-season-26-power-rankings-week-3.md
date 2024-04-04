@@ -112,8 +112,8 @@ rankings:
       they’re gonna come back in true middle peach form!
 
 
-      ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1vM2Y4N3RvZmM3azBreXh5cGNyZG01aWJiMjl6ajZnbTJobmhkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IupK8XWHwRGqk/giphy.gif){:
-      width="245" height="180"}
+      ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmU3cDM0b2J6YWJ5cWI1bTZud2wxYmVqNzBoZmdnd204ZG5kMXh3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xA4n9IvUa41fOM/giphy.gif){:
+      width="480" height="266"}
 
 
       But if this is true to form, they’re gonna come back in true middle peach
