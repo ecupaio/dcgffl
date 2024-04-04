@@ -331,7 +331,7 @@ collections_config:
       default:
         path: .cloudcannon/schemas/team.md
         name: Team
-        _enabled-editors:
+        _enabled_editors:
           - data
         _inputs:
           color:
