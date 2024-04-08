@@ -1,20 +1,20 @@
 ---
 _enabled_editors:
   - data
-title: Schedule
-permalink: "/schedule/"
+title: Open Division Schedule
+permalink: /schedule/
 content-id: schedule
 css: schedule
 scripts:
-- schedule
+  - schedule
 playoffs:
   title: Playoffs
-  text: Playoffs are scheduled for next week! Follow the link below for information
+  text: >-
+    Playoffs are scheduled for next week! Follow the link below for information
     on games.
   button:
     text: View bracket
-    link: "/playoffs/"
+    link: /playoffs/
   visible: false
-
 ---
 {% include full-schedule.html games=site.games teams=site.teams path="_pages/league.html" %}
