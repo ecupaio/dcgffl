@@ -1,6 +1,7 @@
 ---
 _schema: default
 title: S03 Women's+ - Navy (Bluebies)
+permalink: ''
 name: Bluebies
 color: Navy
 season: 3

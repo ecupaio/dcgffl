@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: S03 Women's+ - Gold (First and Gold)
-permalink: ''
+permalink: /womensplus/teams/s03-women-s-gold/
 name: First and Gold
 color: Gold
 season: 3

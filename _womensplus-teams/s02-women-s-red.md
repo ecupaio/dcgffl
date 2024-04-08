@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: S03 Women's+ - Red (Red-y or Not)
-permalink: ''
+permalink: /womensplus/teams/s03-women-s-red/
 name: Red-y or Not
 color: Red
 season: 3
