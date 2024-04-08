@@ -1,6 +1,7 @@
 ---
 _schema: default
 title: S03 Women's+ - Gold (First and Gold)
+permalink: ''
 name: First and Gold
 color: Gold
 season: 3

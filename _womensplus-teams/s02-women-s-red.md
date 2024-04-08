@@ -1,9 +1,10 @@
 ---
 _schema: default
 title: S03 Women's+ - Red (Red-y or Not)
-name: (Red-y or Not)
+permalink: ''
+name: Red-y or Not
 color: Red
-season: 2
+season: 3
 photo: /img/da2-7061.jpg
 captain: Judy H.
 quarterback: Meredith Morgan

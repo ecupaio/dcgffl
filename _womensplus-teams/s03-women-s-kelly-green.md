@@ -1,6 +1,7 @@
 ---
 _schema: default
 title: S03 Women's+ - Kelly Green (Green Beans)
+permalink: ''
 name: Green Beans
 color: Kelly Green
 season: 3
