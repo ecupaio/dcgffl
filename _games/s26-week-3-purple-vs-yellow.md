@@ -6,7 +6,7 @@ teams-score:
     score: 33
   - team: _teams/s26-yellow.md
     score: 15
-location: ''
+location: _locations/carter-baron.md
 field: '1'
 date: 2024-03-24 09:00:00 -0400
 season: 26

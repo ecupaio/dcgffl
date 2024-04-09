@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: S24 Rec Yellow
-permalink: ''
+permalink: recreation-league/teams/s24-rec-yellow/
 name: ''
 color: Yellow
 season: 24
