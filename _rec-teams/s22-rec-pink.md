@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: S22 Rec Pink
-permalink: ''
+permalink: /recreation-league/teams/s22-rec-pink/
 name: Pink
 color: ''
 season: 22
