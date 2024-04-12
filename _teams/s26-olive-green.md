@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S26 - Olive Green
+title: S26 - Olive Green (The Extra Virgins)
 permalink: /teams/s26-olivegreen/
 name: The Extra Virgins
 color: Olive Green

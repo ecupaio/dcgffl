@@ -10,6 +10,7 @@ captain: Emily B.
 quarterback: Jaimee S.
 members:
   - Alleyiana B.
+  - Tracy C.
   - Jessica D.
   - Leah G.
   - Courtney H.

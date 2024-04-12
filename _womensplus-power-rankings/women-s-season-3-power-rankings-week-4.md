@@ -64,12 +64,11 @@ rankings:
   - team: _womensplus-teams/s03-women-s-navy.md
     record: 1-2
     text: >-
-      Welcome to the team Tracy C. or in my household, affectionately known as
-      “Gucci Cellucci”. Boy is QB Jamiee happy to have this talent on her team.
-      Thankfully, the rest of Bluebies decided to show up in numbers, greater
-      than 5, and put turned in their frying pans to start catching passes from
-      their QB. While Tracy was lighting up the runway, the rest of her
-      teammates followed in stride, rocking the latest DCGFFL fashion: Court
+      Welcome to the team Tracy C. Boy is QB Jamiee happy to have this talent on
+      her team. Thankfully, the rest of Bluebies decided to show up in numbers,
+      greater than 5, and put turned in their frying pans to start catching
+      passes from their QB. While Tracy was lighting up the runway, the rest of
+      her teammates followed in stride, rocking the latest DCGFFL fashion: Court
       came out hot, with two TDs, Em prevented SapphicFire from scoring too much
       with some wild INTs, and Alley was implemented with quite a few dink and
       dunk first downs. If this team can stay healthy and keep showing up, they
