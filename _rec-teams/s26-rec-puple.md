@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S26 Rec - Puple
+title: S26 Rec - Purple
 permalink: /recreation-league/teams/s26-rec-purple/
 name: ''
 color: Purple
