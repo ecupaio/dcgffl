@@ -1,6 +1,6 @@
 ---
 title: ''
-permalink: ''
+permalink:
 locations:
   title: ''
   items: []

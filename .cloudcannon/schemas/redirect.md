@@ -1,5 +1,5 @@
 ---
 title: ''
-permalink: ''
+permalink:
 redirect_url: ''
 ---
