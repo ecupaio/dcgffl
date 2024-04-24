@@ -1,16 +1,16 @@
 ---
 _schema: default
-title: S26 Week 7 - White vs Coral
+title: S26 Week 8 - Light Blue vs Coral
 teams-score:
-  - team: _teams/s26-white.md
+  - team: _teams/s26-light-blue.md
     score:
   - team: _teams/s26-coral.md
     score:
 location: _locations/carter-baron.md
-field: '3'
-date: 2024-04-28 12:30:00 -0400
+field: '5'
+date: 2024-05-05 09:00:00 -0400
 season: 26
-week: 7
+week: 8
 mvp: ''
 game-ball: ''
 sportsperson: ''
