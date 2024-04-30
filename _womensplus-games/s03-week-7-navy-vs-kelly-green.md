@@ -9,9 +9,9 @@ game-ball: ''
 sportsperson: ''
 teams-score:
   - team: _womensplus-teams/s03-women-s-navy.md
-    score:
+    score: 0
   - team: _womensplus-teams/s03-women-s-kelly-green.md
-    score:
+    score: 36
 location: _locations/carter-baron.md
 field: '2'
 ---
