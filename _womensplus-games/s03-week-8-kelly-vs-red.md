@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: S03 Week 8 - Kelly vs Red
-week: 7
+week: 8
 season: 3
 date: 2024-05-05 12:30:00 -0400
 mvp: ''
