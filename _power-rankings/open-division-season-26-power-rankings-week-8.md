@@ -55,8 +55,8 @@ rankings:
       **Miss Congeniality**: Daniel Betram
 
 
-      **Unsung Hero**: James Ferencsik - “for never missing a game and coming
-      through with several key plays in close games.”
+      **Unsung Hero**: James F. - “for never missing a game and coming through
+      with several key plays in close games.”
   - team: _teams/s26-forest-green.md
     record: 8 - 1
     text: >-
