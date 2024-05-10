@@ -31,12 +31,16 @@ rounds:
         teams-score:
           - team: _womensplus-teams/s03-women-s-gold.md
             score:
+          - team: _womensplus-teams/tbd.md
+            score:
         date: 2024-05-12 10:00:00 -0400
         location: _locations/carter-baron.md
       - title: 'S03 Semifinal 1 - #2 Texas Orange  vs '
         division:
         teams-score:
           - team: _womensplus-teams/s03-women-s-texas-orange.md
+            score:
+          - team: _womensplus-teams/tbd.md
             score:
         date: 2024-05-12 10:00:00 -0400
         location: _locations/carter-baron.md
