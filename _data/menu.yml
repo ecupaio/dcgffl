@@ -28,8 +28,10 @@ _structures:
 nav:
   - title: Home
     link: /
+    sublinks: []
   - title: About
     link: /about/
+    sublinks: []
   - title: Open Division
     link: '#'
     sublinks:
@@ -69,16 +71,22 @@ nav:
         link: /recreation-league/playoffs/
   - title: Travel Program
     link: /travel-program/
+    sublinks: []
   - title: Gallery
     link: https://www.flickr.com/photos/55392288@N03/sets/
+    sublinks: []
   - title: Sponsors
     link: /sponsors/
+    sublinks: []
   - title: Events
     link: /events/
+    sublinks: []
   - title: News
     link: /news/
+    sublinks: []
   - title: Awards
     link: /awards/
+    sublinks: []
 nav-button:
   text: Donate
   link: /donate/
@@ -116,7 +124,6 @@ footer:
     link: /past-seasons/
 announcement:
   text: >-
-    [**Spring 2024 Recreation Division Registration is now
-    Open!**](https://forms.gle/Cingps26cCC3A2TN6){: target="_blank"
-    rel="noopener"}
-  show: false
+    [**Spring 2024 Board Elections**](https://forms.gle/EwkLatrCjLG8zwRF9){:
+    target="_blank" rel="noopener"}
+  show: true
