@@ -103,7 +103,9 @@ rounds:
     games:
       - title: S26 Playoffs Quarterfinals - Central
         division: Central
-        teams-score: []
+        teams-score:
+          - team: ''
+            score:
         date: 2024-05-12 13:45:00 -0400
         location: _locations/carter-baron.md
       - title: S26 Playoffs Quarterfinals - East
