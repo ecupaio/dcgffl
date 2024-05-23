@@ -3,7 +3,7 @@ _schema: default
 title: Season 25 Playoffs
 permalink: /season-25-playoffs/
 season: 25
-champion: ''
+champion: _teams/s25-navy.md
 rounds:
   - title: S25 Playoff Round 1 - Central-East Bracket
     games:

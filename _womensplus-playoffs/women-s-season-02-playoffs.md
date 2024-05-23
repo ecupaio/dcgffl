@@ -2,7 +2,7 @@
 _schema: default
 title: Women's+ Season 02 Playoffs
 season: 2
-champion: ''
+champion: _womensplus-teams/s02-women-s-carolina-blue.md
 rounds:
   - title: S02 Playoff Semifinals
     games:
