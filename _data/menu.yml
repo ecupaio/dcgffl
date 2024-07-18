@@ -8,23 +8,18 @@ _inputs:
     options:
       structures: _structures.nav-links
 _structures:
-  nav-links:
-    values:
-      - value:
-          title:
-          link:
-          sublinks: 
-        _inputs:
-          sublinks:
-            type: array
-          options:
-            structures: _structures.sublink
-        _structures:
-          sublink:
-            values:
-              - value:
-                  title:
-                  link:
+  nav-links: 
+    _inputs:
+      sublinks:
+        type: array
+      options:
+        structures: _structures.sublink
+    _structures:
+      sublink:
+        values:
+          - value:
+              title:
+              link:
 nav:
   - title: Home
     link: /
