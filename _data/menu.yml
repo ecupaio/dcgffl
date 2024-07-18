@@ -9,24 +9,29 @@ _inputs:
       structures: _structures.nav-links
 _structures:
   nav-links: 
-    _inputs:
-      sublinks:
-        type: array
-      options:
-        structures: _structures.sublink
-    _structures:
-      sublink:
-        values:
-          - value:
-              title:
-              link:
+    values: 
+    - value: 
+        title: ""
+        link: 
+        sublinks: []
+      _inputs:
+        sublinks:
+          type: array
+        options:
+          structures: _structures.sublink
+      _structures:
+        sublink:
+          values:
+            - value:
+                title:
+                link:
 nav:
   - title: Home
     link: /
-    sublinks: 
+    sublinks: []
   - title: About
     link: /about/
-    sublinks: 
+    sublinks: []
   - title: Open Division
     link: '#'
     sublinks: 
@@ -66,22 +71,22 @@ nav:
         link: /recreation-league/playoffs/
   - title: Travel Program
     link: /travel-program/
-    sublinks: 
+    sublinks: []
   - title: Gallery
     link: https://www.flickr.com/photos/55392288@N03/sets/
     sublinks: 
   - title: Sponsors
     link: /sponsors/
-    sublinks: 
+    sublinks: []
   - title: Events
     link: /events/
-    sublinks: 
+    sublinks: []
   - title: News
     link: /news/
     sublinks: 
   - title: Awards
     link: /awards/
-    sublinks: 
+    sublinks: []
 nav-button:
   text: Donate
   link: /donate/
