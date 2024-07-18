@@ -13,9 +13,7 @@ _structures:
       - value: 
           title: ""
           link: 
-          sublinks: 
-            - title: ""
-              link: 
+          sublinks: []
         _inputs:
           sublinks:
             type: array
@@ -25,7 +23,7 @@ _structures:
           sublink:
             values:
               - value:
-                  title:
+                  title: ""
                   link:
 nav:
   - title: Home
