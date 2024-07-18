@@ -13,7 +13,7 @@ _structures:
       - value:
           title:
           link:
-          sublinks: []
+          sublinks: 
         _inputs:
           sublinks:
             type: array
@@ -28,13 +28,13 @@ _structures:
 nav:
   - title: Home
     link: /
-    sublinks: []
+    sublinks: 
   - title: About
     link: /about/
-    sublinks: []
+    sublinks: 
   - title: Open Division
     link: '#'
-    sublinks:
+    sublinks: 
       - title: Home
         link: /league/
       - title: Scoreboard
@@ -47,7 +47,7 @@ nav:
         link: /power-rankings/
   - title: Womens+ Divsion
     link: '#'
-    sublinks:
+    sublinks: 
       - title: Home
         link: /womensplus-league/
       - title: Scoreboard
@@ -71,22 +71,22 @@ nav:
         link: /recreation-league/playoffs/
   - title: Travel Program
     link: /travel-program/
-    sublinks: []
+    sublinks: 
   - title: Gallery
     link: https://www.flickr.com/photos/55392288@N03/sets/
-    sublinks: []
+    sublinks: 
   - title: Sponsors
     link: /sponsors/
-    sublinks: []
+    sublinks: 
   - title: Events
     link: /events/
-    sublinks: []
+    sublinks: 
   - title: News
     link: /news/
-    sublinks: []
+    sublinks: 
   - title: Awards
     link: /awards/
-    sublinks: []
+    sublinks: 
 nav-button:
   text: Donate
   link: /donate/

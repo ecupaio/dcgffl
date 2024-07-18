@@ -19,7 +19,7 @@
     <div class="menu-body">
       <div class="menu-links">
         {% for item in menu.nav %}
-        {% if item.sublinks %}
+        {% if item.sublinks.size > 0 %}
         <h4 class="link-block toggle-sublinks">
           <a href="{{item.link}}">{{ item.title }}</a>&nbsp;<i class="fa fa-angle-right"></i>
         </h4>
