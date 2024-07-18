@@ -10,21 +10,23 @@ _inputs:
 _structures:
   nav-links: 
     values: 
-    - value: 
-        title: ""
-        link: 
-        sublinks: []
-      _inputs:
-        sublinks:
-          type: array
-        options:
-          structures: _structures.sublink
-      _structures:
-        sublink:
-          values:
-            - value:
-                title:
-                link:
+      - value: 
+          title: ""
+          link: 
+          sublinks: 
+            - title: ""
+              link: 
+        _inputs:
+          sublinks:
+            type: array
+          options:
+            structures: _structures.sublink
+        _structures:
+          sublink:
+            values:
+              - value:
+                  title:
+                  link:
 nav:
   - title: Home
     link: /
