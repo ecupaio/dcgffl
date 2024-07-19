@@ -17,8 +17,8 @@ _structures:
         _inputs:
           sublinks:
             type: array
-          options:
-            structures: _structures.sublink
+            options:
+              structures: _structures.sublink
         _structures:
           sublink:
             values:
