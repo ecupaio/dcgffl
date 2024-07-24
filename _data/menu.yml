@@ -8,11 +8,11 @@ _inputs:
     options:
       structures: _structures.nav-links
 _structures:
-  nav-links: 
-    values: 
-      - value: 
-          title: ""
-          link: 
+  nav-links:
+    values:
+      - value:
+          title: ''
+          link:
           sublinks: []
         _inputs:
           sublinks:
@@ -23,7 +23,7 @@ _structures:
           sublink:
             values:
               - value:
-                  title: ""
+                  title: ''
                   link:
 nav:
   - title: Home
@@ -34,7 +34,7 @@ nav:
     sublinks: []
   - title: Open Division
     link: '#'
-    sublinks: 
+    sublinks:
       - title: Home
         link: /league/
       - title: Scoreboard
@@ -47,7 +47,7 @@ nav:
         link: /power-rankings/
   - title: Womens+ Divsion
     link: '#'
-    sublinks: 
+    sublinks:
       - title: Home
         link: /womensplus-league/
       - title: Scoreboard
@@ -74,7 +74,7 @@ nav:
     sublinks: []
   - title: Gallery
     link: https://www.flickr.com/photos/55392288@N03/sets/
-    sublinks: 
+    sublinks:
   - title: Sponsors
     link: /sponsors/
     sublinks: []
@@ -83,7 +83,7 @@ nav:
     sublinks: []
   - title: News
     link: /news/
-    sublinks: 
+    sublinks:
   - title: Awards
     link: /awards/
     sublinks: []
@@ -124,6 +124,10 @@ footer:
     link: /past-seasons/
 announcement:
   text: >-
-    [**Spring 2024 Board Elections**](https://forms.gle/EwkLatrCjLG8zwRF9){:
-    target="_blank" rel="noopener"}
-  show: false
+    [**Fall 2024 Early Bird Open Division
+    Registration**](https://docs.google.com/forms/d/1VmjiZnarQOcrhLha5ntb9ZAzSGHaNVdt17NNEVU__D0/edit)
+
+
+    [**Fall 2024 Women's+ Division
+    Registration**](https://docs.google.com/forms/d/181DHJplDK5NXZZ8JfqnfLpYmmS6Eq3UNNj_t_wodvZ4/edit)
+  show: true
