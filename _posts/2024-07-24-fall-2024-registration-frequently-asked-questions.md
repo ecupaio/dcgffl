@@ -5,7 +5,7 @@ permalink: s27-faq
 date: 2024-07-24 13:56:00 -0400
 attachments: []
 ---
-# Spring 2024 - Registration Frequently Asked Questions
+# Fall 2024 - Registration Frequently Asked Questions
 
 * **How much does it cost to play?**&nbsp;
   * The registration fee is $90 for new players and $75 for returning players who register for **<u>1 division</u>**. The registration fee is $105 for new players and $90 for returning players who register for 2 divisions.
