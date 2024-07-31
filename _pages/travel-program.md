@@ -45,7 +45,7 @@ The Travel Program is managed by the Travel Management Committee (TMC) with over
 
 The 2023 Travel Committee is represented by the captains:
 
-* Women's+ Senators Black - Nikki Wells
+* Women's+ Senators Black - Lindsey W.
 * Women's+ Senators Red - Jillian Joyce
 * DC Elite - Open Division A - Jordan A.
 * DC Admirals - Open Division A - Bryan Sanders
