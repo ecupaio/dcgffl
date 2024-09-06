@@ -5,7 +5,7 @@ permalink: /teams/s27-coyote/
 name:
 color: Coyote
 season: 27
-photo:
+photo: /img/Coyote.jpg
 captain: Patrick Kozak
 quarterback: Austin Plier
 members:
