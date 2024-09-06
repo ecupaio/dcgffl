@@ -5,7 +5,7 @@ permalink: /teams/s27-seafoam/
 name:
 color: Seafoam
 season: 27
-photo:
+photo: /img/Seafoam2.jpg
 captain: Luis Cotto
 quarterback: Ben H.
 members:

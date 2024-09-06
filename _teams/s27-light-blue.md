@@ -5,7 +5,7 @@ permalink: /teams/s27-light-blue/
 name:
 color: Light Blue
 season: 27
-photo:
+photo: /img/LightBlue.jpg
 captain: Cameron Burrell
 quarterback: Garrett Schiponi
 members:

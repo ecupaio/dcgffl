@@ -5,7 +5,7 @@ permalink: /teams/s27-sand/
 name:
 color: Sand
 season: 27
-photo:
+photo: /img/Sand.jpg
 captain: Michael Bromell
 quarterback: Oriya C.
 members:

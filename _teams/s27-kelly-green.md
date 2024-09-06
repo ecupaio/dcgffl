@@ -5,7 +5,7 @@ permalink: /teams/s27-kelly-green/
 name:
 color: Kelly Green
 season: 27
-photo:
+photo: /img/KellyGreen.jpg
 captain: Trey P.
 quarterback: Nick Perovich
 members:

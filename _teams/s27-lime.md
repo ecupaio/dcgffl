@@ -5,7 +5,7 @@ permalink: /teams/s27-lime/
 name:
 color: Lime
 season: 27
-photo:
+photo: /img/Lime2.jpg
 captain: Twon H.
 quarterback: AJ Reust
 members:

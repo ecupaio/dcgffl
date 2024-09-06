@@ -5,7 +5,7 @@ permalink: /teams/s27-yellow/
 name:
 color: Yellow
 season: 27
-photo:
+photo: /img/Yellow2.jpg
 captain: Derrick Johnson
 quarterback: Pat Shilo
 members:
