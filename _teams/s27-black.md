@@ -5,7 +5,7 @@ permalink: /teams/s27-black/
 name:
 color: Black
 season: 27
-photo:
+photo: /img/Black2.jpg
 captain: Daniel H
 quarterback: Kevin Penny
 members:
