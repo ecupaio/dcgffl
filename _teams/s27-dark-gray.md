@@ -5,7 +5,7 @@ permalink: /teams/s27-dark-gray/
 name:
 color: Dark Gray
 season: 27
-photo:
+photo: /img/darkgray.jpg
 captain: Brandon M.
 quarterback: Jim Connolly
 members:

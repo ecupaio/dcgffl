@@ -5,7 +5,7 @@ permalink: /teams/s27-navy/
 name:
 color: Navy
 season: 27
-photo:
+photo: /img/navy2.jpg
 captain: Evan B.
 quarterback: Cameron M.
 members:
