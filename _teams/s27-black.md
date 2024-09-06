@@ -5,7 +5,7 @@ permalink: /teams/s27-black/
 name:
 color: Black
 season: 27
-photo: C:\Users\bedel\Desktop\DCGFFL Team Photos\Black.jpg
+photo:
 captain: Daniel H
 quarterback: Kevin Penny
 members:
