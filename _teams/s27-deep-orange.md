@@ -5,7 +5,7 @@ permalink: /teams/s27-deep-orange/
 name:
 color: Deep Orange
 season: 27
-photo: /img/deeporange.jpg
+photo:
 captain: Mark Japinga
 quarterback: Brandon Waggoner
 members:

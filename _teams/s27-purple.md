@@ -5,7 +5,7 @@ permalink: /teams/s27-purple/
 name:
 color: Purple
 season: 27
-photo: /img/purple2.jpg
+photo:
 captain: Morgan Warfield
 quarterback: Aaron Billingsley
 members:

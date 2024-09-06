@@ -5,7 +5,7 @@ permalink: /teams/s27-olive/
 name:
 color: Olive
 season: 27
-photo: /img/olive.jpg
+photo:
 captain: Matt H.
 quarterback: Wyatt Eck
 members:

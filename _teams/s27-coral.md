@@ -5,7 +5,7 @@ permalink: /teams/s27-coral/
 name:
 color: Coral
 season: 27
-photo: /img/coral2.jpg
+photo:
 captain: Andrew Hoyler
 quarterback: JC Adams
 members:

@@ -5,7 +5,7 @@ permalink: /teams/s27-white/
 name:
 color: White
 season: 27
-photo: /img/white2.jpg
+photo:
 captain: TJ Callan
 quarterback: Andrew Aldrian
 members:

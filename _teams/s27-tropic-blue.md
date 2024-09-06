@@ -5,7 +5,7 @@ permalink: /teams/s27-tropic-blue/
 name:
 color: Tropic Blue
 season: 27
-photo: /img/tropicblue.jpg
+photo:
 captain: Juan V.
 quarterback: Matt C.
 members:

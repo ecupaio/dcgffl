@@ -5,7 +5,7 @@ permalink: /teams/s27-sapphire/
 name:
 color: Sapphire
 season: 27
-photo: /img/sapphire2.jpg
+photo:
 captain: Austin A.
 quarterback: John C.
 members:

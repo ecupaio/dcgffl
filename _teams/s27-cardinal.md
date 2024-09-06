@@ -5,7 +5,7 @@ permalink: /teams/s27-cardinal/
 name:
 color: Cardinal
 season: 27
-photo: /img/Cardinal.jpg
+photo:
 captain: Jens Piferoen
 quarterback: Brian Hotchkiss
 members:
