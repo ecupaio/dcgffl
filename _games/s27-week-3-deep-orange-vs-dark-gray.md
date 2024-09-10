@@ -8,7 +8,7 @@ teams-score:
     score:
 location: _locations/carter-baron.md
 field: '1'
-date: 2024-09-15 10:45:00 -0400
+date: 2024-09-22 10:45:00 -0400
 season: 27
 week: 3
 mvp: ''

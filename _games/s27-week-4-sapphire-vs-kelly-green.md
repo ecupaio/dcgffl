@@ -1,16 +1,16 @@
 ---
 _schema: default
-title: S27 Week 3 - Purple vs Kelly Green
+title: S27 Week 4 - Sapphire vs Kelly Green
 teams-score:
-  - team: _teams/s27-purple.md
+  - team: _teams/s27-sapphire.md
     score:
   - team: _teams/s27-kelly-green.md
     score:
 location: _locations/carter-baron.md
-field: '4'
-date: 2024-09-22 09:00:00 -0400
+field: '2'
+date: 2024-09-29 12:30:00 -0400
 season: 27
-week: 3
+week: 4
 mvp: ''
 game-ball: ''
 sportsperson: ''
