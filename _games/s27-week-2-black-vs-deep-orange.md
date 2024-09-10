@@ -2,9 +2,9 @@
 _schema: default
 title: S27 Week 2 - Black vs Deep Orange
 teams-score:
-  - team: _teams/s27-black.md
-    score:
   - team: _teams/s27-deep-orange.md
+    score:
+  - team: _teams/s27-black.md
     score:
 location: _locations/carter-baron.md
 field: '5'
