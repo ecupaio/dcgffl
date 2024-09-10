@@ -4,7 +4,7 @@ title: S27 Week 8 - Yellow vs Olive
 teams-score:
   - team: _teams/s27-yellow.md
     score:
-  - team: _teams/s27-white.md
+  - team: _teams/s27-olive.md
     score:
 location: _locations/carter-baron.md
 field: '5'
