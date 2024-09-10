@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Navy
+title: S27 - Navy (Naughty Nauti Boys)
 permalink: /teams/s27-navy/
-name:
+name: Naughty Nauti Boys
 color: Navy
 season: 27
 photo: /img/Navy2.jpg

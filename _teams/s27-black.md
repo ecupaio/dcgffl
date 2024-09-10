@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Black
+title: S27 - Black (Arch Your Black)
 permalink: /teams/s27-black/
-name:
+name: Arch Your Black
 color: Black
 season: 27
 photo: /img/Black2.jpg

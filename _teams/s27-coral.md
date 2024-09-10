@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Coral
+title: S27 - Coral (All Tide Up)
 permalink: /teams/s27-coral/
-name:
+name: All Tide Up
 color: Coral
 season: 27
 photo: /img/Coral2.jpg

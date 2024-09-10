@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - White
+title: S27 - White (Milk & Pookies)
 permalink: /teams/s27-white/
-name:
+name: Milk & Pookies
 color: White
 season: 27
 photo: /img/White2.jpg

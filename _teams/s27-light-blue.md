@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Light Blue
+title: S27 - Light Blue (Blue Light District)
 permalink: /teams/s27-light-blue/
-name:
+name: Blue Light District
 color: Light Blue
 season: 27
 photo: /img/LightBlue.jpg

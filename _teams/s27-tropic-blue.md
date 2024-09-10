@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Tropic Blue
+title: S27 - Tropic Blue (Tropdead Gorgeous)
 permalink: /teams/s27-tropic-blue/
-name:
+name: Tropdead Gorgeous
 color: Tropic Blue
 season: 27
 photo: /img/TropicBlue.jpg

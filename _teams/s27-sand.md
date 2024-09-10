@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Sand
+title: S27 - Sand (Dune Too Much)
 permalink: /teams/s27-sand/
-name:
+name: Dune Too Much
 color: Sand
 season: 27
 photo: /img/Sand.jpg

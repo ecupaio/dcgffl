@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Dark Gray
+title: S27 - Dark Gray (50 Shades of Slay)
 permalink: /teams/s27-dark-gray/
-name:
+name: 50 Shades of Slay
 color: Dark Gray
 season: 27
 photo: /img/DarkGray.jpg

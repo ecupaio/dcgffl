@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Deep Orange
+title: S27 - Deep Orange (Tang Bang)
 permalink: /teams/s27-deep-orange/
-name:
+name: Tang Bang
 color: Deep Orange
 season: 27
 photo: /img/DeepOrange.jpg

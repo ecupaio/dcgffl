@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Yellow
+title: S27 - Yellow (Yellow)
 permalink: /teams/s27-yellow/
-name:
+name: Yellow
 color: Yellow
 season: 27
 photo: /img/Yellow2.jpg

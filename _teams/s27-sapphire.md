@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Sapphire
+title: S27 - Sapphire (Uncut Gems)
 permalink: /teams/s27-sapphire/
-name:
+name: Uncut Gems
 color: Sapphire
 season: 27
 photo: /img/Sapphire2.jpg

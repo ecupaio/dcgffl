@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Coyote
+title: S27 - Coyote (Spill the CoyoTEAs)
 permalink: /teams/s27-coyote/
-name:
+name: Spill the CoyoTEAs
 color: Coyote
 season: 27
 photo: /img/Coyote.jpg

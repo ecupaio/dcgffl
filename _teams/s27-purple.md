@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Purple
+title: S27 - Purple (Lavender Gayze)
 permalink: /teams/s27-purple/
-name:
+name: Lavender Gayze
 color: Purple
 season: 27
 photo: /img/Purple2.jpg

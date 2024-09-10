@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Cardinal
+title: S27 - Cardinal (Red Wine Supernovas)
 permalink: /teams/s27-cardinal/
-name:
+name: Red Wine Supernovas
 color: Cardinal
 season: 27
 photo: /img/Cardinal.jpg

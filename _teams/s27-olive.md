@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Olive
+title: S27 - Olive (Whore D'oeuvres)
 permalink: /teams/s27-olive/
-name:
+name: Whore D'oeuvres
 color: Olive
 season: 27
 photo: /img/Olive.jpg

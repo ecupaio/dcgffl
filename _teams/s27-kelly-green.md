@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Kelly Green
+title: S27 - Kelly Green (Kelly Green)
 permalink: /teams/s27-kelly-green/
-name:
+name: Kelly Green
 color: Kelly Green
 season: 27
 photo: /img/KellyGreen.jpg

@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Lime
+title: S27 - Lime (Bump A Little Lime)
 permalink: /teams/s27-lime/
-name:
+name: Bump A Little Lime
 color: Lime
 season: 27
 photo: /img/Lime2.jpg
