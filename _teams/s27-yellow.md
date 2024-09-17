@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S27 - Yellow (Yellow)
+title: S27 - Yellow (PikaCrew)
 permalink: /teams/s27-yellow/
-name: Yellow
+name: PikaCrew
 color: Yellow
 season: 27
 photo: /img/Yellow2.jpg
