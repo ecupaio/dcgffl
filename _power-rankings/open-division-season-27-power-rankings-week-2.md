@@ -132,8 +132,8 @@ rankings:
       **TROP DEAD GORGEOUS Death Drops Milk and Pookies in Tropical Beatdown**
 
 
-      *Gorgeous Athletes Defeat Stale Cookie Cutter Team in as White Left
-      Spoiled Rotten*
+      *Gorgeous Athletes Defeat Stale Cookie Cutter Team as White Left Spoiled
+      Rotten*
 
 
       This team has charm, athleticism and some very solid facial hair. But can
