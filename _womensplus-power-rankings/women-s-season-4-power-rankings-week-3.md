@@ -4,11 +4,11 @@ title: 'Women''s+ Season 4 Power Rankings: Week 3'
 permalink: /power-rankings/womensplus-season-4-power-rankings-week-three/
 date: 2024-09-27 11:15:00 -0400
 author: >-
-  One third of the season has passed and the tides have turned in the rankings.
-  No one can achieve the perfect season with a herd of rushers sacking QBs left
-  and right.  We are looking forward to the start of double headers next week
-  where the onslaught of questions regarding how long regulation play is, is
-  neigh.
+  Anonymous <3. One third of the season has passed and the tides have turned in
+  the rankings. No one can achieve the perfect season with a herd of rushers
+  sacking QBs left and right.  We are looking forward to the start of double
+  headers next week where the onslaught of questions regarding how long
+  regulation play is, is neigh.
 season: 4
 week: 3
 rankings:
