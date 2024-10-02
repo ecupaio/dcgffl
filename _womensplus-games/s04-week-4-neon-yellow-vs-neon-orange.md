@@ -9,9 +9,9 @@ game-ball: ''
 sportsperson: ''
 teams-score:
   - team: _womensplus-teams/s04-women-s-neon-yellow-yeah-glow.md
-    score:
+    score: 0
   - team: _womensplus-teams/s04-women-s-neon-orange-citrus-got-real.md
-    score:
+    score: 35
 location: _locations/carter-baron.md
 field: '5'
 ---
