@@ -9,8 +9,7 @@ author: >-
   see who our sponsors are!!! **Also Shameless plug for the Midseason Party to
   be held Oct 26th (4 PM @ Trade)!** Well let’s see how these rankings shake and
   what halftime performance are they giving! Are you ready??? Well let the show
-  begin!!!  **Editor’s Note: because some of the performances are pre-GIF days,
-  some write-ups will feature a photo from the performance rather than a GIPHY**
+  begin!!! 
 season: 27
 week: 4
 rankings:
