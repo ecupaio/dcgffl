@@ -9,6 +9,7 @@ photo: /img/Olive.jpg
 captain: Matt H.
 quarterback: Wyatt Eck
 members:
+  - Sean Dickson
   - James F.
   - Ken Goff
   - Art H.

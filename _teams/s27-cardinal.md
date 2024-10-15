@@ -15,6 +15,7 @@ members:
   - Logan Dawson
   - Charles D.
   - Thomas L.
+  - Jared L.
   - Ben M.
   - Daniel S.
   - Aaron S. (Forever Family)

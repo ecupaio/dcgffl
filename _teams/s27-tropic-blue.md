@@ -16,6 +16,7 @@ members:
   - Luke Keehan
   - Joshua L.
   - Keith L.
+  - Shane Lawson
   - Amanda Livingstone
   - Korbin Niehaus
   - Alex P.

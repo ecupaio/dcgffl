@@ -11,6 +11,7 @@ quarterback: Austin Plier
 members:
   - Dwaylan Applewhite
   - Dave Asche
+  - Mya B.
   - Brandon Benjamin
   - Chris Copeland
   - Keyur Desai

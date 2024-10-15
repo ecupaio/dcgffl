@@ -11,6 +11,7 @@ quarterback: Brandon Waggoner
 members:
   - Alex E.
   - Ryan Johns Perez
+  - Ocho K.
   - Jamal L.
   - Thomas L.
   - Jay M.

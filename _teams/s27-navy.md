@@ -15,6 +15,7 @@ members:
   - Colton Kopcik
   - Alonzo Mable
   - Coke M.
+  - Jared M.
   - Quinn McKenzie
   - Johnny Moseman
   - Zak Sealy

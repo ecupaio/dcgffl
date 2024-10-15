@@ -14,6 +14,7 @@ members:
   - Kobie Christian
   - Dawson C.
   - Thomas E.
+  - Khamare Garner
   - Joel Horton
   - Nick J.
   - Tov L.

@@ -17,6 +17,7 @@ members:
   - Veronica H.
   - Peyton Pedrozo
   - Ashley S.
+  - Nina S.
   - Reichell Sulbaran
   - Ashley Verdine
   - Marla Woodarek

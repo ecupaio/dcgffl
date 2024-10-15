@@ -15,7 +15,9 @@ members:
   - Michael Hess
   - Scott Kelly
   - Nolan L.
+  - Nathan M.
   - Daniel Lucero
+  - Sean O.
   - Justin Parker
   - Kyle Sherwood
   - Patrick Simmonds

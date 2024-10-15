@@ -17,6 +17,7 @@ members:
   - Fernando H.
   - Jack M.
   - Andy Packey
+  - Keenan Powers
   - Andrew Schilling
   - Adam Strasberg
   - Dave W.

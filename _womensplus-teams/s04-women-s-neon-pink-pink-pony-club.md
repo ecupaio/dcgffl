@@ -14,6 +14,7 @@ members:
   - Maria C.
   - Alison Floyd
   - Ashley H.
+  - Doneisha H.
   - Court H.
   - LaShonda I.
   - Dana Kyle

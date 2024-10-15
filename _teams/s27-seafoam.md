@@ -10,6 +10,7 @@ captain: Luis Cotto
 quarterback: Ben H.
 members:
   - Dylan Banks
+  - Joey C.
   - JC Chiuco
   - Scott Graham
   - Charles Harper

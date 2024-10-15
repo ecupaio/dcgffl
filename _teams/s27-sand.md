@@ -19,6 +19,7 @@ members:
   - Andrew Gordon
   - Andre Johnson
   - Michael Osorio
+  - Aaron Ross
   - Andy S.
   - Michael Z.
 division: Shakers Open

@@ -18,6 +18,7 @@ members:
   - Brandon Kyle
   - Luke M.
   - Mariam Mehter
+  - Jorge Membreño
   - Cedric R.
   - Ben Tow
 division: Pitchers Open

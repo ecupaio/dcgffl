@@ -10,6 +10,7 @@ captain: Cameron Burrell
 quarterback: Garrett Schiponi
 members:
   - Andrew Allen
+  - Gerard B.
   - Ben Brehm
   - Charlie Bruno
   - Jemar Edwards

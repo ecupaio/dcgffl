@@ -13,6 +13,7 @@ members:
   - Scott Cuviello
   - Paul Guequierre
   - Jp Hooth
+  - Levert James
   - Dan King
   - Benny K.
   - Jack Loome

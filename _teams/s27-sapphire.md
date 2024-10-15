@@ -11,6 +11,7 @@ quarterback: John C.
 members:
   - Colton B.
   - Blake Brittain
+  - Andre Brown
   - AC C.
   - Mykal Drosdal
   - Ja'Bree H.

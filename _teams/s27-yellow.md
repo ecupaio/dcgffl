@@ -10,6 +10,7 @@ captain: Derrick Johnson
 quarterback: Pat Shilo
 members:
   - Jordan A.
+  - Andrew C.
   - Robert Casey
   - Jonathan D.
   - Jason D.
@@ -17,6 +18,8 @@ members:
   - Aubrie O.
   - Matt R.
   - Ivan Sanchez
+  - Jonathan Trebble-Greening
+  - Ariel Villazon
   - Marvin W.
   - Mike W.
 division: Pitchers Open

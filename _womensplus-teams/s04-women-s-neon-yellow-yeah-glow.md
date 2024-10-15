@@ -10,8 +10,10 @@ captain: Nour N.
 quarterback: Pam M.
 members:
   - Aubrie O.
-  - Emmaline Moye
+  - Jessica F.
   - Gina Kim
+  - Emmaline Moye
+  - Britt C.
   - Jé St Sume
   - Joey C.
   - Lindsey W.
@@ -20,7 +22,6 @@ members:
   - Sherrie R.
   - Sophie Y.
   - Ty S.
-  - Britt C.
 division: Trade Women's+
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

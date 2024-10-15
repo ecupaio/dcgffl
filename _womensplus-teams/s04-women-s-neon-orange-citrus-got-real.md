@@ -9,6 +9,7 @@ photo: /img/neonorange.jpg
 captain: Amanda Dafonte
 quarterback: Sarah M.
 members:
+  - Danya A.
   - Megan Barbieri
   - Elle C.
   - Lexy G.S.
