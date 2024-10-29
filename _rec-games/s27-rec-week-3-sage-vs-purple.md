@@ -9,9 +9,9 @@ game-ball: ''
 sportsperson: ''
 teams-score:
   - team: _rec-teams/s27-rec-sage.md
-    score:
+    score: 19
   - team: _rec-teams/s27-rec-purple.md
-    score:
+    score: 25
 location: _locations/brentwood.md
 field: 2
 ---
