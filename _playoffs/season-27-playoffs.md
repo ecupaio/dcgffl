@@ -5,7 +5,7 @@ permalink: /season-27-playoffs/
 season: 27
 champion:
 rounds:
-  - title: S26 Playoff Round 1 - Central-East Bracket
+  - title: S27 Playoff Round 1 - Central-East Bracket
     games:
       - title: S27 Playoff Round 1 - 9A Kelly Green vs 8B Cardinal
         division: Central
@@ -50,7 +50,7 @@ rounds:
             score:
         date: 2024-11-17 10:00:00 -0500
         location: _locations/carter-baron.md
-  - title: S27 Playoff Round 1 - West-North Bracket
+  - title: S27 Playoff Round 1 - North-West Bracket
     games:
       - title: S27 Playoff Round 1 - 8A Coyote vs 9B Yellow
         division: North
