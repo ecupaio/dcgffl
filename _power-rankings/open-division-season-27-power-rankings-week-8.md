@@ -23,7 +23,7 @@ rankings:
       But surely, not all of those things can happen to one team, right?
 
 
-      ![](/img/seafoamp8.gif){: width="358" height="200"}
+      ![](/img/seafoamreal8.webp){: width="480" height="268"}
   - team: _teams/s27-coral.md
     record: 8-1
     text: >-
@@ -40,7 +40,7 @@ rankings:
       other reason.
 
 
-      ![](/img/coralp8.gif){: width="283" height="283"}
+      ![](/img/coralreal8.webp){: width="480" height="480"}
   - team: _teams/s27-lime.md
     record: 8-1
     text: >-
@@ -56,7 +56,7 @@ rankings:
       again. And I’m confident I’m not alone.<br>
 
 
-      ![](/img/limep8-1.gif){: width="356" height="200"}
+      ![](/img/limereal8.webp){: width="480" height="270"}
 
 
       <br>
@@ -73,7 +73,7 @@ rankings:
       two pick sixes in her QB debut.<br>
 
 
-      ![](/img/navyp8.gif){: width="356" height="200"}
+      ![](/img/navyreal8.webp){: width="480" height="270"}
   - team: _teams/s27-purple.md
     record: 5-4
     text: >-
@@ -102,7 +102,7 @@ rankings:
       some other team’s Kelly Clarkson. Who’s Justin Guarini, you ask? Exactly.
 
 
-      ![](/img/darkgrayp8.gif){: width="341" height="257"}
+      ![](/img/darkgrayreal8.webp){: width="480" height="362"}
   - team: _teams/s27-tropic-blue.md
     record: 5-4
     text: >-
@@ -129,7 +129,7 @@ rankings:
       out there. The resemblance, truly uncanny.
 
 
-      ![](/img/blackp8.gif){: width="358" height="200"}
+      ![](/img/blackreal8.webp){: width="476" height="266"}
   - team: _teams/s27-sapphire.md
     record: 4-5
     text: >-
@@ -142,7 +142,7 @@ rankings:
       other than having the most infectious laugh in the league.
 
 
-      ![](/img/sapphirep8.gif){: width="292" height="200"}
+      ![](/img/sapphirereal8.webp){: width="400" height="275"}
   - team: _teams/s27-light-blue.md
     record: 5-4
     text: >-
@@ -157,7 +157,7 @@ rankings:
       valiant effort.
 
 
-      ![](/img/lightbluep8.gif){: width="300" height="169"}
+      ![](/img/lightbluereal8.webp){: width="358" height="200"}
 
 
       <br>
@@ -173,7 +173,7 @@ rankings:
       Side. \#liveyourtruth)
 
 
-      ![](/img/sandp8.gif){: width="358" height="200"}
+      ![](/img/sandreal8.webp){: width="500" height="281"}
   - team: _teams/s27-deep-orange.md
     record: 3-6
     text: >-
@@ -186,7 +186,7 @@ rankings:
       clock strike midnight and turn them back into that pumpkin.
 
 
-      ![](/img/deeporangep8.gif){: width="270" height="200"}
+      ![](/img/deeporangereal8.webp){: width="454" height="337"}
 
 
       <br>
@@ -209,7 +209,7 @@ rankings:
       wins!
 
 
-      ![](/img/olivep8.gif){: width="272" height="200"}
+      ![](/img/olivereal8.webp){: width="500" height="368"}
   - team: _teams/s27-white.md
     record: 3-6
     text: >-
@@ -225,7 +225,7 @@ rankings:
       faced-emoji that you all use exclusively on Grindr or Scruff\*
 
 
-      ![](/img/white8.gif){: width="356" height="200"}
+      ![](/img/whitereal8.webp){: width="480" height="360"}
   - team: _teams/s27-coyote.md
     record: 3-6
     text: >-
@@ -238,7 +238,7 @@ rankings:
       in 2033, when they will go, you guessed it, 3-6.
 
 
-      ![](/img/coyotep8.gif){: width="270" height="270"}
+      ![](/img/coyotereal8.webp){: width="270" height="270"}
   - team: _teams/s27-cardinal.md
     record: 2-7
     text: >-
@@ -258,7 +258,7 @@ rankings:
       have gone better.
 
 
-      ![](/img/cardinalp8.gif){: width="356" height="200"}
+      ![](/img/cardinalreal8.webp){: width="480" height="270"}
   - team: _teams/s27-yellow.md
     record: 1-8
     text: >-
@@ -278,7 +278,7 @@ rankings:
       no. Listen To you Heart, and just say Whatever.
 
 
-      ![](/img/yellowp8.gif){: width="480" height="480"}
+      ![](/img/yellowreal8.webp){: width="480" height="270"}
   - team: _teams/s27-kelly-green.md
     record: 1-8
     text: >-
@@ -296,5 +296,5 @@ rankings:
       be over?
 
 
-      ![](/img/kellygreenp8.gif){: width="356" height="200"}
+      ![](/img/kellygreenreal8.webp){: width="384" height="216"}
 ---
