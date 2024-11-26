@@ -1,6 +1,6 @@
 ---
 _schema: rec-playoff
-champion: Pop That Cherry
+champion: _rec-teams/s27-rec-red.md
 title: S27 Rec - Playoffs
 season: 27
 rounds:
