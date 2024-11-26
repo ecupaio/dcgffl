@@ -1,6 +1,6 @@
 ---
 _schema: rec-playoff
-champion:
+champion: Pop That Cherry
 title: S27 Rec - Playoffs
 season: 27
 rounds:
@@ -30,9 +30,9 @@ rounds:
         division: ''
         teams-score:
           - team: _rec-teams/s27-rec-red.md
-            score:
+            score: 12
           - team: _rec-teams/s27-rec-orange.md
-            score:
+            score: 7
         date: 2024-11-15 20:00:00 -0500
         location: _locations/brentwood.md
 permalink: /s27-rec-playoffs/
