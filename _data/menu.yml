@@ -123,5 +123,8 @@ footer:
   - title: Past Seasons
     link: /past-seasons/
 announcement:
-  text: '[DCGFFL Spring 2025 Registration](https://teamarrange.com/browse)'
+  text: |-
+    [DCGFFL Spring 2025 Registration](https://teamarrange.com/browse)
+
+    Join Code: DCGFFL
   show: true
