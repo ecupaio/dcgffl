@@ -20,7 +20,7 @@ members:
   - Jordan Myles
   - Aaron S.
   - Matt Showalter
-  - Matan Showstack
+  - Matan S.
 division: Pitchers
 ---
 ![](/img/seafoam.jpg){: width="4543" height="3705"}
