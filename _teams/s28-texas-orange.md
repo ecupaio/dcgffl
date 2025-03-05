@@ -5,7 +5,7 @@ permalink: /teams/s28-texas-orange/
 name: Texas Orange
 color: Texas Orange
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28TexasOrange.jpg
 captain: Daniel B.
 quarterback: Daniel H.
 members:

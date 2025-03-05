@@ -5,7 +5,7 @@ permalink: /teams/s28-neon-pink/
 name: Neon Pink
 color: Neon Pink
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28NeonPink.jpg
 captain: Mark J.
 quarterback: Nick P.
 members:

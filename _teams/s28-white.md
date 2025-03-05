@@ -5,7 +5,7 @@ permalink: /teams/s28-white/
 name: White
 color: White
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28White.jpg
 captain: Tiger R.
 quarterback: Ben H.
 members:

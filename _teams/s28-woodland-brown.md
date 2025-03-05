@@ -5,7 +5,7 @@ permalink: /teams/s28-woodland-brown/
 name: Woodland Brown
 color: Woodland Brown
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28WoodlandBrown.jpg
 captain: TJ B.
 quarterback: Brian H.
 members:

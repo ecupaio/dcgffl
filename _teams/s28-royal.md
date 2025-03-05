@@ -5,7 +5,7 @@ permalink: /teams/s28-royal/
 name: Royal
 color: Royal
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28RoyalBlue.jpg
 captain: Brandon M.
 quarterback: Cam M.
 members:

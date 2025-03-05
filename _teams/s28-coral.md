@@ -5,7 +5,7 @@ permalink: /teams/s28-coral/
 name: Coral
 color: Coral
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Coral.jpg
 captain: Jordan A.
 quarterback: Matt C.
 members:

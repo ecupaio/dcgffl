@@ -5,7 +5,7 @@ permalink: /teams/s28-neon-yellow/
 name: Neon Yellow
 color: Neon Yellow
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28NeonYellow.jpg
 captain: Alonzo M.
 quarterback: Oriya C.
 members:

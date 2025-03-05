@@ -5,7 +5,7 @@ permalink: /teams/s28-sand/
 name: Sand
 color: Sand
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Sand.jpg
 captain: Chris T.
 quarterback: AJ R.
 members:

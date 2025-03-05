@@ -5,7 +5,7 @@ permalink: /teams/s28-navy/
 name: Navy
 color: Navy
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Navy.jpg
 captain: Trey P.
 quarterback: John C.
 members:

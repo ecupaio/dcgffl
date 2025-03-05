@@ -5,7 +5,7 @@ permalink: /teams/s28-iron-gray/
 name: Iron Gray
 color: Iron Gray
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28IronGray.jpg
 captain: Derrick J.
 quarterback: JC A.
 members:

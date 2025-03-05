@@ -5,7 +5,7 @@ permalink: /teams/s28-red/
 name: Red
 color: Red
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Red.jpg
 captain: Matt H.
 quarterback: Andrew A.
 members:

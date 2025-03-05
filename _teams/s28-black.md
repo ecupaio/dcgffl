@@ -5,7 +5,7 @@ permalink: /teams/s28-black/
 name: Black
 color: Black
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Black.jpg
 captain: Kevin H.
 quarterback: Jim C.
 members:

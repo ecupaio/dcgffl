@@ -5,7 +5,7 @@ permalink: /teams/s28-purple/
 name: Purple
 color: Purple
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Purple.jpg
 captain: Mike O.
 quarterback: Austin P.
 members:

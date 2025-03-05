@@ -5,7 +5,7 @@ permalink: /teams/s28-cardinal/
 name: Cardinal
 color: Cardinal
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Cardinal.jpg
 captain: Evan B.
 quarterback: Scott G.
 members:

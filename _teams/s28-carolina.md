@@ -5,7 +5,7 @@ permalink: /teams/s28-carolina-blue/
 name: Carolina Blue
 color: Carolina Blue
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28CarolinaBlue.jpg
 captain: Mike B.
 quarterback: Andre B.
 members:

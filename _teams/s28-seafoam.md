@@ -5,7 +5,7 @@ permalink: /teams/s28-seafoam/
 name: Seafoam
 color: Seafoam
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28Seafoam.jpg
 captain: Morgan W.
 quarterback: Bryan S.
 members:

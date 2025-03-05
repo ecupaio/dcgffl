@@ -5,7 +5,7 @@ permalink: /teams/s28-forest-green/
 name: Forest Green
 color: Forest Green
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28ForestGreen.jpg
 captain: Luie C.
 quarterback: Aaron B.
 members:

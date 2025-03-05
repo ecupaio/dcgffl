@@ -5,7 +5,7 @@ permalink: /teams/s28-neon-orange/
 name: Neon Orange
 color: Neon Orange
 season: 28
-photo: /img/Black2.jpg
+photo: /img/S28NeonOrange.jpg
 captain: Jens P.
 quarterback: Wyatt E.
 members:
