@@ -1,0 +1,24 @@
+---
+_schema: default
+title: S28 - Neon Yellow
+permalink: /teams/s28-neon-yellow/
+name: Neon Yellow
+color: Neon Yellow
+season: 28
+photo: /img/Black2.jpg
+captain: Alonzo M.
+quarterback: Oriya C.
+members:
+  - Eli A.
+  - Patrick B.
+  - Chris D.
+  - Pete D.
+  - Jemar E.
+  - Michael G.
+  - Marc K.
+  - Chad M.
+  - Ben M.
+  - Kirk Y.
+division:
+---
+![](/img/da2-7066.jpg){: width="4953" height="3538"}
