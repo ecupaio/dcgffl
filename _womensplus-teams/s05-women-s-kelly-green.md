@@ -21,6 +21,6 @@ members:
   - Anisa V.
   - Marla W.
   - Ash Y.
-division: Sponsored by Shakers
+division: Shakers
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

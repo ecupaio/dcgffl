@@ -22,6 +22,6 @@ members:
   - Madeline S.
   - Lexi Z.
   - Lisa Z.
-division: Sponsored by Dew Drop Inn
+division: Dew Drop Inn
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

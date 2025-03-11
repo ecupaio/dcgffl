@@ -22,6 +22,6 @@ members:
   - Angel V.
   - Vanessa V.
   - Tiff Y.
-division: Sponsored by B&M Steel
+division: B&M Steel
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

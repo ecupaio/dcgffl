@@ -19,6 +19,6 @@ members:
   - John R.
   - Kevin S.
   - Kyaire W.
-division: Pitchers Division
+division: Pitchers
 ---
 ![](/img/da2-7066.jpg){: width="4953" height="3538"}

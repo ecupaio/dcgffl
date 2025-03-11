@@ -22,6 +22,6 @@ members:
   - Ashley V.
   - Marquita W.
   - Sienna W.
-division: Sponsored by Wonderland Ballroom
+division: Wonderland Ballroom
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}
