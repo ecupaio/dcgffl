@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Royal
+title: S28 - Royal (These Hoes Ain't Royal)
 permalink: /teams/s28-royal/
-name: Royal
+name: These Hoes Ain't Royal
 color: Royal
 season: 28
 photo: /img/S28RoyalBlue.jpg

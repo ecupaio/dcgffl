@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Red
+title: S28 - Red (Red Bottoms)
 permalink: /teams/s28-red/
-name: Red
+name: Red Bottoms
 color: Red
 season: 28
 photo: /img/S28Red.jpg

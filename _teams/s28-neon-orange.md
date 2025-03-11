@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Neon Orange
+title: S28 - Neon Orange (Apricocks)
 permalink: /teams/s28-neon-orange/
-name: Neon Orange
+name: Apricocks
 color: Neon Orange
 season: 28
 photo: /img/S28NeonOrange.jpg

@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Kelly Green
+title: S05 Women's+ - Kelly Green (Gayng Green)
 permalink: /womensplus/teams/s05-women-s-kelly-green/
-name: Kelly Green
+name: Gayng Green
 color: Kelly Green
 season: 5
 photo: /img/S28WKellyGreen.jpg

@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Coral
+title: S28 - Coral (Sushi Gang)
 permalink: /teams/s28-coral/
-name: Coral
+name: Sushi Gang
 color: Coral
 season: 28
 photo: /img/S28Coral.jpg

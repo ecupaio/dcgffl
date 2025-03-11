@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Woodland Brown
+title: S28 - Woodland Brown (We Espresso)
 permalink: /teams/s28-woodland-brown/
-name: Woodland Brown
+name: We Espresso
 color: Woodland Brown
 season: 28
 photo: /img/S28WoodlandBrown.jpg

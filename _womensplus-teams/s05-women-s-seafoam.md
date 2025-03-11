@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Seafoam
+title: S05 Women's+ - Seafoam (TD Foam Home)
 permalink: /womensplus/teams/s05-women-s-seafoam/
-name: Seafoam
+name: TD Foam Home
 color: Seafoam
 season: 5
 photo: /img/S28WSeafoam.jpg

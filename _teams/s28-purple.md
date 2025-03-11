@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Purple
+title: S28 - Purple (Grape Expectations)
 permalink: /teams/s28-purple/
-name: Purple
+name: Grape Expectations
 color: Purple
 season: 28
 photo: /img/S28Purple.jpg

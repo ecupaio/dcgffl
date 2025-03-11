@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Black
+title: S05 Women's+ - Black (DEI Hires)
 permalink: /womensplus/teams/s05-women-s-black/
-name: Black
+name: DEI Hires
 color: Black
 season: 5
 photo: /img/S28WBlack.jpg

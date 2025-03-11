@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Purple
+title: S05 Women's+ - Purple (Purple People Yeeters)
 permalink: /womensplus/teams/s05-women-s-purple/
-name: Purple
+name: Purple People Yeeters
 color: Purple
 season: 5
 photo: /img/S28WPurple.jpg

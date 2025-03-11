@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Navy
+title: S28 - Navy (Mast4Mast)
 permalink: /teams/s28-navy/
-name: Navy
+name: Mast4Mast
 color: Navy
 season: 28
 photo: /img/S28Navy.jpg

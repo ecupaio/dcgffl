@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Coral
+title: S05 Women's+ - Coral (Peach Please)
 permalink: /womensplus/teams/s05-women-s-coral/
-name: Coral
+name: Peach Please
 color: Coral
 season: 5
 photo: /img/S28WCoral.jpg

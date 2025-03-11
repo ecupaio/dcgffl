@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Neon Pink
+title: S28 - Neon Pink (Pretty In Kink)
 permalink: /teams/s28-neon-pink/
-name: Neon Pink
+name: Pretty In Kink
 color: Neon Pink
 season: 28
 photo: /img/S28NeonPink.jpg

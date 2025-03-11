@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Forest Green
+title: S28 - Forest Green (Emerald Edgers)
 permalink: /teams/s28-forest-green/
-name: Forest Green
+name: Emerald Edgers
 color: Forest Green
 season: 28
 photo: /img/S28ForestGreen.jpg

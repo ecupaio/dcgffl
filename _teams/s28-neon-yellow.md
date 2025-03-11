@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Neon Yellow
+title: S28 - Neon Yellow (Citron My Face)
 permalink: /teams/s28-neon-yellow/
-name: Neon Yellow
+name: Citron My Face
 color: Neon Yellow
 season: 28
 photo: /img/S28NeonYellow.jpg

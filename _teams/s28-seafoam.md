@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Seafoam
+title: S28 - Seafoam (Foamboys)
 permalink: /teams/s28-seafoam/
-name: Seafoam
+name: Foamboys
 color: Seafoam
 season: 28
 photo: /img/S28Seafoam.jpg

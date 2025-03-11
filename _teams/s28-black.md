@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Black
+title: S28 - Black (The Black Cockus)
 permalink: /teams/s28-black/
-name: Black
+name: The Black Cockus
 color: Black
 season: 28
 photo: /img/S28Black.jpg

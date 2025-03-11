@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Sand
+title: S28 - Sand (Dune Baddies)
 permalink: /teams/s28-sand/
-name: Sand
+name: Dune Baddies
 color: Sand
 season: 28
 photo: /img/S28Sand.jpg

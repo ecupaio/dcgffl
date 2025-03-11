@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Red
+title: S05 Women's+ - Red (Ro-Hoes)
 permalink: /womensplus/teams/s05-women-s-red/
-name: Red
+name: Ro-Hoes
 color: Red
 season: 5
 photo: /img/S28WRed.jpg

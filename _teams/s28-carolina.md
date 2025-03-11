@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Carolina
+title: S28 - Carolina Blue (Blue Out They Back)
 permalink: /teams/s28-carolina-blue/
-name: Carolina Blue
+name: Blue Out They Back
 color: Carolina Blue
 season: 28
 photo: /img/S28CarolinaBlue.jpg

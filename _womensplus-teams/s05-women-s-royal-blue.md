@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S05 Women's+ - Royal Blue
+title: S05 Women's+ - Royal Blue (Royal Pain in the Pass)
 permalink: /womensplus/teams/s05-women-s-royal-blue/
-name: Royal Blue
+name: Royal Pain in the Pass
 color: Royal Blue
 season: 5
 photo: /img/S28WRoyalBlue.jpg

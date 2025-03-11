@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - White
+title: S28 - White (White Load-Us)
 permalink: /teams/s28-white/
-name: White
+name: White Load-Us
 color: White
 season: 28
 photo: /img/S28White.jpg
