@@ -21,6 +21,6 @@ members:
   - Lindsey W.
   - Shantal W.
   - Sophie Y.
-division:
+division: Sponsored by Trade
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

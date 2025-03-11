@@ -19,6 +19,6 @@ members:
   - Andrew P.
   - Kirt S.
   - Ben T.
-division:
+division: Shakers Division
 ---
 ![](/img/da2-7066.jpg){: width="4953" height="3538"}

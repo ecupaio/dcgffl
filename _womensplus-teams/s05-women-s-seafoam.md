@@ -22,6 +22,6 @@ members:
   - Lena R.
   - Ashley S.
   - Munroe S.
-division:
+division: Sponsored by RMC
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

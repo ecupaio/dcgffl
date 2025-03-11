@@ -20,6 +20,6 @@ members:
   - Bryan W.
   - Mike Z.
   - Aaron B. (Forever Family)
-division:
+division: Pitchers Division
 ---
 ![](/img/da2-7066.jpg){: width="4953" height="3538"}

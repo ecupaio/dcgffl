@@ -22,6 +22,6 @@ members:
   - Lauren P.
   - Chelsea T.
   - Lisa Z.
-division:
+division: Sponsored by Kiki
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}

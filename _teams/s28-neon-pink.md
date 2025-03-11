@@ -19,6 +19,6 @@ members:
   - Chris R.R.
   - Patrick S.
   - Jonathan T.G.
-division:
+division: Pitchers Division
 ---
 ![](/img/da2-7066.jpg){: width="4953" height="3538"}
