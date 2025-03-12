@@ -305,7 +305,7 @@ rankings:
   - team: _teams/s28-cardinal.md
     record: 0 - 1
     text: >-
-      Going up 14-0 and then losing 33-14 isn’t pretty. But, maybe it could’ve
+      Going up 14-0 and then losing 28-14 isn’t pretty. But, maybe it could’ve
       been predicted when QB Scott (welcome back!) had to pull a “this is my
       offense, let me call the shots” after captain Evan offered a…different
       perspective on whether they should go for 1 or 2. Matt was able to pace
