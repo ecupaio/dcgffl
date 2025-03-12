@@ -3,7 +3,7 @@ _schema: default
 title: S05 Week 1 - Royal Blue vs Purple
 week: 1
 season: 5
-date: 2025-03-09 12:00:00 -0400
+date: 2025-03-09 12:30:00 -0400
 mvp: Erneisha B., Dana K.
 game-ball: Darika S., Nik B.
 sportsperson: Liz B., Chelsea T.

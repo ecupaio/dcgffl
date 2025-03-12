@@ -8,7 +8,7 @@ teams-score:
     score: 21
 location: _locations/carter-baron.md
 field: '2'
-date: 2025-03-09 12:00:00 -0400
+date: 2025-03-09 12:30:00 -0400
 season: 28
 week: 1
 mvp: Ross L., Andy P.

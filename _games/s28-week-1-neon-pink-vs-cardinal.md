@@ -8,7 +8,7 @@ teams-score:
     score: 14
 location: _locations/carter-baron.md
 field: '1'
-date: 2025-03-09 12:00:00 -0400
+date: 2025-03-09 12:30:00 -0400
 season: 28
 week: 1
 mvp: Patrick S., Matt R.

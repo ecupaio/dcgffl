@@ -3,7 +3,7 @@ _schema: default
 title: S05 Week 1 - Coral vs Black
 week: 1
 season: 5
-date: 2025-03-09 12:00:00 -0400
+date: 2025-03-09 12:30:00 -0400
 mvp: Lex P., Joey C.
 game-ball: Sienna W., Victoria L.
 sportsperson: Meg B., Tiara C.
