@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Texas Orange
+title: S28 - Texas Orange (SWEET ★ HONEYCUTT ★ BUCKIN')
 permalink: /teams/s28-texas-orange/
-name: Texas Orange
+name: SWEET ★ HONEYCUTT ★ BUCKIIN'
 color: Texas Orange
 season: 28
 photo: /img/S28TexasOrange.jpg
