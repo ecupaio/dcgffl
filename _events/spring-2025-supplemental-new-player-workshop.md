@@ -3,7 +3,7 @@ _schema: default
 title: Spring 2025 Supplemental New Player Workshop
 permalink: /events/spring-2025-supplemental-new-player-workshop/
 date: 2025-03-23 00:00:00 -0400
-time: 1:00 pm
+time: 2:30 pm
 button:
   text: ''
   link: ''

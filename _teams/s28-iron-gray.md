@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: S28 - Iron Gray (Gray Sons & Thot Daughter)
+title: S28 - Iron Gray (G[r]ay Sons & Thot Daughter)
 permalink: /teams/s28-iron-gray/
-name: Gray Sons & Thot Daughter
+name: G[r]ay Sons & Thot Daughter
 color: Iron Gray
 season: 28
 photo: /img/S28IronGray.jpg
