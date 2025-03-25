@@ -9,7 +9,7 @@ button:
   link: ''
   visible: false
 location:
-  name: Kiki
+  name: 1510 U St NW
   address:
   city:
   state:
