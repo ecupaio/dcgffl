@@ -9,6 +9,7 @@ photo: /img/S28Purple.jpg
 captain: Mike O.
 quarterback: Austin P.
 members:
+  - John C.
   - Keyur D.
   - Khamare G.
   - Zach G.

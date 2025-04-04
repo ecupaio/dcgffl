@@ -11,6 +11,7 @@ quarterback: Matt C.
 members:
   - Ademola A.
   - John A.
+  - David C.
   - Rob C.
   - Liam F.
   - Andrew H.

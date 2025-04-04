@@ -11,6 +11,7 @@ quarterback: Andre B.
 members:
   - Charlie B.
   - TJ C.
+  - Logan D.
   - Mykal D.
   - Sean D.
   - Josh E.

@@ -12,6 +12,7 @@ members:
   - Eric B.
   - Sasha B.
   - Niles D.
+  - Alex G.
   - Paul G.
   - Art H.
   - Spencer H.

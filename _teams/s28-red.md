@@ -13,6 +13,7 @@ members:
   - Shaq B.
   - Naibin C.
   - Carlos F.
+  - Brandon G.
   - Ken G.
   - Ed J.
   - Jordan M.

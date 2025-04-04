@@ -14,6 +14,7 @@ members:
   - Kobie C.
   - Alex D.
   - Ryan D.
+  - Victor J.
   - Robert K.
   - Leo L.
   - Ian M.

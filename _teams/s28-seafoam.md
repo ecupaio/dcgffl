@@ -12,6 +12,7 @@ members:
   - AC C.
   - Jonathan D.
   - Nolan L.
+  - Charlie K.
   - Justin K.
   - Adam M.
   - Coke M.

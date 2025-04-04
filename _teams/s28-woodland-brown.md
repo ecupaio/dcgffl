@@ -16,6 +16,7 @@ members:
   - Ricky H.
   - Brandon K.
   - Thomas L.
+  - Joe O.
   - Andrew P.
   - Kirt S.
   - Ben T.

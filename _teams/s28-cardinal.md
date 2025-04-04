@@ -19,6 +19,7 @@ members:
   - Matt R.
   - Munroe S.
   - Steven S.
+  - Brandon W.
 division: Pitchers
 ---
 ![](/img/da2-7066.jpg){: width="4953" height="3538"}

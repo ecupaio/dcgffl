@@ -11,6 +11,7 @@ quarterback: Jim C.
 members:
   - Gabriel A.
   - Mya B.
+  - Sam B.
   - Alex E.
   - Benny K.
   - Eddie M.

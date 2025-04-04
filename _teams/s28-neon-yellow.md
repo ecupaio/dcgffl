@@ -14,6 +14,7 @@ members:
   - Chris D.
   - Pete D.
   - Jemar E.
+  - Evan G.
   - Michael G.
   - Marc K.
   - Chad M.

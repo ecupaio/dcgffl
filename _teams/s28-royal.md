@@ -13,6 +13,7 @@ members:
   - Brian C.
   - Matt D.
   - Derrick H.
+  - Ja'Bree H.
   - Josh L.
   - Jack L.
   - Ross L.
