@@ -16,6 +16,7 @@ members:
   - Victoria L.
   - Lauren P.
   - Renee S.
+  - Tia S.
   - Ty S.
   - Britt W.
   - Lindsey W.

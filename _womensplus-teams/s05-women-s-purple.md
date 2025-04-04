@@ -15,6 +15,7 @@ members:
   - Sasha B.
   - Julia C.
   - Ashley H.
+  - Court H.
   - Dinora H.
   - Kathleen H.
   - Kristin H.

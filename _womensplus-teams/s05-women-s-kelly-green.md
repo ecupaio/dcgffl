@@ -18,6 +18,7 @@ members:
   - Mariam M.
   - Mel M.
   - Kat R.
+  - Amy S.
   - Anisa V.
   - Marla W.
   - Ash Y.

@@ -16,6 +16,7 @@ members:
   - Katie M.
   - Eby O.
   - Kaitlin O.
+  - Maya O.
   - Lex P.
   - Ariel S.
   - Julia T.
