@@ -78,12 +78,6 @@ nav:
   - title: Sponsors
     link: /sponsors/
     sublinks: []
-  - title: Events
-    link: /events/
-    sublinks: []
-  - title: News
-    link: /news/
-    sublinks:
   - title: Awards
     link: /awards/
     sublinks: []
@@ -93,22 +87,16 @@ nav-button:
   visible: true
 logo: /img/dcgffl-logo.png
 social:
-  - title: Facebook
-    link: https://www.facebook.com/dcgayflagfootball
-    icon: <i class="fab fa-facebook"></i>
+  - title: Email
+    link: >-
+      https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
+    icon: <i class="fa fa-envelope"></i>
   - title: Instagram
     link: https://www.instagram.com/dcgffl/
     icon: <i class="fab fa-instagram"></i>
   - title: Flickr
     link: https://www.flickr.com/photos/55392288@N03/sets/
     icon: <i class="fab fa-flickr"></i>
-  - title: Email
-    link: >-
-      https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
-    icon: <i class="fa fa-envelope"></i>
-  - title: Twitter
-    link: https://twitter.com/DCGFFL
-    icon: <i class="fab fa-twitter"></i>
   - title: YouTube
     link: https://www.youtube.com/channel/UCyM-7PnEmHUm3kLRTB5cUHw
     icon: <i class="fab fa-youtube"></i>
