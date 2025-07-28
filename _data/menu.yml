@@ -113,7 +113,11 @@ footer:
     link: /past-seasons/
 announcement:
   text: >-
-    [Beach Bowl registration is
-    live!](https://teamarrange.com/organization/dcgffl/session/2213/info "Beach
-    Bowl Registration"){: target="_blank" rel="noopener"}
-  show: false
+    Early Bird Registration for the Fall 2025 season is live! Click here for
+    [Open
+    Division](https://teamarrange.com/organization/dcgffl/session/2243/info
+    "Open Division Registration"){: target="_blank" rel="noopener"} and here for
+    [Women's+
+    Division](https://teamarrange.com/organization/dcgffl/session/2244/info
+    "Women's+ Division"){: target="_blank" rel="noopener"}.
+  show: true
