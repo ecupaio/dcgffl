@@ -26,3 +26,4 @@ Registration for the Fall 2025 season is now open! Here’s what you need to kno
 * When registration opens, you can use the links below to sign up:
   * Open Division: use [this link](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&amp;id=b0ea6de721&amp;e=6f9cd00365){: target="_blank" rel="noopener"}
   * Women’s+ Division: use [this link](https://dcgffl.us16.list-manage.com/track/click?u=44f118b44c71d10ae3076bec3&amp;id=b20b5df23f&amp;e=6f9cd00365){: target="_blank" rel="noopener"}
+  * Forever Family (non-player): use [this link](https://teamarrange.com/organization/dcgffl/session/2248/info){: target="_blank" rel="noopener"}
