@@ -115,11 +115,6 @@ footer:
     link: /past-seasons/
 announcement:
   text: >-
-    Registration is now live for the Fall 2025 Season! Sign up links here: [Open
-    Division](https://teamarrange.com/organization/dcgffl/session/2243/info
-    "Open Division Registration"){: target="_blank" rel="noopener"}, [Women’s+
-    Division](https://teamarrange.com/organization/dcgffl/session/2244/info
-    "Women's+ Division"){: target="_blank" rel="noopener"}, [Forever Family
-    (non-player)](https://teamarrange.com/organization/dcgffl/session/2248/info){:
-    target="_blank" rel="noopener"}
-  show: false
+    See key dates for the Fall 2025 Season
+    [here](https://www.dcgffl.org/fall-2025-key-dates)!
+  show: true
