@@ -5,7 +5,7 @@ permalink: /teams/s29-open-gold
 name: Gold
 color: Gold
 season: 29
-photo: /img/gold-team-s29.jpg
+photo: /img/Gold-team-s29.jpg
 captain: Matt H.
 quarterback: Andy Pratt
 members:
