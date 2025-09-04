@@ -5,7 +5,7 @@ permalink: /teams/s29-open-black
 name: Black
 color: Black
 season: 29
-photo: /img/black-team-s29.jpg
+photo: /img/Black-team-s29.jpg
 captain: Tiger Ricchetti
 quarterback: Mark Hofberg
 members:

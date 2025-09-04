@@ -5,7 +5,7 @@ permalink: /teams/s29-open-iron-gray
 name: Iron Gray
 color: Iron Gray
 season: 29
-photo: /img/iron-gray-team-s29.jpg
+photo: /img/Iron-gray-team-s29.jpg
 captain: Jorge Membreno
 quarterback: Jim Connolly
 members:
