@@ -2,7 +2,7 @@
 _schema: default
 title: S06 Women's+ - Corn
 permalink: /womensplus/teams/s06-women-s-corn/
-name: Corn
+name: Corn Stars 🌽
 color: Corn
 season: 6
 photo: /img/Corn-team-s6-w.jpg

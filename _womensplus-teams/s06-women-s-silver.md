@@ -2,7 +2,7 @@
 _schema: default
 title: S06 Women's+ - Silver
 permalink: /womensplus/teams/s06-women-s-silver/
-name: Silver
+name: Lesbian Alloyance 🥈
 color: Silver
 season: 6
 photo: /img/Silver-team-s6-w.jpg

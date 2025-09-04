@@ -2,7 +2,7 @@
 _schema: default
 title: S06 Women's+ - Light Blue
 permalink: /womensplus/teams/s06-women-s-light-blue/
-name: Light Blue
+name: Icy Hot 🥶🔥
 color: Light Blue
 season: 6
 photo: /img/Light-blue-team-s6-w.jpg

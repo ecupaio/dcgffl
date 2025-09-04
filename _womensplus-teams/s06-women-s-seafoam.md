@@ -2,7 +2,7 @@
 _schema: default
 title: S06 Women's+ - Seafoam
 permalink: /womensplus/teams/s06-women-s-seafoam/
-name: Seafoam
+name: Fomosexuals 👊
 color: Seafoam
 season: 6
 photo: /img/Seafoam-team-s6-w.jpg
