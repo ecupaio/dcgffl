@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'Open Division Season 29 Power Rankings: Preseason'
+title: 'Open Division Season 29 Power Rankings: Pre-season'
 permalink: /power-rankings/season-29-preseason-power-rankings/
 date: 2025-09-04 02:27:46 -0400
 author: >-
