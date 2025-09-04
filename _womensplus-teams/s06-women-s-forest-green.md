@@ -2,7 +2,7 @@
 _schema: default
 title: S06 Women's+ - Forest Green
 permalink: /womensplus/teams/s06-women-s-forest-green/
-name: Forest Green
+name: Grassholes 🌳
 color: Forest Green
 season: 6
 photo: /img/Forest-team-s6-w.jpg

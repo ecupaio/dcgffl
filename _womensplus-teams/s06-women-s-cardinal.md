@@ -2,7 +2,7 @@
 _schema: default
 title: S06 Women's+ - Cardinal
 permalink: /womensplus/teams/s06-women-s-cardinal/
-name: Cardinal
+name: Cardinal Sinners 🙏
 color: Cardinal
 season: 6
 photo: /img/Red-team-s6-w.jpg
