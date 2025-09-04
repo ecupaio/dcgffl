@@ -1,29 +1,66 @@
 ---
 _schema: default
 title: Season 28 - Spring 2025
-permalink: /s27-summary/
+permalink: /s28-summary/
 date: 2025-09-04 01:21:29 -0400
 ---
-#### DCGFFL Season XXVII Championship Game Recap
+#### Season XXVIII - Open Division Champions
 
-Congratulations to [Bump A Little Lime](/teams/s27-lime/) (Lime) on beating [All Tide Up](/teams/s27-coral/) (Coral) and winning the Season XXVII championship trophy!
+Congratulations to the [Apricocks](https://www.dcgffl.org/teams/s28-neon-orange/) (Neon Orange) on beating [White Load-us](https://www.dcgffl.org/teams/s28-white/) (White) and winning the Season XXVIII championship trophy!
 
-![](/img/limewinner-1.jpg){: width="625" height="417"}
+![](/img/open-champions-s29.jpg){: width="2048" height="1366"}
 
-Congratulations to captain, Twon H, and quarterback, AJ Reust, on leading their team to victory! Thank you to ALL our players, refs, and supporters for a fantastic DCGFFL season!
+Shout out to captain, Jens P., and quarterback, Wyatt E., on leading their team to victory!
+
+#### Season V - Women’s+ Division Champions
+
+Congrats to the [DEI Hires](https://www.dcgffl.org/womensplus/teams/s05-women-s-black/) for taking home the Season V Women’s+ Division Championship!
+
+![](/img/womens-champions-s5.jpg){: width="2048" height="1366"}
+
+Shout out to Captain Tiara C. and Quarterback Jaimee S. on leading their team to victory!
+
+Check out the photos from the Final Four and Championship games [here](https://www.flickr.com/photos/55392288@N03/albums/72177720326274957/).
 
 ##### **<u>Award Winners</u>**
 
-&nbsp;
-
 Congratulations to all our Season XXVII award winners for their fantastic seasons and overall contributions to the league:
 
-**<u>League Awards</u>**<br>**DCGFFL Legend Award**: John Riley, John Boyd, Austin Plier
+**<u>League Awards</u>**
 
-**Charlie Salem Award:** Logan Dawson<br>**John Boyd Ally Award**: Ryan Winter<br>**Michael “Snowy” Snowden Jr. Sportsperson Award**: Amanda Livingstone<br>**Golden Whistle**: Andrew Hoyler<br>**Best Boo**: Bradley Miller & Abbie Metz<br>**Best Fan**: Obie McNair<br><br>**<u>Women's+ Division Awards</u>**<br>**Women’s+ Division MVP**: Kori S.<br>**Women’s+ Division Sportsperson**: Mal King<br>**Women’s+ Rookie of the Season**: Labrille M.<br>**Women’s+ Offensive MVP**: Meg Barbieri<br>**Women’s+ Defensive MVP**: Sarah L.<br>**Women’s+ Blocker of the Season**: Judy H.
+* DCGFFL Legends Award: Jordan Anderson, Logan Dawson, Jorge Membreno, Antwon Hines, Linda Pratt
+* John Boyd Ally Award: Brian Carter
+* Women's+ Ally Award: Meg Barbieri
+* Michael “Snowy” Snowden Jr. Sportsperson Award: Kyle Oliver
+* Women's+ Sportsperson Award: Des McCormick
+* Golden Whistle: Kat Rosenthal
+* Best Boo: Aaron Beck & Julia Taladay
+* Best Fan: Marlon Davis
 
-**Women's+ Rusher of the Season**: Dinora H.
+**<u>Women's+ Division Awards</u>**
 
-**Women's+ Ally of the Season**: Dana Kyle
+* Women’s+ Division MVP: Ebay Bailey
+* Women’s+ Rookie of the Season: Lauren Pruitt
+* Women’s+ Offensive MVP: Jaimee Stoner
+* Women’s+ Defensive MVP: Austyn Creighton
+* Women’s+ Blocker of the Season: Ashley Hollander
+* Women’s+ Rusher of the Season: Amanda Dafonte
+* Women's+ Division Runner Up: Gayng Green
+* Women's+ Division Champion: DEI Hires
 
-<br>**<u>Open Division Awards</u>**<br>**Open Division Men’s+ MVP**: Twon H.<br>**Open Division Offensive MVP**: AJ Reust<br>**Open Division Defensive MVP**: Luis Cotto<br>**Open Division Blocker of the Season**: Marvin W.<br>**Open Division Men’s+ Rookie of the Season**: Matt R.<br><br>**<u>Captain's Awards</u>**<br>Benny K., Kevin Smiffy, Ed Abel, Vinny Varvaro, Chris Ashton, Nolan L., Mykal Drosdal, Eddie M., Joel Horton, Scott Graham, JJ J., Aubrie O., Jack M., Kirt S., Lance C., Jordan Mahoney, James Martinez, Andrew Gordon, Shantal W., Elle C., Dana Kyle, Christa W., Lindsey W., Tiara C.<br><br>**<u>Rec. Division Awards</u>**<br>**Rec. Division MVP**: Ricky Huntley<br>**Rec. Division Sportsperson**: Liz Bloom<br>**Rec. Division Runner Up**: Orange Creamsicles<br>**Rec. Division Champion**: Pop That Cherry
+<br>**<u>Open Division Awards</u>**
+
+* Open Division Men’s+ MVP: Aaron Billingsley
+* Open Division Offensive MVP: Jordan Anderson
+* Open Division Defensive MVP: Luis Cotto
+* Open Division Blocker of the Season: Stephen Sonon
+* Open Division Men’s+ Rookie of the Season: Christian A.
+* Open Division Runner Up: White Load-Us
+* Open Division Champion: Apricocks
+
+<br>**<u>Rec. Division Awards</u>**
+
+* Rec Sportsperson: Oaklin Keefe
+* Rec Division Champions: Carolina Blue
+
+&nbsp;
