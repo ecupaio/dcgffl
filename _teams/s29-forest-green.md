@@ -5,7 +5,7 @@ permalink: /teams/s29-open-forest-green
 name: Forest Green
 color: Forest Green
 season: 29
-photo:
+photo: /img/Forest Green.jpg
 captain: Andrew Hoyler
 quarterback: Cam M.
 members:
