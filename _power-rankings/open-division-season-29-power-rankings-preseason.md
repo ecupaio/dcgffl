@@ -4,13 +4,13 @@ title: 'Open Division Season 29 Power Rankings: Preseason'
 permalink: /power-rankings/season-29-preseason-power-rankings/
 date: 2025-09-04 02:27:46 -0400
 author: >-
-  Season 29 is here, and the DCGFFL looks completely different.  A new
+  JC Adams. Season 29 is here, and the DCGFFL looks completely different.  A new
   commissioner has taken the reins, rosters have been chosen, and for the first
   time in years, we will kick off without some of the league’s cornerstone &
   veteran QBs - Cline, Waggoner, Bryan S. & Hotchkiss.  Their absence however
   leaves room for new stars to emerge.  Welcome new QBs Chris D. and Matt R.! 
   Please don’t embarrass yourselves. See below for some PRE-SEASON Power
-  Rankings by JC Adams.
+  Rankings.
 season: 29
 week: 0
 rankings:
