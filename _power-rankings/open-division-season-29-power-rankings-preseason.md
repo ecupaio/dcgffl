@@ -10,7 +10,7 @@ author: >-
   veteran QBs - Cline, Waggoner, Bryan S. & Hotchkiss.  Their absence however
   leaves room for new stars to emerge.  Welcome new QBs Chris D. and Matt R.! 
   Please don’t embarrass yourselves. See below for some PRE-SEASON Power
-  Rankings..
+  Rankings.
 season: 29
 week: 0
 rankings:
