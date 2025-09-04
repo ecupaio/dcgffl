@@ -5,7 +5,7 @@ permalink: /teams/s29-open-white
 name: White
 color: White
 season: 29
-photo: /img/Purple-team-s29.jpg
+photo: /img/White-team-s29.jpg
 captain: Trey Phillips
 quarterback: Andrew Aldrian
 members:
