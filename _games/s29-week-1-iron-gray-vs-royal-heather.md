@@ -5,7 +5,7 @@ teams-score:
   - team: _teams/s29-iron-gray.md
     score: 6
   - team: _teams/s29-royal-heather.md
-    score:
+    score: 35
 location: _locations/carter-baron.md
 field: '1'
 date: 2025-09-07 12:30:00 -0400
