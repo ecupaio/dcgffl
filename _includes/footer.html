@@ -46,7 +46,9 @@
             Thanks for signing up!
           </div>
         </form> -->
+        {% if menu.email_signup.link != '' and menu.email_signup.text != '' %}
         <a class="btn white" href="{{ menu.email_signup.link }}">{{ menu.email_signup.text}}</a>
+        {% endif %}
       </div>
     </div>
   </div>
