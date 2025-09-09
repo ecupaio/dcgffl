@@ -4,7 +4,7 @@ title: S06 Week 1 - Seafoam vs. Cardinal
 week: 1
 season: 6
 date: 2025-09-07 00:00:00 -0400
-mvp: Dana, Alyssa
+mvp: Dana, Cash
 game-ball: Lauren G., Cassie M.
 sportsperson: Kat, Court
 teams-score:
