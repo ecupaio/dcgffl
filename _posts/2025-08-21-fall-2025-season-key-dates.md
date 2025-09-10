@@ -13,24 +13,16 @@ Get out your calendars and make sure you take note of all the key dates for the 
 
 **Important Pre-Season Dates**
 
-* New Player Workshop \#1 - *Open Division and Women's+ Division* - August 21
-  * 7:45 PM
-  * Harry Thomas Recreation Center
+* New Player Workshop \#1 - *Open Division and Women’s+ Division* - August 21
 * New Player Workshop \#2 - *Open Division* - August 23
-  * 11 AM (Open Division new players)
-  * Carter Barron Fields
-* New Player Workshop \#2 - *Women's+ Division* - August 23
-  * 12 PM (Women's+ Division new players)
-  * Carter Barron Fields
-* Player Draft (Captains and QB's only) - August 27
+* New Player Workshop \#2 - *Women’s+ Division* - August 23
+* Player Draft (Captains and QB’s only) - August 27
 * Team Announcement Party - August 28
-  * 7 PM
-  * Pitchers
 
 **Regular Season Dates**
 
 * Week 1 - September 7
-* Supplemental Registration Opens - September 8
+* Rec League/Supplemental Registration Opens - September 10, 7 PM
 * Week 2 - September 14
 * Rec League/Supplemental Registration closes - September 20
 * Supplemental Registration Workshop - September 21
