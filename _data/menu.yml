@@ -113,14 +113,18 @@ footer:
     link: bylaws
   - title: Past Seasons
     link: /past-seasons/
-email_signup: 
+email_signup:
   text: Sign up for our email list
-  link: https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
+  link: >-
+    https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
 announcement:
   text: >-
-    See key dates for the fall season
-    [here](https://www.dcgffl.org/fall-2025-key-dates) -- and click here to
-    [view the full game
+    [Sign up for Friday Rec
+    League](https://teamarrange.com/organization/dcgffl/session/2281/info){:
+    target="_blank" rel="noopener"} • [Sign up for Sunday Open Division via
+    Supplemental
+    Registration](https://teamarrange.com/organization/dcgffl/session/2243/info){:
+    target="_blank" rel="noopener"} • [View the full Sunday game
     schedule](https://drive.google.com/file/d/1iNR_ngnPf7pF5sIbG1L7JO7ePTnZbKYb/view?usp=sharing){:
-    target="_blank" rel="noopener"}!
+    target="_blank" rel="noopener"}
   show: true
