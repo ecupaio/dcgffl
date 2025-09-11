@@ -50,25 +50,25 @@ rankings:
       a truly lit performance on the field. Brava, queers!
 
 
-      &nbsp;
+      ![](/img/navy-heather-1.gif){: width="480" height="268"}&nbsp;
   - team: _teams/s29-kelly-green.md
     record: 1-0
     text: >-
-      Rookie QB Matt Ramsey actually knows what he's doing, which is annoying
+      Rookie QB Matt Ramsey actually knows what he’s doing, which is annoying
       for the rest of us. Beating Purple by one point still counts, babes.
 
 
       Ramsey led his team to victory against a preseason Top 3 team (wrong
       again, f\*cker!) in a highly-anticipated and closely-watched game. The win
       matters more than the margin in this case. And we may be getting hustled -
-      per a source: "Turns out he played QB in high school in Iowa - a fact
-      maybe some people knew but that I think many did not."
+      per a source: “Turns out he played QB in high school in Iowa - a fact
+      maybe some people knew but that I think many did not.”
 
 
       Factual? Who knows! Interesting tea? Not really! Moving on? Sure!
 
 
-      &nbsp;
+      &nbsp;![](/img/kelly-2.gif){: width="600" height="600"}
   - team: _teams/s29-light-blue.md
     record: 1-0
     text: >-
@@ -78,7 +78,7 @@ rankings:
       dangerous one.
 
 
-      &nbsp;
+      &nbsp;![](/img/5-light-blue-1.gif){: width="480" height="360"}
   - team: _teams/s29-neon-pink.md
     record: 1-0
     text: >-

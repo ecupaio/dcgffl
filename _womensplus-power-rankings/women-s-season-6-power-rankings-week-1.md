@@ -60,7 +60,7 @@ rankings:
     record: 1-0
     text: >-
       I’m not saying I have a problem with democracy, but I will say that this
-      writer was outvoted to put this team at 4. If we were ranking defenses
+      writer was outvoted to put this team at 3. If we were ranking defenses
       alone, Silver came out the clear winner as the only side of the ball to
       actually score, which we are sure is a Womens+ first. Despite the
       offense’s best efforts fighting for about 60 yards the whole game, this
@@ -76,13 +76,22 @@ rankings:
   - team: _womensplus-teams/s06-women-s-corn.md
     record: 0-1
     text: >-
-      If you were on the sidelines, you would’ve assumed that Meg L. Was sacked
+      The Corn Stars rolled into Battle Royale with one of the league’s only
+      returning QBs and a roster built to win—but still fell just one touchdown
+      short.
+
+
+      If you were on the sidelines, you would’ve assumed that Meg L. was sacked
       approximately 30 times, but the children of the corn may be more bark than
-      bite. New captain Lefler kept it calm, even as the game started to slip
-      away. They were missing some key players, but there’s no reason that this
-      team is not at least number 2. There is nothing that lights a fire under
-      this team’s QB more than trending down in the rankings, let’s hope she
-      starts winning in both w+ and open, before there is a corn-rising.
+      bite. New captain Lefler kept it steady as the game slipped away, and
+      missing key players didn’t help. But make no mistake: the Corn Stars are
+      still a team to beat, and there’s no reason they shouldn’t be sitting near
+      the top of the rankings.
+
+
+      One thing’s certain: nothing lights a fire under Lynch more than a
+      downward trend in the rankings. Corn may have missed their money shot this
+      week, but you know they won’t stay camera-shy for long.
 
 
       ![](/img/4-corn.webp){: width="500" height="281"}
