@@ -15,7 +15,7 @@ members:
   - Eli Aguayo
   - Eric Brunton
   - Everett Walker
-  - John Cerda
+  - John C.
   - Kirt Smith
   - Michael Armesto
   - TJ Baggett
