@@ -114,12 +114,6 @@ rankings:
       can certainly expect this to be a game where sparks fly.
 
 
-      Luckily for Red, there’s plenty of season left and plenty of chances for
-      redemption—starting with next week’s matchup against Corn. Hopefully, the
-      Sinners can rise to the task and keep the Children of the Corn from
-      harvesting all the glory for themselves.
-
-
       ![](/img/t8x2iwvdu4pzbrxf3x.webp){: width="320" height="180"}
   - team: _womensplus-teams/s06-women-s-silver.md
     record: 1-1
