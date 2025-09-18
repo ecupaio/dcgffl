@@ -4,23 +4,23 @@ title: Open Division Season 29 Power Rankings - Week 2
 permalink: /power-rankings/season-29-week-2-power-rankings/
 date: 2025-09-18 15:17:00 -0400
 author: >-
-  Pete D. and Jay I.  Intro: 2 weeks in, and the League rankings are giving
-  instability, chaos, and drama — we’re serving 3 body problem realness, honey! 
-  Some 8 teams walked off the fields with a different result from last week,
-  leaving 4 teams at 2-0 and 4 teams at 0-2.  I guess that makes it an ordered
-  chaos? I don’t know, there’s probably someone in this league who’s a closet
-  physicist, but it’s not us.  Truth be told, we’re just glad to see some
-  versatility so far this season, which truly is the spice of life.   On an
-  entirely different note from that, last week’s author has challenged us PR
-  drafters to bring our best journalistic game without robot-assisted writeups. 
-  I guess he was trying to set the example by using his own team’s writeup to
-  whinge about … checks notes … the hardworking photographers of this league not
-  taking enough pictures of him?  If the goal was to prove that his writeups
-  were his own, then goal achieved: that one is absolutely the product of an
-  all-too-human psyche. Of course, we join in and affirm his pledge though –
-  everything that you’ll read next is the product of our own zany minds.  You’re
-  welcome.  OK, now that the pens are sharpened, let’s dig into just who the
-  tops, bottoms, vers kings and chaotic queens of the week are! 
+  Pete D. and Jay I. 2 weeks in, and the League rankings are giving instability,
+  chaos, and drama — we’re serving 3 body problem realness, honey!  Some 8 teams
+  walked off the fields with a different result from last week, leaving 4 teams
+  at 2-0 and 4 teams at 0-2.  I guess that makes it an ordered chaos? I don’t
+  know, there’s probably someone in this league who’s a closet physicist, but
+  it’s not us.  Truth be told, we’re just glad to see some versatility so far
+  this season, which truly is the spice of life.   On an entirely different note
+  from that, last week’s author has challenged us PR drafters to bring our best
+  journalistic game without robot-assisted writeups.  I guess he was trying to
+  set the example by using his own team’s writeup to whinge about … checks notes
+  … the hardworking photographers of this league not taking enough pictures of
+  him?  If the goal was to prove that his writeups were his own, then goal
+  achieved: that one is absolutely the product of an all-too-human psyche. Of
+  course, we join in and affirm his pledge though – everything that you’ll read
+  next is the product of our own zany minds.  You’re welcome.  OK, now that the
+  pens are sharpened, let’s dig into just who the tops, bottoms, vers kings and
+  chaotic queens of the week are! 
 season: 29
 week: 2
 rankings:
@@ -138,6 +138,12 @@ rankings:
 
 
       &nbsp;![](/img/navy-h-1.webp){: width="480" height="480"}
+
+
+      Oh, and my biggest regret in my team’s loss is that League Mom Margie H.
+      had to see it in her new role as Shadow Ref (and looking stunning in the
+      zebra print!). I have dishonored you, Mother, and I will now be committing
+      seppuku.
   - team: _teams/s29-black.md
     record: 1-1
     text: >-
