@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Purple
 permalink: /teams/s29-open-purple
-name: Purple
+name: Plump n Dump
 color: Purple
 season: 29
 photo: /img/Purple-team-s29.jpg

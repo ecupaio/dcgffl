@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Royal Heather
 permalink: /teams/s29-open-royal-heather
-name: Royal Heather
+name: Your Royal Hungness
 color: Royal Heather
 season: 29
 photo: /img/Royal-team-s29.jpg

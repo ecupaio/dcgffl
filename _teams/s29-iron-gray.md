@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Iron Gray
 permalink: /teams/s29-open-iron-gray
-name: Iron Gray
+name: Gay Gray RP
 color: Iron Gray
 season: 29
 photo: /img/Iron-gray-team-s29.jpg

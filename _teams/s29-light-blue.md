@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Light Blue
 permalink: /teams/s29-open-light-blue
-name: Light Blue
+name: JetBlue Holiday
 color: Light Blue
 season: 29
 photo: /img/Light-blue-team-s29.jpg

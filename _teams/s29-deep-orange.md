@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Deep Orange
 permalink: /teams/s29-open-orange
-name: Deep Orange
+name: Jock-O'-Lanterns
 color: Deep Orange
 season: 29
 photo: /img/Orange-team-s29.jpg

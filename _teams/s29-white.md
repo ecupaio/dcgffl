@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - White
 permalink: /teams/s29-open-white
-name: White
+name: Jacks Off All Trade
 color: White
 season: 29
 photo: /img/White-team-s29.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Navy Heather
 permalink: /teams/s29-open-navy-heather
-name: Navy Heather
+name: Petty Officers
 color: Navy Heather
 season: 29
 photo: /img/Navy-team-s29.jpg

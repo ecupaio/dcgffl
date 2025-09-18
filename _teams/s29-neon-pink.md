@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Neon Pink
 permalink: /teams/s29-open-neon-pink
-name: Neon Pink
+name: Pinky Swear
 color: Neon Pink
 season: 29
 photo: /img/Pink-team-s29.jpg

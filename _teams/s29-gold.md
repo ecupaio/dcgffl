@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Gold
 permalink: /teams/s29-open-gold
-name: Gold
+name: 24K Demon Twink Hunters
 color: Gold
 season: 29
 photo: /img/Gold-team-s29.jpg

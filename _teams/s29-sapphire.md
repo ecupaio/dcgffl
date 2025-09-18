@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Sapphire
 permalink: /teams/s29-open-sapphire
-name: Sapphire
+name: Blewchie Coochie
 color: Sapphire
 season: 29
 photo: /img/Sapphire-team-s29.jpg

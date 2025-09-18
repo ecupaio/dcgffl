@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Cardinal
 permalink: /teams/s29-open-cardinal
-name: Cardinal
+name: Juan Burgundy
 color: Cardinal
 season: 29
 photo: /img/Cardinal-team-s29.jpg

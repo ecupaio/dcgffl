@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Forest Green
 permalink: /teams/s29-open-forest-green
-name: Forest Green
+name: The Froggy Bottoms
 color: Forest Green
 season: 29
 photo: /img/forest-green-team-s29.jpg

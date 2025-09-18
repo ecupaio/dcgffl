@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Kelly Green
 permalink: /teams/s29-open-kelly-green
-name: Kelly Green
+name: Collared Queens
 color: Kelly Green
 season: 29
 photo: /img/Kelly-team-s29.jpg

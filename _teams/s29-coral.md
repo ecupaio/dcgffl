@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Coral
 permalink: /teams/s29-open-coral
-name: Coral
+name: Under the D
 color: Coral
 season: 29
 photo: /img/Coral-team-s29.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Black
 permalink: /teams/s29-open-black
-name: Black
+name: Baddy Issues
 color: Black
 season: 29
 photo: /img/Black-team-s29.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S29 - Seafoam
 permalink: /teams/s29-open-seafoam
-name: Seafoam
+name: New Foam, Who Dis?
 color: Seafoam
 season: 29
 photo: /img/Seafoam-team-s29.jpg
