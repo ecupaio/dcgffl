@@ -18,18 +18,24 @@ author: >-
   Chappell Roan was buried on the Coachella lineup a couple years ago and
   quickly rose to superstardom, playing to the largest crowd at Lollapolooza
   just two months later and headlining just about every festival she has stepped
-  foot in since then! Here’s your DCGFFLpalooza:
+  foot in since then!
 season: 29
 week: 3
 rankings:
   - team: _teams/s29-light-blue.md
     record: 3-0
     text: >-
-      This team has it all! A solid roster from top to bottom. The resume to
-      show for it. A TikTok hit that supports their billing as our headliner.
-      They handled Royal Blue with ease, allowing just one score all afternoon.
-      They’re at the top of this poster, but do they have the stamina to keep it
-      up through the fall?
+      Here’s your DCGFFLpalooza poster:
+
+
+      ![](/img/image1.png){: width="1016" height="1017"}
+
+
+      This Light Blue team has it all! A solid roster from top to bottom. The
+      resume to show for it. A TikTok hit that supports their billing as our
+      headliner. They handled Royal Blue with ease, allowing just one score all
+      afternoon. They’re at the top of this poster, but do they have the stamina
+      to keep it up through the fall?
   - team: _teams/s29-neon-pink.md
     record: 3-0
     text: >-
