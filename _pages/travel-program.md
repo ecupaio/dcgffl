@@ -39,20 +39,22 @@ resources:
 ---
 ### About the Travel Program
 
-The DCGFFL’s wealth of talent comes together annually to represent DC at two national tournaments — Pride Bowl (Chicago, early June) and Gay Bowl (annually rotating city, early fall). Women's+ also compete in the Philly Special (Philadelphia, may)
+The DCGFFL’s wealth of talent comes together annually to represent DC at two national tournaments — Pride Bowl (Chicago, early June) and Gay Bowl (annually rotating city, early fall).
 
 The Travel Program is managed by the Travel Management Committee (TMC) with oversight by the DCGFFL Board. The TMC is made up of one representatives from each active team, an independent administrator, and a liaison to the DCGFFL Board. Team representatives are chosen annually by the teams after the teams have been drafted, and the independent member is selected by a popular vote by anyone that registered for the current Travel season.
 
-The 2023 Travel Committee is represented by the captains:
+The 2025 Travel Committee is represented by the captains:
 
-* Women's+ Senators Black - Lindsey W.
-* Women's+ Senators Red - Jillian Joyce
-* DC Elite - Open Division A - Jordan A.
-* DC Admirals - Open Division A - Bryan Sanders
-* DC Commanders - Open Divison B - Trey P.
-* DC Delta Force - &nbsp;Open Division C - Jorge Membreño
+* Women’s+ Division A - Senators - Joey Cox
+* Women’s+ Division B - Valkyries - Jillian Joyce
+* Women’s+ Division C - Sirens - Tiff Yim
+* Open Division A - Elite - Jordan Anderson
+* Open Division A - Admirals - Alonzo M.
+* Open Division B - Commanders - Trey Phillips
+* Open Division C - Delta Force -  Jorge Membreño
+* Open Division C/D - DC Freaky Boyz - Michael Zgoda
 
-TMC Chair: Brandon Waggoner<br>Independent (“unaffiliated”) member: Scott Graham<br>independent (“unaffiliated”) member: Ken Green<br>DCGFFL Board liaison: Shaq Brooks
+TMC Chair: Vincent Culliver<br>DCGFFL Board liaison: Brian Hotchkiss
 
 Any questions on the travel program can be directed to the TMC at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
 
