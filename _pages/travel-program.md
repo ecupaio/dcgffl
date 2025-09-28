@@ -23,11 +23,7 @@ hero:
     link: ''
     visible: false
   images:
-    - /img/tp-senators.jpeg
-    - /img/tp-admirals.jpeg
-    - /img/tp-commanders.jpeg
-    - /img/tp-deltaforce.jpeg
-    - /img/tp-generals.jpeg
+    - /img/54121354512-4d92ba7448-k.jpg
 resources:
   title: Additional Resources
   items:
