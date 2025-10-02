@@ -37,8 +37,8 @@ rankings:
       September?
 
 
-      Good luck to Mike B., Jordan A., Brandon K., Cedric R., and Ryan W. of
-      Light Blue this weekend at Gay Bowl!
+      Good luck to Kristin L., Mike B., Jordan A., Brandon K., Cedric R., and
+      Ryan W. of Light Blue this weekend at Gay Bowl!
   - team: _teams/s29-purple.md
     record: 3-1
     text: >-
