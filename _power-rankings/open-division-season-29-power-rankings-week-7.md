@@ -4,16 +4,11 @@ title: Open Division Season 29 Power Rankings - Week 7
 permalink: /power-rankings/season-29-week-7-power-rankings/
 date: 2025-10-31 16:06:07 -0400
 author: >-
-  Tiger. The nice weather must have put everyone in a good mood because, man,
-  y’all were drama-free this weekend! Where’s the on-field blow ups? Where’s
-  everyone on Delta Force reminding all the players on the Commanders how they
-  beat them after every play? Where will a silicone breast fall during the
-  Midseason drag show this weekend?  We, the power-ranking committee, may be
-  disappointed in the distinct lack of pot stirring we can do as a result but
-  we’re coming down to the last few weeks where you’ll have a chance to redeem
-  yourselves.  “Make it work” – Tim Gunn.  Question of the week: Since,
-  apparently, everyone is feeling so nice…Who is your pick for most underrated
-  player in the league? 
+  Andrew G. Something must have been in the water–or the vodka sodas–at Trade on
+  Saturday afternoon, as several players called in sick for their games on
+  Sunday morning. League leading teams were dropping left and right. Players
+  were asking to stop the count on the drag contest for the second season in a
+  row. Chaos ensued. Let’s dive in. 
 season: 29
 week: 7
 rankings:
