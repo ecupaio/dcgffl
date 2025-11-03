@@ -1,0 +1,17 @@
+---
+_schema: default
+title: S29 Week 8 Cardinal vs. Seafoam
+teams-score:
+  - team: _teams/s29-cardinal.md
+    score: 40
+  - team: _teams/s29-seafoam.md
+    score: 28
+location: _locations/carter-baron.md
+field: ''
+date: 2025-11-02 12:30:00 -0500
+season: 29
+week: 8
+mvp:
+game-ball:
+sportsperson:
+---
