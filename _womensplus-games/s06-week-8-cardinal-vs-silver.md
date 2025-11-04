@@ -10,7 +10,7 @@ sportsperson:
 teams-score:
   - team: _womensplus-teams/s06-women-s-cardinal.md
     score: 18
-  - team: _womensplus-teams/s06-women-s-corn.md
+  - team: _womensplus-teams/s06-women-s-silver.md
     score: 12
 location: ''
 field:
