@@ -4,7 +4,7 @@ title: Women's+ Season 6 Power Rankings Week 7
 permalink: /power-rankings/womensplus-season-6-power-rankings-week-7
 date: 2025-11-03 21:05:21 -0500
 author: >-
-  The Anonymous Duo 👯‍♀️ and Pass Rush Barbie    If you caught a whiff of
+  The Anonymous Duo 👯‍♀️ and Pass Rush Barbie.  If you caught a whiff of
   something in the air last Sunday, no, it wasn’t your gloves. It was the
   unmistakable scent of playoffs creeping closer — which apparently reeks of
   Tiger Balm, sports wrap, bruised egos, and…Fireball. And with everyone surely
