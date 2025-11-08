@@ -103,7 +103,7 @@ rankings:
       favorite blockers (aka Sinner Captain extraordinaire, Jayme). And while
       that was certainly one of the more memorable defensive plays of the game,
       their offense moved with purpose and clean connections to Miriam S. and Q
-      kept the top seed in it until the final whistle.
+      kept them in it until the final whistle.
 
 
       The record might not show it, but this team’s grit and talent make them a
