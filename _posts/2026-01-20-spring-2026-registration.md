@@ -12,7 +12,7 @@ Registration for the Spring 2026 season opens on Monday, January 26th for return
 **Are you a new player?**
 
 * Create your profile on Team Arrange using [this link](https://teamarrange.com/Account/Register?code=dcgffl){: target="_blank" rel="noopener"}, and enter code “DCGFFL” if prompted. Then wait for Tuesday, January 27th when registration opens for everyone!
-* Make sure you register for one of the New Player Workshops—any player who has not played in the DCGFFL before must complete a New Player Workshop to learn the rules of the game and get to meet the team leaders who you will play with!
+* Make sure you attend one of the New Player Workshops. Any player who has not played in the DCGFFL before must complete a New Player Workshop to learn the rules of the game and get to meet the team leaders who you will play with!
 * If you are unable to make the scheduled New Player Workshops on February 8th or 9th, please email the League at [dcgayflagfootball@gmail.com](mailto:dcgayflagfootball@gmail.com){: target="_blank" rel="noopener"}.
 
 **How much does it cost?**
