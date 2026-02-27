@@ -198,6 +198,9 @@ rankings:
       some fresh energy to this team. This is another team I foresee struggling
       on the defensive end and will need to score a lot of points or manage time
       of possession to stay in games.
+
+
+      ![](/img/cobalt.webp){: width="500" height="280"}
   - team: _teams/s30-cobalt.md
     record: ''
     text: >-
@@ -205,7 +208,7 @@ rankings:
       have our beloved Ref Director and avid rule follower Andrew H, and on the
       other, we have every ref’s most “creative” critic in Daniel H. I can’t
       wait to see how this shakes out. Lorddd I do not want to be a referee for
-      any of this team's games. Imagine being yelled at AND being calmly
+      any of this team’s games. Imagine being yelled at AND being calmly
       corrected on the rules at the same time. I think I speak collectively for
       all refs that we should be paid double for these games to account for
       emotional damages. All jokes aside - this team is very well rounded,
@@ -215,7 +218,7 @@ rankings:
       playoffs.
 
 
-      ![](/img/cobalt.webp){: width="500" height="280"}
+      ![](/img/steve.webp){: width="494" height="277"}
 
 
       &nbsp;
