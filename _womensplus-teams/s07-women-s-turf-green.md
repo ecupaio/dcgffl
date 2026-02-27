@@ -1,11 +1,11 @@
 ---
 _schema: default
-title: 'S07 Women''s+ - '
-permalink: /womensplus/teams/s07-black/
-name: Black
-color: Black
+title: S07 Women's+ - Turf Green
+permalink: /womensplus/teams/s07-turf-green/
+name: Turf Green
+color: Turf Green
 season: 7
-photo: /_womensplus-teams/s07-womens-black.jpg
+photo: /_womensplus-teams/s07-womens-turf.jpg
 captain:
 quarterback:
 members:
