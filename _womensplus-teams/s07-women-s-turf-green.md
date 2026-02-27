@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: S07 Women's+ - Black
+title: 'S07 Women''s+ - '
 permalink: /womensplus/teams/s07-black/
 name: Black
 color: Black
