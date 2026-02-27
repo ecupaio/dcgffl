@@ -265,7 +265,7 @@ rankings:
   - team: ''
     record: ''
     text: >-
-      # **16\. Our DCGFFL Forever Family**
+      ### **Our DCGFFL Forever Family**
 
 
       &nbsp;
@@ -276,16 +276,18 @@ rankings:
       this season…) has now played in 8 seasons, has had two final 4 appearances
       and has even opened his home to amateur drag queens at mid season drag
       shows. His favorite drink is a Mezcal Margarita and you may see him
-      sipping one on the fields this season. The DCGFFL Open Division’s one and
-      ONLY forever family member this season - coming in at 16 in the power
-      rankings is ALEX ENGLESBE.
+      sipping one on the fields this season.
+
+
+      The DCGFFL Open Division’s one and ONLY forever family member this season
+      - coming in at 16 in the power rankings is ALEX ENGLESBE.
 
 
       ![](/img/16-forever-family.webp){: width="480" height="400"}
   - team: ''
     record: ''
     text: >-
-      # **17\. A Taco Bell taco.**
+      ### **A Taco Bell taco**
 
 
       I just know many of yall will have a HEAVY attendance here this season
