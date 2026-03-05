@@ -2,7 +2,7 @@
 _schema: default
 title: S07 Women's+ - Purple Heather
 permalink: /womensplus/teams/s07-purple-heather/
-name: Purple Heather
+name: Purple Reign
 color: Purple Heather
 season: 7
 photo: /_womensplus-teams/s07-womens-purple.jpg

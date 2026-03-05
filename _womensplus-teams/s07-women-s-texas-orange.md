@@ -2,7 +2,7 @@
 _schema: default
 title: S07 Women's+ - Texas Orange
 permalink: /womensplus/teams/s07-texas-orange/
-name: Texas Orange
+name: Orange is the New Sack
 color: Texas Orange
 season: 7
 photo: /_womensplus-teams/s07-womens-texas.jpg

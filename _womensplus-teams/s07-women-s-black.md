@@ -2,7 +2,7 @@
 _schema: default
 title: S07 Women's+ - Black
 permalink: /womensplus/teams/s07-black/
-name: Black
+name: Grim ReapHers
 color: Black
 season: 7
 photo: /_womensplus-teams/s07-womens-black.jpg

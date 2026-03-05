@@ -2,7 +2,7 @@
 _schema: default
 title: S07 Women's+ - Vegas Gold
 permalink: /womensplus/teams/s07-vegas-gold/
-name: Vegas Gold
+name: Gold Stars
 color: Vegas Gold
 season: 7
 photo: /_womensplus-teams/s07-womens-vegas.jpg

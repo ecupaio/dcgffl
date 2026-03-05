@@ -2,7 +2,7 @@
 _schema: default
 title: S07 Women's+ - Smoke Grey
 permalink: /womensplus/teams/s07-smoke-grey/
-name: Smoke Grey
+name: Smoke Shows
 color: Smoke Grey
 season: 7
 photo: /_womensplus-teams/s07-womens-smoke.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S07 Women's+ - Scarlet Heather
 permalink: /womensplus/teams/s07-scarlett/
-name: Scarlet Heather
+name: Red Flags
 color: Scarlet Heather
 season: 7
 photo: /_womensplus-teams/s07-womens-scarlett.jpg
