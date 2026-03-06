@@ -4,8 +4,8 @@ title: 'Women''s+ Season 7 Power Rankings: Week 1'
 permalink: /power-rankings/womensplus-season-7-week-1
 date: 2026-03-05 16:07:27 -0500
 author: >-
-  By: Pass Rush Barbie 💄and Pass Rush Papi 🦖  Week One did exactly what it
-  always does… It reminded us all that preseason predictions are just that —
+  Pass Rush Barbie 💄and Pass Rush Papi 🦖  Week One did exactly what it always
+  does… It reminded us all that preseason predictions are just that —
   predictions. But let’s be honest, even Miss Cleo and her psychic hotline
   couldn’t have predicted these games.  Last Sunday’s games showed that no
   roster is immune to the start-of-season growing pains, especially as the vets
