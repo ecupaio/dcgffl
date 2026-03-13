@@ -78,6 +78,9 @@ rankings:
       defense is playing their part too with Aras chipping in 3 sacks. The two
       wins have been close, though. We’re in wait and see/recon mode with Teal
       Team Dix.
+
+
+      ![](/img/img-3284.gif){: width="272" height="200"}
   - team: _teams/s30-navy.md
     record: 1-1
     text: >-
@@ -232,13 +235,14 @@ rankings:
   - team: _teams/s30-kelly-green.md
     record: 0-2
     text: >-
-      Coral is looking Loxed but not yet Loaded after an 0-2 start. Despite
-      strong performances from Chad M., Art H., rookie Kevin D., and Aaron B.,
-      this team hasn’t been able to put together a victory. At least they
-      avoided getting creamed this week in a one-point loss. But better days
-      appear to be ahead. Let the record state that at least one member of the
-      committee doesn’t care how cute Zach M is, he’s still going to lose to
-      Coral’s rapidly improving defense next week.
+      It’s always nice to have options in football. Sometimes the player you
+      want to have the ball may be covered or - worse - missing the game
+      entirely, so you need a backup plan. But when you run an option play over
+      and over with your 50-something QB who has, shall we say…lost a step or
+      two, I’m not really sure what you could expect to happen. With multiple
+      interceptions by the opposing team, it was definitely a defanged Kelly
+      offense. But there’s hope as rumor has it Kevin H will come back to the
+      fields this week to give this team a boost!
 
 
       ![](/img/running.gif){: width="640" height="640"}
