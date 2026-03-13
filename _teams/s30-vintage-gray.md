@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Vintage Gray
 permalink: /teams/s30-vintage-gray
-name: Vintage Gray
+name: Pray the Gray Away
 color: Vintage Gray
 season: 30
 photo: /_teams/s30-vintage.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Blue Wake
 permalink: /teams/s30-blue-wake
-name: Blue Wake
+name: Blue Wake and Bakes
 color: Blue Wake
 season: 30
 photo: /_teams/s30-wake.jpg

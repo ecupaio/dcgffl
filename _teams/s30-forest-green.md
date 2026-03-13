@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Forest Green
 permalink: /teams/s30-forest-green
-name: Forest Green
+name: Deep Woods Daddies
 color: Forest Green
 season: 30
 photo: /_teams/s30-forest.jpg

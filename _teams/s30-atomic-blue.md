@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Atomic Blue
 permalink: /teams/s30-atomic-blue
-name: Atomic Blue
+name: Atomic Bombshells
 color: Atomic Blue
 season: 30
 photo: /_teams/s30-atomic.jpg

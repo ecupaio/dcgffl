@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - White
 permalink: /teams/s30-white
-name: White
+name: Plain White Tease
 color: White
 season: 30
 photo: /_teams/s30-white.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Gold
 permalink: /teams/s30-gold
-name: Gold
+name: Pyrite's Booty
 color: Gold
 season: 30
 photo: /_teams/s30-gold.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Maroon
 permalink: /teams/s30-maroon
-name: Maroon
+name: Peen-Oh Noir
 color: Maroon
 season: 30
 photo: /_teams/s30-maroon.jpg

@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Coral
 permalink: /teams/s30-coral
-name: Coral
+name: Lox and Loaded
 color: Coral
 season: 30
 photo: /_teams/s30-coral.jpg

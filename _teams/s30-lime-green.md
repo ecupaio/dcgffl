@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Lime Green
 permalink: /teams/s30-lime-green
-name: Lime Green
+name: Chartreusive Thots
 color: Lime Green
 season: 30
 photo: /_teams/s30-lime.jpg

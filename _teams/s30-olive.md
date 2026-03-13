@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Olive
 permalink: /teams/s30-olive
-name: Olive
+name: Haus of Martini
 color: Olive
 season: 30
 photo: /_teams/s30-olive.jpg

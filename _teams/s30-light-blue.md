@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Light Blue
 permalink: /teams/s30-light-blue
-name: Light Blue
+name: BluPaul's Drag Race
 color: Light Blue
 season: 30
 photo: /_teams/s30-light.jpg

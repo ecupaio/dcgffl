@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Navy
 permalink: /teams/s30-navy
-name: Navy
+name: Joint Chiefs of Shaft
 color: Navy
 season: 30
 photo: /_teams/s30-navy.jpg

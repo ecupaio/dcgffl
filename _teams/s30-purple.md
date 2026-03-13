@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Purple
 permalink: /teams/s30-purple
-name: Purple
+name: Indigooners
 color: Purple
 season: 30
 photo: /_teams/s30-purple.jpg

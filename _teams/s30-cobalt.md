@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Cobalt
 permalink: /teams/s30-cobalt
-name: Cobalt
+name: Kobalt Power Drillers
 color: Cobalt
 season: 30
 photo: /_teams/s30-cobalt.jpg

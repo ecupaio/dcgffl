@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Seafoam
 permalink: /teams/s30-seafoam
-name: Seafoam
+name: Teal Team Dix
 color: Seafoam
 season: 30
 photo: /_teams/s30-seafoam.jpg
