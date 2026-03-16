@@ -2,7 +2,7 @@
 _schema: default
 title: S30 - Kelly Green
 permalink: /teams/s30-kelly-green
-name: Fist Me, I'm Irish ☘️ 🇮🇪
+name: Kelly Green
 color: Kelly Green
 season: 30
 photo: /_teams/s30-kelly.jpg
