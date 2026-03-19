@@ -74,7 +74,7 @@ rankings:
       britches.
 
 
-      <br>
+      <br>![](/img/giphy-25.gif)
   - team: _teams/s30-olive.md
     record: 2-1
     text: >-
@@ -125,7 +125,7 @@ rankings:
       games. It’s giving Walter Reed.
 
 
-      <br>
+      <br>![](/img/giphy-1-3.gif)
   - team: _teams/s30-gold.md
     record: 2-1
     text: >-
