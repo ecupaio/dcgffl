@@ -221,9 +221,6 @@ rankings:
       S—which brought some much-needed excitement to their sideline.
 
 
-      &nbsp;
-
-
       Now, with help finally arriving, they’ll get their chance to prove it
       matters when they once again take on an even more fortified Tropic Blue.
       Luckily for them (if you can even call it “luck”), the ReapHers got the
@@ -233,22 +230,13 @@ rankings:
       games.
 
 
-      &nbsp;
-
-
       But as we’ve learned, effort isn’t the only thing that gets rewarded
       around here, and the rules seem to bend when you make enough of a stink to
       the right people… so since “Mom” and “Dad” gave you what you wanted, you
       better make it count.
 
 
-      &nbsp;
-
-
       And best believe we’ll be watching. 👀
-
-
-      &nbsp;
 
 
       ![](/img/ru-paul-good-luck.gif)
