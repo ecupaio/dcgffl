@@ -217,10 +217,10 @@ rankings:
     text: >-
       Oh the lights were ON but nobody was home. Zero. Goose egg. Not a single
       point. The Kobalt Power Drillers clearly forgot to charge overnight.
-      Chantis and James E. said “fine, I’ll do it myself” with an INT each, but
-      defense alone can’t save a sinking ship, darling. At this point? Book the
-      Southwest flight. Order the mimosa. This performance screamed: “I’m
-      mentally at brunch.”
+      Chantis and a certain star rookie said “fine, I’ll do it myself” with an
+      INT each, but defense alone can’t save a sinking ship, darling. At this
+      point? Book the Southwest flight. Order the mimosa. This performance
+      screamed: “I’m mentally at brunch.”
 
 
       ![](/img/hungover.gif)
