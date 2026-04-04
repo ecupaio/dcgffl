@@ -6,10 +6,21 @@ name: Super Soakers
 color: Tropic Blue
 season: 7
 photo: /_womensplus-teams/s07-womens-tropic.jpg
-captain:
-quarterback:
+captain: Jayme Fugelsten
+quarterback: Ash Youngwirth
 members:
-  -
+  - Amanda Dafonte
+  - Ash Kalinda
+  - Breanna Markenson-Bussel
+  - Breanna Strand
+  - Emily Lefler
+  - Jackie Finocchio
+  - Kaye Broomhall
+  - Kori Saunders
+  - Meghann T
+  - Olivia Froehlich
+  - Peyton Pedrozo
+  - Sam Coceano
 division: Women's+
 ---
 ![](/img/da2-7095.jpg){: width="4899" height="3499"}
