@@ -124,7 +124,7 @@ rankings:
 
       ![](/img/giphy-22-1.gif){: width="480" height="256"}
   - team: _teams/s30-kelly-green.md
-    record: 2-3
+    record: 3-3
     text: >-
       Dominant performances from Chad H and Mike O (four sacks!) lead the team
       with the name we can’t print back to .500, schmearing Loxxed and Loaded.
@@ -258,5 +258,5 @@ rankings:
       those inner saboteurs, give us a Rudemption to root for!
 
 
-      ![](/img/giphy-29-1.gif){: width="480" height="318"}
+      ![](/img/qzgl0ntkkoedupuuip.webp){: width="480" height="270"}
 ---
