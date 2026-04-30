@@ -177,12 +177,6 @@ rankings:
 
 
       ![](/img/football-funny.gif){: width="640" height="640"}
-
-
-      &nbsp;
-
-
-      ![](/img/i-m-done-cut-the-show.gif)
   - team: _teams/s30-cobalt.md
     record: 3-5
     text: >-
@@ -218,9 +212,6 @@ rankings:
       With that rousing speech, the bakers sprung into action – no sleep, bus,
       touchdown Jordan, another touchdown Brandon R., another touchdown Patrick
       P, punt, next play, bully the kid still waiting for his growth spurt.
-
-
-      &nbsp;
 
 
       The real secret behind the team’s success? Alternate uniforms that
