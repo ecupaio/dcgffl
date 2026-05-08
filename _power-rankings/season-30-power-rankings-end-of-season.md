@@ -189,7 +189,7 @@ rankings:
 
       ![](/img/giphy-36.gif){: width="500" height="305"}
   - team: _teams/s30-white.md
-    record: 6-3
+    record: 7-2
     text: >-
       Now on the other end, we have White who finished with a strong 7-2 record.
       My question here is….how? White is 5th lowest in total points per game
@@ -436,9 +436,6 @@ rankings:
       they met, Seafoam only pulled out the win by 5 points. With the playoff
       pressure to come, this could come down to the wire and I am placing
       Seafoam on upset alert.
-
-
-      &nbsp;
 
 
       Atomic’s Keys to success:
