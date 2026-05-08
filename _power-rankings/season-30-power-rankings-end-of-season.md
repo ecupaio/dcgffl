@@ -66,7 +66,7 @@ rankings:
       happening, anything could!
 
 
-      Seamfoam’s KEYs to success:
+      Seafoam’s KEYs to success:
 
 
       * Utilize depth and play loose ;)
@@ -77,7 +77,7 @@ rankings:
       vacation this week
 
 
-      Seamfoam’s Final Four celebration: Call their mothers and lock tf back IN.
+      Seafoam’s Final Four celebration: Call their mothers and lock tf back IN.
 
 
       ![](/img/giphy-33.gif){: width="480" height="480"}
