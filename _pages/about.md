@@ -25,7 +25,6 @@ locations:
   items:
     - _locations/carter-baron.md
     - _locations/brentwood.md
-    - _locations/randall-field.md
 faq:
   title: Frequently Asked Questions
   items:
