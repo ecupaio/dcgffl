@@ -91,3 +91,19 @@ DCGFFL will encourage and support involvement in flag football games and tournam
 It is a fundamental principle of the DCGFFL that all activities, social and athletic, are conducted to be inclusive in nature.
 
 No individual shall be excluded from participating in any of the League’s activities on the basis of sexual orientation, gender, race, religion, nationality, ethnic origin, political beliefs, athletic ability, physical challenge, HIV status, or gender identity.
+
+### Code of Conduct
+
+The DCGFFL seeks to foster a safe, positive environment both on and off the field that encourages athletic competition, camaraderie, and community for its participants. It is a fundamental principle of the DCGFFL that all activities, social and athletic, are inclusive in nature.
+
+No individual shall be excluded from participating in any of the League’s activities on the basis of sexual orientation, gender, race, religion, nationality, ethnic origin, political beliefs, athletic ability, physical challenge, HIV status, or gender identity.
+
+As a participant in DCGFFL competitive and social events, you must agree to:
+
+\-Compete with integrity and a sense of fair play <br />\-Treat teammates, opponents, officials, and spectators with respect <br />\-Accept officials’ decisions and the outcomes of games with grace
+
+### Player Safety
+
+Player safety is a top priority for the DCGFFL. We have implemented rules and policies to protect players while fostering healthy competition. Click [here](/rules/ "DCGFFL Rules") for our rules, and click [here](/concussion-policy/) the DCGFFL concussion policy.
+
+&nbsp;

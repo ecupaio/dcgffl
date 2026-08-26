@@ -41,16 +41,16 @@ The Travel Program is managed by the Travel Management Committee (TMC) with over
 
 The 2025 Travel Committee is represented by the captains:
 
-* Women’s+ Division A - Senators - Joey Cox
+* Women’s+ Division B - Chaos -
 * Women’s+ Division B - Valkyries - Jillian Joyce
 * Women’s+ Division C - Sirens - Tiff Yim
 * Open Division A - Elite - Jordan Anderson
 * Open Division A - Admirals - Alonzo M.
-* Open Division B - Commanders - Trey Phillips
+* Open Division B - Commanders - Matt Hamblin
 * Open Division C - Delta Force -  Jorge Membreño
-* Open Division C/D - DC Freaky Boyz - Michael Zgoda
+* Open Division C/D - DC Freaky Boyz - TJ Baggett
 
-TMC Chair: Vincent Culliver<br>DCGFFL Board liaison: Brian Hotchkiss
+TMC Chair: Vincent Culliver<br />DCGFFL Board liaison: Aaron Beck
 
 Any questions on the travel program can be directed to the TMC at [DCGFFLTravel@gmail.com](mailto:DCGFFLTravel@gmail.com)
 
