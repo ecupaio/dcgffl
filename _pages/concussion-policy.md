@@ -10,7 +10,7 @@ layout: basic-page
 
 ### **Observed by Captains or Game Officials**
 
-This may include any noticeable changes in a player's demeanor or responsiveness, indicating a potential injury.
+This may include any noticeable changes in a player’s demeanor or responsiveness, indicating a potential injury.
 
 * **Dazed or Stunned**\- The athlete may appear disoriented, as if in a daze, and may not respond appropriately to questions or commands.
 * **Confused About Assignments or Plays**\- The individual struggles to recall their role during the game, often appearing puzzled about which position to take or what play is being executed.

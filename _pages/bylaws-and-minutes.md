@@ -12,4 +12,4 @@ layout: basic-page
 
 ### Minutes
 
-* [**DCGFFL Board Minutes**](https://drive.google.com/drive/folders/19_WWGs4NwDX1sXZ9cGqRX4_-UVAyq5JP?usp=sharing "DCGFFL Board Minutes")
+* [**DCGFFL Board Minutes**](https://drive.google.com/drive/folders/10F3P9UZQC4-XbPBa3gfjxf_Gtpb1DUft?usp=drive_link "DCGFFL Board Minutes")
