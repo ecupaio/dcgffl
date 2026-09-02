@@ -95,8 +95,7 @@ nav-button:
 logo: /img/dcgffl-logo.png
 social:
   - title: Email
-    link: >-
-      https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
+    link: https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
     icon: <i class="fa fa-envelope"></i>
   - title: Instagram
     link: https://www.instagram.com/dcgffl/
@@ -114,8 +113,9 @@ footer:
     link: /past-seasons/
 email_signup:
   text: Sign up for our email list
-  link: >-
-    https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
+  link: https://dcgffl.us16.list-manage.com/subscribe?u=44f118b44c71d10ae3076bec3&id=110054a516
 announcement:
-  text: Fall 2026 Season Kicks Off Sept. 13
+  text: Find the Fall 2026 Season Schedule
+    [Here](https://drive.google.com/file/d/1fkIQE7Keyq9TSkyct3AWtxT-OMNV1PZa/view?usp=sharing
+    "Season 31 Schedule")!
   show: true
