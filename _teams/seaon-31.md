@@ -1,13 +1,13 @@
 ---
 _schema: default
 title: Seaon 31
-permalink:
+permalink: /teams/S31Yellow
 name: Yellow Bricked Hoes
 color: Canary Yellow
-season:
+season: '31'
 photo:
-captain: ''
-quarterback: ''
+captain: 'Paul Whitney '
+quarterback: 'James Eaton '
 members: []
-division: ''
+division: Commanders
 ---
