@@ -6,8 +6,8 @@ name: Yellow Bricked Hoes
 color: Canary Yellow
 season: 31
 photo:
-captain: 'Paul Whitney '
-quarterback: James Eaton
+captain: Paul W
+quarterback: James E
 members:
   - Antonio L
   - Charles H
