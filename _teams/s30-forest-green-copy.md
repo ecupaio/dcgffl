@@ -5,7 +5,7 @@ permalink: /teams/s31-Canary-Yellow
 name: Yellow Bricked Hoes
 color: Canary Yellow
 season: 31
-photo: /_teams/s30-forest.jpg
+photo:
 captain: 'Paul Whitney '
 quarterback: James Eaton
 members:
