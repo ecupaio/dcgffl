@@ -2,7 +2,7 @@
 _schema: default
 title: S31- Cardinal
 permalink: /teams/s31-cardinal/
-name: Cardinal Red
+name: Sexxy Reds
 color: Cardinal
 season: 31
 photo:
