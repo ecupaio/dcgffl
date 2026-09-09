@@ -2,7 +2,7 @@
 _schema: default
 title: S31 - White
 permalink: /teams/s31-white
-name: White
+name: Hole Milk
 color: White
 season: 31
 photo:
