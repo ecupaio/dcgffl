@@ -35,17 +35,19 @@ nav:
       - title: About
         link: /about/
       - title: Board
-        link: board
+        link: /board/
       - title: Bylaws and Minutes
-        link: bylaws
+        link: /bylaws/
       - title: Rules and Policies
-        link: rules
+        link: /rules/
       - title: Awards
-        link: awards
+        link: /awards/
   - title: Open Division
     link: '#'
     sublinks:
       - title: Home
+        link: /league/
+      - title: Teams
         link: /league/
       - title: Scoreboard
         link: /score-board/
@@ -66,6 +68,8 @@ nav:
         link: /womensplus-league/schedule/
       - title: Playoffs
         link: /womensplus-playoffs/
+      - title: Teams
+        link: /womensplus-league/
       - title: Power Rankings
         link: /womensplus-power-rankings/
   - title: Recreation Division
