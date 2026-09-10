@@ -5,7 +5,7 @@ permalink: /teams/s31-silver
 name: Chrome Dome
 color: Silver
 season: 31
-photo:
+photo: /img/s31-silver.jpg
 captain: Alonzo M
 quarterback: Ben H
 members:

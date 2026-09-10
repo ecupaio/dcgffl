@@ -5,7 +5,7 @@ permalink: /teams/s31-neon-pink
 name: PrEPpa Pigs
 color: Neon Pink
 season: 31
-photo:
+photo: /img/s31-pink.jpg
 captain: Derrick J
 quarterback: Zach M
 members:

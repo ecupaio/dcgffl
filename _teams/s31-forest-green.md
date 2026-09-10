@@ -5,7 +5,7 @@ permalink: /teams/s31-forest-green
 name: Tree Tops
 color: Forest Green
 season: 31
-photo:
+photo: /img/s31-forest.jpg
 captain: Jens P
 quarterback: Chad M
 members:

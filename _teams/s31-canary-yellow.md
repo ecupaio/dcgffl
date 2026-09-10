@@ -5,7 +5,7 @@ permalink: /teams/s31-canary-yellow
 name: Yellow Bricked Hoes
 color: Canary Yellow
 season: 31
-photo:
+photo: /img/s31-yellow.jpg
 captain: Paul W
 quarterback: James E
 members:

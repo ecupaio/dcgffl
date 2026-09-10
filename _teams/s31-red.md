@@ -5,7 +5,7 @@ permalink: /teams/s31-true-red
 name: Little Red Riding Good
 color: Red
 season: 31
-photo:
+photo: /img/s31-red.jpg
 captain: Alex D
 quarterback: Wyatt E
 members:

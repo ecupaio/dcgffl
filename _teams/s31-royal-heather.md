@@ -5,7 +5,7 @@ permalink: /teams/s31-royal-heather/
 name: Birds of a Heather
 color: Royal Heather
 season: 31
-photo:
+photo: /img/s31-royal.jpg
 captain: Shaq B
 quarterback: Andrew A
 members:

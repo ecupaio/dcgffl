@@ -5,7 +5,7 @@ permalink: /teams/s31-purple
 name: Purple Nurples
 color: Purple
 season: 31
-photo:
+photo: /img/s31-purple.jpg
 captain: Andrew G
 quarterback: AJ R
 members:

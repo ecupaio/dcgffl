@@ -5,7 +5,7 @@ permalink: /teams/s31-deep-orange
 name: Pumphim Spice
 color: Deep Orange
 season: 31
-photo:
+photo: /img/s31-orange.jpg
 captain: Michael B
 quarterback: Luie C
 members:

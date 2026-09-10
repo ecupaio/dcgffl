@@ -5,7 +5,7 @@ permalink: /teams/s31-black
 name: Black That Ass Up
 color: Black
 season: 31
-photo:
+photo: /img/s31-black.jpg
 captain: Brandon M
 quarterback: Jonathan D
 members:

@@ -5,7 +5,7 @@ permalink: /teams/s31-white
 name: Hole Milk
 color: White
 season: 31
-photo:
+photo: /img/s31-white.jpg
 captain: Juan V
 quarterback: Cam M
 members:

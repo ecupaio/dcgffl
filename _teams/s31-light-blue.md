@@ -5,7 +5,7 @@ permalink: /teams/s31-light-blue
 name: Bluety-licious
 color: Light Blue
 season: 31
-photo:
+photo: /img/s31-light.jpg
 captain: Jamal L
 quarterback: Jim C
 members:

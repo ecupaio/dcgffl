@@ -5,7 +5,7 @@ permalink: /teams/s31-kelly-green
 name: Irish Goodbyes
 color: Kelly Green
 season: 31
-photo:
+photo: /img/s31-kelly.jpg
 captain: Matt H
 quarterback: John C
 members:

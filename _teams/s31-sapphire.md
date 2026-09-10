@@ -5,7 +5,7 @@ permalink: /teams/s31-sapphire/
 name: HOcean's 13
 color: Sapphire
 season: 31
-photo:
+photo: /img/s31-sapphire.jpg
 captain: Trey P
 quarterback: Curtis S
 members:

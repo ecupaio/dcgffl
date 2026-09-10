@@ -5,7 +5,7 @@ permalink: /teams/s31-seafoam/
 name: Foamosexual Agenda
 color: Seafoam
 season: 31
-photo:
+photo: /img/s31-seafoam.jpg
 captain: Brandon W
 quarterback: Connor T
 members:

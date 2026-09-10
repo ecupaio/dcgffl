@@ -5,7 +5,7 @@ permalink: /teams/s31-cardinal/
 name: Sexxy Reds
 color: Cardinal
 season: 31
-photo:
+photo: /img/s31-cardinal.jpg
 captain: JC A
 quarterback: Austin P
 members:

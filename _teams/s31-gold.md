@@ -5,7 +5,7 @@ permalink: /teams/s31-gold
 name: Golden Receivers
 color: Gold
 season: 31
-photo:
+photo: /img/s31-gold.jpg
 captain: Andrew H
 quarterback: Chris D
 members:
