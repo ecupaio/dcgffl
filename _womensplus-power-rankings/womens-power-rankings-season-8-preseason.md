@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: "Women's+ Season 3 Power Rankings: Preseason"
+title: "Women's+ Season 8 Power Rankings: Preseason"
 permalink: /power-rankings/womensplus-season-8-preseason/
 date: 2026-09-10T16:15:12-04:00
 author: 'The F[L]AG FOUR 💄🦖🧑🏾‍⚖️💸  The rosters are set, “The Board” has
