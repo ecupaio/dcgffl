@@ -7,7 +7,7 @@ teams-score:
   - team: _teams/s31-cardinal.md
     score:
 location: _locations/carter-baron.md
-field: '3'
+field: 3 GOTW
 date: 2026-09-13T10:45:00-04:00
 season: 31
 week: 1
