@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-orange/
 name: Orange Crush
 color: Orange
 season: 8
-photo:
+photo: /img/s8-orange.jpg
 captain: Tiff
 quarterback: Lynch
 members:

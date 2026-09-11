@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-purple/
 name: Purple Strapbacks
 color: Purple
 season: 8
-photo:
+photo: /img/s8-purple.jpg
 captain: Judy
 quarterback: Kat
 members:

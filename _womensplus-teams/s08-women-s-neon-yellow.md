@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-neon-yellow/
 name: OSHA's 11
 color: Neon Yellow
 season: 8
-photo:
+photo: /img/s8-yellow.jpg
 captain: Lefler
 quarterback: Maya
 members:

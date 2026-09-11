@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-seafoam/
 name: Foam Depot
 color: Seafoam
 season: 8
-photo:
+photo: /img/s8seafoam.jpg
 captain: Em
 quarterback: Des
 members:

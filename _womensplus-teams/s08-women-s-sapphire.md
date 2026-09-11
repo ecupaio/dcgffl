@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-sapphire/
 name: Sapphic Snatchers
 color: Sapphire
 season: 8
-photo:
+photo: /img/s8-sapphire.jpg
 captain: Sophie
 quarterback: Metz
 members:

@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-red/
 name: Drop Red Gorgeous
 color: Red
 season: 8
-photo:
+photo: /img/s8-red.jpg
 captain: Mal
 quarterback: Court H
 members:

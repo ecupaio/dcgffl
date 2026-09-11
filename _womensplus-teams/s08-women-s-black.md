@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-black/
 name: Midnight Snatch
 color: Black
 season: 8
-photo:
+photo: /img/s8-black.jpg
 captain: Katie
 quarterback: Shayne
 members:

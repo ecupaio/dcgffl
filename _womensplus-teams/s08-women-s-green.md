@@ -5,7 +5,7 @@ permalink: /teams/s08-womens-green/
 name: Full Bush
 color: Green
 season: 8
-photo:
+photo: /img/s8-green.jpg
 captain: Austyn
 quarterback: Meg
 members:
