@@ -3,9 +3,9 @@ _schema: default
 title: S31 Week 1 Silver vs Royal
 teams-score:
   - team: _teams/s31-silver.md
-    score:
+    score: 26
   - team: _teams/s31-royal-heather.md
-    score:
+    score: 34
 location: _locations/carter-baron.md
 field: '1'
 date: 2026-09-13T12:30:00-04:00
