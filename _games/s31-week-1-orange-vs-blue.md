@@ -11,7 +11,7 @@ field: '5'
 date: 2026-09-13T10:45:00-04:00
 season: 31
 week: 1
-mvp:
-game-ball:
-sportsperson:
+mvp: Luis C & Levert J
+game-ball: 'Hunter R & Jim R '
+sportsperson: Reed B & Fernando H
 ---

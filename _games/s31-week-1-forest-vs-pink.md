@@ -11,7 +11,7 @@ field: '2'
 date: 2026-09-13T10:45:00-04:00
 season: 31
 week: 1
-mvp:
-game-ball:
-sportsperson:
+mvp: Chad M & DJ J
+game-ball: Ahmed E & Drew C
+sportsperson: Sam B & Zach M
 ---

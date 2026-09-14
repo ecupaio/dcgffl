@@ -11,7 +11,7 @@ field: '2'
 date: 2026-09-13T12:30:00-04:00
 season: 31
 week: 1
-mvp:
-game-ball:
-sportsperson:
+mvp: John C & James E
+game-ball: Adam T & Sean R
+sportsperson: Naibin C & JP H
 ---

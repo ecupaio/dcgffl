@@ -11,7 +11,7 @@ field: 3 GOTW
 date: 2026-09-13T10:45:00-04:00
 season: 31
 week: 1
-mvp:
-game-ball:
-sportsperson:
+mvp: Carnell B & JC A
+game-ball: Ben W & Ravaughn P
+sportsperson: Will W & Austin P
 ---

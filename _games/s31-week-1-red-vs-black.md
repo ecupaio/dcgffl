@@ -11,7 +11,7 @@ field: '5'
 date: 2026-09-13T12:30:00-04:00
 season: 31
 week: 1
-mvp:
-game-ball:
-sportsperson:
+mvp: Matt R & Josh E
+game-ball: Elijah M & Quinn M
+sportsperson: Brian G & Josh E
 ---
