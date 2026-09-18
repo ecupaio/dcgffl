@@ -166,7 +166,7 @@ rankings:
       expect the usual above 500 win ratio for the bald babes.
 
 
-      &nbsp;
+      &nbsp;![](/img/giphy-60.gif)
   - team: _teams/s31-deep-orange.md
     record: 0-1
     text: >-
