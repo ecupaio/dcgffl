@@ -104,10 +104,7 @@ rankings:
       public wants to know!
 
 
-      ![](/img/image-8.png)
-
-
-      &nbsp;
+      &nbsp;![](/img/cory-wharton-meme.gif)
   - team: _teams/s31-seafoam.md
     record: 1-0
     text: >-
@@ -121,7 +118,10 @@ rankings:
       if they only stay token opposition.
 
 
-      ![](/img/image-9.png)
+      &nbsp;
+
+
+      ![](/img/i-feel-younger-robert-reeves.gif)
   - team: _teams/s31-cardinal.md
     record: 0-1
     text: >-
@@ -140,7 +140,7 @@ rankings:
       wouldn’t sleep on (or with) this team just yet.
 
 
-      &nbsp;![](/img/image-10.png)
+      &nbsp;![](/img/giphy-55.gif)
   - team: _teams/s31-canary-yellow.md
     record: 0-1
     text: >-
@@ -153,7 +153,7 @@ rankings:
       roster.
 
 
-      &nbsp;![](/img/image-11.png)
+      &nbsp;![](/img/shoes-dorothy-1.gif)
   - team: _teams/s31-silver.md
     record: 0-1
     text: >-
@@ -166,7 +166,7 @@ rankings:
       expect the usual above 500 win ratio for the bald babes.
 
 
-      &nbsp;![](/img/image-12.png)
+      &nbsp;
   - team: _teams/s31-deep-orange.md
     record: 0-1
     text: >-
@@ -182,7 +182,7 @@ rankings:
       spice, it’s just still in the rack.
 
 
-      &nbsp;![](/img/image-13.png)
+      &nbsp;![](/img/giphy-57.gif)
   - team: _teams/s31-sapphire.md
     record: 0-1
     text: >-
@@ -194,7 +194,7 @@ rankings:
       by being attracted to other men. Welcome!
 
 
-      &nbsp;![](/img/image-14.png)
+      &nbsp;![](/img/gay-lesbian.gif)
   - team: _teams/s31-black.md
     record: 0-1
     text: >-
@@ -206,7 +206,7 @@ rankings:
       when to run down the clock.
 
 
-      &nbsp;![](/img/image-15.png)
+      &nbsp;![](/img/giphy-58.gif)
   - team: _teams/s31-gold.md
     record: 0-1
     text: >-
@@ -219,11 +219,11 @@ rankings:
       is still out on whether it will be enough.
 
 
-      &nbsp;![](/img/image-16.png)
+      &nbsp;![](/img/spongebob-upside-down-1.gif)
   - team: _teams/s31-neon-pink.md
     record: 0-1
     text: |-
       In a word from a team member, “Crickets…”
 
-      &nbsp;![](/img/image-17.png)
+      &nbsp;![](/img/giphy-59.gif)
 ---
