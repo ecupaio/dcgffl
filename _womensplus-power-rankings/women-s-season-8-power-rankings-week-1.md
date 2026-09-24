@@ -2,7 +2,7 @@
 _schema: default
 title: "Women's+ Season 8 Power Rankings: Week 1"
 permalink: /power-rankings/womensplus-season-8-Week-1/
-date: 2026-09-17T13:13:17-04:00
+date: 2026-09-17T13:13:00-04:00
 author: 'The F[L]AG FOUR 💄🦖🧑🏾‍⚖️💸 ●  Welcome to Week 2, where apparently 13
   is the magic number. Three of four games ended with a team sitting on 13, and
   our resident Swiftie would like everyone to know she has chosen not to ignore
