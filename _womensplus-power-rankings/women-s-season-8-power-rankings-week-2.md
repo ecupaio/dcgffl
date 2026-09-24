@@ -3,7 +3,12 @@ _schema: default
 title: "Women's+ Season 8 Power Rankings: Week 2"
 permalink: /power-rankings/womensplus-season-8-Week-2/
 date: 2026-09-24T17:07:42-04:00
-author: 'By: The F[L]AG FOUR 💄🦖🧑🏾‍⚖️💸 (ft. Connie Lingus 👅)'
+author: 'The F[L]AG FOUR 💄🦖🧑🏾‍⚖️💸 (ft. Connie Lingus 👅) ● Two weeks in and
+  things are already getting “turbulent.” And since Week 2 gave us everything
+  we’ve come to expect from air travel — missed connections, unexpected
+  upgrades, one very loud passenger and, of course, a flight that never left the
+  gate — the theme for this week’s rankings practically picked itself. So buckle
+  up and welcome to the (not so) friendly skies. '
 season: 8
 week: 2
 rankings:
