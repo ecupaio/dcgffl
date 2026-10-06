@@ -4,14 +4,14 @@ title: S08 Week 4 red v black
 week: 4
 season: 8
 date: 2026-10-04T10:45:00-04:00
-mvp:
-game-ball:
-sportsperson:
+mvp: 'Merrill & Kathleen '
+game-ball: Emily E & Erica S
+sportsperson: 'Nik & Lina '
 teams-score:
   - team: _womensplus-teams/s08-women-s-red.md
-    score:
+    score: 12
   - team: _womensplus-teams/s08-women-s-black.md
-    score:
+    score: 30
 location: _locations/carter-baron.md
 field: '2'
 ---

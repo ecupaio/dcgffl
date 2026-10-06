@@ -4,14 +4,14 @@ title: S08 Week 4 sapphire v yellow
 week: 4
 season: 8
 date: 2026-10-04T12:30:00-04:00
-mvp:
-game-ball:
-sportsperson:
+mvp: 'Tori T & Maya L '
+game-ball: 'Ericka N & Samantha L '
+sportsperson: Sam B & Daly
 teams-score:
   - team: _womensplus-teams/s08-women-s-sapphire.md
-    score:
+    score: 26
   - team: _womensplus-teams/s08-women-s-neon-yellow.md
-    score:
+    score: 0
 location: _locations/carter-baron.md
 field: '3'
 ---
