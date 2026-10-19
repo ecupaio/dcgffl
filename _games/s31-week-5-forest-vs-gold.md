@@ -13,5 +13,5 @@ season: 31
 week: 5
 mvp: 'Ryan W & Taylor L  '
 game-ball: Branden S & James J
-sportsperson: Jens P & Darren
+sportsperson: Jens P & Darren B
 ---
