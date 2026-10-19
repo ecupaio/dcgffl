@@ -3,9 +3,9 @@ _schema: default
 title: S31 Week 5 kelly vs cardinal
 teams-score:
   - team: _teams/s31-kelly-green.md
-    score:
+    score: 13
   - team: _teams/s31-cardinal.md
-    score:
+    score: 26
 location: _locations/carter-baron.md
 field: '2'
 date: 2026-10-18T10:45:00-04:00
