@@ -9,9 +9,9 @@ game-ball:
 sportsperson:
 teams-score:
   - team: _womensplus-teams/s08-women-s-sapphire.md
-    score:
+    score: 19
   - team: _womensplus-teams/s08-women-s-seafoam.md
-    score:
+    score: 12
 location: _locations/carter-baron.md
 field: '5'
 ---

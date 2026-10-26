@@ -4,14 +4,14 @@ title: S08 Week 6 red v purple
 week: 6
 season: 8
 date: 2026-10-25T13:30:00-04:00
-mvp:
-game-ball:
-sportsperson:
+mvp: 'Bre & Liz '
+game-ball: Court & Des
+sportsperson: 'Merrill & Kelly '
 teams-score:
   - team: _womensplus-teams/s08-women-s-red.md
-    score:
+    score: 20
   - team: _womensplus-teams/s08-women-s-purple.md
-    score:
+    score: 12
 location: _locations/carter-baron.md
 field: '1'
 ---

@@ -11,7 +11,7 @@ field: '2'
 date: 2026-10-18T10:45:00-04:00
 season: 31
 week: 5
-mvp:
-game-ball:
-sportsperson:
+mvp: Bradley W & Austin P
+game-ball: Graham W & Adam T
+sportsperson: Charlie B & Naibin C
 ---

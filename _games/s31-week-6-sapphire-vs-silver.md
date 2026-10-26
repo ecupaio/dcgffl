@@ -3,15 +3,15 @@ _schema: default
 title: S31 Week 6 sapphire vs silver
 teams-score:
   - team: _teams/s31-sapphire.md
-    score:
+    score: 21
   - team: _teams/s31-silver.md
-    score:
+    score: 51
 location: _locations/carter-baron.md
 field: 2 GOTW
 date: 2026-10-25T10:00:00-04:00
 season: 31
 week: 6
-mvp:
-game-ball:
-sportsperson:
+mvp: Dan K & Liam F
+game-ball: Alex F & TJ C
+sportsperson: Stephen S & Andy P
 ---
