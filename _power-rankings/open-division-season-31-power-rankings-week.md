@@ -23,7 +23,7 @@ rankings:
       is this team so deep that they don’t need a full roster? We here at the
       committee remain skeptical as their aging joints give out and star players
       flee to the woods. But if they hold out long enough, they just might be
-      the last one standing by the end of the season.
+      the last one standing by the end of the season!
 
 
       ![](/img/giphy-45-2.gif)
