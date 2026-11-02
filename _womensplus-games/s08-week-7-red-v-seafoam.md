@@ -4,14 +4,14 @@ title: S08 Week 7 red v seafoam
 week: 7
 season: 8
 date: 2026-11-01T10:00:00-05:00
-mvp:
-game-ball:
-sportsperson:
+mvp: 'Kim GC & Liv '
+game-ball: Sonali & Des
+sportsperson: Bre & Catherine
 teams-score:
   - team: _womensplus-teams/s08-women-s-red.md
-    score:
+    score: 38
   - team: _womensplus-teams/s08-women-s-seafoam.md
-    score:
+    score: 0
 location: _locations/carter-baron.md
 field: '3'
 ---

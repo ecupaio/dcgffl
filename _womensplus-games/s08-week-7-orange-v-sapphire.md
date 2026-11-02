@@ -4,14 +4,14 @@ title: S08 Week 7 orange v sapphire
 week: 7
 season: 8
 date: 2026-11-01T11:45:00-05:00
-mvp:
-game-ball:
-sportsperson:
+mvp: 'Taylor H & Erica '
+game-ball: 'Cassie & Sam '
+sportsperson: 'Julia H & Linda '
 teams-score:
   - team: _womensplus-teams/s08-women-s-orange.md
-    score:
+    score: 23
   - team: _womensplus-teams/s08-women-s-sapphire.md
-    score:
+    score: 20
 location: _locations/carter-baron.md
 field: '2'
 ---
