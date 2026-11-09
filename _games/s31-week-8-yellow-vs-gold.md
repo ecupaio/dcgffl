@@ -3,15 +3,15 @@ _schema: default
 title: S31 Week 8 yellow vs gold
 teams-score:
   - team: _teams/s31-canary-yellow.md
-    score:
+    score: 27
   - team: _teams/s31-gold.md
-    score:
+    score: 18
 location: _locations/carter-baron.md
 field: '2'
 date: 2026-11-08T10:45:00-05:00
 season: 31
 week: 8
-mvp:
-game-ball:
-sportsperson:
+mvp: James F & Joey H
+game-ball: Steph M & Brandon A
+sportsperson: James E & Ian M
 ---

@@ -4,14 +4,14 @@ title: 'S08 Week 8 green v orange '
 week: 8
 season: 8
 date: 2026-11-08T12:30:00-05:00
-mvp:
-game-ball:
-sportsperson:
+mvp: 'Ash & Casey '
+game-ball: 'Sophia & Taylor '
+sportsperson: 'Marie & Iris '
 teams-score:
   - team: _womensplus-teams/s08-women-s-green.md
-    score:
+    score: 20
   - team: _womensplus-teams/s08-women-s-orange.md
-    score:
+    score: 12
 location: _locations/carter-baron.md
 field: '2'
 ---
